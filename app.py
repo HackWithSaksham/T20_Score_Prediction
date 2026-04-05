@@ -2,13 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 
-MODEL_PATH = "model.pkl" 
-URL = "https://github.com/HackWithSaksham/T20_Score_Prediction/releases/download/v1.0/model.pkl" 
-if not os.path.exists(MODEL_PATH): 
-    print("Downloading model...") 
-    urllib.request.urlretrieve(URL, MODEL_PATH) # Load model model = load_model(MODEL_PATH)
-
-model=load_model(MODEL_PATH)
+model=load_model(model.pkl)
 
 st.title("🏏 T20 World Cup Score Predictor")
 

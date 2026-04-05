@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 
-model=load_model(model.pkl)
+pipe = pickle.load(open("model.pkl","rb"))
 
 st.title("🏏 T20 World Cup Score Predictor")
 

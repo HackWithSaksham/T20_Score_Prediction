@@ -21,7 +21,7 @@
 
 🚀 Try the deployed application here:
 
-🔗 **Live App:** [https://your-streamlit-app-link.streamlit.app](https://t20-score-prediction-1-tu2k.onrender.com/)
+🔗 **Live App:** https://t20-score-prediction-1-tu2k.onrender.com/
 
 Experience the model in action by entering match conditions and getting **real-time T20 match predictions**.
 

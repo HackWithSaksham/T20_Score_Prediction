@@ -16,6 +16,17 @@
 
 ---
 
+
+## 🌐 Live Demo
+
+🚀 Try the deployed application here:
+
+🔗 **Live App:** [https://your-streamlit-app-link.streamlit.app](https://t20-score-prediction-1-tu2k.onrender.com/)
+
+Experience the model in action by entering match conditions and getting **real-time T20 match predictions**.
+
+---
+
 ## 🪄 About the Project
 
 **T20 World Cup Match Prediction** is a machine learning project that predicts the **probability of a team winning a cricket match** during a T20 game.

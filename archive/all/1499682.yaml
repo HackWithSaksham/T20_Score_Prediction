@@ -1,0 +1,2080 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Women's Super Smash
+  dates:
+  - '2026-01-19'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 30
+  overs: 20
+  players:
+    Wellington:
+    - GE Plimmer
+    - RM Burns
+    - HC Francis
+    - JM Kerr
+    - XA Jetly
+    - JT McFadyen
+    - S Mackinder
+    - JA Simmons
+    - INC McKenzie
+    - N Baird
+    - RJ Bryant
+    Canterbury:
+    - KG Anderson
+    - NE Stalenberg
+    - IG Sharp
+    - J Dean
+    - KP Irwin
+    - AG Gerken
+    - LMM Tahuhu
+    - LG Smith
+    - MJ Banks
+    - SR Asmussen
+    - SG Cornelius
+  registry:
+    people:
+      AG Gerken: a7fcf627
+      C High: ed55e0da
+      CR Pryor: 8d705d48
+      GE Plimmer: 575494db
+      HC Francis: d767e864
+      IG Sharp: 4de0779a
+      INC McKenzie: a36d1129
+      J Dean: 2e018b14
+      JA Simmons: 33360da1
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      K Pulley: 644bf4ad
+      KG Anderson: ae79a86f
+      KP Irwin: bd3ab0c3
+      Kim Cotton: 67a7c2ee
+      LG Smith: 9c515112
+      LMM Tahuhu: '60471339'
+      MJ Banks: 1e17a238
+      N Baird: c0380823
+      N Louw: 465c4770
+      NE Stalenberg: 609c519e
+      RJ Bryant: 381c4931
+      RM Burns: 94fe4708
+      S Mackinder: f66a657d
+      SG Cornelius: a19cc592
+      SR Asmussen: '31972229'
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Canterbury
+  toss:
+    winner: Canterbury
+    decision: field
+  umpires:
+  - C High
+  - Kim Cotton
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RM Burns
+        batsman: GE Plimmer
+    - 0.2:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 0.3:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 0.4:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RM Burns
+    - 0.5:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 0.6:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 0.7:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 1.1:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          kind: bowled
+    - 1.2:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Francis
+    - 1.3:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Francis
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Francis
+    - 1.5:
+        non_striker: HC Francis
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 1.6:
+        non_striker: HC Francis
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 2.1:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Francis
+    - 2.2:
+        non_striker: HC Francis
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 2.3:
+        non_striker: HC Francis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 2.4:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Francis
+        wicket:
+          player_out: HC Francis
+          kind: bowled
+    - 2.5:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 2.6:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 2.7:
+        non_striker: GE Plimmer
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 3.1:
+        non_striker: JM Kerr
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 3.2:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 3.3:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 3.4:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 3.5:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Kerr
+    - 3.6:
+        non_striker: JM Kerr
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 4.1:
+        non_striker: GE Plimmer
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 4.2:
+        non_striker: JM Kerr
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.3:
+        non_striker: JM Kerr
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.4:
+        non_striker: JM Kerr
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 4.5:
+        non_striker: JM Kerr
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 4.6:
+        non_striker: GE Plimmer
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 5.1:
+        non_striker: JM Kerr
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: JM Kerr
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 5.3:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 5.4:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 5.5:
+        non_striker: GE Plimmer
+        bowler: SG Cornelius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Kerr
+    - 5.6:
+        non_striker: JM Kerr
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 6.1:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.2:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 6.3:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 6.4:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 6.5:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 6.6:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 7.1:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 7.2:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 7.3:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 7.4:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 7.5:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 7.6:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 7.7:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 8.1:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 8.2:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 8.3:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.4:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 8.5:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 8.6:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 8.7:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 9.1:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.2:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 9.3:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - IG Sharp
+          kind: caught
+    - 9.4:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 9.5:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 9.6:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.1:
+        non_striker: GE Plimmer
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 10.2:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.3:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 10.4:
+        non_striker: GE Plimmer
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 10.5:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 10.6:
+        non_striker: GE Plimmer
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 11.1:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - MJ Banks
+          kind: caught
+    - 11.2:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 11.3:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Jetly
+    - 11.4:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 11.5:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 11.6:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 12.1:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 12.2:
+        non_striker: JT McFadyen
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 12.3:
+        non_striker: JT McFadyen
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 12.4:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 12.5:
+        non_striker: XA Jetly
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 12.6:
+        non_striker: JT McFadyen
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 13.1:
+        non_striker: JT McFadyen
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 13.2:
+        non_striker: JT McFadyen
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 13.3:
+        non_striker: JT McFadyen
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 13.4:
+        non_striker: XA Jetly
+        bowler: SG Cornelius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT McFadyen
+    - 13.5:
+        non_striker: XA Jetly
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 13.6:
+        non_striker: JT McFadyen
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 13.7:
+        non_striker: JT McFadyen
+        bowler: SG Cornelius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 14.1:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 14.2:
+        non_striker: XA Jetly
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT McFadyen
+    - 14.3:
+        non_striker: XA Jetly
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 14.4:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Jetly
+    - 14.5:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 14.6:
+        non_striker: XA Jetly
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JT McFadyen
+    - 15.1:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT McFadyen
+    - 15.2:
+        non_striker: XA Jetly
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 15.3:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Jetly
+    - 15.4:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Jetly
+    - 15.5:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 15.6:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+    - 16.1:
+        non_striker: XA Jetly
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 16.2:
+        non_striker: XA Jetly
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 16.3:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XA Jetly
+    - 16.4:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+        wicket:
+          player_out: XA Jetly
+          fielders:
+          - AG Gerken
+          kind: caught
+    - 16.5:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mackinder
+    - 16.6:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mackinder
+    - 17.1:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mackinder
+        wicket:
+          player_out: S Mackinder
+          fielders:
+          - MJ Banks
+          kind: caught
+    - 17.2:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Simmons
+    - 17.3:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 17.4:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simmons
+    - 17.5:
+        non_striker: JA Simmons
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 17.6:
+        non_striker: JT McFadyen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Simmons
+        wicket:
+          player_out: JA Simmons
+          fielders:
+          - MJ Banks
+          kind: run out
+    - 18.1:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: INC McKenzie
+        batsman: JT McFadyen
+    - 18.2:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: INC McKenzie
+    - 18.3:
+        non_striker: INC McKenzie
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 18.4:
+        non_striker: INC McKenzie
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+        wicket:
+          player_out: JT McFadyen
+          fielders:
+          - IG Sharp
+          - AG Gerken
+          kind: run out
+    - 18.5:
+        non_striker: INC McKenzie
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Baird
+    - 18.6:
+        non_striker: N Baird
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: INC McKenzie
+    - 19.1:
+        non_striker: INC McKenzie
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Baird
+    - 19.2:
+        non_striker: N Baird
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: INC McKenzie
+        wicket:
+          player_out: N Baird
+          fielders:
+          - IG Sharp
+          - AG Gerken
+          kind: run out
+    - 19.3:
+        non_striker: INC McKenzie
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Bryant
+    - 19.4:
+        non_striker: INC McKenzie
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Bryant
+    - 19.5:
+        non_striker: RJ Bryant
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: INC McKenzie
+        wicket:
+          player_out: INC McKenzie
+          kind: bowled
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NE Stalenberg
+        batsman: KG Anderson
+    - 0.2:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NE Stalenberg
+        batsman: KG Anderson
+    - 0.3:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 0.4:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 0.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 0.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 1.1:
+        non_striker: NE Stalenberg
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 1.2:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 1.3:
+        non_striker: NE Stalenberg
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 1.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 1.6:
+        non_striker: NE Stalenberg
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 2.1:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 2.2:
+        non_striker: NE Stalenberg
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 2.3:
+        non_striker: NE Stalenberg
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 2.4:
+        non_striker: NE Stalenberg
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.5:
+        non_striker: NE Stalenberg
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.6:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 3.1:
+        non_striker: NE Stalenberg
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.2:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Stalenberg
+    - 3.3:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 3.4:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+        wicket:
+          player_out: NE Stalenberg
+          kind: bowled
+    - 3.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 3.6:
+        non_striker: IG Sharp
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.1:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          kind: bowled
+    - 4.2:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 4.3:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+        wicket:
+          player_out: J Dean
+          fielders:
+          - S Mackinder
+          kind: caught
+    - 4.4:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 4.5:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KP Irwin
+    - 4.6:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 5.1:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.2:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.3:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.4:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 5.5:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 6.1:
+        non_striker: KP Irwin
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 6.2:
+        non_striker: KP Irwin
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.3:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 6.4:
+        non_striker: KP Irwin
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 6.5:
+        non_striker: KP Irwin
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.6:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 7.1:
+        non_striker: KP Irwin
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.2:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 7.3:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 7.4:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 7.5:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KP Irwin
+    - 7.6:
+        non_striker: KP Irwin
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 8.1:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 8.2:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Irwin
+    - 8.3:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 8.4:
+        non_striker: KP Irwin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+        wicket:
+          player_out: KP Irwin
+          kind: bowled
+    - 8.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 9.1:
+        non_striker: AG Gerken
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 9.2:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 9.3:
+        non_striker: AG Gerken
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 9.4:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 9.5:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Gerken
+    - 9.6:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 10.1:
+        non_striker: AG Gerken
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 10.2:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 10.3:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 10.4:
+        non_striker: AG Gerken
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 10.5:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Gerken
+    - 10.6:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+        wicket:
+          player_out: AG Gerken
+          kind: bowled
+    - 11.1:
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LMM Tahuhu
+        batsman: KG Anderson
+    - 11.2:
+        bowler: HC Francis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: LMM Tahuhu
+        batsman: KG Anderson
+    - 11.3:
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LMM Tahuhu
+        batsman: KG Anderson
+    - 11.4:
+        non_striker: KG Anderson
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 11.5:
+        non_striker: KG Anderson
+        bowler: HC Francis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LMM Tahuhu
+    - 11.6:
+        non_striker: KG Anderson
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 11.7:
+        non_striker: LMM Tahuhu
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 11.8:
+        non_striker: KG Anderson
+        bowler: HC Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 12.1:
+        non_striker: LMM Tahuhu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 12.2:
+        non_striker: LMM Tahuhu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.3:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 12.4:
+        non_striker: LMM Tahuhu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.5:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 12.6:
+        non_striker: LMM Tahuhu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.1:
+        non_striker: LMM Tahuhu
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.2:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 13.3:
+        non_striker: LMM Tahuhu
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.4:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 13.5:
+        non_striker: LMM Tahuhu
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.6:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          kind: bowled
+    - 14.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LG Smith
+        batsman: KG Anderson
+    - 14.2:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 14.3:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 14.4:
+        non_striker: LG Smith
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 14.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 14.6:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 15.1:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 15.2:
+        non_striker: LG Smith
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 15.3:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Smith
+    - 15.4:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 15.5:
+        non_striker: LG Smith
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 15.6:
+        non_striker: KG Anderson
+        bowler: RJ Bryant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 16.1:
+        non_striker: KG Anderson
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 16.2:
+        non_striker: LG Smith
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - GE Plimmer
+          - JT McFadyen
+          kind: run out
+    - 16.3:
+        non_striker: LG Smith
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 16.4:
+        non_striker: MJ Banks
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Smith
+    - 16.5:
+        non_striker: MJ Banks
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 16.6:
+        non_striker: MJ Banks
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 17.1:
+        non_striker: MJ Banks
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 17.2:
+        non_striker: MJ Banks
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+        wicket:
+          player_out: LG Smith
+          kind: bowled
+    - 17.3:
+        non_striker: MJ Banks
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Asmussen
+    - 17.4:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 17.5:
+        non_striker: MJ Banks
+        bowler: JM Kerr
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SR Asmussen
+    - 17.6:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+        wicket:
+          player_out: MJ Banks
+          kind: bowled
+    - 17.7:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Cornelius
+        wicket:
+          player_out: SG Cornelius
+          fielders:
+          - JT McFadyen
+          kind: stumped

@@ -1,0 +1,2150 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nelson
+  competition: Super Smash
+  dates:
+  - '2025-01-04'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 11
+  overs: 20
+  players:
+    Wellington:
+    - TB Robinson
+    - TA Blundell
+    - NF Kelly
+    - TM Johnson
+    - MA Abbas
+    - JM Tashkoff
+    - LV van Beek
+    - NA Greenwood
+    - GR Severin
+    - PF Younghusband
+    - JW Hartshorn
+    Central Districts:
+    - JCT Boyle
+    - CG Heaphy
+    - D Cleaver
+    - TC Bruce
+    - JA Clarkson
+    - W Clark
+    - AR Schaw
+    - JFA Field
+    - JR Lennox
+    - BM Tickner
+    - BG Randell
+  registry:
+    people:
+      AR Schaw: 118e6f66
+      BG Randell: dbeb6733
+      BM Tickner: 48ad3373
+      C High: ed55e0da
+      CG Heaphy: fcbd6eb8
+      D Cleaver: e3a949be
+      GG Pennell: d9376677
+      GR Severin: b1549dc0
+      JA Clarkson: bed90114
+      JCT Boyle: f7b3d625
+      JFA Field: '0085a7ce'
+      JM Dempsey: 153c9f33
+      JM Tashkoff: afe7d695
+      JR Lennox: '07793daf'
+      JW Hartshorn: 9f395b45
+      LV van Beek: 782fb776
+      MA Abbas: c3576908
+      NA Greenwood: 7ca68967
+      NF Kelly: 97f437ed
+      PF Younghusband: 149d0c18
+      RE Hayward: 57689d0b
+      TA Blundell: 21e5f325
+      TB Robinson: 5d664346
+      TC Bruce: f92c9151
+      TM Johnson: 917f66da
+      W Clark: 4f78497c
+      WR Knights: 63cbf8d8
+  teams:
+  - Wellington
+  - Central Districts
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - GG Pennell
+  - JM Dempsey
+  venue: Saxton Oval, Nelson
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Blundell
+        batsman: TB Robinson
+    - 0.2:
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TA Blundell
+        batsman: TB Robinson
+    - 0.3:
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Blundell
+        batsman: TB Robinson
+    - 0.4:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          fielders:
+          - D Cleaver
+          kind: stumped
+    - 0.5:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 0.6:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.1:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 1.2:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 1.3:
+        non_striker: TB Robinson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 1.4:
+        non_striker: TB Robinson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 1.5:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 1.6:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 2.1:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.2:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 2.3:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 2.4:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 2.5:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 2.6:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 3.1:
+        non_striker: TB Robinson
+        bowler: JFA Field
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 3.2:
+        non_striker: TB Robinson
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 3.3:
+        non_striker: NF Kelly
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 3.4:
+        non_striker: NF Kelly
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 3.5:
+        non_striker: NF Kelly
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 3.6:
+        non_striker: NF Kelly
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 3.7:
+        non_striker: NF Kelly
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 4.1:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.2:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.3:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.4:
+        non_striker: TB Robinson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 4.5:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 4.6:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 5.1:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 5.2:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 5.3:
+        non_striker: TB Robinson
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 5.4:
+        non_striker: NF Kelly
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 5.5:
+        non_striker: NF Kelly
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 5.6:
+        non_striker: NF Kelly
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 6.1:
+        non_striker: TB Robinson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.2:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 6.3:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 6.4:
+        non_striker: TB Robinson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.5:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 6.6:
+        non_striker: TB Robinson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.1:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 7.2:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 7.3:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 7.4:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.5:
+        non_striker: NF Kelly
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 7.6:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 8.1:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 8.2:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 8.3:
+        non_striker: TM Johnson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 8.4:
+        non_striker: TM Johnson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 8.5:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 8.6:
+        non_striker: TM Johnson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 9.1:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 9.2:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 9.3:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 9.4:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 9.5:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 9.6:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 10.1:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 10.2:
+        non_striker: TM Johnson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 10.3:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+        wicket:
+          player_out: TM Johnson
+          fielders:
+          - JCT Boyle
+          kind: caught
+    - 10.4:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 10.5:
+        non_striker: MA Abbas
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 10.6:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 11.1:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 11.2:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 11.3:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 11.4:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 11.5:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 11.6:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 12.1:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 12.2:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 12.3:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 12.4:
+        non_striker: MA Abbas
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 12.5:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 12.6:
+        non_striker: TB Robinson
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 13.1:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+        wicket:
+          player_out: TB Robinson
+          fielders:
+          - JR Lennox
+          kind: caught
+    - 13.2:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 13.3:
+        non_striker: JM Tashkoff
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 13.4:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+    - 13.5:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 13.6:
+        non_striker: JM Tashkoff
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 14.1:
+        non_striker: MA Abbas
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 14.2:
+        non_striker: JM Tashkoff
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 14.3:
+        non_striker: MA Abbas
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 14.4:
+        non_striker: JM Tashkoff
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 14.5:
+        non_striker: JM Tashkoff
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 14.6:
+        non_striker: MA Abbas
+        bowler: W Clark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Tashkoff
+    - 15.1:
+        non_striker: JM Tashkoff
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 15.2:
+        non_striker: JM Tashkoff
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 15.3:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 15.4:
+        non_striker: JM Tashkoff
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 15.5:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Tashkoff
+    - 15.6:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 16.1:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 16.2:
+        non_striker: JM Tashkoff
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 16.3:
+        non_striker: JM Tashkoff
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 16.4:
+        non_striker: JM Tashkoff
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 16.5:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Tashkoff
+    - 16.6:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 17.1:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Tashkoff
+    - 17.2:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+        wicket:
+          player_out: JM Tashkoff
+          fielders:
+          - JR Lennox
+          kind: caught
+    - 17.3:
+        non_striker: MA Abbas
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 17.4:
+        non_striker: LV van Beek
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 17.5:
+        non_striker: LV van Beek
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 17.6:
+        non_striker: LV van Beek
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 18.1:
+        non_striker: LV van Beek
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 18.2:
+        non_striker: LV van Beek
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 18.3:
+        non_striker: MA Abbas
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.4:
+        non_striker: LV van Beek
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 18.5:
+        non_striker: MA Abbas
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LV van Beek
+    - 18.6:
+        non_striker: MA Abbas
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 19.1:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 19.2:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 19.3:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 19.4:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 19.5:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 19.6:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MA Abbas
+    - 19.7:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.2:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.3:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.4:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.5:
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.6:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CG Heaphy
+        batsman: JCT Boyle
+    - 0.7:
+        non_striker: CG Heaphy
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JCT Boyle
+    - 1.1:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Heaphy
+    - 1.2:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Heaphy
+        wicket:
+          player_out: CG Heaphy
+          fielders:
+          - TB Robinson
+          kind: caught
+    - 1.3:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - GR Severin
+          kind: caught
+    - 1.4:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 1.5:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 1.6:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 2.1:
+        non_striker: TC Bruce
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 2.2:
+        non_striker: JCT Boyle
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 2.3:
+        non_striker: TC Bruce
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 2.4:
+        non_striker: JCT Boyle
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 2.5:
+        non_striker: TC Bruce
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 2.6:
+        non_striker: TC Bruce
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JCT Boyle
+    - 3.1:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 3.2:
+        non_striker: TC Bruce
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 3.3:
+        non_striker: TC Bruce
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 3.4:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 3.5:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 3.6:
+        non_striker: TC Bruce
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JCT Boyle
+    - 4.1:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 4.2:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 4.3:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 4.4:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 4.5:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          kind: bowled
+    - 4.6:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 5.1:
+        non_striker: JA Clarkson
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 5.2:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Clarkson
+    - 5.3:
+        non_striker: JA Clarkson
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 5.4:
+        non_striker: JA Clarkson
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 5.5:
+        non_striker: JA Clarkson
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JCT Boyle
+    - 5.6:
+        non_striker: JA Clarkson
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 6.1:
+        non_striker: JCT Boyle
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 6.2:
+        non_striker: JA Clarkson
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JCT Boyle
+    - 6.3:
+        non_striker: JA Clarkson
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 6.4:
+        non_striker: JCT Boyle
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 6.5:
+        non_striker: JCT Boyle
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 6.6:
+        non_striker: JA Clarkson
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 7.1:
+        non_striker: JA Clarkson
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JCT Boyle
+    - 7.2:
+        non_striker: JA Clarkson
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 7.3:
+        non_striker: JA Clarkson
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 7.4:
+        non_striker: JCT Boyle
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 7.5:
+        non_striker: JCT Boyle
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 7.6:
+        non_striker: JCT Boyle
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 8.1:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JCT Boyle
+    - 8.2:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 8.3:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 8.4:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 8.5:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 8.6:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 9.1:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 9.2:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 9.3:
+        non_striker: JA Clarkson
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 9.4:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 9.5:
+        non_striker: JA Clarkson
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 9.6:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.1:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 10.2:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Clarkson
+    - 10.3:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 10.4:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 10.5:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 10.6:
+        non_striker: JCT Boyle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.1:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.2:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 11.3:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Clarkson
+    - 11.4:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.5:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          fielders:
+          - JW Hartshorn
+          kind: caught
+    - 11.6:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 11.7:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 12.1:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 12.2:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+    - 12.3:
+        non_striker: JCT Boyle
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 12.4:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JCT Boyle
+    - 12.5:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 12.6:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JCT Boyle
+    - 13.1:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 13.2:
+        non_striker: W Clark
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JCT Boyle
+    - 13.3:
+        non_striker: W Clark
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+    - 13.4:
+        non_striker: W Clark
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 13.5:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+    - 13.6:
+        non_striker: JCT Boyle
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 14.1:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 14.2:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JCT Boyle
+    - 14.3:
+        non_striker: JCT Boyle
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 14.4:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JCT Boyle
+    - 14.5:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JCT Boyle
+        wicket:
+          player_out: JCT Boyle
+          fielders:
+          - JM Tashkoff
+          kind: caught
+    - 14.6:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Schaw
+    - 15.1:
+        non_striker: W Clark
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Schaw
+    - 15.2:
+        non_striker: W Clark
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Schaw
+    - 15.3:
+        non_striker: AR Schaw
+        bowler: MA Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Clark
+    - 15.4:
+        non_striker: AR Schaw
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 15.5:
+        non_striker: W Clark
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Schaw
+    - 15.6:
+        non_striker: W Clark
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Schaw
+    - 15.7:
+        non_striker: W Clark
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Schaw
+    - 16.1:
+        non_striker: AR Schaw
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Clark
+    - 16.2:
+        non_striker: AR Schaw
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 16.3:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Schaw
+    - 16.4:
+        non_striker: AR Schaw
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 16.5:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Schaw
+    - 16.6:
+        non_striker: W Clark
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Schaw
+    - 17.1:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Schaw
+    - 17.2:
+        non_striker: AR Schaw
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Clark
+    - 17.3:
+        non_striker: AR Schaw
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Clark
+    - 17.4:
+        non_striker: AR Schaw
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 17.5:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Schaw
+    - 17.6:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Schaw
+    - 17.7:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Schaw
+    - 18.1:
+        non_striker: AR Schaw
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+    - 18.2:
+        non_striker: AR Schaw
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 18.3:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Schaw
+    - 18.4:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Schaw
+        wicket:
+          player_out: AR Schaw
+          fielders:
+          - GR Severin
+          kind: caught
+    - 18.5:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 18.6:
+        non_striker: JFA Field
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+        wicket:
+          player_out: W Clark
+          fielders:
+          - PF Younghusband
+          kind: caught
+    - 19.1:
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JR Lennox
+        batsman: JFA Field
+    - 19.2:
+        non_striker: JR Lennox
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JFA Field
+        wicket:
+          player_out: JFA Field
+          fielders:
+          - TA Blundell
+          kind: caught
+    - 19.3:
+        non_striker: JR Lennox
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Tickner
+        wicket:
+          player_out: BM Tickner
+          fielders:
+          - TM Johnson
+          kind: caught
+    - 19.4:
+        non_striker: JR Lennox
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Randell
+    - 19.5:
+        non_striker: BG Randell
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Lennox
+    - 19.6:
+        non_striker: JR Lennox
+        bowler: JW Hartshorn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Randell
+        wicket:
+          player_out: BG Randell
+          fielders:
+          - MA Abbas
+          kind: caught

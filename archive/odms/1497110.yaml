@@ -1,0 +1,3396 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: St Saviour
+  dates:
+  - '2025-08-31'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Jersey
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - JAD Lawrenson
+  players:
+    Qatar:
+    - I Liyanage
+    - Mujeeb-ur-Rehman
+    - Shakkir Kassim
+    - Muhammad Tanveer
+    - Muhammad Asim
+    - Shahzaib Jamil
+    - Ikramullah Khan
+    - DAM Louis
+    - Arif Nasir Uddin
+    - Amir Farooq
+    - Owais Ahmed
+    Jersey:
+    - H Carlyon
+    - NA Greenwood
+    - AM Tribe
+    - JW Jenner
+    - CW Perchard
+    - JE Dunford
+    - DG Blampied
+    - G Richardson
+    - JAD Lawrenson
+    - J Sumerauer
+    - ZM Tribe
+  registry:
+    people:
+      AM Tribe: 86f84b37
+      Amir Farooq: 6e991bd4
+      Arif Nasir Uddin: 807c91e3
+      CW Perchard: 9f998ed8
+      DAM Louis: b975210d
+      DG Blampied: d8976cb7
+      G Richardson: 5ca0e315
+      GF Labrooy: 8e088dbc
+      H Carlyon: 42bf1b7d
+      I Liyanage: 826e1017
+      Ikramullah Khan: c6e1354c
+      J Sumerauer: 0b581ed6
+      JAD Lawrenson: c810b349
+      JE Dunford: 89a7dd4a
+      JW Jenner: 32a8161e
+      M Jameson: bdf1ffe3
+      Muhammad Asim: b424d3d3
+      Muhammad Tanveer: aef39fe4
+      Mujeeb-ur-Rehman: 1a8f879b
+      N Bathi: 96a0edf9
+      NA Greenwood: 7ca68967
+      Owais Ahmed: cef52835
+      RJ Warren: 9d1c62d7
+      Shahzaib Jamil: fbb6d1a7
+      Shakkir Kassim: 2d4d282d
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Qatar
+  - Jersey
+  toss:
+    winner: Qatar
+    decision: bat
+  umpires:
+  - M Jameson
+  - N Bathi
+  venue: Grainville, St Saviour
+innings:
+- 1st innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mujeeb-ur-Rehman
+        batsman: I Liyanage
+    - 0.2:
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mujeeb-ur-Rehman
+        batsman: I Liyanage
+    - 0.3:
+        bowler: G Richardson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Mujeeb-ur-Rehman
+        batsman: I Liyanage
+    - 0.4:
+        non_striker: I Liyanage
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 0.5:
+        non_striker: I Liyanage
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 0.6:
+        non_striker: I Liyanage
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 0.7:
+        non_striker: I Liyanage
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 1.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Liyanage
+    - 1.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Liyanage
+    - 1.3:
+        non_striker: I Liyanage
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 1.4:
+        non_striker: I Liyanage
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 1.5:
+        non_striker: I Liyanage
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 1.6:
+        non_striker: I Liyanage
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 1.7:
+        non_striker: I Liyanage
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 2.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+        wicket:
+          player_out: I Liyanage
+          kind: bowled
+    - 2.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 2.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 2.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 2.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakkir Kassim
+    - 2.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 3.1:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 3.2:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 3.3:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mujeeb-ur-Rehman
+    - 3.4:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 3.5:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 3.6:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 3.7:
+        non_striker: Shakkir Kassim
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 4.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 4.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 4.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 4.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+    - 4.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakkir Kassim
+        wicket:
+          player_out: Shakkir Kassim
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 4.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 5.1:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 5.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 5.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 5.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 5.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 5.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 6.1:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 6.2:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 6.3:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 6.4:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 6.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 6.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 7.1:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 7.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 7.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 7.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 7.5:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 7.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 8.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 8.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 9.1:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mujeeb-ur-Rehman
+    - 9.2:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 9.3:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 9.4:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 9.5:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 9.6:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 10.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 10.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Tanveer
+    - 10.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 10.4:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 10.5:
+        non_striker: Muhammad Tanveer
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 10.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: G Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Tanveer
+    - 11.1:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mujeeb-ur-Rehman
+    - 11.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 11.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 11.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 11.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 11.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 12.1:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 12.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 12.3:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 12.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 12.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 12.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 13.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 13.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 13.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Tanveer
+    - 13.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 13.5:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 13.6:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 14.1:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 14.2:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 14.3:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 14.4:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 14.5:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 14.6:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.1:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 15.3:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 15.4:
+        non_striker: Muhammad Tanveer
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 15.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 15.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 16.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 16.2:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 16.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 16.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 16.5:
+        non_striker: Muhammad Tanveer
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 16.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 17.1:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 17.2:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 17.3:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 17.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 17.5:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 17.6:
+        non_striker: Muhammad Tanveer
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 18.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: Muhammad Tanveer
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 18.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 18.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 18.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 18.5:
+        non_striker: Muhammad Asim
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 18.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+        wicket:
+          player_out: Muhammad Asim
+          kind: bowled
+    - 19.1:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shahzaib Jamil
+        batsman: Mujeeb-ur-Rehman
+    - 19.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 19.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 19.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 19.5:
+        non_striker: Shahzaib Jamil
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mujeeb-ur-Rehman
+    - 19.6:
+        non_striker: Shahzaib Jamil
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 19.7:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 20.1:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 20.2:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 20.3:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 20.4:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 20.5:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 20.6:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 21.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 21.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 21.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 21.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 21.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 21.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 22.1:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 22.2:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 22.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 22.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 22.5:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 22.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 23.1:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 23.2:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 23.3:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 23.4:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 23.5:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 23.6:
+        non_striker: Shahzaib Jamil
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 24.1:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 24.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 24.3:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 24.4:
+        non_striker: Shahzaib Jamil
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 24.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 24.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+        wicket:
+          player_out: Shahzaib Jamil
+          fielders:
+          - NA Greenwood
+          kind: caught
+    - 25.1:
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ikramullah Khan
+        batsman: Mujeeb-ur-Rehman
+    - 25.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 25.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 25.4:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 25.5:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 25.6:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 26.1:
+        non_striker: Ikramullah Khan
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 26.2:
+        non_striker: Ikramullah Khan
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 26.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 26.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ikramullah Khan
+    - 26.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 26.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 27.1:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 27.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 27.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 27.4:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 27.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 27.6:
+        non_striker: Ikramullah Khan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 28.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+    - 28.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+        wicket:
+          player_out: Ikramullah Khan
+          fielders:
+          - AM Tribe
+          kind: caught
+    - 28.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 28.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 28.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 28.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 29.1:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 29.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 29.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 29.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAM Louis
+    - 29.5:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 29.6:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 30.1:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 30.2:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 30.3:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 30.4:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb-ur-Rehman
+    - 30.5:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 30.6:
+        non_striker: DAM Louis
+        bowler: JAD Lawrenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 31.1:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 31.2:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 31.3:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 31.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 31.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAM Louis
+    - 31.6:
+        non_striker: DAM Louis
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 32.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 32.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAM Louis
+    - 32.3:
+        non_striker: DAM Louis
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 32.4:
+        non_striker: DAM Louis
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 32.5:
+        non_striker: DAM Louis
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 32.6:
+        non_striker: DAM Louis
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 33.1:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 33.2:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 33.3:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DAM Louis
+    - 33.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+    - 33.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+        wicket:
+          player_out: DAM Louis
+          fielders:
+          - ZM Tribe
+          kind: caught
+    - 33.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Nasir Uddin
+    - 34.1:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+        wicket:
+          player_out: Mujeeb-ur-Rehman
+          fielders:
+          - AM Tribe
+          kind: caught
+    - 34.2:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 34.3:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 34.4:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 34.5:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 34.6:
+        non_striker: Arif Nasir Uddin
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 35.1:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arif Nasir Uddin
+    - 35.2:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Nasir Uddin
+    - 35.3:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Nasir Uddin
+        wicket:
+          player_out: Arif Nasir Uddin
+          fielders:
+          - J Sumerauer
+          kind: caught
+    - 35.4:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 35.5:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 35.6:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 36.1:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 36.2:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 36.3:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 36.4:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 36.5:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 36.6:
+        non_striker: Amir Farooq
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 37.1:
+        non_striker: Owais Ahmed
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 37.2:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 37.3:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 37.4:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Owais Ahmed
+    - 37.5:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 37.6:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 38.1:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 38.2:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amir Farooq
+    - 38.3:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 38.4:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 38.5:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 38.6:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 38.7:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 39.1:
+        non_striker: Owais Ahmed
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 39.2:
+        non_striker: Owais Ahmed
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 39.3:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Owais Ahmed
+    - 39.4:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Owais Ahmed
+    - 39.5:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Owais Ahmed
+    - 39.6:
+        non_striker: Amir Farooq
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 40.1:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 40.2:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 40.3:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 40.4:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 40.5:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 40.6:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 41.1:
+        non_striker: Owais Ahmed
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amir Farooq
+    - 41.2:
+        non_striker: Amir Farooq
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Owais Ahmed
+    - 41.3:
+        non_striker: Owais Ahmed
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 41.4:
+        non_striker: Owais Ahmed
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 41.5:
+        non_striker: Amir Farooq
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 41.6:
+        non_striker: Amir Farooq
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Owais Ahmed
+    - 42.1:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Owais Ahmed
+    - 42.2:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 42.3:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 42.4:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 42.5:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 42.6:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Owais Ahmed
+    - 42.7:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 42.8:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 43.1:
+        non_striker: Owais Ahmed
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 43.2:
+        non_striker: Owais Ahmed
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amir Farooq
+    - 43.3:
+        non_striker: Owais Ahmed
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 43.4:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 43.5:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 43.6:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 43.7:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 44.1:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 44.2:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 44.3:
+        non_striker: Amir Farooq
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Owais Ahmed
+    - 44.4:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 44.5:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 44.6:
+        non_striker: Owais Ahmed
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Farooq
+    - 45.1:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 45.2:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 45.3:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 45.4:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 45.5:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 45.6:
+        non_striker: Amir Farooq
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Owais Ahmed
+    - 46.1:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 46.2:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Farooq
+    - 46.3:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+    - 46.4:
+        non_striker: Owais Ahmed
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Farooq
+    - 46.5:
+        non_striker: Amir Farooq
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Owais Ahmed
+    - 46.6:
+        non_striker: Amir Farooq
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 47.1:
+        non_striker: Owais Ahmed
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Farooq
+    - 47.2:
+        non_striker: Owais Ahmed
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Farooq
+        wicket:
+          player_out: Amir Farooq
+          kind: bowled
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.2:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.3:
+        non_striker: H Carlyon
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 0.4:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 0.5:
+        non_striker: H Carlyon
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 0.6:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.1:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.2:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 1.3:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 1.5:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.6:
+        non_striker: H Carlyon
+        bowler: Amir Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 2.1:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 2.2:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.4:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 2.5:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Carlyon
+    - 2.6:
+        non_striker: NA Greenwood
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.1:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 3.2:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 3.3:
+        non_striker: NA Greenwood
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.4:
+        non_striker: NA Greenwood
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.5:
+        non_striker: NA Greenwood
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.6:
+        non_striker: NA Greenwood
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 4.1:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - Amir Farooq
+          kind: caught
+    - 4.2:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.3:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.4:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 4.5:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 4.6:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 5.1:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.2:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 5.3:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 5.4:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 5.5:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 5.6:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 6.1:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 6.2:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 6.3:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.4:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 6.5:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 6.6:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.1:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.2:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Carlyon
+    - 7.3:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.4:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.5:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.6:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 8.1:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.2:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 8.3:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 8.4:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 8.5:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 8.6:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 9.1:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 9.2:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 9.3:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 9.4:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 9.5:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 9.6:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 10.1:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 10.2:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.3:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 10.4:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.5:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 10.6:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 11.1:
+        non_striker: AM Tribe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 11.2:
+        non_striker: AM Tribe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 11.3:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.4:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.5:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 11.6:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 12.1:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 12.2:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 12.3:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 12.4:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 12.5:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 12.6:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 13.1:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Tribe
+    - 13.2:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Tribe
+    - 13.3:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 13.4:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 13.5:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 13.6:
+        non_striker: H Carlyon
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.1:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 14.2:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.3:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 14.4:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 14.5:
+        non_striker: AM Tribe
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 14.6:
+        non_striker: H Carlyon
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 15.1:
+        non_striker: H Carlyon
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 15.2:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 15.3:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 15.4:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 15.5:
+        non_striker: H Carlyon
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 15.6:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 16.1:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 16.2:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 16.3:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 16.4:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 16.5:
+        non_striker: H Carlyon
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 16.6:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 17.1:
+        non_striker: H Carlyon
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 17.2:
+        non_striker: H Carlyon
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - I Liyanage
+          - Arif Nasir Uddin
+          kind: run out
+    - 17.3:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 17.4:
+        non_striker: JW Jenner
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 17.5:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 17.6:
+        non_striker: AM Tribe
+        bowler: Arif Nasir Uddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 18.1:
+        non_striker: JW Jenner
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 18.2:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 18.3:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 18.4:
+        non_striker: AM Tribe
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner

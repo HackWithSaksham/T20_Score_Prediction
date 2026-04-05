@@ -1,0 +1,2118 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  competition: Big Bash League
+  dates:
+  - '2026-01-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - J Overton
+  players:
+    Adelaide Strikers:
+    - CA Lynn
+    - MW Short
+    - MW Harvey
+    - JJS Sangha
+    - L Scott
+    - J Overton
+    - HJ Manenti
+    - J Wadia
+    - L Wood
+    - Hasan Ali
+    - L Pope
+    Sydney Thunder:
+    - M Gilkes
+    - DA Warner
+    - SW Billings
+    - S Konstas
+    - NJ Maddinson
+    - DR Sams
+    - CJ Green
+    - DJ Willey
+    - N McAndrew
+    - T Sangha
+    - WA Agar
+  registry:
+    people:
+      Andrew Crozier: 00d07580
+      CA Lynn: 45eda7c8
+      CJ Green: 19b9f399
+      DA Warner: dcce6f09
+      DJ Willey: 7f048519
+      DM Koch: 6d10c034
+      DR Sams: caf69bf7
+      HJ Manenti: 0e56c514
+      Hasan Ali: 2911de16
+      J Overton: 59559bc2
+      J Wadia: 6ef38020
+      JJS Sangha: 8e3cb0e9
+      L Pope: 616a8149
+      L Scott: 0ebb3444
+      L Wood: 65b6943c
+      M Gilkes: d85b0f8b
+      MH Wessels: 90f47cf2
+      MW Harvey: 47dc9794
+      MW Short: a90e53ec
+      N McAndrew: 38c276e1
+      NJ Maddinson: 44afbf2d
+      PR George: b76e2583
+      S Konstas: 3c34c9e1
+      SD Fry: 6b725ed1
+      SW Billings: c16d4035
+      T Sangha: 52c952d9
+      WA Agar: 15de1f5d
+  teams:
+  - Adelaide Strikers
+  - Sydney Thunder
+  toss:
+    winner: Sydney Thunder
+    decision: field
+  umpires:
+  - Andrew Crozier
+  - MH Wessels
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 0.2:
+        non_striker: MW Short
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 0.3:
+        non_striker: CA Lynn
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.4:
+        non_striker: CA Lynn
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.5:
+        non_striker: CA Lynn
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 0.6:
+        non_striker: CA Lynn
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 1.1:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.2:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 1.3:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 1.4:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - DR Sams
+          kind: caught
+    - 1.5:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 1.6:
+        non_striker: MW Harvey
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 2.1:
+        non_striker: JJS Sangha
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 2.2:
+        non_striker: JJS Sangha
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 2.3:
+        non_striker: JJS Sangha
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 2.4:
+        non_striker: JJS Sangha
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 2.5:
+        non_striker: MW Harvey
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJS Sangha
+    - 2.6:
+        non_striker: MW Harvey
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 3.1:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 3.2:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 3.3:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 3.4:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 3.5:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 3.6:
+        non_striker: JJS Sangha
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 4.1:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 4.2:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 4.3:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 4.4:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 4.5:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 4.6:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 5.1:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 5.2:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJS Sangha
+    - 5.3:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 5.4:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 5.5:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 5.6:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 6.1:
+        non_striker: JJS Sangha
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 6.2:
+        non_striker: JJS Sangha
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 6.3:
+        non_striker: JJS Sangha
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 6.4:
+        non_striker: JJS Sangha
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 6.5:
+        non_striker: MW Harvey
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 6.6:
+        non_striker: MW Harvey
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 7.1:
+        non_striker: JJS Sangha
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 7.2:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 7.3:
+        non_striker: JJS Sangha
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 7.4:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 7.5:
+        non_striker: JJS Sangha
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 7.6:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 8.1:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 8.2:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 8.3:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 8.4:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 8.5:
+        non_striker: JJS Sangha
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 8.6:
+        non_striker: MW Harvey
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 9.1:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 9.2:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 9.3:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 9.4:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 9.5:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 9.6:
+        non_striker: JJS Sangha
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 10.1:
+        non_striker: JJS Sangha
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Harvey
+    - 10.2:
+        non_striker: JJS Sangha
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 10.3:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJS Sangha
+    - 10.4:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+        wicket:
+          player_out: JJS Sangha
+          fielders:
+          - DA Warner
+          kind: caught
+    - 10.5:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 10.6:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 10.7:
+        non_striker: MW Harvey
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 11.1:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Scott
+    - 11.2:
+        non_striker: L Scott
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 11.3:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 11.4:
+        non_striker: L Scott
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 11.5:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 11.6:
+        non_striker: MW Harvey
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 12.1:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 12.2:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+        wicket:
+          player_out: MW Harvey
+          fielders:
+          - DJ Willey
+          kind: caught
+    - 12.3:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 12.4:
+        non_striker: J Overton
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 12.5:
+        non_striker: J Overton
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 12.6:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 13.1:
+        non_striker: J Overton
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 13.2:
+        non_striker: L Scott
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 13.3:
+        non_striker: J Overton
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 13.4:
+        non_striker: L Scott
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 13.5:
+        non_striker: L Scott
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 13.6:
+        non_striker: J Overton
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 14.1:
+        non_striker: J Overton
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 14.2:
+        non_striker: J Overton
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 14.3:
+        non_striker: J Overton
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 14.4:
+        non_striker: J Overton
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 14.5:
+        non_striker: J Overton
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 14.6:
+        non_striker: L Scott
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 15.1:
+        non_striker: L Scott
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Overton
+    - 15.2:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 15.3:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 15.4:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 15.5:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Scott
+    - 15.6:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Scott
+    - 15.7:
+        non_striker: J Overton
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 16.1:
+        non_striker: J Overton
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 16.2:
+        non_striker: L Scott
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 16.3:
+        non_striker: L Scott
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 16.4:
+        non_striker: J Overton
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 16.5:
+        non_striker: L Scott
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 16.6:
+        non_striker: L Scott
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - NJ Maddinson
+          kind: caught
+    - 17.1:
+        non_striker: HJ Manenti
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 17.2:
+        non_striker: L Scott
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 17.3:
+        non_striker: L Scott
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 17.4:
+        non_striker: HJ Manenti
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 17.5:
+        non_striker: L Scott
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - DR Sams
+          - DJ Willey
+          kind: run out
+    - 17.6:
+        non_striker: J Wadia
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 18.1:
+        non_striker: J Wadia
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 18.2:
+        non_striker: J Wadia
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 18.3:
+        non_striker: L Scott
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wadia
+    - 18.4:
+        non_striker: J Wadia
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 18.5:
+        non_striker: J Wadia
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 18.6:
+        non_striker: L Scott
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wadia
+    - 19.1:
+        non_striker: J Wadia
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 19.2:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Wadia
+    - 19.3:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wadia
+        wicket:
+          player_out: J Wadia
+          kind: bowled
+    - 19.4:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+    - 19.5:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+        wicket:
+          player_out: L Wood
+          fielders:
+          - DR Sams
+          kind: caught
+    - 19.6:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hasan Ali
+    - 19.7:
+        non_striker: L Scott
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hasan Ali
+- 2nd innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.2:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 0.3:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.4:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 0.5:
+        non_striker: M Gilkes
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.6:
+        non_striker: M Gilkes
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.1:
+        non_striker: M Gilkes
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 1.2:
+        non_striker: M Gilkes
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.3:
+        non_striker: DA Warner
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Gilkes
+    - 1.4:
+        non_striker: M Gilkes
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.5:
+        non_striker: DA Warner
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.6:
+        non_striker: DA Warner
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 2.1:
+        non_striker: M Gilkes
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 2.2:
+        non_striker: M Gilkes
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 2.3:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 2.4:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 2.5:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 2.6:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.1:
+        non_striker: M Gilkes
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 3.2:
+        non_striker: M Gilkes
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 3.3:
+        non_striker: M Gilkes
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Warner
+    - 3.4:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.5:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.6:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 4.1:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.2:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.3:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 4.4:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.5:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 4.6:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.1:
+        non_striker: M Gilkes
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 5.2:
+        non_striker: M Gilkes
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.3:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 5.4:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 5.5:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 5.6:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 6.1:
+        non_striker: M Gilkes
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 6.2:
+        non_striker: M Gilkes
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 6.3:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 6.4:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 6.5:
+        non_striker: M Gilkes
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.6:
+        non_striker: M Gilkes
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.1:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 7.2:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 7.3:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 7.4:
+        non_striker: M Gilkes
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 7.5:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 7.6:
+        non_striker: M Gilkes
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 8.1:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 8.2:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 8.3:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 8.4:
+        non_striker: M Gilkes
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 8.5:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 8.6:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 9.1:
+        non_striker: M Gilkes
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 9.2:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 9.3:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 9.4:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          fielders:
+          - MW Harvey
+          kind: caught
+    - 9.5:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 9.6:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.1:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - J Overton
+          kind: caught
+    - 10.2:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.3:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.4:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 10.5:
+        non_striker: S Konstas
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 10.6:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 11.1:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 11.2:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          fielders:
+          - L Scott
+          kind: caught
+    - 11.3:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 11.4:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 11.5:
+        non_striker: NJ Maddinson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 11.6:
+        non_striker: NJ Maddinson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 12.1:
+        non_striker: NJ Maddinson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 12.2:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NJ Maddinson
+    - 12.3:
+        non_striker: NJ Maddinson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 12.4:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ Maddinson
+    - 12.5:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NJ Maddinson
+    - 12.6:
+        non_striker: NJ Maddinson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 13.1:
+        non_striker: NJ Maddinson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Warner
+    - 13.2:
+        non_striker: NJ Maddinson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 13.3:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Maddinson
+    - 13.4:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 13.5:
+        non_striker: NJ Maddinson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 13.6:
+        non_striker: DA Warner
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 14.1:
+        non_striker: NJ Maddinson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 14.2:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ Maddinson
+    - 14.3:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 14.4:
+        non_striker: NJ Maddinson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 14.5:
+        non_striker: NJ Maddinson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 14.6:
+        non_striker: NJ Maddinson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 15.1:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.2:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 15.3:
+        non_striker: NJ Maddinson
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 15.4:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.5:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+        wicket:
+          player_out: NJ Maddinson
+          kind: bowled
+    - 15.6:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 16.1:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DR Sams
+    - 16.2:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          kind: bowled
+    - 16.3:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 16.4:
+        non_striker: CJ Green
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 16.5:
+        non_striker: DA Warner
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 16.6:
+        non_striker: CJ Green
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 17.1:
+        non_striker: CJ Green
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 17.2:
+        non_striker: CJ Green
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 17.3:
+        non_striker: CJ Green
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 17.4:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+        wicket:
+          player_out: CJ Green
+          fielders:
+          - MW Harvey
+          - J Wadia
+          kind: run out
+    - 17.5:
+        non_striker: DA Warner
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 17.6:
+        non_striker: DJ Willey
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 18.1:
+        non_striker: DJ Willey
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 18.2:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 18.3:
+        non_striker: DJ Willey
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 18.4:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Willey
+    - 18.5:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+        wicket:
+          player_out: DJ Willey
+          fielders:
+          - MW Short
+          kind: caught
+    - 18.6:
+        non_striker: DA Warner
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N McAndrew
+    - 19.1:
+        non_striker: N McAndrew
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 19.2:
+        non_striker: N McAndrew
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 19.3:
+        non_striker: N McAndrew
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 19.4:
+        non_striker: N McAndrew
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 19.5:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N McAndrew
+    - 19.6:
+        non_striker: DA Warner
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N McAndrew

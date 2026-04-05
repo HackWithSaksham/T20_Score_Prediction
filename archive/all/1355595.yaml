@@ -1,0 +1,1819 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-20'
+  revision: 2
+info:
+  balls_per_over: 5
+  city: London
+  competition: The Hundred Women's Competition
+  dates:
+  - '2023-08-18'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Northern Superchargers
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - P Litchfield
+  players:
+    London Spirit:
+    - N Holland
+    - DR Gibson
+    - HC Knight
+    - GM Harris
+    - AC Kerr
+    - RM Ghosh
+    - S Glenn
+    - CE Dean
+    - AZ Monaghan
+    - TG Norris
+    - L Filer
+    Northern Superchargers:
+    - M Kelly
+    - JI Rodrigues
+    - P Litchfield
+    - HJ Armitage
+    - BAM Heath
+    - G Wareham
+    - AN Davidson-Richards
+    - KL Cross
+    - LCN Smith
+    - LF Higham
+    - G Ballinger
+  registry:
+    people:
+      AC Kerr: 7673c908
+      AN Davidson-Richards: 35828bdd
+      AZ Monaghan: 0c694738
+      BAM Heath: 3b5a9438
+      CE Dean: c6625a26
+      DR Gibson: d2763568
+      F Richards: 0313fec0
+      G Ballinger: 2f485713
+      G Wareham: f0b4e47d
+      GM Harris: '72166006'
+      H Pack: fed53c91
+      HC Knight: 4ba0289e
+      HJ Armitage: f05167d2
+      JI Rodrigues: cb08b611
+      KL Cross: 1ade138e
+      L Filer: 31adb911
+      LCN Smith: 340202b0
+      LF Higham: fbd79b9b
+      M Burns: b3bd0666
+      M Kelly: ebf683f9
+      N Holland: aefd0567
+      P Litchfield: 4e6ef14f
+      RM Ghosh: 721e0199
+      S Glenn: b34e0c77
+      S Redfern: 5b038989
+      Surendiran Shanmugam: 2ef5fc2b
+      TG Norris: 8ae7bb3e
+  teams:
+  - London Spirit
+  - Northern Superchargers
+  toss:
+    winner: Northern Superchargers
+    decision: field
+  umpires:
+  - S Redfern
+  - Surendiran Shanmugam
+  venue: Lord's, London
+innings:
+- 1st innings:
+    team: London Spirit
+    deliveries:
+    - 0.1:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Holland
+    - 0.2:
+        non_striker: N Holland
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 0.3:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+    - 0.4:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Holland
+    - 0.5:
+        non_striker: N Holland
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 1.1:
+        non_striker: N Holland
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 1.2:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+        wicket:
+          player_out: N Holland
+          fielders:
+          - BAM Heath
+          kind: stumped
+    - 1.3:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 1.4:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 1.5:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 2.1:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Gibson
+    - 2.2:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 2.3:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 2.4:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DR Gibson
+    - 2.5:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.1:
+        non_striker: DR Gibson
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.2:
+        non_striker: DR Gibson
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.3:
+        non_striker: DR Gibson
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 3.4:
+        non_striker: HC Knight
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Gibson
+    - 3.5:
+        non_striker: HC Knight
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 4.1:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 4.2:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 4.3:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 4.4:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 4.5:
+        non_striker: DR Gibson
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 5.1:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 5.2:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 5.3:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DR Gibson
+    - 5.4:
+        non_striker: HC Knight
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 5.5:
+        non_striker: DR Gibson
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.1:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 6.2:
+        non_striker: DR Gibson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 6.3:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+        wicket:
+          player_out: DR Gibson
+          kind: bowled
+    - 6.4:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 6.5:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 7.1:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 7.2:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 7.3:
+        non_striker: HC Knight
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 7.4:
+        non_striker: GM Harris
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 7.5:
+        non_striker: GM Harris
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.1:
+        non_striker: GM Harris
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.2:
+        non_striker: HC Knight
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 8.3:
+        non_striker: HC Knight
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          fielders:
+          - P Litchfield
+          kind: caught
+    - 8.4:
+        non_striker: HC Knight
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.1:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.4:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 9.5:
+        non_striker: HC Knight
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - HJ Armitage
+          kind: run out
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 10.4:
+        non_striker: RM Ghosh
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: RM Ghosh
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 11.3:
+        non_striker: RM Ghosh
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 11.4:
+        non_striker: RM Ghosh
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 12.2:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: RM Ghosh
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.2:
+        non_striker: RM Ghosh
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.5:
+        non_striker: RM Ghosh
+        bowler: LCN Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: RM Ghosh
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - KL Cross
+          kind: caught
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 15.3:
+        non_striker: AC Kerr
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 15.4:
+        non_striker: S Glenn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 15.5:
+        non_striker: S Glenn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Glenn
+    - 16.2:
+        non_striker: S Glenn
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+        wicket:
+          player_out: S Glenn
+          fielders:
+          - LF Higham
+          kind: caught
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 16.5:
+        non_striker: CE Dean
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 17.1:
+        non_striker: CE Dean
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 17.2:
+        non_striker: CE Dean
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 17.3:
+        non_striker: CE Dean
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 17.4:
+        non_striker: CE Dean
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.5:
+        non_striker: AC Kerr
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 18.1:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CE Dean
+    - 18.2:
+        non_striker: CE Dean
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.3:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 18.4:
+        non_striker: CE Dean
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: CE Dean
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.6:
+        non_striker: AC Kerr
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 19.1:
+        non_striker: CE Dean
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 19.2:
+        non_striker: CE Dean
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 19.3:
+        non_striker: CE Dean
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.4:
+        non_striker: CE Dean
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 19.5:
+        non_striker: CE Dean
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+        wicket:
+          player_out: CE Dean
+          fielders:
+          - P Litchfield
+          - BAM Heath
+          kind: run out
+- 2nd innings:
+    team: Northern Superchargers
+    deliveries:
+    - 0.1:
+        non_striker: JI Rodrigues
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kelly
+    - 0.2:
+        non_striker: M Kelly
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 0.3:
+        non_striker: JI Rodrigues
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 0.4:
+        non_striker: JI Rodrigues
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kelly
+    - 0.5:
+        non_striker: JI Rodrigues
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 0.6:
+        non_striker: JI Rodrigues
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kelly
+    - 1.1:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 1.2:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kelly
+    - 1.3:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+        wicket:
+          player_out: M Kelly
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 1.4:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.5:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 2.2:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 2.3:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 3.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 3.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 4.2:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 4.7:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 5.1:
+        non_striker: JI Rodrigues
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.2:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 5.3:
+        non_striker: JI Rodrigues
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: JI Rodrigues
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: JI Rodrigues
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.2:
+        non_striker: JI Rodrigues
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: JI Rodrigues
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.4:
+        non_striker: JI Rodrigues
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.1:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 7.2:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 7.3:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 7.4:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.5:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.1:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 8.2:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.3:
+        non_striker: JI Rodrigues
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.4:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: lbw
+    - 8.5:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 9.1:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 9.2:
+        non_striker: P Litchfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Armitage
+    - 9.3:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 9.4:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 9.5:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.1:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+        wicket:
+          player_out: HJ Armitage
+          fielders:
+          - CE Dean
+          kind: caught
+    - 10.2:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 10.3:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 10.4:
+        non_striker: BAM Heath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.5:
+        non_striker: BAM Heath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 11.1:
+        non_striker: BAM Heath
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 11.2:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.3:
+        non_striker: BAM Heath
+        bowler: CE Dean
+        runs:
+          extras: 2
+          total: 3
+          batsman: 1
+        extras:
+          noballs: 2
+        batsman: P Litchfield
+    - 11.4:
+        non_striker: P Litchfield
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.5:
+        non_striker: BAM Heath
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 11.6:
+        non_striker: BAM Heath
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 12.1:
+        non_striker: BAM Heath
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 12.2:
+        non_striker: BAM Heath
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 12.3:
+        non_striker: P Litchfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 12.4:
+        non_striker: P Litchfield
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAM Heath
+    - 12.5:
+        non_striker: P Litchfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 12.6:
+        non_striker: P Litchfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 13.1:
+        non_striker: BAM Heath
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 13.2:
+        non_striker: BAM Heath
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 13.3:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+        wicket:
+          player_out: BAM Heath
+          fielders:
+          - GM Harris
+          kind: caught
+    - 13.4:
+        non_striker: P Litchfield
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 13.5:
+        non_striker: G Wareham
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.1:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.2:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.3:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - AZ Monaghan
+          kind: caught
+    - 14.4:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 14.5:
+        non_striker: AN Davidson-Richards
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 15.1:
+        non_striker: G Wareham
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 15.2:
+        non_striker: G Wareham
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 15.3:
+        non_striker: AN Davidson-Richards
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 15.4:
+        non_striker: G Wareham
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+        wicket:
+          player_out: AN Davidson-Richards
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 15.5:
+        non_striker: G Wareham
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Cross
+    - 16.1:
+        non_striker: KL Cross
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 16.2:
+        non_striker: KL Cross
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 16.3:
+        non_striker: G Wareham
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 16.4:
+        non_striker: G Wareham
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 16.5:
+        non_striker: KL Cross
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 17.1:
+        non_striker: KL Cross
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 17.2:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 17.3:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 17.4:
+        non_striker: G Wareham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 17.5:
+        non_striker: KL Cross
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 18.1:
+        non_striker: G Wareham
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Cross
+    - 18.2:
+        non_striker: G Wareham
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 18.3:
+        non_striker: KL Cross
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 18.4:
+        non_striker: G Wareham
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 18.5:
+        non_striker: KL Cross
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 19.1:
+        non_striker: KL Cross
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 19.2:
+        non_striker: G Wareham
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Cross
+    - 19.3:
+        non_striker: G Wareham
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 19.4:
+        non_striker: G Wareham
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross

@@ -1,0 +1,4311 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  dates:
+  - '2025-12-13'
+  gender: female
+  match_type: ODI
+  match_type_number: 1521
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 7
+  overs: 50
+  players:
+    Ireland:
+    - S Forbes
+    - GH Lewis
+    - A Hunter
+    - O Prendergast
+    - L Delany
+    - L Paul
+    - R Stokell
+    - AN Kelly
+    - C Murray
+    - G Dempsey
+    - LA McBride
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - L Goodall
+    - S Luus
+    - M Smit
+    - D van Niekerk
+    - K Meso
+    - E Marx
+    - TS Sekhukhune
+    - A Hlubi
+    - N Mlaba
+  registry:
+    people:
+      A Hlubi: ccaa3434
+      A Hunter: e8fa03ed
+      AN Kelly: 397369e0
+      C Murray: 5a50471c
+      D van Niekerk: 8c5775f3
+      E Marx: be592751
+      G Dempsey: 940feccc
+      GH Lewis: 1b9d1579
+      K Klaaste: 6cc1d918
+      K Meso: 130336c6
+      L Delany: b4f73b44
+      L Goodall: 0bb32e98
+      L Paul: '07248d8e'
+      L Wolvaardt: e60f81c9
+      LA McBride: 9bd0d19d
+      Lauren Agenbag: 40849abd
+      M Smit: 996ed07c
+      N Mlaba: 686362af
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      S Forbes: 5ecfab18
+      S Lackay: d3a9aadd
+      S Luus: 6d76bc23
+      S Wadvalla: c1a1acf3
+      T Brits: '06659caa'
+      TS Sekhukhune: 6e28e586
+      VG Rathi: 144e5b16
+  teams:
+  - Ireland
+  - South Africa
+  toss:
+    winner: Ireland
+    decision: bat
+  umpires:
+  - S Lackay
+  - VG Rathi
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: S Forbes
+    - 0.2:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 0.6:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 1.6:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 3.1:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.2:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.3:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 3.4:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.5:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GH Lewis
+    - 3.7:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 4.5:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Forbes
+    - 5.2:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.3:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.4:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.5:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 6.4:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 6.6:
+        non_striker: S Forbes
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 7.2:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 7.4:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.4:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.5:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.6:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 9.1:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 9.2:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 9.3:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 9.4:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 9.5:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 9.6:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 10.1:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.2:
+        non_striker: S Forbes
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 10.4:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 10.5:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 11.1:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: bowled
+    - 11.2:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 11.3:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 11.4:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 11.5:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Forbes
+    - 11.6:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 11.7:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.1:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.2:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.3:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.4:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.5:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.6:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 13.1:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.2:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.3:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.4:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Forbes
+    - 13.5:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 13.6:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 13.7:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 14.1:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 14.2:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 14.3:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 14.4:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Forbes
+    - 14.5:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 14.6:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 15.1:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 15.2:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.3:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.4:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 15.5:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 15.6:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 16.1:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 16.2:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 16.3:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 16.4:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 16.5:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 16.6:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 16.7:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 17.1:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 17.2:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 17.3:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 17.4:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 17.5:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 17.6:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 18.1:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 18.2:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 18.3:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 18.4:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 18.5:
+        non_striker: A Hunter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 18.6:
+        non_striker: S Forbes
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 19.1:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 19.2:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 19.3:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 19.4:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 19.5:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 19.6:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 20.1:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 20.2:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 20.3:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 20.4:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 20.5:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 20.6:
+        non_striker: S Forbes
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 21.1:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 21.2:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 21.3:
+        non_striker: S Forbes
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 21.4:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+        wicket:
+          player_out: S Forbes
+          kind: lbw
+    - 21.5:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.6:
+        non_striker: A Hunter
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.1:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 22.2:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.3:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 22.4:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 22.5:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 22.6:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 23.1:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 23.2:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.3:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 23.4:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.5:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 23.6:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 24.1:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 24.2:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 24.3:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.4:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.5:
+        non_striker: A Hunter
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 24.6:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 25.1:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.2:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 25.3:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.4:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 25.5:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 25.6:
+        non_striker: A Hunter
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.1:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 26.2:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 26.3:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Hunter
+    - 26.4:
+        non_striker: A Hunter
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.5:
+        non_striker: A Hunter
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 26.6:
+        non_striker: A Hunter
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 27.1:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 27.2:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - L Goodall
+          kind: caught
+    - 27.3:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 27.4:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 27.5:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 27.6:
+        non_striker: L Delany
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 28.1:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 28.2:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 28.3:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 28.4:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 28.5:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 28.6:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 29.1:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 29.2:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Delany
+    - 29.3:
+        non_striker: L Delany
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 29.4:
+        non_striker: L Delany
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 29.5:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 29.6:
+        non_striker: O Prendergast
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 29.7:
+        non_striker: L Delany
+        bowler: M Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 30.1:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 30.2:
+        non_striker: L Delany
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 30.3:
+        non_striker: O Prendergast
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 30.4:
+        non_striker: L Delany
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 30.5:
+        non_striker: L Delany
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 30.6:
+        non_striker: L Delany
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 31.1:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 31.2:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Delany
+    - 31.3:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 31.4:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          kind: bowled
+    - 31.5:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 31.6:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 32.1:
+        non_striker: L Paul
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 32.2:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 32.3:
+        non_striker: L Paul
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 32.4:
+        non_striker: L Paul
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 32.5:
+        non_striker: L Paul
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 32.6:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 33.1:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 33.2:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 33.3:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 33.4:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 33.5:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - K Meso
+          kind: caught
+    - 33.6:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 34.1:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 34.2:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 34.3:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 34.4:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 34.5:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Prendergast
+    - 34.6:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 34.7:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 35.1:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 35.2:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 35.3:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 35.4:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 35.5:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 35.6:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 36.1:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 36.2:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 36.3:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 36.4:
+        non_striker: R Stokell
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 36.5:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 36.6:
+        non_striker: O Prendergast
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 37.1:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 37.2:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 37.3:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 37.4:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 37.5:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 37.6:
+        non_striker: O Prendergast
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Stokell
+    - 38.1:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 38.2:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 38.3:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 38.4:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 38.5:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 38.6:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 39.1:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 39.2:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 39.3:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 39.4:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 39.5:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 39.6:
+        non_striker: O Prendergast
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 40.1:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 40.2:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 40.3:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 40.4:
+        non_striker: O Prendergast
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 40.5:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 40.6:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 41.1:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - D van Niekerk
+          kind: caught
+    - 41.2:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 41.3:
+        non_striker: AN Kelly
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 41.4:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Kelly
+    - 41.5:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 41.6:
+        non_striker: R Stokell
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 42.1:
+        non_striker: AN Kelly
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 42.2:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.3:
+        non_striker: AN Kelly
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 42.4:
+        non_striker: AN Kelly
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 42.5:
+        non_striker: R Stokell
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.6:
+        non_striker: AN Kelly
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 43.1:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 43.2:
+        non_striker: AN Kelly
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 43.3:
+        non_striker: AN Kelly
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 43.4:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 43.5:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 43.6:
+        non_striker: C Murray
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 44.1:
+        non_striker: R Stokell
+        bowler: A Hlubi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Murray
+    - 44.2:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 44.3:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 44.4:
+        non_striker: R Stokell
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 44.5:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 44.6:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 45.1:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 45.2:
+        non_striker: C Murray
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 45.3:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 45.4:
+        non_striker: C Murray
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 45.5:
+        non_striker: R Stokell
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 45.6:
+        non_striker: C Murray
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 46.1:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+    - 46.2:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Stokell
+    - 46.3:
+        non_striker: R Stokell
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 46.4:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Stokell
+    - 46.5:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 46.6:
+        non_striker: C Murray
+        bowler: A Hlubi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Stokell
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Brits
+        batsman: L Wolvaardt
+    - 0.2:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Brits
+        batsman: L Wolvaardt
+    - 0.3:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Brits
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 1.1:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 2.1:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.3:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.5:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: T Brits
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - C Murray
+          kind: caught
+    - 5.1:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Goodall
+        batsman: T Brits
+    - 5.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Goodall
+        batsman: T Brits
+    - 5.3:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 5.4:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 5.5:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 5.6:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 6.1:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.2:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.3:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.4:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.5:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.6:
+        non_striker: L Goodall
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 7.1:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.2:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.3:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.4:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: L Goodall
+    - 7.5:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.6:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.7:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.1:
+        non_striker: L Goodall
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 8.2:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Goodall
+    - 8.3:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Goodall
+    - 8.4:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.5:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.6:
+        non_striker: T Brits
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 9.1:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Goodall
+    - 9.2:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 9.3:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Goodall
+    - 9.4:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 9.5:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 9.6:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Goodall
+    - 10.1:
+        non_striker: L Goodall
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 10.2:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 10.3:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 10.4:
+        non_striker: L Goodall
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 10.5:
+        non_striker: L Goodall
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 10.6:
+        non_striker: L Goodall
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.1:
+        non_striker: L Goodall
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.2:
+        non_striker: L Goodall
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.3:
+        non_striker: L Goodall
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.4:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 11.5:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 11.6:
+        non_striker: L Goodall
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 12.1:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 12.2:
+        non_striker: L Goodall
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 12.3:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+        wicket:
+          player_out: L Goodall
+          kind: caught and bowled
+    - 12.4:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.5:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 12.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 13.1:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 13.2:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 13.3:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 13.4:
+        non_striker: T Brits
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.5:
+        non_striker: T Brits
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.6:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 13.7:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 13.8:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 14.1:
+        non_striker: T Brits
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.2:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - L Delany
+          kind: caught
+    - 14.3:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 14.4:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 14.5:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 15.1:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.2:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 15.3:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 15.4:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 15.5:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 15.6:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 16.1:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.2:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 16.3:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 16.4:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 16.5:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 17.1:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 17.2:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 17.3:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Smit
+    - 17.4:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 17.5:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 17.6:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 18.1:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.2:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 18.3:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.4:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 18.5:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 18.6:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 19.1:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 19.2:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 19.3:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 19.4:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 19.5:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 19.6:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 20.1:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 20.2:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 20.3:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 20.4:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 20.5:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 20.6:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 21.1:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 21.2:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 21.3:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 21.4:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 21.5:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 21.6:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 22.1:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 22.2:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 22.3:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 22.4:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 22.5:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 22.6:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 23.1:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 23.2:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 23.3:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 23.4:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 23.5:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 23.6:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 24.1:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 24.2:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 24.3:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 24.4:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 24.5:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 24.6:
+        non_striker: M Smit
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 25.1:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Smit
+    - 25.2:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 25.3:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 25.4:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 25.5:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 25.6:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 26.1:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 26.2:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 26.3:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 26.4:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 26.5:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 26.6:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 27.1:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 27.2:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 27.3:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 27.4:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 27.5:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 27.6:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 28.1:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 28.2:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 28.3:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 28.4:
+        non_striker: S Luus
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 28.5:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 28.6:
+        non_striker: M Smit
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 29.1:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 29.2:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 29.3:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 29.4:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 29.5:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 29.6:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 30.1:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 30.2:
+        non_striker: M Smit
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 30.3:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 30.4:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 30.5:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Smit
+    - 30.6:
+        non_striker: S Luus
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 31.1:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 31.2:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 31.3:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 31.4:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 31.5:
+        non_striker: M Smit
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 31.6:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 32.1:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 32.2:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 32.3:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 32.4:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 32.5:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 32.6:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 33.1:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Smit
+    - 33.2:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Smit
+    - 33.3:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 33.4:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 33.5:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 33.6:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 33.7:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 34.1:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 34.2:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 34.3:
+        non_striker: M Smit
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 34.4:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Smit
+    - 34.5:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 34.6:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit
+    - 34.7:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 35.1:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 35.2:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Smit
+    - 35.3:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 35.4:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 35.5:
+        non_striker: M Smit
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 35.6:
+        non_striker: S Luus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 36.1:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Luus
+    - 36.2:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 36.3:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 36.4:
+        non_striker: M Smit
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 36.5:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 36.6:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Smit
+    - 36.7:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Smit
+    - 36.8:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Smit

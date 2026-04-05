@@ -1,0 +1,3399 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: London
+  competition: One-Day Cup
+  dates:
+  - '2024-08-11'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Somerset
+    by:
+      wickets: 8
+  overs: 50
+  players:
+    Middlesex:
+    - JB Cracknell
+    - N Fernandes
+    - SD Robson
+    - MD Stoneman
+    - JLB Davies
+    - MK Andersson
+    - LBK Hollman
+    - JM De Caires
+    - TS Roland-Jones
+    - HJH Brookes
+    - ER Bamber
+    Somerset:
+    - GW Thomas
+    - ARI Umeed
+    - LP Goldsworthy
+    - JEK Rew
+    - SR Dickson
+    - AM Vaughan
+    - BGF Green
+    - Kasey Aldridge
+    - JH Davey
+    - MJ Leach
+    - RP Meredith
+  registry:
+    people:
+      AM Vaughan: 33a6488e
+      ARI Umeed: 7a32c1c1
+      BGF Green: 34b37279
+      Bilal Shafayat: 786b7296
+      ER Bamber: 948beb1f
+      GW Thomas: f2e28b0c
+      HJH Brookes: 2085e1fa
+      JB Cracknell: dd6e32da
+      JEK Rew: 521595e7
+      JH Davey: d3868bd0
+      JLB Davies: 76dc16d4
+      JM De Caires: 8cbcff3b
+      Kasey Aldridge: 31b01074
+      LBK Hollman: bdc0670a
+      LP Goldsworthy: ed47cb25
+      MD Stoneman: 1b77f62b
+      MJ Leach: 3987e390
+      MK Andersson: d26e0405
+      N Fernandes: 01561e94
+      RP Meredith: '64775749'
+      SD Robson: 76cb1a7f
+      SG Hinks: 0bb4dc0d
+      SJ O'Shaughnessy: 4d4fdf4a
+      SR Dickson: 2344bdd1
+      TS Roland-Jones: 6c6aca89
+  teams:
+  - Middlesex
+  - Somerset
+  toss:
+    winner: Somerset
+    decision: field
+  umpires:
+  - Bilal Shafayat
+  - SJ O'Shaughnessy
+  venue: Lord's, London
+innings:
+- 1st innings:
+    team: Middlesex
+    deliveries:
+    - 0.1:
+        non_striker: N Fernandes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Cracknell
+    - 0.2:
+        non_striker: JB Cracknell
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+    - 0.3:
+        non_striker: JB Cracknell
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+    - 0.4:
+        non_striker: JB Cracknell
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Fernandes
+    - 0.5:
+        non_striker: N Fernandes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+    - 0.6:
+        non_striker: N Fernandes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+    - 1.1:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+    - 1.2:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+    - 1.3:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+    - 1.4:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Fernandes
+        wicket:
+          player_out: N Fernandes
+          kind: lbw
+    - 1.5:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 1.6:
+        non_striker: JB Cracknell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 2.1:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+    - 2.2:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+    - 2.3:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+    - 2.4:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Cracknell
+        wicket:
+          player_out: JB Cracknell
+          fielders:
+          - GW Thomas
+          kind: run out
+    - 2.5:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 2.6:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 3.1:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Stoneman
+    - 3.2:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 3.3:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 3.4:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Stoneman
+    - 3.5:
+        non_striker: MD Stoneman
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Robson
+    - 3.6:
+        non_striker: MD Stoneman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 3.7:
+        non_striker: MD Stoneman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 4.1:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Stoneman
+    - 4.2:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 4.3:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 4.4:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 4.5:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Stoneman
+    - 4.6:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Robson
+    - 5.1:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Stoneman
+    - 5.2:
+        non_striker: MD Stoneman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Robson
+    - 5.3:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Stoneman
+    - 5.4:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 5.5:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 5.6:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Stoneman
+    - 6.1:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Stoneman
+    - 6.2:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 6.3:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Stoneman
+    - 6.4:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 6.5:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 6.6:
+        non_striker: MD Stoneman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 7.1:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Stoneman
+    - 7.2:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+        wicket:
+          player_out: MD Stoneman
+          kind: bowled
+    - 7.3:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 7.4:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 7.5:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JLB Davies
+    - 7.6:
+        non_striker: SD Robson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 8.1:
+        non_striker: JLB Davies
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 8.2:
+        non_striker: JLB Davies
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+    - 8.3:
+        non_striker: JLB Davies
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Robson
+    - 8.4:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 8.5:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JLB Davies
+    - 8.6:
+        non_striker: SD Robson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JLB Davies
+    - 8.7:
+        non_striker: JLB Davies
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Robson
+        wicket:
+          player_out: SD Robson
+          kind: bowled
+    - 9.1:
+        non_striker: MK Andersson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JLB Davies
+    - 9.2:
+        non_striker: MK Andersson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 9.3:
+        non_striker: MK Andersson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 9.4:
+        non_striker: MK Andersson
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JLB Davies
+    - 9.5:
+        non_striker: JLB Davies
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 9.6:
+        non_striker: JLB Davies
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 10.1:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JLB Davies
+    - 10.2:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 10.3:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 10.4:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 10.5:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 10.6:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 11.1:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 11.2:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 11.3:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 11.4:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 11.5:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 11.6:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 12.1:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 12.2:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 12.3:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 12.4:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 12.5:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 12.6:
+        non_striker: JLB Davies
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 13.1:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 13.2:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+    - 13.3:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JLB Davies
+        wicket:
+          player_out: JLB Davies
+          fielders:
+          - JEK Rew
+          kind: caught
+    - 13.4:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 13.5:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 13.6:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 14.1:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Andersson
+    - 14.2:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 14.3:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 14.4:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 14.5:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 14.6:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 14.7:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 15.1:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 15.2:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 15.3:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 15.4:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 15.5:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LBK Hollman
+    - 15.6:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 16.1:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 16.2:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 16.3:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 16.4:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 16.5:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 16.6:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 17.1:
+        non_striker: LBK Hollman
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 17.2:
+        non_striker: LBK Hollman
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 17.3:
+        non_striker: LBK Hollman
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 17.4:
+        non_striker: LBK Hollman
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 17.5:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LBK Hollman
+    - 17.6:
+        non_striker: MK Andersson
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 18.1:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 18.2:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 18.3:
+        non_striker: MK Andersson
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 18.4:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 18.5:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 18.6:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 19.1:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 19.2:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 19.3:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 19.4:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 19.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 19.6:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 20.1:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 20.2:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 20.3:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 20.4:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 20.5:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 20.6:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 21.1:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 21.2:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 21.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 21.4:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 21.5:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 21.6:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 22.1:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 22.2:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 22.3:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Andersson
+    - 22.4:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 22.5:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 22.6:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 23.1:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 23.2:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 23.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 23.4:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 23.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 23.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 24.1:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 24.2:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 24.3:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 24.4:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 24.5:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 24.6:
+        non_striker: MK Andersson
+        bowler: GW Thomas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LBK Hollman
+    - 24.7:
+        non_striker: LBK Hollman
+        bowler: GW Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Andersson
+    - 25.1:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 25.2:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 25.3:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 25.4:
+        non_striker: MK Andersson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 25.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+    - 25.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Andersson
+    - 26.1:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Andersson
+        wicket:
+          player_out: MK Andersson
+          kind: lbw
+    - 26.2:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM De Caires
+    - 26.3:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM De Caires
+    - 26.4:
+        non_striker: JM De Caires
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 26.5:
+        non_striker: JM De Caires
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 26.6:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM De Caires
+    - 27.1:
+        non_striker: JM De Caires
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 27.2:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM De Caires
+    - 27.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM De Caires
+    - 27.4:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM De Caires
+        wicket:
+          player_out: JM De Caires
+          fielders:
+          - JEK Rew
+          kind: caught
+    - 27.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Roland-Jones
+    - 27.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Roland-Jones
+    - 28.1:
+        non_striker: TS Roland-Jones
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 28.2:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Roland-Jones
+    - 28.3:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Roland-Jones
+    - 28.4:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Roland-Jones
+        wicket:
+          player_out: TS Roland-Jones
+          kind: lbw
+    - 28.5:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 28.6:
+        non_striker: LBK Hollman
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 29.1:
+        non_striker: HJH Brookes
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 29.2:
+        non_striker: HJH Brookes
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LBK Hollman
+    - 29.3:
+        non_striker: HJH Brookes
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 29.4:
+        non_striker: HJH Brookes
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 29.5:
+        non_striker: HJH Brookes
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 29.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 30.1:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 30.2:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 30.3:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 30.4:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 30.5:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 30.6:
+        non_striker: HJH Brookes
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LBK Hollman
+    - 31.1:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 31.2:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 31.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 31.4:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 31.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 31.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 32.1:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 32.2:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 32.3:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJH Brookes
+    - 32.4:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 32.5:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 32.6:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 33.1:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 33.2:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJH Brookes
+    - 33.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJH Brookes
+    - 33.4:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 33.5:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 33.6:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 34.1:
+        non_striker: HJH Brookes
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 34.2:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 34.3:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 34.4:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 34.5:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 34.6:
+        non_striker: LBK Hollman
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+    - 35.1:
+        non_striker: HJH Brookes
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 35.2:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Brookes
+        wicket:
+          player_out: HJH Brookes
+          fielders:
+          - SR Dickson
+          kind: caught
+    - 35.3:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 35.4:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Bamber
+    - 35.5:
+        non_striker: ER Bamber
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 35.6:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 36.1:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 36.2:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 36.3:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 36.4:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 36.5:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Bamber
+    - 36.6:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 37.1:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 37.2:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 37.3:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 37.4:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 37.5:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Bamber
+    - 37.6:
+        non_striker: LBK Hollman
+        bowler: AM Vaughan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 38.1:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LBK Hollman
+    - 38.2:
+        non_striker: ER Bamber
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 38.3:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 38.4:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Bamber
+    - 38.5:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 38.6:
+        non_striker: LBK Hollman
+        bowler: Kasey Aldridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+    - 39.1:
+        non_striker: ER Bamber
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LBK Hollman
+    - 39.2:
+        non_striker: ER Bamber
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LBK Hollman
+    - 39.3:
+        non_striker: LBK Hollman
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Bamber
+        wicket:
+          player_out: ER Bamber
+          kind: bowled
+- 2nd innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GW Thomas
+    - 0.2:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Thomas
+    - 0.3:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 0.4:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 0.5:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 0.6:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 1.1:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ARI Umeed
+    - 1.2:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ARI Umeed
+    - 1.3:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 1.4:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 1.5:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 1.6:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 1.7:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 2.1:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 2.2:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 2.3:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 2.4:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 2.5:
+        non_striker: GW Thomas
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 2.6:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Thomas
+    - 3.1:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 3.2:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 3.3:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Thomas
+    - 3.4:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 3.5:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Thomas
+    - 3.6:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Thomas
+    - 4.1:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 4.2:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 4.3:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 4.4:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 4.5:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 4.6:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Thomas
+    - 5.1:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 5.2:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 5.3:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 5.4:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 5.5:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 5.6:
+        non_striker: GW Thomas
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 6.1:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GW Thomas
+        wicket:
+          player_out: GW Thomas
+          fielders:
+          - JLB Davies
+          kind: stumped
+    - 6.2:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 6.3:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 6.4:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 6.5:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 6.6:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 6.7:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 7.1:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.2:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.3:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 7.4:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.5:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.6:
+        non_striker: LP Goldsworthy
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.1:
+        non_striker: ARI Umeed
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 8.2:
+        non_striker: LP Goldsworthy
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.3:
+        non_striker: LP Goldsworthy
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 8.4:
+        non_striker: LP Goldsworthy
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.5:
+        non_striker: LP Goldsworthy
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.6:
+        non_striker: LP Goldsworthy
+        bowler: ER Bamber
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 9.1:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.2:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.3:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 9.4:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.5:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LP Goldsworthy
+    - 9.6:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 9.7:
+        non_striker: ARI Umeed
+        bowler: TS Roland-Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 10.1:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 10.2:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 10.3:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 10.4:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 10.5:
+        non_striker: ARI Umeed
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 10.6:
+        non_striker: ARI Umeed
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 11.1:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 11.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 11.3:
+        non_striker: ARI Umeed
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 11.4:
+        non_striker: ARI Umeed
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 11.5:
+        non_striker: ARI Umeed
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 11.6:
+        non_striker: ARI Umeed
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 12.1:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 12.2:
+        non_striker: ARI Umeed
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 12.3:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 12.4:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 12.5:
+        non_striker: ARI Umeed
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 12.6:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 13.1:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+        wicket:
+          player_out: ARI Umeed
+          fielders:
+          - JLB Davies
+          kind: stumped
+    - 13.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 13.3:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 13.4:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 13.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 13.6:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 14.1:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 14.2:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 14.3:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 14.4:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 14.5:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 14.6:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 15.1:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 15.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 15.3:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 15.4:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 15.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 15.6:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 16.1:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 16.2:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 16.3:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 16.4:
+        non_striker: JEK Rew
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 16.5:
+        non_striker: JEK Rew
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 16.6:
+        non_striker: LP Goldsworthy
+        bowler: HJH Brookes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 17.1:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 17.2:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 17.3:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 17.4:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 17.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 17.6:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 18.1:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 18.2:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 18.3:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 18.4:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 18.5:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 18.6:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 19.1:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.2:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.3:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.4:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 19.6:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 20.1:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 20.2:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 20.3:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 20.4:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 20.5:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 20.6:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LP Goldsworthy
+    - 21.1:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 21.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 21.3:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 21.4:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 21.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 21.6:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 22.1:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 22.2:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 22.3:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 22.4:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 22.5:
+        non_striker: LP Goldsworthy
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 22.6:
+        non_striker: JEK Rew
+        bowler: JM De Caires
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 23.1:
+        non_striker: JEK Rew
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 23.2:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 23.3:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 23.4:
+        non_striker: JEK Rew
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 23.5:
+        non_striker: JEK Rew
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LP Goldsworthy
+    - 23.6:
+        non_striker: JEK Rew
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LP Goldsworthy
+    - 24.1:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 24.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 24.3:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 24.4:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 24.5:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 24.6:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEK Rew
+    - 25.1:
+        non_striker: JEK Rew
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 25.2:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 25.3:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 25.4:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 25.5:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JEK Rew
+    - 25.6:
+        non_striker: LP Goldsworthy
+        bowler: N Fernandes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 26.1:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEK Rew
+    - 26.2:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JEK Rew
+    - 26.3:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEK Rew
+    - 26.4:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEK Rew
+    - 26.5:
+        non_striker: JEK Rew
+        bowler: LBK Hollman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LP Goldsworthy
+    - 26.6:
+        non_striker: LP Goldsworthy
+        bowler: LBK Hollman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JEK Rew

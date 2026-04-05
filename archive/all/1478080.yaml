@@ -1,0 +1,2128 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2025-07-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Munster Reds
+    by:
+      runs: 14
+  overs: 20
+  player_of_match:
+  - B White
+  players:
+    Munster Reds:
+    - S Modgil
+    - ST Doheny
+    - PJ Moor
+    - JC McNally
+    - PL le Roux
+    - K Hilton
+    - Suliman Safi
+    - L McCarthy
+    - Bakhtyar Nabi
+    - BD McDonough
+    - B White
+    Northern Knights:
+    - PR Stirling
+    - GR Adair
+    - C Carmichael
+    - M Topping
+    - NA Rock
+    - BF Calitz
+    - T Mayes
+    - SB Davey
+    - MJ Humphreys
+    - C Robertson
+    - A Kennedy
+  registry:
+    people:
+      A Kennedy: e8a063b3
+      B White: 1a448be0
+      BD McDonough: d2c250c8
+      BF Calitz: 24ad97e7
+      Bakhtyar Nabi: b29aa20f
+      C Carmichael: f3b158d9
+      C McGarry: fdf4ec77
+      C Robertson: d26de4de
+      G McCrea: 46f4a901
+      GR Adair: 4ec96094
+      JC McNally: 8614ffef
+      Jonathan Kennedy: f7ad4494
+      K Hilton: 9339830a
+      L McCarthy: 8eb2e2e6
+      M Hawthorne: ea123ee4
+      M Topping: 33f44dfc
+      MJ Humphreys: 2c54c49b
+      NA Rock: 43f4087c
+      PJ Moor: a1d3540a
+      PL le Roux: 3b9a7ca6
+      PR Stirling: cf494ffe
+      S Modgil: b95f28af
+      SB Davey: f45cd5c8
+      ST Doheny: 4992d6f6
+      Suliman Safi: f8b4fd5f
+      T Mayes: 9aedf23b
+  teams:
+  - Munster Reds
+  - Northern Knights
+  toss:
+    winner: Northern Knights
+    decision: field
+  umpires:
+  - C McGarry
+  - M Hawthorne
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ST Doheny
+        batsman: S Modgil
+    - 0.2:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ST Doheny
+        batsman: S Modgil
+    - 0.3:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 0.4:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Doheny
+    - 0.5:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          kind: bowled
+    - 0.6:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 0.7:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ Moor
+    - 0.8:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 1.1:
+        non_striker: PJ Moor
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+    - 1.2:
+        non_striker: PJ Moor
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Modgil
+    - 1.3:
+        non_striker: PJ Moor
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+    - 1.4:
+        non_striker: PJ Moor
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 1.5:
+        non_striker: S Modgil
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 1.6:
+        non_striker: S Modgil
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 2.1:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Moor
+    - 2.2:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 2.3:
+        non_striker: S Modgil
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 2.4:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+    - 2.5:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+    - 2.6:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 3.1:
+        non_striker: PJ Moor
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 3.2:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 3.3:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 3.4:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Moor
+    - 3.5:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ Moor
+    - 3.6:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 3.7:
+        non_striker: S Modgil
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 4.1:
+        non_striker: PJ Moor
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 4.2:
+        non_striker: S Modgil
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Moor
+    - 4.3:
+        non_striker: S Modgil
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 4.4:
+        non_striker: PJ Moor
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+    - 4.5:
+        non_striker: PJ Moor
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Modgil
+    - 4.6:
+        non_striker: PJ Moor
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Modgil
+    - 5.1:
+        non_striker: S Modgil
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 5.2:
+        non_striker: S Modgil
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 5.3:
+        non_striker: PJ Moor
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Modgil
+    - 5.4:
+        non_striker: PJ Moor
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Modgil
+    - 5.5:
+        non_striker: S Modgil
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Moor
+    - 5.6:
+        non_striker: S Modgil
+        bowler: C Robertson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ Moor
+    - 5.7:
+        non_striker: S Modgil
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Moor
+    - 6.1:
+        non_striker: PJ Moor
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Modgil
+        wicket:
+          player_out: S Modgil
+          kind: bowled
+    - 6.2:
+        non_striker: PJ Moor
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 6.3:
+        non_striker: JC McNally
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 6.4:
+        non_striker: PJ Moor
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 6.5:
+        non_striker: PJ Moor
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 6.6:
+        non_striker: JC McNally
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+        wicket:
+          player_out: PJ Moor
+          fielders:
+          - C Carmichael
+          kind: caught
+    - 7.1:
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PL le Roux
+        batsman: JC McNally
+    - 7.2:
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PL le Roux
+        batsman: JC McNally
+    - 7.3:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 7.4:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 7.5:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 7.6:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 8.1:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 8.2:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 8.3:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 8.4:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 8.5:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 8.6:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 9.1:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 9.2:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 9.3:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 9.4:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PL le Roux
+    - 9.5:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 9.6:
+        non_striker: JC McNally
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 9.7:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 10.1:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 10.2:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 10.3:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+        wicket:
+          player_out: JC McNally
+          fielders:
+          - T Mayes
+          kind: caught
+    - 10.4:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 10.5:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 10.6:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 11.1:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 11.2:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hilton
+    - 11.3:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 11.4:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PL le Roux
+    - 11.5:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 11.6:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 12.1:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hilton
+    - 12.2:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 12.3:
+        non_striker: K Hilton
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 12.4:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 12.5:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hilton
+    - 12.6:
+        non_striker: PL le Roux
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 13.1:
+        non_striker: K Hilton
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PL le Roux
+    - 13.2:
+        non_striker: K Hilton
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PL le Roux
+    - 13.3:
+        non_striker: K Hilton
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 13.4:
+        non_striker: K Hilton
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PL le Roux
+    - 13.5:
+        non_striker: K Hilton
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 13.6:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 14.1:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PL le Roux
+    - 14.2:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 14.3:
+        non_striker: PL le Roux
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hilton
+    - 14.4:
+        non_striker: PL le Roux
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 14.5:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 14.6:
+        non_striker: PL le Roux
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 15.1:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 15.2:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PL le Roux
+    - 15.3:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 15.4:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 15.5:
+        non_striker: PL le Roux
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 15.6:
+        non_striker: K Hilton
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PL le Roux
+    - 16.1:
+        non_striker: PL le Roux
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hilton
+    - 16.2:
+        non_striker: PL le Roux
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 16.3:
+        non_striker: K Hilton
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 16.4:
+        non_striker: PL le Roux
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hilton
+    - 16.5:
+        non_striker: PL le Roux
+        bowler: A Kennedy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Hilton
+    - 16.6:
+        non_striker: PL le Roux
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 16.7:
+        non_striker: K Hilton
+        bowler: A Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PL le Roux
+    - 17.1:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+        wicket:
+          player_out: K Hilton
+          fielders:
+          - NA Rock
+          kind: stumped
+    - 17.2:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suliman Safi
+    - 17.3:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Suliman Safi
+    - 17.4:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Suliman Safi
+    - 17.5:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suliman Safi
+        wicket:
+          player_out: Suliman Safi
+          fielders:
+          - T Mayes
+          kind: caught
+    - 17.6:
+        non_striker: PL le Roux
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 18.1:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+        wicket:
+          player_out: L McCarthy
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 18.2:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtyar Nabi
+    - 18.3:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bakhtyar Nabi
+        wicket:
+          player_out: Bakhtyar Nabi
+          kind: caught and bowled
+    - 18.4:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD McDonough
+    - 18.5:
+        non_striker: BD McDonough
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL le Roux
+    - 18.6:
+        non_striker: PL le Roux
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD McDonough
+    - 19.1:
+        non_striker: PL le Roux
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD McDonough
+    - 19.2:
+        non_striker: BD McDonough
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 19.3:
+        non_striker: BD McDonough
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 19.4:
+        non_striker: BD McDonough
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+    - 19.5:
+        non_striker: BD McDonough
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PL le Roux
+    - 19.6:
+        non_striker: BD McDonough
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL le Roux
+        wicket:
+          player_out: PL le Roux
+          kind: lbw
+- 2nd innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: BD McDonough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.2:
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.7:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: JC McNally
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GR Adair
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.3:
+        non_striker: GR Adair
+        bowler: JC McNally
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.5:
+        non_striker: GR Adair
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: GR Adair
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 3.6:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.1:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 4.3:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - L McCarthy
+          kind: caught
+    - 4.4:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 4.5:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 4.6:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+        wicket:
+          player_out: C Carmichael
+          fielders:
+          - Bakhtyar Nabi
+          kind: caught
+    - 5.1:
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Topping
+        batsman: GR Adair
+    - 5.2:
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Topping
+        batsman: GR Adair
+    - 5.3:
+        non_striker: GR Adair
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 5.4:
+        non_striker: GR Adair
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 5.5:
+        non_striker: GR Adair
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+        wicket:
+          player_out: M Topping
+          kind: bowled
+    - 5.6:
+        non_striker: GR Adair
+        bowler: BD McDonough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Rock
+    - 6.1:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 6.2:
+        non_striker: GR Adair
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Rock
+    - 6.3:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - Suliman Safi
+          kind: caught
+    - 6.4:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 6.5:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 6.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Calitz
+    - 7.1:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 7.2:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 7.3:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 7.4:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 7.5:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BF Calitz
+    - 7.6:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 8.1:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Calitz
+    - 8.2:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Calitz
+    - 8.3:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 8.4:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 8.5:
+        non_striker: BF Calitz
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 8.6:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 9.1:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 9.2:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 9.3:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 9.4:
+        non_striker: NA Rock
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 9.5:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 9.6:
+        non_striker: BF Calitz
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 10.1:
+        non_striker: BF Calitz
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 10.2:
+        non_striker: BF Calitz
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 10.3:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 10.4:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+        wicket:
+          player_out: BF Calitz
+          fielders:
+          - S Modgil
+          - K Hilton
+          kind: run out
+    - 10.5:
+        non_striker: NA Rock
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 10.6:
+        non_striker: T Mayes
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 11.1:
+        non_striker: T Mayes
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 11.2:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 11.3:
+        non_striker: T Mayes
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          kind: bowled
+    - 11.4:
+        non_striker: T Mayes
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 11.5:
+        non_striker: T Mayes
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 11.6:
+        non_striker: T Mayes
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 12.1:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+        wicket:
+          player_out: T Mayes
+          kind: bowled
+    - 12.2:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 12.3:
+        non_striker: MJ Humphreys
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 12.4:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 12.5:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Humphreys
+    - 12.6:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 13.1:
+        non_striker: SB Davey
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 13.2:
+        non_striker: MJ Humphreys
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 13.3:
+        non_striker: MJ Humphreys
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Davey
+    - 13.4:
+        non_striker: MJ Humphreys
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 13.5:
+        non_striker: SB Davey
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 13.6:
+        non_striker: MJ Humphreys
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 14.1:
+        non_striker: MJ Humphreys
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 14.2:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 14.3:
+        non_striker: MJ Humphreys
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Davey
+    - 14.4:
+        non_striker: MJ Humphreys
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 14.5:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MJ Humphreys
+    - 14.6:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Humphreys
+    - 14.7:
+        non_striker: SB Davey
+        bowler: Bakhtyar Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 15.1:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Davey
+    - 15.2:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 15.3:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 15.4:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Davey
+    - 15.5:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Davey
+    - 15.6:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 15.7:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 16.1:
+        non_striker: SB Davey
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+        wicket:
+          player_out: MJ Humphreys
+          fielders:
+          - Bakhtyar Nabi
+          kind: caught
+    - 16.2:
+        non_striker: SB Davey
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Robertson
+    - 16.3:
+        non_striker: SB Davey
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Robertson
+    - 16.4:
+        non_striker: C Robertson
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 16.5:
+        non_striker: SB Davey
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Robertson
+    - 16.6:
+        non_striker: SB Davey
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Robertson
+    - 17.1:
+        non_striker: SB Davey
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Robertson
+    - 17.2:
+        non_striker: SB Davey
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Robertson
+    - 17.3:
+        non_striker: C Robertson
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 17.4:
+        non_striker: SB Davey
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Robertson
+        wicket:
+          player_out: C Robertson
+          kind: bowled
+    - 17.5:
+        non_striker: SB Davey
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kennedy
+    - 17.6:
+        non_striker: SB Davey
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kennedy
+    - 18.1:
+        non_striker: A Kennedy
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 18.2:
+        non_striker: A Kennedy
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Davey
+    - 18.3:
+        non_striker: A Kennedy
+        bowler: BD McDonough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+        wicket:
+          player_out: SB Davey
+          kind: bowled

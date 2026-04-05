@@ -1,0 +1,1741 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Morrisville
+  competition: Major League Cricket
+  dates:
+  - '2024-07-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Texas Super Kings
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Mohammad Mohsin
+  players:
+    San Francisco Unicorns:
+    - FH Allen
+    - J Fraser-McGurk
+    - MW Short
+    - SP Krishnamurthi
+    - JP Inglis
+    - CJ Anderson
+    - Hassan Khan
+    - LE Plunkett
+    - Haris Rauf
+    - BL Couch
+    - Abrar Ahmed
+    Texas Super Kings:
+    - DP Conway
+    - F du Plessis
+    - AM Hardie
+    - J Tromp
+    - Milind Kumar
+    - MJ Santner
+    - CP Savage
+    - DJ Bravo
+    - Mohammad Mohsin
+    - Naveen-ul-Haq
+    - Zia-ul-Haq
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      AM Hardie: d405c0d5
+      Abrar Ahmed: abb7c76c
+      BL Couch: be69e09d
+      CJ Anderson: 8abdf100
+      CP Savage: a55e0360
+      DJ Bravo: 87e562a9
+      DP Conway: df5a6881
+      F du Plessis: 3355b542
+      FH Allen: bf74b130
+      Haris Rauf: 24bb1c2f
+      Hassan Khan: 486065b3
+      J Fraser-McGurk: 9b6e1b3f
+      J Tromp: fb501329
+      JJ Crowe: 2e760301
+      JP Inglis: 989889ff
+      LE Plunkett: 9a963804
+      M Erasmus: 15d3c895
+      MJ Santner: e4a0deae
+      MW Short: a90e53ec
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      Naveen-ul-Haq: c0c411cb
+      P Wilson: 68304a36
+      SP Krishnamurthi: 3b8e7647
+      Vijaya Mallela: 85b6244a
+      Zia-ul-Haq: 99c81226
+  teams:
+  - San Francisco Unicorns
+  - Texas Super Kings
+  toss:
+    winner: Texas Super Kings
+    decision: field
+  umpires:
+  - M Erasmus
+  - Vijaya Mallela
+  venue: Church Street Park, Morrisville
+innings:
+- 1st innings:
+    team: San Francisco Unicorns
+    deliveries:
+    - 0.1:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.2:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.3:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 0.4:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.5:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 0.6:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.7:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 1.1:
+        non_striker: J Fraser-McGurk
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.2:
+        non_striker: MW Short
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 1.3:
+        non_striker: J Fraser-McGurk
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.4:
+        non_striker: J Fraser-McGurk
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 1.5:
+        non_striker: J Fraser-McGurk
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.6:
+        non_striker: J Fraser-McGurk
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.1:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 2.2:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 2.3:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 2.4:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Fraser-McGurk
+    - 2.5:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 2.6:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          kind: bowled
+    - 2.7:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 3.1:
+        non_striker: MW Short
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 3.2:
+        non_striker: SP Krishnamurthi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 3.3:
+        non_striker: MW Short
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 3.4:
+        non_striker: SP Krishnamurthi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 3.5:
+        non_striker: SP Krishnamurthi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 3.6:
+        non_striker: SP Krishnamurthi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 4.1:
+        non_striker: SP Krishnamurthi
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 4.2:
+        non_striker: SP Krishnamurthi
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 4.3:
+        non_striker: SP Krishnamurthi
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 4.4:
+        non_striker: SP Krishnamurthi
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 4.5:
+        non_striker: SP Krishnamurthi
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 4.6:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 4.7:
+        non_striker: MW Short
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 5.1:
+        non_striker: MW Short
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 5.2:
+        non_striker: MW Short
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 5.3:
+        non_striker: SP Krishnamurthi
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - CP Savage
+          kind: caught
+    - 5.4:
+        non_striker: SP Krishnamurthi
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 5.5:
+        non_striker: JP Inglis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 5.6:
+        non_striker: JP Inglis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 6.1:
+        non_striker: JP Inglis
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 6.2:
+        non_striker: JP Inglis
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 6.3:
+        non_striker: SP Krishnamurthi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - Naveen-ul-Haq
+          kind: caught
+    - 6.4:
+        non_striker: SP Krishnamurthi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 6.5:
+        non_striker: CJ Anderson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          fielders:
+          - DP Conway
+          kind: caught
+    - 6.6:
+        non_striker: CJ Anderson
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Khan
+    - 6.7:
+        non_striker: CJ Anderson
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 7.1:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 7.2:
+        non_striker: CJ Anderson
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 7.3:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 7.4:
+        non_striker: CJ Anderson
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 7.5:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+        wicket:
+          player_out: CJ Anderson
+          kind: lbw
+    - 7.6:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Plunkett
+        wicket:
+          player_out: LE Plunkett
+          kind: bowled
+    - 8.1:
+        non_striker: Haris Rauf
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 8.2:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 8.3:
+        non_striker: Haris Rauf
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 8.4:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Haris Rauf
+    - 8.5:
+        non_striker: Haris Rauf
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 8.6:
+        non_striker: Haris Rauf
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 9.1:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.2:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.3:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.4:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.5:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.6:
+        non_striker: Haris Rauf
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 10.1:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 10.2:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 10.3:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 10.4:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 10.5:
+        non_striker: Haris Rauf
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Khan
+    - 10.6:
+        non_striker: Haris Rauf
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 10.7:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 11.1:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 11.2:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 11.3:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 11.4:
+        non_striker: Haris Rauf
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 11.5:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 11.6:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 12.1:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haris Rauf
+    - 12.2:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haris Rauf
+    - 12.3:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haris Rauf
+    - 12.4:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haris Rauf
+    - 12.5:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 12.6:
+        non_striker: Haris Rauf
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 12.7:
+        non_striker: Hassan Khan
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 12.8:
+        non_striker: Haris Rauf
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 13.1:
+        non_striker: Hassan Khan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 13.2:
+        non_striker: Hassan Khan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 13.3:
+        non_striker: Hassan Khan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 13.4:
+        non_striker: Hassan Khan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+        wicket:
+          player_out: Haris Rauf
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 13.5:
+        non_striker: Hassan Khan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Couch
+    - 13.6:
+        non_striker: BL Couch
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 14.1:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Couch
+    - 14.2:
+        non_striker: BL Couch
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.3:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 14.4:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 14.5:
+        non_striker: Hassan Khan
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Couch
+    - 14.6:
+        non_striker: BL Couch
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 15.1:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 15.2:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 15.3:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Couch
+    - 15.4:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 15.5:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+        wicket:
+          player_out: Hassan Khan
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 15.6:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abrar Ahmed
+    - 16.1:
+        non_striker: BL Couch
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abrar Ahmed
+    - 16.2:
+        non_striker: Abrar Ahmed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Couch
+    - 16.3:
+        non_striker: BL Couch
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abrar Ahmed
+    - 16.4:
+        non_striker: BL Couch
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abrar Ahmed
+    - 16.5:
+        non_striker: Abrar Ahmed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 16.6:
+        non_striker: Abrar Ahmed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 17.1:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abrar Ahmed
+    - 17.2:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abrar Ahmed
+    - 17.3:
+        non_striker: Abrar Ahmed
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Couch
+    - 17.4:
+        non_striker: Abrar Ahmed
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Couch
+    - 17.5:
+        non_striker: BL Couch
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abrar Ahmed
+        wicket:
+          player_out: Abrar Ahmed
+          kind: lbw
+- 2nd innings:
+    team: Texas Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.2:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.1:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.3:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.5:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.7:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 2.1:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.4:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.1:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.4:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F du Plessis
+    - 3.7:
+        non_striker: DP Conway
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 4.3:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.4:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 4.5:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - MW Short
+          kind: caught
+    - 4.6:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 5.1:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.2:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.3:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.4:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 5.5:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.6:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.1:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 6.2:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 6.3:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.4:
+        non_striker: AM Hardie
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 6.5:
+        non_striker: AM Hardie
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.6:
+        non_striker: DP Conway
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.7:
+        non_striker: AM Hardie
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.1:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 7.2:
+        non_striker: AM Hardie
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 7.3:
+        non_striker: AM Hardie
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.4:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 7.5:
+        non_striker: AM Hardie
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.6:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Hardie
+    - 7.7:
+        non_striker: DP Conway
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 8.1:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Hardie
+    - 8.2:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 8.3:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.4:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 8.5:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: retired hurt
+    - 8.6:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 9.1:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 9.2:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 9.3:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 9.4:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 9.5:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 9.6:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.1:
+        non_striker: AM Hardie
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.2:
+        non_striker: J Tromp
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Hardie
+    - 10.3:
+        non_striker: J Tromp
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 10.4:
+        non_striker: AM Hardie
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.5:
+        non_striker: J Tromp
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 10.6:
+        non_striker: J Tromp
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Hardie
+    - 11.1:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+        wicket:
+          player_out: J Tromp
+          fielders:
+          - BL Couch
+          kind: caught
+    - 11.2:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 11.3:
+        non_striker: Milind Kumar
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+        wicket:
+          player_out: AM Hardie
+          fielders:
+          - FH Allen
+          kind: caught
+    - 11.4:
+        non_striker: Milind Kumar
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.5:
+        non_striker: MJ Santner
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 11.6:
+        non_striker: Milind Kumar
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: MJ Santner
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 12.2:
+        non_striker: MJ Santner
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.3:
+        non_striker: Milind Kumar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.4:
+        non_striker: MJ Santner
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.5:
+        non_striker: Milind Kumar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner

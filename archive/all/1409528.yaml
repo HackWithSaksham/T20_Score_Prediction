@@ -1,0 +1,2168 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Women's Super Smash
+  dates:
+  - '2024-01-14'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      runs: 9
+  overs: 20
+  players:
+    Auckland:
+    - S Shahri
+    - IC Gaze
+    - ML Green
+    - P Catton
+    - AS Browning
+    - BG Armstrong
+    - JO Penfold
+    - MM Penfold
+    - AT Hucker
+    - FC Jonas
+    - BG Illing
+    Otago:
+    - SW Bates
+    - IR James
+    - FC Leydon-Davis
+    - PM Inglis
+    - CG Blakely
+    - ON Gain
+    - HNK Jensen
+    - LCN Smith
+    - EJ Carson
+    - EJ Black
+    - ME Loe
+  registry:
+    people:
+      AS Browning: c4c97b51
+      AT Hucker: 9b554bb9
+      BF Bowden: efc0a862
+      BG Armstrong: eca08a1d
+      BG Illing: 80a0cd77
+      CG Blakely: 8f999ed5
+      EJ Black: 2817e17a
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      FC Leydon-Davis: b91efad5
+      GG Pennell: d9376677
+      HNK Jensen: b8cce99f
+      IC Gaze: 60c250bf
+      IR James: 57bdbc16
+      JD Birchall: 6ac472fb
+      JO Penfold: 321ea9e8
+      LCN Smith: 340202b0
+      ME Loe: 37f93dc8
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      ON Gain: '67913804'
+      P Catton: 22e8ba50
+      PM Inglis: e4a71d18
+      S Shahri: c28355cd
+      SRM Morris: 74b402c6
+      SW Bates: 89bbc67a
+      TJ Parlane: 3cfc24b0
+  teams:
+  - Auckland
+  - Otago
+  toss:
+    winner: Otago
+    decision: field
+  umpires:
+  - BF Bowden
+  - TJ Parlane
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IC Gaze
+        batsman: S Shahri
+    - 0.2:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 0.3:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 0.4:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 0.5:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 0.6:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          fielders:
+          - LCN Smith
+          kind: caught
+    - 1.1:
+        bowler: HNK Jensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.2:
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.3:
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.4:
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.5:
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.6:
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: S Shahri
+    - 1.7:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+        wicket:
+          player_out: S Shahri
+          fielders:
+          - EJ Black
+          kind: caught
+    - 2.1:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: ML Green
+    - 2.2:
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Catton
+        batsman: ML Green
+    - 2.3:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: ML Green
+    - 2.4:
+        bowler: EJ Black
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: P Catton
+        batsman: ML Green
+    - 2.5:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Catton
+        batsman: ML Green
+    - 2.6:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.7:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 2.8:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 3.1:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.2:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.3:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.4:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.5:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.6:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.1:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 4.2:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.3:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 4.4:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.5:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 4.6:
+        non_striker: P Catton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 4.7:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.1:
+        non_striker: P Catton
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.2:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.3:
+        non_striker: ML Green
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Catton
+    - 5.4:
+        non_striker: P Catton
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 5.5:
+        non_striker: P Catton
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 5.6:
+        non_striker: P Catton
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 6.1:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 6.2:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 6.3:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 6.4:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 6.5:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 6.6:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 7.1:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 7.2:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.3:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 7.4:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.5:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 7.6:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.1:
+        non_striker: P Catton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 8.2:
+        non_striker: P Catton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.3:
+        non_striker: P Catton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.4:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 8.5:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.6:
+        non_striker: P Catton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.1:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.2:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 9.3:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 9.4:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 9.5:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.6:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 10.1:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 10.2:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.3:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 10.4:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.5:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.6:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 11.1:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 11.2:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 11.3:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.4:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 11.5:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.6:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 12.1:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 12.2:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 12.3:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 12.5:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 12.6:
+        non_striker: P Catton
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.1:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 13.2:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.3:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 13.4:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 13.5:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 13.6:
+        non_striker: P Catton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.1:
+        non_striker: P Catton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.2:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 14.3:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 14.4:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 14.5:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 14.6:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 15.1:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.2:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 15.3:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 15.4:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 15.5:
+        non_striker: P Catton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.6:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+        wicket:
+          player_out: P Catton
+          kind: bowled
+    - 16.1:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AS Browning
+        batsman: ML Green
+    - 16.2:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 16.3:
+        non_striker: AS Browning
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 16.4:
+        non_striker: AS Browning
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.5:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 16.6:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 17.1:
+        non_striker: AS Browning
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 17.2:
+        non_striker: AS Browning
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.3:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: AS Browning
+    - 17.4:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Browning
+    - 17.5:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 17.6:
+        non_striker: AS Browning
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 18.1:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+        wicket:
+          player_out: AS Browning
+          fielders:
+          - SW Bates
+          kind: caught
+    - 18.2:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          fielders:
+          - EJ Carson
+          kind: run out
+    - 18.3:
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JO Penfold
+        batsman: ML Green
+    - 18.4:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Penfold
+    - 18.5:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 18.6:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 18.7:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+        wicket:
+          player_out: JO Penfold
+          fielders:
+          - PM Inglis
+          - LCN Smith
+          kind: run out
+    - 19.1:
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MM Penfold
+        batsman: ML Green
+    - 19.2:
+        non_striker: ML Green
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 19.3:
+        non_striker: MM Penfold
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 19.4:
+        non_striker: MM Penfold
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 19.5:
+        non_striker: MM Penfold
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 19.6:
+        non_striker: MM Penfold
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.2:
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.3:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.4:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.5:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.6:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IR James
+        batsman: SW Bates
+    - 0.7:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 0.8:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 1.1:
+        non_striker: FC Leydon-Davis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.2:
+        non_striker: FC Leydon-Davis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.3:
+        non_striker: FC Leydon-Davis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.4:
+        non_striker: FC Leydon-Davis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 1.5:
+        non_striker: FC Leydon-Davis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.6:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 2.1:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 2.2:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 2.3:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 2.4:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 2.5:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 2.6:
+        non_striker: FC Leydon-Davis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 3.1:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Leydon-Davis
+    - 3.2:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 3.3:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+        wicket:
+          player_out: FC Leydon-Davis
+          kind: bowled
+    - 3.4:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.5:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.6:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.7:
+        non_striker: SW Bates
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 4.1:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 4.2:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          fielders:
+          - JO Penfold
+          kind: caught
+    - 4.3:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 4.4:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 4.5:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.6:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 5.2:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 5.3:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 5.4:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 5.5:
+        non_striker: SW Bates
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 5.6:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.1:
+        non_striker: SW Bates
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 6.2:
+        non_striker: CG Blakely
+        bowler: JO Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 6.3:
+        non_striker: CG Blakely
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.4:
+        non_striker: SW Bates
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CG Blakely
+    - 6.5:
+        non_striker: CG Blakely
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.6:
+        non_striker: SW Bates
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 6.7:
+        non_striker: CG Blakely
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.1:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 7.2:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 7.3:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.4:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 7.5:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.6:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 8.1:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: bowled
+    - 8.2:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 8.3:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 8.4:
+        non_striker: ON Gain
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 8.5:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+        wicket:
+          player_out: ON Gain
+          kind: lbw
+    - 8.6:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HNK Jensen
+    - 9.1:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 9.2:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 9.3:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 9.4:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 9.5:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 9.6:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HNK Jensen
+    - 10.1:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 10.2:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 10.3:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 10.4:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 10.5:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 10.6:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 11.1:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 11.2:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 11.3:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 11.4:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 11.5:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 11.6:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 12.1:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 12.2:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 12.3:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 12.4:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 12.5:
+        non_striker: HNK Jensen
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 12.6:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 13.1:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 13.2:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 13.3:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HNK Jensen
+    - 13.4:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 13.5:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 13.6:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 14.1:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CG Blakely
+    - 14.2:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 14.3:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 14.4:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 14.5:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 14.6:
+        non_striker: HNK Jensen
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 15.1:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 15.2:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CG Blakely
+    - 15.3:
+        non_striker: HNK Jensen
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.4:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          kind: bowled
+    - 15.5:
+        non_striker: CG Blakely
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LCN Smith
+    - 15.6:
+        non_striker: LCN Smith
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 16.1:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 16.2:
+        non_striker: LCN Smith
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 16.3:
+        non_striker: LCN Smith
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 16.4:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 16.5:
+        non_striker: LCN Smith
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 16.6:
+        non_striker: LCN Smith
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 17.1:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 17.2:
+        non_striker: LCN Smith
+        bowler: MM Penfold
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CG Blakely
+    - 17.3:
+        non_striker: LCN Smith
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.4:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 17.5:
+        non_striker: LCN Smith
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.6:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 18.1:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 18.2:
+        non_striker: LCN Smith
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.3:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LCN Smith
+    - 18.4:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LCN Smith
+        wicket:
+          player_out: LCN Smith
+          fielders:
+          - P Catton
+          kind: caught
+    - 18.5:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 18.6:
+        non_striker: EJ Carson
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 19.1:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 19.2:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 19.3:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 19.4:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 19.5:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+        wicket:
+          player_out: EJ Carson
+          fielders:
+          - ML Green
+          kind: caught
+    - 19.6:
+        non_striker: CG Blakely
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black

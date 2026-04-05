@@ -1,0 +1,2241 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: CSA T20 Challenge
+  dates:
+  - '2024-10-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Lions
+    by:
+      runs: 9
+  overs: 20
+  players:
+    Lions:
+    - J Richards
+    - W Makwetu
+    - Zubayr Hamza
+    - M Van Buuren
+    - D Potgieter
+    - C Esterhuizen
+    - E Jones
+    - Codi Yusuf
+    - TL Moreki
+    - KT Maphaka
+    - J Dawood
+    Dolphins:
+    - B Parsons
+    - K Zondo
+    - MJ Ackerman
+    - JT Smuts
+    - TA Dithole
+    - BG Porteous
+    - A Simelane
+    - RS Pillay
+    - P Subrayen
+    - DM Dupavillon
+    - O Cele
+  registry:
+    people:
+      A Olivier: ccc12fa6
+      A Simelane: ebb74564
+      B Parsons: fc60e81a
+      BG Porteous: 3a661be2
+      BM White: 66c21d35
+      C Esterhuizen: ef9acbcc
+      CD Isaacs: c0215bbd
+      Codi Yusuf: f2397e48
+      D Potgieter: 60fbf53a
+      DM Dupavillon: 7cb2d9d2
+      E Jones: fbfea9c2
+      J Dawood: a2316f90
+      J Richards: '15531194'
+      JT Smuts: 42172c3c
+      K Ntuli: 12244a35
+      K Zondo: 4aad78d3
+      KT Maphaka: 107c26fb
+      M Van Buuren: 46e4a4e0
+      MJ Ackerman: 6287d981
+      O Cele: 6e5840e3
+      P Subrayen: 7ec9711d
+      RS Pillay: 29bcd46c
+      TA Dithole: 876bec53
+      TL Moreki: 36ea17c1
+      W Makwetu: ae53180e
+      Zubayr Hamza: 22feee04
+  teams:
+  - Lions
+  - Dolphins
+  toss:
+    winner: Lions
+    decision: bat
+  umpires:
+  - A Olivier
+  - BM White
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        non_striker: W Makwetu
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 0.2:
+        non_striker: W Makwetu
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Richards
+    - 0.3:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Makwetu
+    - 0.4:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Makwetu
+    - 0.5:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Makwetu
+    - 0.6:
+        non_striker: W Makwetu
+        bowler: DM Dupavillon
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: J Richards
+    - 0.7:
+        non_striker: W Makwetu
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 1.1:
+        non_striker: J Richards
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Makwetu
+        wicket:
+          player_out: W Makwetu
+          fielders:
+          - TA Dithole
+          kind: caught
+    - 1.2:
+        non_striker: J Richards
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 1.3:
+        non_striker: J Richards
+        bowler: O Cele
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 1.4:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 1.5:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 1.6:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 2.1:
+        non_striker: J Richards
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubayr Hamza
+    - 2.2:
+        non_striker: J Richards
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 2.3:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 2.4:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Richards
+    - 2.5:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 2.6:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 3.1:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 3.2:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 3.3:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 3.4:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 3.5:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 3.6:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 4.1:
+        non_striker: Zubayr Hamza
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 4.2:
+        non_striker: Zubayr Hamza
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Richards
+    - 4.3:
+        non_striker: Zubayr Hamza
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 4.4:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 4.5:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 4.6:
+        non_striker: J Richards
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 5.1:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 5.2:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Richards
+    - 5.3:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 5.4:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Richards
+    - 5.5:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: J Richards
+    - 5.6:
+        non_striker: Zubayr Hamza
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 5.7:
+        non_striker: J Richards
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 6.1:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 6.2:
+        non_striker: J Richards
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 6.3:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Richards
+    - 6.4:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 6.5:
+        non_striker: J Richards
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 6.6:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 7.1:
+        non_striker: J Richards
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubayr Hamza
+    - 7.2:
+        non_striker: J Richards
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 7.3:
+        non_striker: J Richards
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 7.4:
+        non_striker: Zubayr Hamza
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Richards
+    - 7.5:
+        non_striker: Zubayr Hamza
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+    - 7.6:
+        non_striker: Zubayr Hamza
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Richards
+    - 8.1:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Richards
+        wicket:
+          player_out: J Richards
+          fielders:
+          - B Parsons
+          kind: caught
+    - 8.2:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 8.3:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 8.4:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Van Buuren
+    - 8.5:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 8.6:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.1:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 9.2:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 9.3:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: M Van Buuren
+    - 9.4:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 9.5:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.6:
+        non_striker: M Van Buuren
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 9.7:
+        non_striker: Zubayr Hamza
+        bowler: RS Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 10.1:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 10.2:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 10.3:
+        non_striker: M Van Buuren
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 10.4:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+        wicket:
+          player_out: M Van Buuren
+          fielders:
+          - TA Dithole
+          kind: caught
+    - 10.5:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 10.6:
+        non_striker: Zubayr Hamza
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.1:
+        non_striker: Zubayr Hamza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 11.2:
+        non_striker: Zubayr Hamza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.3:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubayr Hamza
+    - 11.4:
+        non_striker: Zubayr Hamza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.5:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+        wicket:
+          player_out: Zubayr Hamza
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 11.6:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 12.1:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 12.2:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 12.3:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 12.4:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 12.5:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 12.6:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 13.1:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Esterhuizen
+    - 13.2:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 13.3:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 13.4:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 13.5:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 13.6:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 14.1:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 14.2:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 14.3:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 14.4:
+        non_striker: C Esterhuizen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 14.5:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 14.6:
+        non_striker: D Potgieter
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 15.1:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 15.2:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 15.3:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 15.4:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 15.5:
+        non_striker: D Potgieter
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 15.6:
+        non_striker: C Esterhuizen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 16.1:
+        non_striker: C Esterhuizen
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 16.2:
+        non_striker: C Esterhuizen
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 16.3:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Esterhuizen
+    - 16.4:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+        wicket:
+          player_out: C Esterhuizen
+          fielders:
+          - O Cele
+          kind: caught
+    - 16.5:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 16.6:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 17.1:
+        non_striker: E Jones
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.2:
+        non_striker: D Potgieter
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 17.3:
+        non_striker: D Potgieter
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.4:
+        non_striker: E Jones
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.5:
+        non_striker: D Potgieter
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.6:
+        non_striker: E Jones
+        bowler: O Cele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.1:
+        non_striker: E Jones
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.2:
+        non_striker: D Potgieter
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 18.3:
+        non_striker: D Potgieter
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 18.4:
+        non_striker: E Jones
+        bowler: A Simelane
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 18.5:
+        non_striker: E Jones
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 18.6:
+        non_striker: E Jones
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.7:
+        non_striker: D Potgieter
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 19.1:
+        non_striker: E Jones
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.2:
+        non_striker: E Jones
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 19.3:
+        non_striker: E Jones
+        bowler: DM Dupavillon
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 19.4:
+        non_striker: E Jones
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.5:
+        non_striker: E Jones
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 19.6:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: E Jones
+    - 19.7:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 19.8:
+        non_striker: D Potgieter
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+- 2nd innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Parsons
+    - 0.2:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Parsons
+    - 0.3:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Parsons
+        wicket:
+          player_out: B Parsons
+          kind: bowled
+    - 0.4:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ackerman
+    - 0.5:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 0.6:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 1.1:
+        non_striker: MJ Ackerman
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 1.2:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 1.3:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 1.4:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ackerman
+    - 1.5:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ackerman
+    - 1.6:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ackerman
+    - 2.1:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ackerman
+    - 2.2:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 2.3:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: K Zondo
+    - 2.4:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 2.5:
+        non_striker: MJ Ackerman
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 2.6:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 2.7:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ackerman
+    - 3.1:
+        non_striker: MJ Ackerman
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 3.2:
+        non_striker: MJ Ackerman
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 3.3:
+        non_striker: MJ Ackerman
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 3.4:
+        non_striker: JT Smuts
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: JT Smuts
+            out: K Zondo
+            reason: injury
+            role: batter
+        batsman: MJ Ackerman
+    - 3.5:
+        non_striker: JT Smuts
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 3.6:
+        non_striker: JT Smuts
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ackerman
+    - 4.1:
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.2:
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.3:
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.4:
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.5:
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.6:
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 4.7:
+        non_striker: JT Smuts
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: MJ Ackerman
+    - 4.8:
+        non_striker: JT Smuts
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ackerman
+    - 5.1:
+        non_striker: JT Smuts
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 5.2:
+        non_striker: JT Smuts
+        bowler: Codi Yusuf
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: MJ Ackerman
+    - 5.3:
+        non_striker: JT Smuts
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ackerman
+    - 5.4:
+        bowler: Codi Yusuf
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 5.5:
+        non_striker: JT Smuts
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        batsman: MJ Ackerman
+    - 5.6:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 5.7:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 5.8:
+        bowler: Codi Yusuf
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 5.9:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Ackerman
+        batsman: JT Smuts
+    - 6.1:
+        non_striker: JT Smuts
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Ackerman
+    - 6.2:
+        non_striker: JT Smuts
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Ackerman
+    - 6.3:
+        non_striker: JT Smuts
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ackerman
+        wicket:
+          player_out: MJ Ackerman
+          fielders:
+          - W Makwetu
+          kind: stumped
+    - 6.4:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JT Smuts
+        batsman: TA Dithole
+    - 6.5:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JT Smuts
+        batsman: TA Dithole
+    - 6.6:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JT Smuts
+        batsman: TA Dithole
+    - 7.1:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JT Smuts
+        batsman: TA Dithole
+    - 7.2:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JT Smuts
+        batsman: TA Dithole
+    - 7.3:
+        non_striker: TA Dithole
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - W Makwetu
+          kind: caught
+    - 7.4:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: BG Porteous
+        wicket:
+          player_out: BG Porteous
+          kind: bowled
+    - 7.5:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: A Simelane
+    - 7.6:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: A Simelane
+    - 8.1:
+        non_striker: A Simelane
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 8.2:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: A Simelane
+    - 8.3:
+        non_striker: A Simelane
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+    - 8.4:
+        non_striker: A Simelane
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Dithole
+    - 8.5:
+        non_striker: A Simelane
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 8.6:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: A Simelane
+        wicket:
+          player_out: A Simelane
+          fielders:
+          - Zubayr Hamza
+          kind: caught
+    - 9.1:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Dithole
+    - 9.2:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+    - 9.3:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+    - 9.4:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Dithole
+    - 9.5:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: TA Dithole
+    - 9.6:
+        non_striker: RS Pillay
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 9.7:
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 10.1:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 10.2:
+        non_striker: RS Pillay
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 10.3:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 10.4:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 10.5:
+        non_striker: RS Pillay
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Dithole
+    - 10.6:
+        non_striker: RS Pillay
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 11.1:
+        non_striker: RS Pillay
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Dithole
+    - 11.2:
+        non_striker: RS Pillay
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dithole
+    - 11.3:
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 11.4:
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 11.5:
+        non_striker: RS Pillay
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+    - 11.6:
+        non_striker: RS Pillay
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Dithole
+    - 12.1:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 12.2:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Dithole
+        batsman: RS Pillay
+    - 12.3:
+        non_striker: RS Pillay
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+        wicket:
+          player_out: TA Dithole
+          fielders:
+          - Zubayr Hamza
+          kind: caught
+    - 12.4:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Pillay
+        batsman: P Subrayen
+    - 12.5:
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RS Pillay
+        batsman: P Subrayen
+    - 12.6:
+        non_striker: P Subrayen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Pillay
+    - 13.1:
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Pillay
+        batsman: P Subrayen
+    - 13.2:
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RS Pillay
+        batsman: P Subrayen
+    - 13.3:
+        non_striker: P Subrayen
+        bowler: E Jones
+        extras:
+          legbyes: 4
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        batsman: RS Pillay
+    - 13.4:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Pillay
+    - 13.5:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Pillay
+    - 13.6:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Pillay
+    - 14.1:
+        non_striker: P Subrayen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Pillay
+    - 14.2:
+        non_striker: P Subrayen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Pillay
+        wicket:
+          player_out: RS Pillay
+          fielders:
+          - E Jones
+          kind: caught
+    - 14.3:
+        non_striker: P Subrayen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 14.4:
+        non_striker: P Subrayen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 14.5:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+    - 14.6:
+        non_striker: K Zondo
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 15.1:
+        non_striker: P Subrayen
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: K Zondo
+    - 15.2:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 15.3:
+        non_striker: P Subrayen
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: K Zondo
+    - 15.4:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 15.5:
+        non_striker: K Zondo
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 15.6:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 15.7:
+        non_striker: K Zondo
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: P Subrayen
+    - 15.8:
+        non_striker: K Zondo
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 15.9:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 16.1:
+        non_striker: P Subrayen
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 16.2:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 16.3:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 16.4:
+        non_striker: P Subrayen
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 16.5:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Subrayen
+    - 16.6:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 17.1:
+        non_striker: K Zondo
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+    - 17.2:
+        non_striker: K Zondo
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 17.3:
+        non_striker: P Subrayen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 17.4:
+        non_striker: K Zondo
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 17.5:
+        non_striker: K Zondo
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 17.6:
+        non_striker: K Zondo
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 18.1:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Subrayen
+    - 18.2:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 18.3:
+        non_striker: P Subrayen
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 18.4:
+        non_striker: P Subrayen
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 18.5:
+        non_striker: P Subrayen
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 18.6:
+        non_striker: K Zondo
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+    - 19.1:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 19.2:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 19.3:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          fielders:
+          - W Makwetu
+          kind: caught
+    - 19.4:
+        non_striker: P Subrayen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Dupavillon
+    - 19.5:
+        non_striker: DM Dupavillon
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 19.6:
+        non_striker: DM Dupavillon
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen

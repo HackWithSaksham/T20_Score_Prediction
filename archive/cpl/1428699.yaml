@@ -1,0 +1,1847 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Providence
+  competition: Caribbean Premier League
+  dates:
+  - '2024-09-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: St Lucia Kings
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - AS Joseph
+  players:
+    Barbados Royals:
+    - RRS Cornwall
+    - Q de Kock
+    - K Alleyne
+    - A Athanaze
+    - R Powell
+    - JO Holder
+    - DA Miller
+    - NRJ Young
+    - KA Maharaj
+    - M Theekshana
+    - OC McCoy
+    St Lucia Kings:
+    - F du Plessis
+    - J Charles
+    - AWJ Auguste
+    - RL Chase
+    - TL Seifert
+    - Aaron Jones
+    - D Wiese
+    - K Pierre
+    - M Govia
+    - AS Joseph
+    - Noor Ahmad
+  registry:
+    people:
+      A Athanaze: 58c2fac4
+      AS Joseph: b0946605
+      AWJ Auguste: 4b167ede
+      Aaron Jones: 17aa4f1d
+      CM Tuckett: a67252f0
+      D Wiese: aa8d28ae
+      DA Miller: d67d5f00
+      F du Plessis: 3355b542
+      GO Brathwaite: 1ace56d4
+      J Charles: '09a9d073'
+      JO Holder: 0f721006
+      K Alleyne: 6b07035d
+      K Pierre: a61bcb94
+      KA Maharaj: 0b60eb09
+      LS Reifer: 5dee559a
+      M Govia: 4ef73fb3
+      M Theekshana: f24c6701
+      NRJ Young: 9cab5daf
+      Noor Ahmad: efc04be7
+      OC McCoy: 529eb9e0
+      Q de Kock: 372455c4
+      R Powell: 650d5e49
+      RL Chase: 3feda4fa
+      RRS Cornwall: c4d9634c
+      Reon King: 20fbf68c
+      TL Seifert: 4663bd23
+      Zahid Bassarath: ca6bf044
+  teams:
+  - Barbados Royals
+  - St Lucia Kings
+  toss:
+    winner: Barbados Royals
+    decision: bat
+  umpires:
+  - CM Tuckett
+  - GO Brathwaite
+  venue: Providence Stadium, Guyana
+innings:
+- 1st innings:
+    team: Barbados Royals
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RRS Cornwall
+    - 0.2:
+        non_striker: RRS Cornwall
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RRS Cornwall
+    - 0.4:
+        non_striker: RRS Cornwall
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: RRS Cornwall
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RRS Cornwall
+    - 1.1:
+        non_striker: RRS Cornwall
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 1.2:
+        non_striker: RRS Cornwall
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Alleyne
+    - 1.3:
+        non_striker: RRS Cornwall
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Alleyne
+    - 1.4:
+        non_striker: K Alleyne
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RRS Cornwall
+    - 1.5:
+        non_striker: K Alleyne
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RRS Cornwall
+        wicket:
+          player_out: RRS Cornwall
+          fielders:
+          - D Wiese
+          kind: caught
+    - 1.6:
+        non_striker: K Alleyne
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Athanaze
+    - 2.1:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+        wicket:
+          player_out: K Alleyne
+          fielders:
+          - M Govia
+          kind: caught
+    - 2.2:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.3:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Powell
+    - 2.4:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 2.5:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.6:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.7:
+        non_striker: A Athanaze
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 2.8:
+        non_striker: R Powell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 3.1:
+        non_striker: A Athanaze
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          kind: lbw
+    - 3.2:
+        non_striker: A Athanaze
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 3.3:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 3.4:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 3.5:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 3.6:
+        non_striker: A Athanaze
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 4.1:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.2:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.3:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.4:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 4.5:
+        non_striker: A Athanaze
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 4.6:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 5.1:
+        non_striker: A Athanaze
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.2:
+        non_striker: A Athanaze
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.3:
+        non_striker: A Athanaze
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.4:
+        non_striker: A Athanaze
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.5:
+        non_striker: A Athanaze
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 5.6:
+        non_striker: JO Holder
+        bowler: K Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Athanaze
+    - 5.7:
+        non_striker: JO Holder
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Athanaze
+    - 6.1:
+        non_striker: A Athanaze
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 6.2:
+        non_striker: JO Holder
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 6.3:
+        non_striker: JO Holder
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 6.4:
+        non_striker: A Athanaze
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 6.5:
+        non_striker: JO Holder
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 6.6:
+        non_striker: A Athanaze
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 7.1:
+        non_striker: A Athanaze
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 7.2:
+        non_striker: A Athanaze
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 7.3:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+        wicket:
+          player_out: A Athanaze
+          kind: lbw
+    - 7.4:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 7.5:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 7.6:
+        non_striker: JO Holder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.1:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.2:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.3:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 8.4:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.5:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.6:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 9.1:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 9.2:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 9.3:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 9.4:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 9.5:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 9.6:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 10.1:
+        non_striker: JO Holder
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.2:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 10.3:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 10.4:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          kind: lbw
+    - 10.5:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Young
+    - 10.6:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Young
+        wicket:
+          player_out: NRJ Young
+          fielders:
+          - AWJ Auguste
+          kind: caught
+    - 11.1:
+        non_striker: KA Maharaj
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.2:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 11.3:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 11.4:
+        non_striker: KA Maharaj
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.5:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 11.6:
+        non_striker: DA Miller
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 12.1:
+        non_striker: KA Maharaj
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.2:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 12.3:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 12.4:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 12.5:
+        non_striker: DA Miller
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 12.6:
+        non_striker: KA Maharaj
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.1:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.2:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 13.3:
+        non_striker: KA Maharaj
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.4:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.5:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.6:
+        non_striker: DA Miller
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 14.1:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.2:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.3:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.4:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.5:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.6:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 15.1:
+        non_striker: DA Miller
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 15.2:
+        non_striker: KA Maharaj
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.3:
+        non_striker: DA Miller
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 15.4:
+        non_striker: KA Maharaj
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.5:
+        non_striker: DA Miller
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 15.6:
+        non_striker: KA Maharaj
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 16.1:
+        non_striker: KA Maharaj
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.2:
+        non_striker: KA Maharaj
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Maharaj
+    - 16.4:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - D Wiese
+          kind: caught
+    - 16.5:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 16.6:
+        non_striker: DA Miller
+        bowler: M Govia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 17.1:
+        non_striker: M Theekshana
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.2:
+        non_striker: DA Miller
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 17.3:
+        non_striker: M Theekshana
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 17.5:
+        non_striker: M Theekshana
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 17.6:
+        non_striker: M Theekshana
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 18.1:
+        non_striker: DA Miller
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 18.2:
+        non_striker: M Theekshana
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 18.3:
+        non_striker: M Theekshana
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 18.4:
+        non_striker: M Theekshana
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - K Pierre
+          kind: caught
+    - 18.5:
+        non_striker: M Theekshana
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 18.6:
+        non_striker: M Theekshana
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 19.1:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 19.2:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 19.3:
+        non_striker: M Theekshana
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OC McCoy
+    - 19.4:
+        non_striker: M Theekshana
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 19.5:
+        non_striker: M Theekshana
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC McCoy
+    - 19.6:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 19.7:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Theekshana
+- 2nd innings:
+    team: St Lucia Kings
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.2:
+        non_striker: J Charles
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: J Charles
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: J Charles
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 1.3:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          kind: caught and bowled
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AWJ Auguste
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AWJ Auguste
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWJ Auguste
+    - 1.7:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AWJ Auguste
+    - 1.8:
+        non_striker: F du Plessis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWJ Auguste
+    - 1.9:
+        non_striker: AWJ Auguste
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWJ Auguste
+    - 2.2:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWJ Auguste
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWJ Auguste
+        wicket:
+          player_out: AWJ Auguste
+          kind: lbw
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.1:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: RL Chase
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 4.4:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.5:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 4.6:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.2:
+        non_striker: RL Chase
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: RL Chase
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.4:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.5:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.6:
+        non_striker: F du Plessis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.1:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.2:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 6.4:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 6.5:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.6:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - Q de Kock
+          kind: stumped
+    - 7.1:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.3:
+        non_striker: RL Chase
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.5:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Chase
+    - 7.6:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.1:
+        non_striker: TL Seifert
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.2:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.3:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.4:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 8.5:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.6:
+        non_striker: TL Seifert
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.2:
+        non_striker: RL Chase
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.3:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.5:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 9.6:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.1:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 10.2:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 10.3:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.4:
+        non_striker: TL Seifert
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.5:
+        non_striker: TL Seifert
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 10.6:
+        non_striker: TL Seifert
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.1:
+        non_striker: RL Chase
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.3:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 11.4:
+        non_striker: TL Seifert
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 11.5:
+        non_striker: RL Chase
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 11.6:
+        non_striker: RL Chase
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 12.1:
+        non_striker: TL Seifert
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.2:
+        non_striker: RL Chase
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.3:
+        non_striker: RL Chase
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 12.4:
+        non_striker: RL Chase
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.5:
+        non_striker: TL Seifert
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.6:
+        non_striker: RL Chase
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 13.1:
+        non_striker: TL Seifert
+        bowler: NRJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 13.2:
+        non_striker: TL Seifert
+        bowler: NRJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 13.3:
+        non_striker: RL Chase
+        bowler: NRJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 13.4:
+        non_striker: TL Seifert
+        bowler: NRJ Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Chase
+    - 13.5:
+        non_striker: TL Seifert
+        bowler: NRJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 13.6:
+        non_striker: TL Seifert
+        bowler: NRJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase

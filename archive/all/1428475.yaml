@@ -1,0 +1,1643 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Lanka Premier League
+  dates:
+  - '2024-07-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Colombo Strikers
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Shadab Khan
+  players:
+    Jaffna Kings:
+    - P Nissanka
+    - BKG Mendis
+    - RR Rossouw
+    - WIA Fernando
+    - KIC Asalanka
+    - DM de Silva
+    - FA Allen
+    - V Viyaskanth
+    - PM Liyanagamage
+    - E Malinga
+    - JP Behrendorff
+    Colombo Strikers:
+    - Rahmanullah Gurbaz
+    - AK Perera
+    - Waseem Muhammad
+    - GD Phillips
+    - NLTC Perera
+    - S Samarawickrama
+    - Shadab Khan
+    - I Wijesundera
+    - DN Wellalage
+    - M Pathirana
+    - B Fernando
+  registry:
+    people:
+      AK Perera: c8ad0749
+      B Fernando: dabbd0ae
+      BKG Mendis: 5d1e7582
+      DM de Silva: 7d608e12
+      DN Wellalage: 736123bb
+      E Malinga: 5750bcb4
+      FA Allen: b52ffbbd
+      GD Phillips: 9a46c4e5
+      GF Labrooy: 8e088dbc
+      I Wijesundera: be620896
+      IC Soysa: 717a7971
+      JP Behrendorff: 4933f499
+      KADA Nanayakkara: 9ee551f5
+      KIC Asalanka: 732c038e
+      M Pathirana: 64839cb3
+      NLTC Perera: 0f12f9df
+      P Nissanka: 8ee36b18
+      PM Liyanagamage: 3ee0050f
+      PSR Fonseka: 8fd2cea5
+      RR Rossouw: cad00a4d
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      S Samarawickrama: 9ab2914d
+      Shadab Khan: 9de62878
+      V Viyaskanth: 03a83c50
+      WIA Fernando: 9550470d
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - Jaffna Kings
+  - Colombo Strikers
+  toss:
+    winner: Colombo Strikers
+    decision: field
+  umpires:
+  - IC Soysa
+  - PSR Fonseka
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Jaffna Kings
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - I Wijesundera
+          kind: caught
+    - 1.1:
+        non_striker: RR Rossouw
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Rossouw
+    - 1.5:
+        non_striker: RR Rossouw
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 1.6:
+        non_striker: RR Rossouw
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: RR Rossouw
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: RR Rossouw
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.5:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 3.4:
+        non_striker: WIA Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.6:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: bowled
+    - 4.4:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 4.5:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 4.6:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 4.7:
+        non_striker: WIA Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 5.1:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 5.2:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 5.3:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 5.4:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 5.5:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 5.6:
+        non_striker: WIA Fernando
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.1:
+        non_striker: WIA Fernando
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 6.2:
+        non_striker: WIA Fernando
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.3:
+        non_striker: KIC Asalanka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.4:
+        non_striker: KIC Asalanka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.5:
+        non_striker: WIA Fernando
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 6.6:
+        non_striker: WIA Fernando
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 7.1:
+        non_striker: WIA Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 7.2:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 7.3:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.4:
+        non_striker: WIA Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 7.5:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 7.6:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 8.1:
+        non_striker: DM de Silva
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 8.2:
+        non_striker: DM de Silva
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - I Wijesundera
+          kind: caught
+    - 8.3:
+        non_striker: DM de Silva
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+        wicket:
+          player_out: FA Allen
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 8.4:
+        non_striker: DM de Silva
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 8.5:
+        non_striker: DM de Silva
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 8.6:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 9.1:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 9.2:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 9.3:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 9.4:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 9.5:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 9.6:
+        non_striker: DM de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 10.1:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: stumped
+    - 10.2:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.3:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.4:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.5:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Liyanagamage
+    - 10.6:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 11.1:
+        non_striker: PM Liyanagamage
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 11.2:
+        non_striker: PM Liyanagamage
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Viyaskanth
+    - 11.3:
+        non_striker: PM Liyanagamage
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 11.4:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Liyanagamage
+    - 11.5:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 11.6:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 12.1:
+        non_striker: PM Liyanagamage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 12.2:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 12.3:
+        non_striker: V Viyaskanth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 12.4:
+        non_striker: PM Liyanagamage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 12.5:
+        non_striker: PM Liyanagamage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 12.6:
+        non_striker: PM Liyanagamage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 13.1:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 13.2:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 13.3:
+        non_striker: PM Liyanagamage
+        bowler: M Pathirana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: V Viyaskanth
+    - 13.4:
+        non_striker: PM Liyanagamage
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 13.5:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+        wicket:
+          player_out: PM Liyanagamage
+          kind: caught and bowled
+    - 13.6:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.1:
+        non_striker: E Malinga
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 14.2:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.3:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.4:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Malinga
+    - 14.5:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.6:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.7:
+        non_striker: V Viyaskanth
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Malinga
+    - 15.1:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 15.2:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 15.3:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Viyaskanth
+    - 15.4:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 15.5:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Viyaskanth
+    - 15.6:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 16.1:
+        non_striker: V Viyaskanth
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 16.2:
+        non_striker: E Malinga
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.3:
+        non_striker: V Viyaskanth
+        bowler: B Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Malinga
+    - 16.4:
+        non_striker: V Viyaskanth
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 16.5:
+        non_striker: E Malinga
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 16.6:
+        non_striker: E Malinga
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.7:
+        non_striker: V Viyaskanth
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 17.1:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 17.2:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Viyaskanth
+    - 17.3:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Viyaskanth
+    - 17.4:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 17.5:
+        non_striker: V Viyaskanth
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 17.6:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.1:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.2:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 18.3:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 18.4:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 18.5:
+        non_striker: E Malinga
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.6:
+        non_striker: V Viyaskanth
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Malinga
+    - 19.1:
+        non_striker: V Viyaskanth
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 19.2:
+        non_striker: V Viyaskanth
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 19.3:
+        non_striker: V Viyaskanth
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Malinga
+    - 19.4:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 19.5:
+        non_striker: E Malinga
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 19.6:
+        non_striker: V Viyaskanth
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+        wicket:
+          player_out: E Malinga
+          kind: lbw
+- 2nd innings:
+    team: Colombo Strikers
+    deliveries:
+    - 0.1:
+        non_striker: AK Perera
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 0.5:
+        non_striker: AK Perera
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: AK Perera
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 1.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 1.4:
+        non_striker: AK Perera
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: AK Perera
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 2.1:
+        non_striker: AK Perera
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+        wicket:
+          player_out: AK Perera
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 4.8:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Waseem Muhammad
+    - 5.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.3:
+        non_striker: Waseem Muhammad
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.1:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 6.2:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.3:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.4:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 7.1:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.2:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.5:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.2:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 8.3:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.4:
+        non_striker: Waseem Muhammad
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 8.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 9.1:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 9.2:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 9.3:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.4:
+        non_striker: Waseem Muhammad
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 9.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad

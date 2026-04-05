@@ -1,0 +1,1845 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Women's Big Bash League
+  dates:
+  - '2024-10-31'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Sydney Thunder
+    by:
+      runs: 33
+  overs: 20
+  player_of_match:
+  - HC Knight
+  players:
+    Sydney Thunder:
+    - G Voll
+    - AC Jayangani
+    - P Litchfield
+    - HC Knight
+    - T Wilson
+    - A Learoyd
+    - SJ Johnson
+    - E Briscoe
+    - HJ Darlington
+    - S Ismail
+    - SL Bates
+    Hobart Hurricanes:
+    - L Lee
+    - DN Wyatt
+    - NJ Carey
+    - EJ Villani
+    - H Graham
+    - CL Tryon
+    - T Saville
+    - KE Bryce
+    - M Strano
+    - LG Smith
+    - C Wilson
+  registry:
+    people:
+      A Learoyd: 1757bedf
+      AC Jayangani: ac56b5a7
+      Bede Sajowitz: 14fb95ae
+      C Wilson: 44b2bacc
+      CL Tryon: 4d4605e6
+      DN Wyatt: a139c379
+      E Briscoe: e842806f
+      EJ Villani: cde96d97
+      G Voll: 5c30d455
+      H Graham: 99812d10
+      HC Knight: 4ba0289e
+      HJ Darlington: 50b558d2
+      J Stainer: fcd293d7
+      KE Bryce: f13d3eba
+      L Lee: 7b01ce83
+      LG Smith: 9c515112
+      M Strano: f57d5dbb
+      ME Claydon: 15101f12
+      NJ Carey: dff806f4
+      P Litchfield: 4e6ef14f
+      Roberto Howard: eec90c4b
+      S Ismail: 108c4c09
+      S Patel: c4ee6c06
+      SJ Johnson: d7b754d4
+      SL Bates: '0816fb1e'
+      T Saville: 2ef9bdcb
+      T Wilson: 32100b2d
+  teams:
+  - Sydney Thunder
+  - Hobart Hurricanes
+  toss:
+    winner: Hobart Hurricanes
+    decision: field
+  umpires:
+  - Bede Sajowitz
+  - S Patel
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 0.3:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 0.5:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 1.1:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 2.1:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 2.3:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AC Jayangani
+    - 2.7:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.8:
+        non_striker: G Voll
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 3.4:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 3.6:
+        non_striker: G Voll
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 4.3:
+        non_striker: G Voll
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.1:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.2:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: P Litchfield
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.4:
+        non_striker: P Litchfield
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 7.1:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 7.2:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.3:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.4:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.5:
+        non_striker: HC Knight
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 8.1:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 8.3:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.4:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.5:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 8.6:
+        non_striker: HC Knight
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 8.7:
+        non_striker: AC Jayangani
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.1:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.2:
+        non_striker: HC Knight
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 9.3:
+        non_striker: HC Knight
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 9.4:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 9.5:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.6:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.1:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 10.2:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 10.3:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.4:
+        non_striker: HC Knight
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 10.5:
+        non_striker: HC Knight
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 10.6:
+        non_striker: HC Knight
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: caught and bowled
+    - 11.1:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.2:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.3:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.4:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 11.5:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.6:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 12.1:
+        non_striker: HC Knight
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 12.2:
+        non_striker: HC Knight
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 12.3:
+        non_striker: T Wilson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 12.4:
+        non_striker: T Wilson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 12.5:
+        non_striker: HC Knight
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 12.6:
+        non_striker: T Wilson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.1:
+        non_striker: T Wilson
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.2:
+        non_striker: HC Knight
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 13.3:
+        non_striker: HC Knight
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Wilson
+    - 13.4:
+        non_striker: T Wilson
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Knight
+    - 13.5:
+        non_striker: T Wilson
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 13.6:
+        non_striker: T Wilson
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Wilson
+    - 14.2:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 14.3:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: HC Knight
+    - 14.4:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.5:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 14.6:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.7:
+        non_striker: T Wilson
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.8:
+        non_striker: HC Knight
+        bowler: C Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 15.1:
+        non_striker: HC Knight
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 15.2:
+        non_striker: T Wilson
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 15.3:
+        non_striker: T Wilson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 15.4:
+        non_striker: T Wilson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 15.5:
+        non_striker: A Learoyd
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 15.6:
+        non_striker: T Wilson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+    - 15.7:
+        non_striker: T Wilson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 16.1:
+        non_striker: A Learoyd
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+        wicket:
+          player_out: T Wilson
+          kind: bowled
+    - 16.2:
+        non_striker: A Learoyd
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 16.3:
+        non_striker: SJ Johnson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 16.4:
+        non_striker: SJ Johnson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 16.5:
+        non_striker: A Learoyd
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Johnson
+    - 16.6:
+        non_striker: A Learoyd
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+- 2nd innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.1:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.4:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.1:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - HJ Darlington
+          kind: caught
+    - 2.3:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 2.4:
+        non_striker: NJ Carey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.5:
+        non_striker: NJ Carey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.6:
+        non_striker: NJ Carey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.1:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 3.2:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 3.3:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 3.4:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          kind: bowled
+    - 3.5:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 3.6:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.1:
+        non_striker: L Lee
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 4.2:
+        non_striker: L Lee
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 4.3:
+        non_striker: L Lee
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 4.4:
+        non_striker: L Lee
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.5:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.6:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 5.1:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Lee
+    - 5.2:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 5.3:
+        non_striker: L Lee
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 5.4:
+        non_striker: L Lee
+        bowler: SJ Johnson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: EJ Villani
+    - 5.5:
+        non_striker: L Lee
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.6:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 6.1:
+        non_striker: EJ Villani
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 6.2:
+        non_striker: EJ Villani
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 6.3:
+        non_striker: L Lee
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 6.4:
+        non_striker: L Lee
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 6.5:
+        non_striker: L Lee
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 6.6:
+        non_striker: L Lee
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.1:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 7.2:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.3:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.4:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.5:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 7.6:
+        non_striker: L Lee
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 8.1:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          kind: lbw
+    - 8.2:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 8.3:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Graham
+    - 8.4:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 8.5:
+        non_striker: EJ Villani
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 8.6:
+        non_striker: H Graham
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 9.1:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 9.2:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 9.3:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Graham
+    - 9.4:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 9.5:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 9.6:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 10.1:
+        non_striker: H Graham
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 10.2:
+        non_striker: H Graham
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 10.3:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 10.4:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 10.5:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 10.6:
+        non_striker: EJ Villani
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 11.1:
+        non_striker: H Graham
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 11.2:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Graham
+    - 11.3:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 11.4:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 11.5:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 11.6:
+        non_striker: EJ Villani
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 12.1:
+        non_striker: H Graham
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 12.2:
+        non_striker: H Graham
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 12.3:
+        non_striker: EJ Villani
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 12.4:
+        non_striker: H Graham
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          kind: bowled
+    - 12.5:
+        non_striker: H Graham
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.6:
+        non_striker: CL Tryon
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 13.1:
+        non_striker: CL Tryon
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+        wicket:
+          player_out: H Graham
+          fielders:
+          - A Learoyd
+          kind: caught
+    - 13.2:
+        non_striker: CL Tryon
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 13.3:
+        non_striker: CL Tryon
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 13.4:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.5:
+        non_striker: CL Tryon
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 13.6:
+        non_striker: CL Tryon
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville
+    - 14.1:
+        non_striker: T Saville
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.2:
+        non_striker: T Saville
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 14.3:
+        non_striker: T Saville
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          fielders:
+          - S Ismail
+          kind: caught
+    - 14.4:
+        non_striker: T Saville
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.5:
+        non_striker: KE Bryce
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 14.6:
+        non_striker: T Saville
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 15.1:
+        non_striker: KE Bryce
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 15.2:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+    - 15.3:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Strano
+    - 15.4:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Strano
+    - 15.5:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Strano
+        wicket:
+          player_out: M Strano
+          fielders:
+          - T Wilson
+          - A Learoyd
+          kind: run out
+    - 15.6:
+        non_striker: T Saville
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 16.1:
+        non_striker: LG Smith
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 16.2:
+        non_striker: T Saville
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 16.3:
+        non_striker: LG Smith
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Saville
+    - 16.4:
+        non_striker: LG Smith
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Saville
+    - 16.5:
+        non_striker: T Saville
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 16.6:
+        non_striker: LG Smith
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Saville

@@ -1,0 +1,669 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2024-05-03'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Munster Reds
+    by:
+      runs: 20
+  overs: 20
+  player_of_match:
+  - C Campher
+  players:
+    Munster Reds:
+    - PJ Moor
+    - TE Kane
+    - C Campher
+    - GJ Delany
+    - AR Frost
+    - B Kruger
+    - JC McNally
+    - L McCarthy
+    - J Manley
+    - M Frost
+    - B White
+    North-West Warriors:
+    - J Wilson
+    - ST Doheny
+    - SJ MacBeth
+    - SC Getkate
+    - C Melly
+    - K Hilton
+    - GI Hume
+    - AR McBrine
+    - R MacBeth
+    - CA Young
+    - T McKeegan
+  registry:
+    people:
+      AR Frost: a7750ab4
+      AR McBrine: e957b38f
+      B Kruger: 103431a3
+      B White: 1a448be0
+      C Campher: 478a63e7
+      C Melly: 48641e31
+      CA Young: bd0a4a7d
+      G McCrea: 46f4a901
+      GI Hume: 25550d06
+      GJ Delany: 33b3d2df
+      J Manley: 05f85159
+      J Wilson: 20f9e6b1
+      JC McNally: 8614ffef
+      Jareth McCready: 84fa5232
+      K Hilton: 9339830a
+      L McCarthy: 8eb2e2e6
+      M Frost: 96d56d32
+      PJ Moor: a1d3540a
+      R Black: 156c8fb1
+      R MacBeth: b4402d8a
+      SC Getkate: c8065f31
+      SJ MacBeth: 5d4338a2
+      ST Doheny: 4992d6f6
+      T McKeegan: 2052d6f4
+      TE Kane: af28816c
+      W Mohammed: 0a3e73a5
+  teams:
+  - Munster Reds
+  - North-West Warriors
+  toss:
+    winner: North-West Warriors
+    decision: field
+  umpires:
+  - R Black
+  - W Mohammed
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Kane
+        batsman: PJ Moor
+    - 0.2:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TE Kane
+        batsman: PJ Moor
+    - 0.3:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Kane
+        batsman: PJ Moor
+    - 0.4:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TE Kane
+        batsman: PJ Moor
+    - 0.5:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Kane
+        batsman: PJ Moor
+    - 0.6:
+        non_striker: TE Kane
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 1.1:
+        non_striker: PJ Moor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TE Kane
+    - 1.2:
+        non_striker: PJ Moor
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 1.3:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 1.4:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 1.5:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Moor
+    - 1.6:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Moor
+    - 2.1:
+        non_striker: PJ Moor
+        bowler: R MacBeth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TE Kane
+    - 2.2:
+        non_striker: PJ Moor
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 2.3:
+        non_striker: TE Kane
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+        wicket:
+          player_out: PJ Moor
+          fielders:
+          - SC Getkate
+          kind: caught
+    - 2.4:
+        non_striker: TE Kane
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 2.5:
+        non_striker: TE Kane
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 2.6:
+        non_striker: C Campher
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TE Kane
+    - 2.7:
+        non_striker: C Campher
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 3.1:
+        non_striker: C Campher
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 3.2:
+        non_striker: C Campher
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 3.3:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 3.4:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 3.5:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 3.6:
+        non_striker: TE Kane
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 4.1:
+        non_striker: C Campher
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+        wicket:
+          player_out: TE Kane
+          kind: lbw
+    - 4.2:
+        non_striker: C Campher
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 4.3:
+        non_striker: C Campher
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 4.4:
+        non_striker: C Campher
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 4.5:
+        non_striker: GJ Delany
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Campher
+    - 4.6:
+        non_striker: C Campher
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+        wicket:
+          player_out: C Campher
+          fielders:
+          - SJ MacBeth
+          - GI Hume
+          kind: run out
+- 2nd innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ST Doheny
+        batsman: J Wilson
+    - 0.2:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+        wicket:
+          player_out: J Wilson
+          kind: caught and bowled
+    - 0.3:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SJ MacBeth
+    - 0.4:
+        non_striker: SJ MacBeth
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 0.5:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SJ MacBeth
+    - 0.6:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 0.7:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ MacBeth
+    - 0.8:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ MacBeth
+    - 0.9:
+        non_striker: ST Doheny
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 1.1:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 1.2:
+        non_striker: SJ MacBeth
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+        wicket:
+          player_out: SJ MacBeth
+          fielders:
+          - B Kruger
+          kind: caught
+    - 1.4:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 1.5:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 1.6:
+        non_striker: SC Getkate
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 2.1:
+        non_striker: ST Doheny
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 2.2:
+        non_striker: SC Getkate
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 2.3:
+        non_striker: SC Getkate
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 2.4:
+        non_striker: ST Doheny
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 2.5:
+        non_striker: ST Doheny
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 2.6:
+        non_striker: SC Getkate
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Doheny
+    - 3.1:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 3.2:
+        non_striker: SC Getkate
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Doheny
+    - 3.3:
+        non_striker: SC Getkate
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 3.4:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - JC McNally
+          kind: caught
+    - 3.5:
+        non_striker: ST Doheny
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Melly
+    - 3.6:
+        non_striker: C Melly
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - JC McNally
+          kind: caught
+    - 4.1:
+        non_striker: K Hilton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Melly
+        wicket:
+          player_out: C Melly
+          fielders:
+          - PJ Moor
+          kind: caught
+    - 4.2:
+        non_striker: K Hilton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GI Hume
+    - 4.3:
+        non_striker: K Hilton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 4.4:
+        non_striker: GI Hume
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+        wicket:
+          player_out: K Hilton
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 4.5:
+        non_striker: GI Hume
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - JC McNally
+          kind: caught
+    - 4.6:
+        non_striker: GI Hume
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R MacBeth
+    - 4.7:
+        non_striker: GI Hume
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth

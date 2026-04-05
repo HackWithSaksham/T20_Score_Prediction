@@ -1,0 +1,1807 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Lanka Premier League
+  dates:
+  - '2023-08-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Galle Titans
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - CAK Rajitha
+  players:
+    Jaffna Kings:
+    - KNM Fernando
+    - Rahmanullah Gurbaz
+    - CA Lynn
+    - DN Wellalage
+    - Shoaib Malik
+    - DA Miller
+    - DAS Gunaratne
+    - NLTC Perera
+    - M Theekshana
+    - D Madushanka
+    - N Thushara
+    Galle Titans:
+    - PBB Rajapaksa
+    - TL Seifert
+    - CJ Bowes
+    - Shakib Al Hasan
+    - MD Shanaka
+    - S de Livera
+    - S Prasanna
+    - SMLD Samarakoon
+    - CAK Rajitha
+    - CBRLS Kumara
+    - T Shamsi
+  registry:
+    people:
+      CA Lynn: 45eda7c8
+      CAK Rajitha: 8012d0b8
+      CBRLS Kumara: 4751caa3
+      CJ Bowes: 45df0e72
+      D Madushanka: de7d833e
+      DA Miller: d67d5f00
+      DAS Gunaratne: 770494eb
+      DN Wellalage: 736123bb
+      GF Labrooy: 8e088dbc
+      IC Soysa: 717a7971
+      KNM Fernando: d2a2bb1a
+      LE Hannibal: 3c04e91a
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      N Thushara: ee1b6c27
+      NLTC Perera: 0f12f9df
+      PBB Rajapaksa: 6c882e9a
+      RA Kottahachchi: 808f2939
+      RR Wimalasiri: 4950c8db
+      Rahmanullah Gurbaz: 0bacade8
+      S Prasanna: f78e7113
+      S de Livera: '77708937'
+      SMLD Samarakoon: d28f4d1c
+      Shakib Al Hasan: 7dc35884
+      Shoaib Malik: 64c34cd0
+      T Shamsi: a03bba42
+      TL Seifert: 4663bd23
+  teams:
+  - Jaffna Kings
+  - Galle Titans
+  toss:
+    winner: Jaffna Kings
+    decision: bat
+  umpires:
+  - RR Wimalasiri
+  - RA Kottahachchi
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Jaffna Kings
+    deliveries:
+    - 0.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 0.2:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - CJ Bowes
+          kind: caught
+    - 0.4:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 0.5:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 0.6:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.7:
+        non_striker: KNM Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.1:
+        non_striker: CA Lynn
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 1.2:
+        non_striker: KNM Fernando
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          kind: bowled
+    - 1.3:
+        non_striker: KNM Fernando
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 1.4:
+        non_striker: KNM Fernando
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 1.5:
+        non_striker: KNM Fernando
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 1.6:
+        non_striker: KNM Fernando
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 2.1:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+        wicket:
+          player_out: KNM Fernando
+          fielders:
+          - S de Livera
+          kind: caught
+    - 2.2:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 2.3:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          kind: bowled
+    - 2.4:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 2.5:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 2.6:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 3.1:
+        non_striker: DA Miller
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 3.2:
+        non_striker: DA Miller
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 3.3:
+        non_striker: DN Wellalage
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 3.4:
+        non_striker: DA Miller
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 3.5:
+        non_striker: DA Miller
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 3.6:
+        non_striker: DA Miller
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 4.1:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.2:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          kind: caught and bowled
+    - 4.3:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAS Gunaratne
+    - 4.4:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAS Gunaratne
+    - 4.5:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAS Gunaratne
+    - 4.6:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAS Gunaratne
+    - 4.7:
+        non_striker: DN Wellalage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAS Gunaratne
+    - 5.1:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 5.2:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 5.3:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 5.4:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 5.5:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 5.6:
+        non_striker: DAS Gunaratne
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 6.1:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAS Gunaratne
+    - 6.2:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DAS Gunaratne
+    - 6.3:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAS Gunaratne
+    - 6.4:
+        non_striker: DAS Gunaratne
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 6.5:
+        non_striker: DAS Gunaratne
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 6.6:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAS Gunaratne
+        wicket:
+          player_out: DAS Gunaratne
+          kind: lbw
+    - 7.1:
+        non_striker: NLTC Perera
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 7.2:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 7.3:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 7.4:
+        non_striker: NLTC Perera
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 7.5:
+        non_striker: NLTC Perera
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 7.6:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 8.1:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 8.2:
+        non_striker: NLTC Perera
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 8.3:
+        non_striker: NLTC Perera
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 8.4:
+        non_striker: NLTC Perera
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 8.5:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 8.6:
+        non_striker: DN Wellalage
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 9.1:
+        non_striker: NLTC Perera
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 9.2:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NLTC Perera
+    - 9.3:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 9.4:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          kind: bowled
+    - 9.5:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 9.6:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 10.1:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.2:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.3:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.4:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.5:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.6:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 11.1:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 11.2:
+        non_striker: DN Wellalage
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 11.3:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - S de Livera
+          kind: caught
+    - 11.4:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 11.5:
+        non_striker: D Madushanka
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 11.6:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 12.1:
+        non_striker: D Madushanka
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 12.2:
+        non_striker: M Theekshana
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 12.3:
+        non_striker: D Madushanka
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Theekshana
+    - 12.4:
+        non_striker: D Madushanka
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Theekshana
+    - 12.5:
+        non_striker: M Theekshana
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 12.6:
+        non_striker: M Theekshana
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 12.7:
+        non_striker: D Madushanka
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 13.1:
+        non_striker: D Madushanka
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 13.2:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 13.3:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Madushanka
+    - 13.4:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 13.5:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 13.6:
+        non_striker: M Theekshana
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 14.1:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 14.2:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 14.3:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 14.4:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 14.5:
+        non_striker: M Theekshana
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 14.6:
+        non_striker: M Theekshana
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 15.1:
+        non_striker: D Madushanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 15.2:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 15.3:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 15.4:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 15.5:
+        non_striker: D Madushanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 15.6:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 16.1:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 16.2:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 16.3:
+        non_striker: M Theekshana
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 16.4:
+        non_striker: M Theekshana
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 16.5:
+        non_striker: M Theekshana
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 16.6:
+        non_striker: D Madushanka
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 17.1:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 17.2:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 17.3:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 17.4:
+        non_striker: D Madushanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 17.5:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 17.6:
+        non_striker: M Theekshana
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 18.1:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 18.2:
+        non_striker: D Madushanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 18.3:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 18.4:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 18.5:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 18.6:
+        non_striker: M Theekshana
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+        wicket:
+          player_out: D Madushanka
+          kind: bowled
+    - 19.1:
+        non_striker: N Thushara
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 19.2:
+        non_striker: N Thushara
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 19.3:
+        non_striker: M Theekshana
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Thushara
+    - 19.4:
+        non_striker: M Theekshana
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thushara
+    - 19.5:
+        non_striker: M Theekshana
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thushara
+    - 19.6:
+        non_striker: N Thushara
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+        wicket:
+          player_out: N Thushara
+          fielders:
+          - SMLD Samarakoon
+          - CAK Rajitha
+          kind: run out
+- 2nd innings:
+    team: Galle Titans
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 0.2:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 0.4:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 1.1:
+        non_striker: PBB Rajapaksa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 1.4:
+        non_striker: PBB Rajapaksa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: PBB Rajapaksa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: PBB Rajapaksa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.2:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.5:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.6:
+        non_striker: PBB Rajapaksa
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.1:
+        non_striker: PBB Rajapaksa
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: PBB Rajapaksa
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: PBB Rajapaksa
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PBB Rajapaksa
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PBB Rajapaksa
+    - 3.6:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PBB Rajapaksa
+    - 4.1:
+        non_striker: PBB Rajapaksa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.1:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.4:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.5:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 6.3:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.4:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.5:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.1:
+        non_striker: CJ Bowes
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.3:
+        non_striker: CJ Bowes
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: CJ Bowes
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 7.5:
+        non_striker: CJ Bowes
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.6:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 8.1:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.3:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.4:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.5:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.6:
+        non_striker: CJ Bowes
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.1:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.2:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.3:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TL Seifert
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.5:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.6:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 10.1:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 10.2:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 10.3:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 10.4:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 10.5:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.6:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 10.7:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 11.1:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 11.2:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 11.3:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.4:
+        non_striker: TL Seifert
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 11.5:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 11.6:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 11.7:
+        non_striker: CJ Bowes
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 12.1:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 12.2:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 12.3:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 12.4:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 12.5:
+        non_striker: Shakib Al Hasan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 12.6:
+        non_striker: CJ Bowes
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.1:
+        non_striker: CJ Bowes
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 13.2:
+        non_striker: CJ Bowes
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - DA Miller
+          kind: caught
+    - 13.3:
+        non_striker: CJ Bowes
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka

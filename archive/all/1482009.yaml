@@ -1,0 +1,2218 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2025-06-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Seattle Orcas
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - SO Hetmyer
+  players:
+    MI New York:
+    - Q de Kock
+    - MD Patel
+    - N Pooran
+    - Tajinder Singh
+    - KA Pollard
+    - MG Bracewell
+    - D Potgieter
+    - Sunny Patel
+    - TA Boult
+    - Ehsan Adil
+    - R Ugarkar
+    Seattle Orcas:
+    - Shayan Jahangir
+    - J Brown
+    - KR Mayers
+    - Sikandar Raza
+    - H Klaasen
+    - SO Hetmyer
+    - Sujit Nayak
+    - G Coetzee
+    - Jasdeep Singh
+    - Harmeet Singh
+    - CJ Gannon
+  registry:
+    people:
+      BV Taylor: '99760152'
+      CJ Gannon: 519c30cb
+      D Potgieter: 60fbf53a
+      Ehsan Adil: 210b05cb
+      G Coetzee: 3204c99f
+      H Klaasen: 235c2bb6
+      Harmeet Singh: 0bf15e52
+      J Brown: 647e7d44
+      JJ Crowe: 2e760301
+      Jasdeep Singh: 5ec41cd7
+      Jermaine Lindo: 1154bf4f
+      KA Pollard: a757b0d8
+      KR Mayers: 73c18486
+      LS Reifer: 5dee559a
+      MD Patel: 25d7f1ac
+      MG Bracewell: e38bce7a
+      N Pooran: 3241e3fd
+      P Wilson: 68304a36
+      Q de Kock: 372455c4
+      R Ugarkar: 8a58f203
+      SO Hetmyer: 48a1d7b7
+      Shayan Jahangir: 571e1d2a
+      Sikandar Raza: 26d041c4
+      Sujit Nayak: e06f7116
+      Sunny Patel: db481029
+      TA Boult: a818c1be
+      Tajinder Singh: f9d99806
+  teams:
+  - MI New York
+  - Seattle Orcas
+  toss:
+    winner: Seattle Orcas
+    decision: field
+  umpires:
+  - BV Taylor
+  - Jermaine Lindo
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: MI New York
+    deliveries:
+    - 0.1:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 0.7:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.8:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - Sujit Nayak
+          kind: caught
+    - 1.1:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.2:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 1.3:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 1.4:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 1.5:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 1.6:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 2.1:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 2.2:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 2.3:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 2.4:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.5:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.6:
+        non_striker: MD Patel
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.1:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 3.2:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 3.3:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 3.4:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 3.5:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Patel
+    - 3.6:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 4.1:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.2:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 4.3:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 4.4:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 4.5:
+        non_striker: MD Patel
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.6:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.1:
+        non_striker: MD Patel
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.2:
+        non_striker: MD Patel
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.3:
+        non_striker: MD Patel
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.4:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - Sujit Nayak
+          kind: caught
+    - 5.5:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tajinder Singh
+    - 5.6:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 5.7:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.1:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 6.2:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.3:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.4:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.5:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.6:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+    - 7.1:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 7.2:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 7.4:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 7.5:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 8.1:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+    - 8.2:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+    - 8.3:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 8.4:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 8.5:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 8.6:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.7:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 9.1:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.2:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 9.3:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.4:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 9.5:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 9.6:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.1:
+        non_striker: Tajinder Singh
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.2:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+    - 10.3:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 10.4:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tajinder Singh
+    - 10.5:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 10.6:
+        non_striker: Tajinder Singh
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 10.7:
+        non_striker: Tajinder Singh
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 11.1:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+    - 11.2:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 11.3:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.4:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 11.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tajinder Singh
+    - 12.1:
+        non_striker: Tajinder Singh
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 12.2:
+        non_striker: Tajinder Singh
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.3:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 12.4:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 12.5:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 12.6:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 13.1:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 13.2:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 13.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 13.4:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 13.5:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 13.6:
+        non_striker: Tajinder Singh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Pooran
+    - 14.1:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 14.2:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.3:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tajinder Singh
+    - 14.4:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 14.5:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.6:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 15.1:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 15.2:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tajinder Singh
+    - 15.3:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.4:
+        non_striker: Tajinder Singh
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.5:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 15.6:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 16.1:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 16.2:
+        non_striker: Tajinder Singh
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.3:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tajinder Singh
+    - 16.4:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 16.5:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tajinder Singh
+    - 16.6:
+        non_striker: N Pooran
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tajinder Singh
+        wicket:
+          player_out: Tajinder Singh
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 17.1:
+        non_striker: KA Pollard
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 17.2:
+        non_striker: KA Pollard
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.3:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 17.4:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 17.5:
+        non_striker: N Pooran
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 17.6:
+        non_striker: MG Bracewell
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 17.7:
+        non_striker: MG Bracewell
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Pooran
+    - 17.8:
+        non_striker: MG Bracewell
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 18.1:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 18.2:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 18.3:
+        non_striker: MG Bracewell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 18.4:
+        non_striker: N Pooran
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 18.5:
+        non_striker: MG Bracewell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 18.6:
+        non_striker: MG Bracewell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 19.1:
+        non_striker: MG Bracewell
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 19.2:
+        non_striker: MG Bracewell
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 19.3:
+        non_striker: MG Bracewell
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 19.4:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 19.5:
+        non_striker: N Pooran
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 19.6:
+        non_striker: MG Bracewell
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+- 2nd innings:
+    team: Seattle Orcas
+    deliveries:
+    - 0.1:
+        non_striker: J Brown
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 0.2:
+        non_striker: J Brown
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 0.3:
+        non_striker: Shayan Jahangir
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 0.4:
+        non_striker: Shayan Jahangir
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 0.5:
+        non_striker: J Brown
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 0.6:
+        non_striker: J Brown
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.1:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+        wicket:
+          player_out: J Brown
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 1.2:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 1.5:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 1.6:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 1.7:
+        non_striker: KR Mayers
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 2.1:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 2.2:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 2.3:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 2.4:
+        non_striker: KR Mayers
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 2.6:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 2.7:
+        non_striker: Shayan Jahangir
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 3.1:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KR Mayers
+    - 3.2:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 3.3:
+        non_striker: Shayan Jahangir
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 3.4:
+        non_striker: KR Mayers
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 3.5:
+        non_striker: KR Mayers
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 3.6:
+        non_striker: KR Mayers
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 4.1:
+        non_striker: Sikandar Raza
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 4.2:
+        non_striker: Sikandar Raza
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 4.3:
+        non_striker: KR Mayers
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 4.4:
+        non_striker: KR Mayers
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 4.5:
+        non_striker: KR Mayers
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 4.6:
+        non_striker: KR Mayers
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 5.1:
+        non_striker: Sikandar Raza
+        bowler: D Potgieter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 5.2:
+        non_striker: Sikandar Raza
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 5.3:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 5.4:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 5.5:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 5.6:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 5.7:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 6.1:
+        non_striker: H Klaasen
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 6.2:
+        non_striker: KR Mayers
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.3:
+        non_striker: H Klaasen
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 6.4:
+        non_striker: H Klaasen
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 6.5:
+        non_striker: KR Mayers
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 6.6:
+        non_striker: KR Mayers
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.1:
+        non_striker: H Klaasen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 7.2:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 7.3:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 7.5:
+        non_striker: KR Mayers
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - Tajinder Singh
+          kind: caught
+    - 8.1:
+        non_striker: SO Hetmyer
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.2:
+        non_striker: H Klaasen
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 8.3:
+        non_striker: H Klaasen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.4:
+        non_striker: H Klaasen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 8.5:
+        non_striker: H Klaasen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: H Klaasen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.7:
+        non_striker: SO Hetmyer
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 9.1:
+        non_striker: H Klaasen
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.3:
+        non_striker: H Klaasen
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.4:
+        non_striker: SO Hetmyer
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.6:
+        non_striker: H Klaasen
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: H Klaasen
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 10.3:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 10.4:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 10.5:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 10.6:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: Sujit Nayak
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 11.2:
+        non_striker: Sujit Nayak
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: Sujit Nayak
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: Sujit Nayak
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: SO Hetmyer
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 12.1:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 12.2:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 12.6:
+        non_striker: Sujit Nayak
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.7:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 13.3:
+        non_striker: Sujit Nayak
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 13.5:
+        non_striker: Sujit Nayak
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: Sujit Nayak
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sujit Nayak
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+        wicket:
+          player_out: Sujit Nayak
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 14.7:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 15.1:
+        non_striker: G Coetzee
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Coetzee
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 15.4:
+        non_striker: G Coetzee
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: G Coetzee
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: G Coetzee
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.3:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 16.4:
+        non_striker: G Coetzee
+        bowler: R Ugarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: G Coetzee
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: G Coetzee
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.7:
+        non_striker: SO Hetmyer
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 17.1:
+        non_striker: G Coetzee
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.2:
+        non_striker: G Coetzee
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.3:
+        non_striker: SO Hetmyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 17.4:
+        non_striker: SO Hetmyer
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 17.5:
+        non_striker: Jasdeep Singh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: Jasdeep Singh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: Jasdeep Singh
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 18.2:
+        non_striker: Jasdeep Singh
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 18.3:
+        non_striker: Jasdeep Singh
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jasdeep Singh
+    - 18.5:
+        non_striker: SO Hetmyer
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 18.6:
+        non_striker: Jasdeep Singh
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 18.7:
+        non_striker: Jasdeep Singh
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 19.1:
+        non_striker: SO Hetmyer
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 19.2:
+        non_striker: SO Hetmyer
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 19.3:
+        non_striker: SO Hetmyer
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 19.4:
+        non_striker: Jasdeep Singh
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 19.5:
+        non_striker: Jasdeep Singh
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 19.6:
+        non_striker: Jasdeep Singh
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer

@@ -1,0 +1,2105 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  competition: Women's Super Smash
+  dates:
+  - '2025-01-01'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 4
+  overs: 20
+  players:
+    Wellington:
+    - AC Kerr
+    - EA Perry
+    - RM Burns
+    - LM Kasperek
+    - JM Kerr
+    - KM Chandler
+    - JT McFadyen
+    - CR King
+    - XA Jetly
+    - HC Francis
+    - NE Codyre
+    Northern Districts:
+    - JM Watkin
+    - AC Jayangani
+    - CA Gurrey
+    - NH Patel
+    - A Wellington
+    - Y Kareem
+    - E Wolland
+    - C Agafili
+    - HE Topp
+    - MW Downes
+    - SR Naidu
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      AC Jayangani: ac56b5a7
+      AC Kerr: 7673c908
+      C Agafili: b9bb76c8
+      C Black: 75b42f71
+      CA Gurrey: 1e579ad5
+      CR King: dd639a8c
+      E Wolland: 415c9efb
+      EA Perry: be150fc8
+      GB Troup: 94f0e744
+      GG Pennell: d9376677
+      HC Francis: d767e864
+      HE Topp: d9b3ff0a
+      JM Kerr: 9af58032
+      JM Watkin: 7239a365
+      JT McFadyen: 7072542f
+      KM Chandler: 32221cdb
+      LM Kasperek: 9b73d523
+      MW Downes: d8e8179f
+      NE Codyre: f587fbbe
+      NH Patel: d945db3e
+      PJ Pasco: fd92a10c
+      RM Burns: 94fe4708
+      SB Martin: '08ad6466'
+      SR Naidu: f41d1a02
+      XA Jetly: 57a49987
+      Y Kareem: 352a440c
+  teams:
+  - Wellington
+  - Northern Districts
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - C Black
+  - PJ Pasco
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EA Perry
+        batsman: AC Kerr
+    - 0.2:
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EA Perry
+        batsman: AC Kerr
+    - 0.3:
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EA Perry
+        batsman: AC Kerr
+    - 0.4:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 0.5:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 0.6:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.1:
+        non_striker: EA Perry
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.2:
+        non_striker: EA Perry
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 1.3:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.4:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.5:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 1.6:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          kind: bowled
+    - 2.1:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RM Burns
+        batsman: AC Kerr
+    - 2.2:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RM Burns
+        batsman: AC Kerr
+    - 2.3:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RM Burns
+        batsman: AC Kerr
+    - 2.4:
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RM Burns
+        batsman: AC Kerr
+    - 2.5:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RM Burns
+        batsman: AC Kerr
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.7:
+        non_striker: AC Kerr
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.1:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.2:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.3:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 3.5:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 4.1:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 4.2:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.4:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 5.5:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.6:
+        non_striker: RM Burns
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: RM Burns
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - MW Downes
+          kind: caught
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 7.1:
+        non_striker: LM Kasperek
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 7.5:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Kasperek
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 8.1:
+        non_striker: LM Kasperek
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 8.3:
+        non_striker: LM Kasperek
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: LM Kasperek
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Kasperek
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: LM Kasperek
+          fielders:
+          - NH Patel
+          - HE Topp
+          kind: run out
+    - 9.2:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 9.3:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Kerr
+    - 9.5:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 10.3:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.4:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 11.1:
+        non_striker: JM Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 11.4:
+        non_striker: JM Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: JM Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: MW Downes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 12.1:
+        non_striker: JM Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: JM Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 12.6:
+        non_striker: JM Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 13.5:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 14.3:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 14.4:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.3:
+        non_striker: JM Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.6:
+        non_striker: JM Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: JM Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.2:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 16.3:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 16.6:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 17.1:
+        non_striker: JM Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 17.3:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 17.4:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 17.5:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 17.6:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 18.1:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 18.3:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Kerr
+    - 18.4:
+        non_striker: JM Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Kerr
+    - 18.6:
+        non_striker: AC Kerr
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 19.2:
+        non_striker: JM Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 19.3:
+        non_striker: JM Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.4:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 19.5:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 19.6:
+        non_striker: JM Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Jayangani
+        batsman: JM Watkin
+    - 0.2:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: JM Watkin
+    - 0.3:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: JM Watkin
+    - 0.4:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: JM Watkin
+    - 0.5:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Jayangani
+        batsman: JM Watkin
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Watkin
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 1.4:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 2.2:
+        non_striker: JM Watkin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: JM Watkin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: JM Watkin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: JM Watkin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: JM Watkin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 3.2:
+        non_striker: JM Watkin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.3:
+        non_striker: JM Watkin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.4:
+        non_striker: JM Watkin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: JM Watkin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.6:
+        non_striker: JM Watkin
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Watkin
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 4.3:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: JM Watkin
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Watkin
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Watkin
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Watkin
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+        wicket:
+          player_out: JM Watkin
+          fielders:
+          - AC Kerr
+          - XA Jetly
+          kind: run out
+    - 5.6:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.1:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Gurrey
+    - 6.2:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 6.4:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - LM Kasperek
+          kind: caught
+    - 6.5:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          fielders:
+          - CR King
+          kind: caught
+    - 6.6:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Wellington
+    - 6.7:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 7.1:
+        non_striker: A Wellington
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 7.2:
+        non_striker: A Wellington
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 7.3:
+        non_striker: A Wellington
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 7.4:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 7.5:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 7.6:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - NE Codyre
+          kind: caught
+    - 8.1:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Y Kareem
+        batsman: CA Gurrey
+    - 8.2:
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Y Kareem
+        batsman: CA Gurrey
+    - 8.3:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Y Kareem
+        batsman: CA Gurrey
+    - 8.4:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+    - 8.5:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+    - 8.6:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+    - 8.7:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Kareem
+    - 9.1:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Kareem
+    - 9.2:
+        non_striker: Y Kareem
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 9.3:
+        non_striker: Y Kareem
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Gurrey
+    - 9.4:
+        non_striker: Y Kareem
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 9.5:
+        non_striker: Y Kareem
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 9.6:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+    - 10.1:
+        non_striker: Y Kareem
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 10.2:
+        non_striker: Y Kareem
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+    - 10.3:
+        non_striker: Y Kareem
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 10.4:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+    - 10.5:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Kareem
+        wicket:
+          player_out: Y Kareem
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 10.6:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 11.1:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wolland
+    - 11.2:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 11.3:
+        non_striker: E Wolland
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 11.4:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wolland
+    - 11.5:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wolland
+    - 11.6:
+        non_striker: CA Gurrey
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 12.1:
+        non_striker: CA Gurrey
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wolland
+        wicket:
+          player_out: E Wolland
+          kind: bowled
+    - 12.2:
+        non_striker: CA Gurrey
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 12.3:
+        non_striker: CA Gurrey
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Agafili
+    - 12.4:
+        non_striker: CA Gurrey
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 12.5:
+        non_striker: CA Gurrey
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 12.6:
+        non_striker: C Agafili
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 13.1:
+        non_striker: C Agafili
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Gurrey
+    - 13.2:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 13.3:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 13.4:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Agafili
+    - 13.5:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Agafili
+    - 13.6:
+        non_striker: CA Gurrey
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 14.1:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: C Agafili
+    - 14.2:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 14.3:
+        non_striker: CA Gurrey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 14.4:
+        non_striker: C Agafili
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Gurrey
+        wicket:
+          player_out: CA Gurrey
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 14.5:
+        non_striker: C Agafili
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Topp
+    - 14.6:
+        non_striker: HE Topp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 15.1:
+        non_striker: C Agafili
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 15.2:
+        non_striker: C Agafili
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HE Topp
+    - 15.3:
+        non_striker: HE Topp
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 15.4:
+        non_striker: HE Topp
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Agafili
+    - 15.5:
+        non_striker: HE Topp
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+    - 15.6:
+        non_striker: HE Topp
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 16.1:
+        non_striker: C Agafili
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 16.2:
+        non_striker: C Agafili
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Topp
+    - 16.3:
+        non_striker: HE Topp
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 16.4:
+        non_striker: C Agafili
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Topp
+    - 16.5:
+        non_striker: HE Topp
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 16.6:
+        non_striker: HE Topp
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 17.1:
+        non_striker: HE Topp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 17.2:
+        non_striker: C Agafili
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Topp
+    - 17.3:
+        non_striker: HE Topp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 17.4:
+        non_striker: C Agafili
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE Topp
+    - 17.5:
+        non_striker: C Agafili
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+        wicket:
+          player_out: HE Topp
+          fielders:
+          - EA Perry
+          kind: caught
+    - 17.6:
+        non_striker: C Agafili
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Downes
+    - 18.1:
+        non_striker: C Agafili
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Downes
+    - 18.2:
+        non_striker: C Agafili
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Downes
+    - 18.3:
+        non_striker: MW Downes
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Agafili
+    - 18.4:
+        non_striker: MW Downes
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 18.5:
+        non_striker: C Agafili
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Downes
+    - 18.6:
+        non_striker: MW Downes
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 19.1:
+        non_striker: MW Downes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 19.2:
+        non_striker: C Agafili
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Downes
+    - 19.3:
+        non_striker: MW Downes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 19.4:
+        non_striker: C Agafili
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Downes
+    - 19.5:
+        non_striker: MW Downes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Agafili
+    - 19.6:
+        non_striker: C Agafili
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Downes
+        wicket:
+          player_out: C Agafili
+          fielders:
+          - XA Jetly
+          kind: run out

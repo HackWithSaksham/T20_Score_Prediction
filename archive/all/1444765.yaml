@@ -1,0 +1,2289 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: CSA T20 Challenge
+  dates:
+  - '2024-09-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      runs: 117
+  overs: 20
+  players:
+    Titans:
+    - LG Pretorius
+    - R Moonsamy
+    - KD Petersen
+    - D Brevis
+    - D Ferreira
+    - BS Makhanya
+    - Dayyaan Galiem
+    - C Bosch
+    - RE van der Merwe
+    - CJ Dala
+    - Tsepo Ndwandwa
+    Lions:
+    - Zubayr Hamza
+    - W Makwetu
+    - M Manack
+    - M Van Buuren
+    - C Esterhuizen
+    - D Potgieter
+    - E Jones
+    - Codi Yusuf
+    - L Sipamla
+    - KT Maphaka
+    - J Dawood
+  registry:
+    people:
+      BM White: 66c21d35
+      BP Jele: 7bb1331e
+      BS Makhanya: 1b42a100
+      C Bosch: 172dff15
+      C Esterhuizen: ef9acbcc
+      CJ Dala: 1cb14aa4
+      Codi Yusuf: f2397e48
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      D Potgieter: 60fbf53a
+      Dayyaan Galiem: 47c449c5
+      E Jones: fbfea9c2
+      J Dawood: a2316f90
+      KD Petersen: bf64dc29
+      KT Maphaka: 107c26fb
+      L Sipamla: f892fcf9
+      LG Pretorius: 60aa2db3
+      M Manack: 2cd3b457
+      M Van Buuren: 46e4a4e0
+      PJ Vosloo: 93a6d2d0
+      R Moonsamy: 29e676b0
+      RE van der Merwe: 05c2ca46
+      SB Lambson: 4146063f
+      Siphelele Gasa: e50baa87
+      Tsepo Ndwandwa: be3ffb65
+      W Makwetu: ae53180e
+      Zubayr Hamza: 22feee04
+  teams:
+  - Titans
+  - Lions
+  toss:
+    winner: Lions
+    decision: field
+  umpires:
+  - BP Jele
+  - Siphelele Gasa
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 0.2:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 0.3:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 0.4:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 0.5:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        batsman: LG Pretorius
+    - 0.6:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 0.7:
+        non_striker: R Moonsamy
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 1.1:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Moonsamy
+    - 1.2:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+        wicket:
+          player_out: R Moonsamy
+          kind: bowled
+    - 1.3:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.4:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 1.5:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.6:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 2.1:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 2.2:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 2.3:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 2.4:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 2.5:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 2.6:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.1:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.2:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.3:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 3.4:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 3.5:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.6:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 4.1:
+        non_striker: LG Pretorius
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 4.2:
+        non_striker: LG Pretorius
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 4.3:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 4.4:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 4.5:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 4.6:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 4.7:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 5.1:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 5.2:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        extras:
+          byes: 4
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        batsman: KD Petersen
+    - 5.3:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 5.4:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.5:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 5.6:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.7:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 5.8:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        batsman: LG Pretorius
+    - 5.9:
+        non_striker: LG Pretorius
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 6.1:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 6.2:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 6.3:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 6.4:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 6.5:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 6.6:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 7.1:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Petersen
+    - 7.2:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 7.3:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 7.4:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 7.5:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 7.6:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 8.1:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 8.2:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 8.3:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 8.4:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 8.5:
+        non_striker: LG Pretorius
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 8.6:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 8.7:
+        non_striker: KD Petersen
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 8.8:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 8.9:
+        non_striker: KD Petersen
+        bowler: E Jones
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 8.10:
+        non_striker: KD Petersen
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 9.1:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 9.2:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 9.3:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 9.4:
+        non_striker: LG Pretorius
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 9.5:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 9.6:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 9.7:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 9.8:
+        non_striker: KD Petersen
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 10.1:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 10.2:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 10.3:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 10.4:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 10.5:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Petersen
+    - 10.6:
+        non_striker: LG Pretorius
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 11.1:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 11.2:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 11.3:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 11.4:
+        non_striker: LG Pretorius
+        bowler: L Sipamla
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KD Petersen
+    - 11.5:
+        non_striker: LG Pretorius
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 11.6:
+        non_striker: KD Petersen
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 11.7:
+        non_striker: LG Pretorius
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 12.1:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 12.2:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LG Pretorius
+    - 12.3:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 12.4:
+        non_striker: LG Pretorius
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 12.5:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 12.6:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: LG Pretorius
+    - 12.7:
+        non_striker: KD Petersen
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+        wicket:
+          player_out: LG Pretorius
+          fielders:
+          - E Jones
+          kind: caught
+    - 13.1:
+        non_striker: D Brevis
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 13.2:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 13.3:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.4:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 13.5:
+        non_striker: KD Petersen
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 13.6:
+        non_striker: D Brevis
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 14.1:
+        non_striker: D Brevis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - W Makwetu
+          kind: run out
+    - 14.2:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Ferreira
+    - 14.3:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        batsman: D Ferreira
+    - 14.4:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 14.5:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.6:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.7:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 14.8:
+        non_striker: KD Petersen
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.1:
+        non_striker: D Ferreira
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+        wicket:
+          player_out: KD Petersen
+          fielders:
+          - E Jones
+          kind: caught
+    - 15.2:
+        non_striker: D Ferreira
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 15.3:
+        non_striker: BS Makhanya
+        bowler: D Potgieter
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Ferreira
+    - 15.4:
+        non_striker: BS Makhanya
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.5:
+        non_striker: BS Makhanya
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.6:
+        non_striker: BS Makhanya
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.7:
+        non_striker: BS Makhanya
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 16.1:
+        non_striker: D Ferreira
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 16.2:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 16.3:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 16.4:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 16.5:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 16.6:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.1:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 17.2:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.3:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.4:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - W Makwetu
+          kind: caught
+    - 17.5:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 17.6:
+        non_striker: BS Makhanya
+        bowler: E Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 18.1:
+        non_striker: BS Makhanya
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 18.2:
+        non_striker: BS Makhanya
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 18.3:
+        non_striker: BS Makhanya
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 18.4:
+        non_striker: Dayyaan Galiem
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 18.5:
+        non_striker: BS Makhanya
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 18.6:
+        non_striker: Dayyaan Galiem
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 18.7:
+        non_striker: Dayyaan Galiem
+        bowler: KT Maphaka
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: BS Makhanya
+    - 18.8:
+        non_striker: Dayyaan Galiem
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 19.1:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 19.2:
+        non_striker: Dayyaan Galiem
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Makhanya
+    - 19.3:
+        non_striker: Dayyaan Galiem
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 19.4:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 19.5:
+        non_striker: Dayyaan Galiem
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 19.6:
+        non_striker: BS Makhanya
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+        wicket:
+          player_out: Dayyaan Galiem
+          fielders:
+          - C Esterhuizen
+          kind: caught
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 0.2:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+    - 0.3:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubayr Hamza
+    - 0.4:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubayr Hamza
+        wicket:
+          player_out: Zubayr Hamza
+          fielders:
+          - D Brevis
+          kind: caught
+    - 0.5:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Manack
+    - 0.6:
+        non_striker: W Makwetu
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Manack
+    - 1.1:
+        non_striker: M Manack
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Makwetu
+    - 1.2:
+        non_striker: W Makwetu
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Manack
+        wicket:
+          player_out: M Manack
+          fielders:
+          - KD Petersen
+          kind: caught
+    - 1.3:
+        non_striker: W Makwetu
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 1.4:
+        non_striker: W Makwetu
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 1.5:
+        non_striker: W Makwetu
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+        wicket:
+          player_out: M Van Buuren
+          kind: bowled
+    - 1.6:
+        non_striker: W Makwetu
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 2.1:
+        non_striker: C Esterhuizen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Makwetu
+    - 2.2:
+        non_striker: C Esterhuizen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Makwetu
+        wicket:
+          player_out: W Makwetu
+          kind: caught and bowled
+    - 2.3:
+        non_striker: C Esterhuizen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 2.4:
+        non_striker: D Potgieter
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 2.5:
+        non_striker: D Potgieter
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+        wicket:
+          player_out: C Esterhuizen
+          kind: lbw
+    - 2.6:
+        non_striker: D Potgieter
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 3.1:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 3.2:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 3.3:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 3.4:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 3.5:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 3.6:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 4.1:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 4.2:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 4.3:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 4.4:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 4.5:
+        non_striker: D Potgieter
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 4.6:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 5.1:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: E Jones
+    - 5.2:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 5.3:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 5.4:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 5.5:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 5.6:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 5.7:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.1:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 6.2:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 6.3:
+        non_striker: E Jones
+        bowler: C Bosch
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 6.4:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 6.5:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.6:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.1:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 7.2:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 7.3:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.4:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.5:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.6:
+        non_striker: D Potgieter
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 8.1:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 8.2:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 8.3:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 8.4:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 8.5:
+        non_striker: D Potgieter
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 8.6:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 9.1:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 9.2:
+        non_striker: E Jones
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 9.3:
+        non_striker: E Jones
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 9.4:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 9.5:
+        non_striker: E Jones
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 9.6:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.1:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 10.2:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 10.3:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.4:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 10.5:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 10.6:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.1:
+        non_striker: E Jones
+        bowler: D Ferreira
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 11.2:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 11.3:
+        non_striker: E Jones
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.4:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 11.5:
+        non_striker: E Jones
+        bowler: D Ferreira
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: D Potgieter
+    - 11.6:
+        non_striker: D Potgieter
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 12.1:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 12.2:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 12.3:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 12.4:
+        non_striker: E Jones
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 12.5:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 12.6:
+        non_striker: D Potgieter
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 13.1:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+        wicket:
+          player_out: D Potgieter
+          kind: caught and bowled
+    - 13.2:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Codi Yusuf
+    - 13.3:
+        non_striker: Codi Yusuf
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 13.4:
+        non_striker: Codi Yusuf
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 13.5:
+        non_striker: Codi Yusuf
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 13.6:
+        non_striker: Codi Yusuf
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+        wicket:
+          player_out: Codi Yusuf
+          fielders:
+          - KD Petersen
+          kind: run out
+    - 14.1:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 14.2:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 14.3:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 14.4:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 14.5:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 14.6:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 15.1:
+        non_striker: L Sipamla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 15.2:
+        non_striker: E Jones
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 15.3:
+        non_striker: L Sipamla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 15.4:
+        non_striker: L Sipamla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 15.5:
+        non_striker: L Sipamla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 15.6:
+        non_striker: L Sipamla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 16.1:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 16.2:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 16.3:
+        non_striker: E Jones
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 16.4:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 16.5:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 16.6:
+        non_striker: L Sipamla
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.1:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: E Jones
+    - 17.2:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.3:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 17.4:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 17.5:
+        non_striker: E Jones
+        bowler: CJ Dala
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: L Sipamla
+    - 17.6:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.7:
+        non_striker: E Jones
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 18.1:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Sipamla
+    - 18.2:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 18.3:
+        non_striker: L Sipamla
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 18.4:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 18.5:
+        non_striker: E Jones
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 18.6:
+        non_striker: L Sipamla
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 19.1:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          fielders:
+          - Dayyaan Galiem
+          kind: run out
+    - 19.2:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KT Maphaka
+    - 19.3:
+        non_striker: KT Maphaka
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sipamla
+    - 19.4:
+        non_striker: KT Maphaka
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Sipamla
+    - 19.5:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Maphaka
+    - 19.6:
+        non_striker: L Sipamla
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Maphaka

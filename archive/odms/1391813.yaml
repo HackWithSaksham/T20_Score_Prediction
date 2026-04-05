@@ -1,0 +1,4334 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: The Marsh Cup
+  dates:
+  - '2023-11-04'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: New South Wales
+    by:
+      wickets: 2
+    method: D/L
+  overs: 50
+  player_of_match:
+  - BD Macdonald
+  players:
+    Western Australia:
+    - JR Philippe
+    - DJM Short
+    - CT Bancroft
+    - SM Whiteman
+    - AJ Turner
+    - NR Hobson
+    - CH Stobo
+    - H McKenzie
+    - AJ Tye
+    - JP Behrendorff
+    - M Beardman
+    New South Wales:
+    - DP Hughes
+    - BD Macdonald
+    - M Gilkes
+    - MC Henriques
+    - O Davies
+    - JJS Sangha
+    - H Kerr
+    - CJ Green
+    - BJ Dwarshuis
+    - W Salzmann
+    - J Nisbet
+  registry:
+    people:
+      AJ Turner: ff1e12a0
+      AJ Tye: 7c7d63a2
+      BD Macdonald: 28147cdc
+      BJ Dwarshuis: e1b9f3a9
+      CH Stobo: '098229a5'
+      CJ Green: 19b9f399
+      CT Bancroft: 399b0b94
+      DJM Short: 1a156c88
+      DP Hughes: f3982af9
+      GA Abood: a4af5528
+      GJ Davidson: 31ad5973
+      H Kerr: f422728b
+      H McKenzie: 5222f5fa
+      J Nisbet: ccd4d679
+      JJS Sangha: 8e3cb0e9
+      JP Behrendorff: 4933f499
+      JR Philippe: '39086549'
+      M Beardman: b5a12740
+      M Gilkes: d85b0f8b
+      MC Henriques: 32198ae0
+      NR Hobson: 4312e0fd
+      O Davies: 0ea54eca
+      SJ Davis: bc71b0b2
+      SM Whiteman: f4427cc6
+      W Salzmann: 9f7a3280
+  teams:
+  - Western Australia
+  - New South Wales
+  toss:
+    winner: New South Wales
+    decision: field
+  umpires:
+  - GA Abood
+  - GJ Davidson
+  venue: Cricket Central, Sydney
+innings:
+- 1st innings:
+    team: Western Australia
+    deliveries:
+    - 0.1:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.2:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.3:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.4:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.5:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.6:
+        non_striker: DJM Short
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.1:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 1.2:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+        wicket:
+          player_out: DJM Short
+          fielders:
+          - CJ Green
+          kind: caught
+    - 1.3:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CT Bancroft
+    - 1.4:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CT Bancroft
+    - 1.5:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Philippe
+    - 1.6:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.7:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.8:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.1:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 2.2:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 2.3:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.4:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.5:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.6:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.1:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 3.2:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 3.3:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.4:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 3.5:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CT Bancroft
+    - 3.6:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 4.1:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 4.2:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 4.3:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 4.4:
+        non_striker: CT Bancroft
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 4.5:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.6:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 5.1:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 5.2:
+        non_striker: CT Bancroft
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 5.3:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          fielders:
+          - J Nisbet
+          kind: run out
+    - 5.4:
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SM Whiteman
+        batsman: JR Philippe
+    - 5.5:
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Whiteman
+        batsman: JR Philippe
+    - 5.6:
+        non_striker: SM Whiteman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.1:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 6.2:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 6.3:
+        non_striker: JR Philippe
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 6.4:
+        non_striker: SM Whiteman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.5:
+        non_striker: SM Whiteman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.6:
+        non_striker: SM Whiteman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 7.1:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 7.2:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 7.3:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 7.4:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 7.5:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Whiteman
+    - 7.6:
+        non_striker: SM Whiteman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 8.1:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 8.2:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 8.3:
+        non_striker: SM Whiteman
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 8.4:
+        non_striker: SM Whiteman
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 8.5:
+        non_striker: SM Whiteman
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JR Philippe
+    - 8.6:
+        non_striker: SM Whiteman
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.1:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 9.2:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 9.3:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.4:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 9.5:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 9.6:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Whiteman
+    - 10.1:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 10.2:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.3:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.4:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 10.5:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 10.6:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 11.1:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 11.2:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 11.3:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 11.4:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 11.5:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 11.6:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 12.1:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 12.2:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 12.3:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 12.4:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 12.5:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 12.6:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 13.1:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.2:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.3:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.4:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.5:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.6:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.1:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 14.2:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.3:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.4:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.5:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 14.6:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 15.1:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 15.2:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 15.3:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 15.4:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 15.5:
+        non_striker: SM Whiteman
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 15.6:
+        non_striker: JR Philippe
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 16.1:
+        non_striker: SM Whiteman
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 16.2:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 16.3:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Whiteman
+    - 16.4:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 16.5:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 16.6:
+        non_striker: SM Whiteman
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 16.7:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 17.1:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 17.2:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 17.3:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 17.4:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 17.5:
+        non_striker: SM Whiteman
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 17.6:
+        non_striker: JR Philippe
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 18.1:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.2:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.3:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.4:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 18.5:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.6:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 19.1:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 19.2:
+        non_striker: SM Whiteman
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 19.3:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 19.4:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 19.5:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+        wicket:
+          player_out: SM Whiteman
+          kind: lbw
+    - 19.6:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 20.1:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 20.2:
+        non_striker: AJ Turner
+        bowler: MC Henriques
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Philippe
+    - 20.3:
+        non_striker: AJ Turner
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 20.4:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 20.5:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 20.6:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Turner
+    - 20.7:
+        non_striker: JR Philippe
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 20.8:
+        non_striker: AJ Turner
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 21.1:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 21.2:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Turner
+    - 21.3:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 21.4:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 21.5:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 21.6:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 21.7:
+        non_striker: JR Philippe
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 22.1:
+        non_striker: JR Philippe
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 22.2:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 22.3:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - DP Hughes
+          kind: caught
+    - 22.4:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 22.5:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 22.6:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 23.1:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 23.2:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 23.3:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Hobson
+    - 23.4:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 23.5:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 23.6:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 24.1:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 24.2:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 24.3:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 24.4:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 24.5:
+        non_striker: AJ Turner
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 24.6:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 25.1:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 25.2:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 25.3:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 25.4:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 25.5:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 25.6:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 26.1:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 26.2:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 26.3:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 26.4:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 26.5:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 26.6:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 27.1:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 27.2:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 27.3:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 27.4:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 27.5:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 27.6:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 28.1:
+        non_striker: NR Hobson
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 28.2:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Hobson
+    - 28.3:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 28.4:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 28.5:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 28.6:
+        non_striker: AJ Turner
+        bowler: J Nisbet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 29.1:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 29.2:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 29.3:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 29.4:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 29.5:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 29.6:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 30.1:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Hobson
+    - 30.2:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 30.3:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 30.4:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 30.5:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 30.6:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 31.1:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 31.2:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 31.3:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 31.4:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+        wicket:
+          player_out: AJ Turner
+          fielders:
+          - O Davies
+          kind: caught
+    - 31.5:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 31.6:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 32.1:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 32.2:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 32.3:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 32.4:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 32.5:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Stobo
+    - 32.6:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 33.1:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 33.2:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 33.3:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Stobo
+    - 33.4:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 33.5:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 33.6:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 34.1:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Hobson
+    - 34.2:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 34.3:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Hobson
+    - 34.4:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 34.5:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 34.6:
+        non_striker: CH Stobo
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 34.7:
+        non_striker: NR Hobson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 35.1:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 35.2:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 35.3:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Stobo
+    - 35.4:
+        non_striker: CH Stobo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 35.5:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+    - 35.6:
+        non_striker: NR Hobson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Stobo
+    - 36.1:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Stobo
+        wicket:
+          player_out: CH Stobo
+          kind: bowled
+    - 36.2:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+    - 36.3:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+    - 36.4:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+    - 36.5:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McKenzie
+    - 36.6:
+        non_striker: H McKenzie
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+    - 37.1:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McKenzie
+    - 37.2:
+        non_striker: H McKenzie
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 37.3:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H McKenzie
+    - 37.4:
+        non_striker: H McKenzie
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 37.5:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+    - 37.6:
+        non_striker: NR Hobson
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+    - 38.1:
+        non_striker: H McKenzie
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 38.2:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McKenzie
+    - 38.3:
+        non_striker: H McKenzie
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Hobson
+    - 38.4:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H McKenzie
+    - 38.5:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McKenzie
+        wicket:
+          player_out: H McKenzie
+          fielders:
+          - BJ Dwarshuis
+          kind: caught
+    - 38.6:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Tye
+    - 38.7:
+        non_striker: NR Hobson
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Tye
+    - 39.1:
+        non_striker: AJ Tye
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Hobson
+        wicket:
+          player_out: NR Hobson
+          fielders:
+          - DP Hughes
+          kind: caught
+    - 39.2:
+        non_striker: AJ Tye
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 39.3:
+        non_striker: AJ Tye
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 39.4:
+        non_striker: AJ Tye
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 39.5:
+        non_striker: AJ Tye
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Behrendorff
+    - 39.6:
+        non_striker: JP Behrendorff
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 40.1:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Tye
+    - 40.2:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Tye
+    - 40.3:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          kind: lbw
+    - 40.4:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beardman
+    - 40.5:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Beardman
+    - 40.6:
+        non_striker: M Beardman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Behrendorff
+    - 41.1:
+        non_striker: M Beardman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 41.2:
+        non_striker: M Beardman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 41.3:
+        non_striker: M Beardman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Behrendorff
+    - 41.4:
+        non_striker: M Beardman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Behrendorff
+    - 41.5:
+        non_striker: M Beardman
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Behrendorff
+    - 41.6:
+        non_striker: JP Behrendorff
+        bowler: W Salzmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beardman
+    - 42.1:
+        non_striker: M Beardman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Behrendorff
+    - 42.2:
+        non_striker: JP Behrendorff
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Beardman
+        wicket:
+          player_out: M Beardman
+          kind: bowled
+- 2nd innings:
+    team: New South Wales
+    deliveries:
+    - 0.1:
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BD Macdonald
+        batsman: DP Hughes
+    - 0.2:
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BD Macdonald
+        batsman: DP Hughes
+    - 0.3:
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BD Macdonald
+        batsman: DP Hughes
+    - 0.4:
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BD Macdonald
+        batsman: DP Hughes
+    - 0.5:
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BD Macdonald
+        batsman: DP Hughes
+    - 0.6:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.1:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BD Macdonald
+    - 1.2:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 1.4:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 1.5:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 1.7:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 2.1:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 2.2:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.3:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.4:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.5:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.6:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.1:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 3.2:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.3:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.4:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 3.5:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 3.6:
+        non_striker: DP Hughes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.1:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 4.2:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.3:
+        non_striker: DP Hughes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.4:
+        non_striker: DP Hughes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.5:
+        non_striker: DP Hughes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.6:
+        non_striker: DP Hughes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 5.1:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.2:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.3:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.4:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.5:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.6:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 6.1:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 6.2:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Hughes
+    - 6.3:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 6.4:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 6.5:
+        non_striker: DP Hughes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BD Macdonald
+    - 6.6:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 7.1:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 7.2:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 7.3:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 7.4:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 7.5:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 7.6:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 8.1:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Gilkes
+    - 8.2:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 8.3:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 8.4:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 8.5:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 8.6:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 9.1:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 9.2:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 9.3:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 9.4:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 9.5:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 9.6:
+        non_striker: M Gilkes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 10.1:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 10.2:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 10.3:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 10.4:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 10.5:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 10.6:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 11.1:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 11.2:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 11.3:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 11.4:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 11.5:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 11.6:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 12.1:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 12.2:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 12.3:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 12.4:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 12.5:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BD Macdonald
+    - 12.6:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 13.1:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 13.2:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 13.3:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 13.4:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 13.5:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 13.6:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 14.1:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 14.2:
+        non_striker: M Gilkes
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 14.3:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 14.4:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 14.5:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 14.6:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 15.1:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 15.2:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 15.3:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 15.4:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 15.5:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 15.6:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 16.1:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 16.2:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 16.3:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 16.4:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 16.5:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: M Gilkes
+    - 16.6:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 17.1:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 17.2:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 17.3:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 17.4:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 17.5:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 17.6:
+        non_striker: M Gilkes
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 18.1:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 18.2:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 18.3:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 18.4:
+        non_striker: M Gilkes
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 18.5:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 18.6:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 19.1:
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MC Henriques
+        batsman: BD Macdonald
+    - 19.2:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 19.3:
+        non_striker: MC Henriques
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 19.4:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 19.5:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 19.6:
+        non_striker: BD Macdonald
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 20.1:
+        non_striker: MC Henriques
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 20.2:
+        non_striker: MC Henriques
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 20.3:
+        non_striker: MC Henriques
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 20.4:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 20.5:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 20.6:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 21.1:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 21.2:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 21.3:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 21.4:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 21.5:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MC Henriques
+    - 21.6:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 21.7:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 22.1:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 22.2:
+        non_striker: BD Macdonald
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 22.3:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 22.4:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 22.5:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 22.6:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 23.1:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 23.2:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 23.3:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 23.4:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BD Macdonald
+    - 23.5:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 23.6:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 23.7:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 24.1:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 24.2:
+        non_striker: BD Macdonald
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 24.3:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 24.4:
+        non_striker: MC Henriques
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 24.5:
+        non_striker: BD Macdonald
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 24.6:
+        non_striker: BD Macdonald
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 25.1:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 25.2:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 25.3:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 25.4:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 25.5:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 25.6:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 26.1:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 26.2:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 26.3:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 26.4:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 26.5:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 26.6:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 27.1:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 27.2:
+        non_striker: MC Henriques
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 27.3:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 27.4:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 27.5:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 27.6:
+        non_striker: BD Macdonald
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - H McKenzie
+          kind: caught
+    - 28.1:
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Davies
+        batsman: BD Macdonald
+    - 28.2:
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Davies
+        batsman: BD Macdonald
+    - 28.3:
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Davies
+        batsman: BD Macdonald
+    - 28.4:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 28.5:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 28.6:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 29.1:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 29.2:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 29.3:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 29.4:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 29.5:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 29.6:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 30.1:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 30.2:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 30.3:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 30.4:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 30.5:
+        non_striker: BD Macdonald
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 30.6:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 31.1:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 31.2:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 31.3:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 31.4:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 31.5:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 31.6:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 32.1:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 32.2:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 32.3:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 32.4:
+        non_striker: O Davies
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 32.5:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 32.6:
+        non_striker: BD Macdonald
+        bowler: CH Stobo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 33.1:
+        non_striker: BD Macdonald
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 33.2:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 33.3:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 33.4:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 33.5:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 33.6:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+        wicket:
+          player_out: BD Macdonald
+          kind: bowled
+    - 34.1:
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJS Sangha
+        batsman: O Davies
+    - 34.2:
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: JJS Sangha
+        batsman: O Davies
+    - 34.3:
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJS Sangha
+        batsman: O Davies
+    - 34.4:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJS Sangha
+    - 34.5:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 34.6:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 35.1:
+        non_striker: JJS Sangha
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 35.2:
+        non_striker: JJS Sangha
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 35.3:
+        non_striker: JJS Sangha
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 35.4:
+        non_striker: JJS Sangha
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 35.5:
+        non_striker: JJS Sangha
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 35.6:
+        non_striker: O Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 36.1:
+        non_striker: JJS Sangha
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 36.2:
+        non_striker: JJS Sangha
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 36.3:
+        non_striker: JJS Sangha
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Davies
+    - 36.4:
+        non_striker: JJS Sangha
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 36.5:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 36.6:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 37.1:
+        non_striker: JJS Sangha
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 37.2:
+        non_striker: JJS Sangha
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 37.3:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 37.4:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 37.5:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 37.6:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 38.1:
+        non_striker: JJS Sangha
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 38.2:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+        wicket:
+          player_out: JJS Sangha
+          kind: bowled
+    - 38.3:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 38.4:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 38.5:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 38.6:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 39.1:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+        wicket:
+          player_out: H Kerr
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 39.2:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 39.3:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+        wicket:
+          player_out: CJ Green
+          fielders:
+          - NR Hobson
+          kind: caught
+    - 39.4:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 39.5:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 39.6:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 40.1:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 40.2:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 40.3:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Dwarshuis
+    - 40.4:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 40.5:
+        non_striker: BJ Dwarshuis
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 40.6:
+        non_striker: O Davies
+        bowler: H McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 41.1:
+        non_striker: BJ Dwarshuis
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 41.2:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+        wicket:
+          player_out: BJ Dwarshuis
+          fielders:
+          - M Beardman
+          kind: caught
+    - 41.3:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Salzmann
+    - 41.4:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Salzmann
+    - 41.5:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Salzmann
+    - 41.6:
+        non_striker: O Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Salzmann

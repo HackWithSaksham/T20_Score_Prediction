@@ -1,0 +1,2093 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cork
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2023-06-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Knights
+    by:
+      runs: 73
+  overs: 20
+  player_of_match:
+  - NA Rock
+  players:
+    Northern Knights:
+    - GR Adair
+    - R Pretorius
+    - C Carmichael
+    - M Topping
+    - NA Rock
+    - T Koen
+    - T Mayes
+    - MT Foster
+    - MJ Humphreys
+    - TF van Woerkom
+    - JB van der Merwe
+    Leinster Lightning:
+    - S Lynch
+    - TH Tector
+    - A Rosslee
+    - G Ford
+    - M Donegan
+    - BJ McCarthy
+    - SJ Harbinson
+    - J Carroll
+    - G Hoey
+    - A Sidhu
+    - R Wilson
+  registry:
+    people:
+      A Rosslee: a8d48f69
+      A Sidhu: 69b1224b
+      Aidan Seaver: 862c0b16
+      BJ McCarthy: 3766056b
+      C Carmichael: f3b158d9
+      G Ford: ca825da7
+      G Hoey: 19d0a172
+      G McCrea: 46f4a901
+      GR Adair: 4ec96094
+      J Carroll: 319dbe8f
+      JB van der Merwe: '0482c3ad'
+      M Donegan: 84cf842e
+      M Topping: 33f44dfc
+      MJ Humphreys: 2c54c49b
+      MT Foster: 14e801aa
+      NA Rock: 43f4087c
+      PA Reynolds: a416c9c3
+      R Pretorius: 8ff85f5c
+      R Wilson: 81b0935a
+      S Lynch: 5ffe6225
+      SD Hollingshead: 7ccfb799
+      SJ Harbinson: ccc17282
+      T Koen: 806f03dd
+      T Mayes: 9aedf23b
+      TF van Woerkom: 70f2f922
+      TH Tector: '0348f9a5'
+  teams:
+  - Northern Knights
+  - Leinster Lightning
+  toss:
+    winner: Leinster Lightning
+    decision: field
+  umpires:
+  - PA Reynolds
+  - SD Hollingshead
+  venue: Mardyke, Cork
+innings:
+- 1st innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Pretorius
+        batsman: GR Adair
+    - 0.2:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Pretorius
+        batsman: GR Adair
+    - 0.3:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Pretorius
+        batsman: GR Adair
+    - 0.4:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Pretorius
+        batsman: GR Adair
+    - 0.5:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Pretorius
+        batsman: GR Adair
+    - 0.6:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.1:
+        non_striker: R Pretorius
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.2:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 1.3:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Pretorius
+    - 1.4:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 1.5:
+        non_striker: R Pretorius
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.6:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 1.7:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 2.1:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 2.2:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 2.3:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.4:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.5:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.6:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.1:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 3.2:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pretorius
+    - 3.3:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 3.4:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pretorius
+    - 3.5:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 3.6:
+        non_striker: GR Adair
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pretorius
+    - 4.1:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.2:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.3:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.4:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.5:
+        non_striker: R Pretorius
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 4.6:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 5.1:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 5.2:
+        non_striker: GR Adair
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 5.3:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.4:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.5:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 5.6:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 6.1:
+        non_striker: R Pretorius
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 6.2:
+        non_striker: GR Adair
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pretorius
+    - 6.3:
+        non_striker: GR Adair
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Pretorius
+    - 6.4:
+        non_striker: GR Adair
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pretorius
+    - 6.5:
+        non_striker: GR Adair
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 6.6:
+        non_striker: R Pretorius
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - A Sidhu
+          kind: caught
+    - 7.1:
+        bowler: SJ Harbinson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        non_striker: C Carmichael
+        batsman: R Pretorius
+    - 7.2:
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Carmichael
+        batsman: R Pretorius
+    - 7.3:
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: C Carmichael
+        batsman: R Pretorius
+    - 7.4:
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Carmichael
+        batsman: R Pretorius
+    - 7.5:
+        non_striker: R Pretorius
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 7.6:
+        non_striker: C Carmichael
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 8.1:
+        non_striker: R Pretorius
+        bowler: G Hoey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Carmichael
+    - 8.2:
+        non_striker: C Carmichael
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 8.3:
+        non_striker: C Carmichael
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 8.4:
+        non_striker: C Carmichael
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+    - 8.5:
+        non_striker: C Carmichael
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pretorius
+    - 8.6:
+        non_striker: C Carmichael
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 9.1:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Pretorius
+    - 9.2:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Pretorius
+    - 9.3:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 9.4:
+        non_striker: R Pretorius
+        bowler: J Carroll
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Carmichael
+    - 9.5:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 9.6:
+        non_striker: R Pretorius
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 9.7:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pretorius
+        wicket:
+          player_out: R Pretorius
+          fielders:
+          - M Donegan
+          kind: caught
+    - 10.1:
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Topping
+        batsman: C Carmichael
+    - 10.2:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 10.3:
+        non_striker: M Topping
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 10.4:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Topping
+    - 10.5:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 10.6:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 11.1:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Topping
+    - 11.2:
+        non_striker: M Topping
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 11.3:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.4:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.5:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 11.6:
+        non_striker: C Carmichael
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 12.1:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 12.2:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.3:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 12.4:
+        non_striker: C Carmichael
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 12.5:
+        non_striker: M Topping
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+        wicket:
+          player_out: C Carmichael
+          fielders:
+          - S Lynch
+          kind: caught
+    - 12.6:
+        non_striker: M Topping
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 13.1:
+        non_striker: NA Rock
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 13.2:
+        non_striker: NA Rock
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 13.3:
+        non_striker: NA Rock
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 13.4:
+        non_striker: M Topping
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 13.5:
+        non_striker: NA Rock
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 13.6:
+        non_striker: M Topping
+        bowler: J Carroll
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 14.1:
+        non_striker: NA Rock
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 14.2:
+        non_striker: NA Rock
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 14.3:
+        non_striker: NA Rock
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 14.4:
+        non_striker: NA Rock
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 14.5:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 14.6:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 15.1:
+        non_striker: NA Rock
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 15.2:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 15.3:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 15.4:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 15.5:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 15.6:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 15.7:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 16.1:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 16.2:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 16.3:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 16.4:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 16.5:
+        non_striker: NA Rock
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 16.6:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 17.1:
+        non_striker: NA Rock
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 17.2:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 17.3:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 17.4:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 17.5:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 17.6:
+        non_striker: M Topping
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 18.1:
+        non_striker: NA Rock
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 18.2:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 18.3:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 18.4:
+        non_striker: NA Rock
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 18.5:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 18.6:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 18.7:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 19.1:
+        non_striker: NA Rock
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Topping
+    - 19.2:
+        non_striker: NA Rock
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Topping
+    - 19.3:
+        non_striker: NA Rock
+        bowler: BJ McCarthy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Topping
+    - 19.4:
+        non_striker: M Topping
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 19.5:
+        non_striker: M Topping
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 19.6:
+        non_striker: NA Rock
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 19.7:
+        non_striker: NA Rock
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 19.8:
+        non_striker: M Topping
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NA Rock
+- 2nd innings:
+    team: Leinster Lightning
+    deliveries:
+    - 0.1:
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: TH Tector
+        batsman: S Lynch
+    - 0.2:
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TH Tector
+        batsman: S Lynch
+    - 0.3:
+        non_striker: S Lynch
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 0.4:
+        non_striker: S Lynch
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 0.5:
+        non_striker: S Lynch
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 0.6:
+        non_striker: TH Tector
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lynch
+    - 1.1:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lynch
+    - 1.2:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lynch
+    - 1.3:
+        non_striker: S Lynch
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+        wicket:
+          player_out: TH Tector
+          kind: caught and bowled
+    - 1.4:
+        non_striker: S Lynch
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Rosslee
+    - 1.5:
+        non_striker: A Rosslee
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Lynch
+    - 1.6:
+        non_striker: A Rosslee
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lynch
+        wicket:
+          player_out: S Lynch
+          fielders:
+          - MJ Humphreys
+          kind: caught
+    - 2.1:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.2:
+        bowler: R Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.3:
+        bowler: R Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.4:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.5:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.6:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.7:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: G Ford
+        batsman: A Rosslee
+    - 2.8:
+        non_striker: G Ford
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rosslee
+    - 3.1:
+        non_striker: A Rosslee
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 3.2:
+        non_striker: A Rosslee
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Ford
+    - 3.3:
+        non_striker: G Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Rosslee
+        wicket:
+          player_out: A Rosslee
+          fielders:
+          - NA Rock
+          kind: caught
+    - 3.4:
+        non_striker: G Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 3.5:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 3.6:
+        non_striker: G Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 4.1:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Donegan
+    - 4.2:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Donegan
+    - 4.3:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 4.4:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 4.5:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 4.6:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+    - 4.7:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+    - 5.1:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 5.2:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ford
+    - 5.3:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 5.4:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ford
+    - 5.5:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ford
+    - 5.6:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 6.1:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 6.2:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Donegan
+    - 6.3:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Donegan
+    - 6.4:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+    - 6.5:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Donegan
+    - 6.6:
+        non_striker: G Ford
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Donegan
+    - 7.1:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 7.2:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 7.3:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 7.4:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 7.5:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Donegan
+    - 7.6:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+    - 8.1:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+    - 8.2:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 8.3:
+        non_striker: G Ford
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 8.4:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ford
+    - 8.5:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ford
+    - 8.6:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Ford
+    - 9.1:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 9.2:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 9.3:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 9.4:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 9.5:
+        non_striker: M Donegan
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 9.6:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Donegan
+    - 9.7:
+        non_striker: G Ford
+        bowler: T Koen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Donegan
+    - 10.1:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ford
+    - 10.2:
+        non_striker: G Ford
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Donegan
+    - 10.3:
+        non_striker: G Ford
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 10.4:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ford
+        wicket:
+          player_out: G Ford
+          fielders:
+          - NA Rock
+          kind: stumped
+    - 10.5:
+        non_striker: M Donegan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 10.6:
+        non_striker: BJ McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Donegan
+    - 11.1:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McCarthy
+    - 11.2:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+        wicket:
+          player_out: BJ McCarthy
+          fielders:
+          - T Koen
+          kind: caught
+    - 11.3:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Harbinson
+    - 11.4:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Harbinson
+        wicket:
+          player_out: SJ Harbinson
+          fielders:
+          - M Topping
+          kind: caught
+    - 11.5:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Carroll
+    - 11.6:
+        non_striker: J Carroll
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 11.7:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Carroll
+    - 12.1:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Carroll
+    - 12.2:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Carroll
+    - 12.3:
+        non_striker: J Carroll
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 12.4:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Carroll
+    - 12.5:
+        non_striker: J Carroll
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+    - 12.6:
+        non_striker: J Carroll
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 12.7:
+        non_striker: M Donegan
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Carroll
+        wicket:
+          player_out: J Carroll
+          fielders:
+          - GR Adair
+          kind: caught
+    - 13.1:
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Hoey
+        batsman: M Donegan
+    - 13.2:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Hoey
+    - 13.3:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Hoey
+    - 13.4:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Hoey
+    - 13.5:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Hoey
+    - 13.6:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Hoey
+    - 13.7:
+        non_striker: M Donegan
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Hoey
+    - 14.1:
+        non_striker: G Hoey
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 14.2:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Hoey
+        wicket:
+          player_out: G Hoey
+          fielders:
+          - JB van der Merwe
+          kind: caught
+    - 14.3:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sidhu
+    - 14.4:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sidhu
+    - 14.5:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sidhu
+    - 14.6:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sidhu
+    - 14.7:
+        non_striker: M Donegan
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sidhu
+    - 15.1:
+        non_striker: A Sidhu
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Donegan
+    - 15.2:
+        non_striker: A Sidhu
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Donegan
+    - 15.3:
+        non_striker: A Sidhu
+        bowler: T Mayes
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Donegan
+    - 15.4:
+        non_striker: A Sidhu
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Donegan
+    - 15.5:
+        non_striker: M Donegan
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sidhu
+    - 15.6:
+        non_striker: A Sidhu
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Donegan
+        wicket:
+          player_out: M Donegan
+          fielders:
+          - NA Rock
+          kind: caught
+    - 16.1:
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Wilson
+        batsman: A Sidhu
+    - 16.2:
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Wilson
+        batsman: A Sidhu
+    - 16.3:
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Wilson
+        batsman: A Sidhu
+    - 16.4:
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Wilson
+        batsman: A Sidhu
+    - 16.5:
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Wilson
+        batsman: A Sidhu
+    - 16.6:
+        non_striker: A Sidhu
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Wilson
+    - 17.1:
+        non_striker: R Wilson
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sidhu
+        wicket:
+          player_out: A Sidhu
+          fielders:
+          - T Mayes
+          kind: caught

@@ -1,0 +1,2182 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Women's Super Smash
+  dates:
+  - '2025-12-29'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 49
+  overs: 20
+  player_of_match:
+  - AC Kerr
+  players:
+    Wellington:
+    - AC Kerr
+    - GE Plimmer
+    - RM Burns
+    - JM Kerr
+    - M Brown
+    - XA Jetly
+    - JT McFadyen
+    - HC Francis
+    - INC McKenzie
+    - JA Simmons
+    - N Baird
+    Auckland:
+    - P Catton
+    - BG Armstrong
+    - BM Halliday
+    - ML Green
+    - LR Down
+    - JO Penfold
+    - A Lambat
+    - AT Hucker
+    - MM Penfold
+    - E Buchanan
+    - BG Illing
+  registry:
+    people:
+      A Lambat: 5978fc2a
+      AC Kerr: 7673c908
+      AT Hucker: 9b554bb9
+      BG Armstrong: eca08a1d
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      C Black: 75b42f71
+      E Buchanan: e23c041b
+      G Stretch: 1d054cad
+      GE Plimmer: 575494db
+      Glen Walklin: 0070ed27
+      HC Francis: d767e864
+      INC McKenzie: a36d1129
+      JA Simmons: 33360da1
+      JM Kerr: 9af58032
+      JO Penfold: 321ea9e8
+      JT McFadyen: 7072542f
+      LR Down: 19147fe0
+      M Brown: 78bec461
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      N Baird: c0380823
+      N Louw: 465c4770
+      P Catton: 22e8ba50
+      RM Burns: 94fe4708
+      Tyron Davies: 6ec463f4
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Auckland
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - C Black
+  - Tyron Davies
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GE Plimmer
+        batsman: AC Kerr
+    - 0.2:
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GE Plimmer
+        batsman: AC Kerr
+    - 0.3:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 0.4:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 0.5:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 0.6:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 1.1:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.2:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.3:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.6:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 2.1:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 2.2:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.3:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.4:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 2.5:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.7:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.8:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 3.1:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.1:
+        non_striker: GE Plimmer
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.2:
+        non_striker: GE Plimmer
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 4.4:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.5:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 4.6:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.3:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.4:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.5:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 5.6:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: JO Penfold
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GE Plimmer
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 6.5:
+        non_striker: GE Plimmer
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: GE Plimmer
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.7:
+        non_striker: AC Kerr
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 7.3:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 8.1:
+        non_striker: GE Plimmer
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: GE Plimmer
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 8.3:
+        non_striker: GE Plimmer
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: GE Plimmer
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.1:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 9.4:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.5:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 10.5:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.4:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AC Kerr
+    - 12.7:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 12.8:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Kerr
+    - 12.9:
+        non_striker: GE Plimmer
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.7:
+        non_striker: GE Plimmer
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: GE Plimmer
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 14.3:
+        non_striker: GE Plimmer
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GE Plimmer
+    - 15.2:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: GE Plimmer
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 16.1:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 16.2:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: GE Plimmer
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 16.6:
+        non_striker: AC Kerr
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 17.1:
+        non_striker: AC Kerr
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - JO Penfold
+          kind: caught
+    - 17.3:
+        non_striker: AC Kerr
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 17.4:
+        non_striker: AC Kerr
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 17.5:
+        non_striker: RM Burns
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 17.6:
+        non_striker: RM Burns
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.1:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - LR Down
+          kind: caught
+    - 18.3:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 18.4:
+        non_striker: JM Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 18.6:
+        non_striker: JM Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 19.2:
+        non_striker: AC Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 19.3:
+        non_striker: JM Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.4:
+        non_striker: JM Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.5:
+        non_striker: JM Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.6:
+        non_striker: JM Kerr
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Armstrong
+        batsman: P Catton
+    - 0.2:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 0.3:
+        non_striker: BG Armstrong
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 0.4:
+        non_striker: BG Armstrong
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 0.5:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 0.6:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 1.1:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 1.2:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 1.3:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 1.4:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 1.5:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 1.6:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 2.1:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 2.2:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 2.3:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 2.4:
+        non_striker: BG Armstrong
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 2.5:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 2.6:
+        non_striker: P Catton
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 3.1:
+        non_striker: BG Armstrong
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 3.2:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 3.3:
+        non_striker: BG Armstrong
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 3.4:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 3.5:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 3.6:
+        non_striker: BG Armstrong
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 4.1:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BG Armstrong
+    - 4.2:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 4.3:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Halliday
+    - 4.4:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 4.5:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 4.6:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 4.7:
+        non_striker: BM Halliday
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.8:
+        non_striker: BM Halliday
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 5.1:
+        non_striker: BM Halliday
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.2:
+        non_striker: BM Halliday
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 5.3:
+        non_striker: BM Halliday
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 5.4:
+        non_striker: P Catton
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 5.5:
+        non_striker: P Catton
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 5.6:
+        non_striker: P Catton
+        bowler: XA Jetly
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: BM Halliday
+    - 6.1:
+        non_striker: BM Halliday
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 6.2:
+        non_striker: BM Halliday
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 6.3:
+        non_striker: P Catton
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 6.4:
+        non_striker: BM Halliday
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 6.5:
+        non_striker: P Catton
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 6.6:
+        non_striker: BM Halliday
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+        wicket:
+          player_out: P Catton
+          fielders:
+          - XA Jetly
+          kind: caught
+    - 7.1:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: BM Halliday
+    - 7.2:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Green
+        batsman: BM Halliday
+    - 7.3:
+        non_striker: BM Halliday
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.4:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 7.5:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 7.6:
+        non_striker: BM Halliday
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.1:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 8.2:
+        non_striker: BM Halliday
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.3:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 8.4:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 8.5:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - M Brown
+          kind: caught
+    - 8.6:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 9.1:
+        non_striker: LR Down
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.2:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.3:
+        non_striker: LR Down
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.4:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 9.5:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.6:
+        non_striker: LR Down
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.1:
+        non_striker: LR Down
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 10.2:
+        non_striker: LR Down
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.3:
+        non_striker: ML Green
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 10.4:
+        non_striker: ML Green
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 10.5:
+        non_striker: ML Green
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          fielders:
+          - JT McFadyen
+          - JA Simmons
+          kind: run out
+    - 10.6:
+        non_striker: ML Green
+        bowler: M Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Penfold
+    - 10.7:
+        non_striker: ML Green
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+        wicket:
+          player_out: JO Penfold
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 11.1:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Lambat
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 11.3:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.4:
+        non_striker: ML Green
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 11.5:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 11.6:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.1:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 12.2:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 12.3:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 12.5:
+        non_striker: ML Green
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 12.6:
+        non_striker: ML Green
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 13.1:
+        non_striker: ML Green
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 13.2:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.3:
+        non_striker: ML Green
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 13.4:
+        non_striker: ML Green
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 13.5:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.6:
+        non_striker: A Lambat
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.1:
+        non_striker: A Lambat
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.2:
+        non_striker: A Lambat
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.3:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 14.4:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 14.5:
+        non_striker: ML Green
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 14.6:
+        non_striker: A Lambat
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 15.1:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lambat
+    - 15.2:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 15.3:
+        non_striker: A Lambat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 15.4:
+        non_striker: A Lambat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.5:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lambat
+    - 15.6:
+        non_striker: A Lambat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.7:
+        non_striker: ML Green
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+    - 16.1:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 16.2:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          kind: bowled
+    - 16.3:
+        non_striker: A Lambat
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Hucker
+    - 16.4:
+        non_striker: AT Hucker
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lambat
+    - 16.5:
+        non_striker: AT Hucker
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lambat
+        wicket:
+          player_out: A Lambat
+          fielders:
+          - XA Jetly
+          kind: caught
+    - 16.6:
+        non_striker: AT Hucker
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 17.1:
+        non_striker: AT Hucker
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 17.2:
+        non_striker: AT Hucker
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 17.3:
+        non_striker: MM Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+    - 17.4:
+        non_striker: MM Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+    - 17.5:
+        non_striker: MM Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Hucker
+    - 17.6:
+        non_striker: MM Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+    - 18.1:
+        non_striker: AT Hucker
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 18.2:
+        non_striker: MM Penfold
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Hucker
+    - 18.3:
+        non_striker: AT Hucker
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 18.4:
+        non_striker: MM Penfold
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Hucker
+    - 18.5:
+        non_striker: MM Penfold
+        bowler: M Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Hucker
+    - 18.6:
+        non_striker: MM Penfold
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Hucker
+    - 18.7:
+        non_striker: MM Penfold
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+    - 19.1:
+        non_striker: AT Hucker
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 19.2:
+        non_striker: MM Penfold
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+        wicket:
+          player_out: AT Hucker
+          kind: lbw
+    - 19.3:
+        non_striker: MM Penfold
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Buchanan
+        wicket:
+          player_out: E Buchanan
+          kind: bowled
+    - 19.4:
+        non_striker: MM Penfold
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+    - 19.5:
+        non_striker: MM Penfold
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Illing
+        wicket:
+          player_out: BG Illing
+          fielders:
+          - M Brown
+          kind: caught

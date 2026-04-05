@@ -1,0 +1,1998 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-11-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hobart
+  competition: Women's Big Bash League
+  dates:
+  - '2023-11-04'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Brisbane Heat
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - AC Kerr
+  players:
+    Hobart Hurricanes:
+    - L Lee
+    - EJ Villani
+    - BF Smith
+    - H Graham
+    - NJ Carey
+    - NE Stalenberg
+    - R Johnston
+    - H Silver-holmes
+    - M Strano
+    - A Smith
+    - S Ismail
+    Brisbane Heat:
+    - GM Harris
+    - G Redmayne
+    - AC Kerr
+    - M du Preez
+    - CR Knott
+    - G Voll
+    - JL Jonassen
+    - BAM Heath
+    - M Hinkley
+    - NM Hancock
+    - CG Sippel
+  registry:
+    people:
+      A Smith: b125ce63
+      AC Kerr: 7673c908
+      BAM Heath: 3b5a9438
+      BF Smith: c64b7c5b
+      CG Sippel: c2ac0db5
+      CR Knott: d7ff1adc
+      David Johnston: 92cef862
+      EJ Villani: cde96d97
+      G Redmayne: 324b9eee
+      G Voll: 5c30d455
+      GM Harris: '72166006'
+      H Graham: 99812d10
+      H Silver-holmes: 2bfc7199
+      JL Jonassen: 0475a86b
+      L Lee: 7b01ce83
+      M Hinkley: 3812165d
+      M Qureshi: cf34fbef
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      MW Graham-Smith: 18aca3ce
+      NE Stalenberg: 609c519e
+      NJ Carey: dff806f4
+      NM Hancock: af8c3a85
+      R Johnston: 3cd107a7
+      S Ismail: 108c4c09
+  teams:
+  - Hobart Hurricanes
+  - Brisbane Heat
+  toss:
+    winner: Brisbane Heat
+    decision: field
+  umpires:
+  - MW Graham-Smith
+  - M Qureshi
+  venue: Bellerive Oval, Hobart
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: L Lee
+    - 0.2:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Lee
+    - 0.3:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.4:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.5:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 0.6:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 1.1:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          kind: caught and bowled
+    - 1.2:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 1.3:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 1.4:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 1.5:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Smith
+    - 1.6:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 2.1:
+        non_striker: EJ Villani
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 2.2:
+        non_striker: EJ Villani
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 2.3:
+        non_striker: BF Smith
+        bowler: G Voll
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Villani
+    - 2.4:
+        non_striker: BF Smith
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 2.5:
+        non_striker: BF Smith
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 2.6:
+        non_striker: BF Smith
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 2.7:
+        non_striker: BF Smith
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 3.1:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 3.2:
+        non_striker: BF Smith
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 3.3:
+        non_striker: BF Smith
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 3.4:
+        non_striker: BF Smith
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 3.5:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 3.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 4.1:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 4.2:
+        non_striker: BF Smith
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 4.3:
+        non_striker: BF Smith
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.4:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BF Smith
+    - 4.5:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 4.6:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 4.7:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 5.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 5.2:
+        non_striker: BF Smith
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.3:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 5.4:
+        non_striker: BF Smith
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 5.6:
+        non_striker: BF Smith
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.1:
+        non_striker: BF Smith
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 6.2:
+        non_striker: BF Smith
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.3:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+        wicket:
+          player_out: BF Smith
+          kind: caught and bowled
+    - 6.4:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 6.5:
+        non_striker: H Graham
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 6.6:
+        non_striker: H Graham
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.1:
+        non_striker: H Graham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.2:
+        non_striker: H Graham
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.3:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+        wicket:
+          player_out: H Graham
+          kind: lbw
+    - 7.4:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 7.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 7.6:
+        non_striker: NJ Carey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.1:
+        non_striker: NJ Carey
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.2:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NJ Carey
+    - 8.3:
+        non_striker: NJ Carey
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 8.4:
+        non_striker: NJ Carey
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.5:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.6:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          kind: bowled
+    - 8.7:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 9.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 9.2:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 9.3:
+        non_striker: NE Stalenberg
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+        wicket:
+          player_out: NE Stalenberg
+          fielders:
+          - G Redmayne
+          - BAM Heath
+          kind: run out
+    - 9.4:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 9.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 9.6:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 10.1:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 10.2:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 10.3:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 10.4:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 10.5:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 10.6:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 11.1:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 11.2:
+        non_striker: R Johnston
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 11.3:
+        non_striker: R Johnston
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 11.4:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 11.5:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 11.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Johnston
+    - 12.1:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 12.2:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 12.3:
+        non_striker: EJ Villani
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 12.4:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 12.5:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 12.6:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 13.1:
+        non_striker: R Johnston
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 13.2:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 13.3:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 13.4:
+        non_striker: R Johnston
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 13.5:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Johnston
+    - 13.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 14.1:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Johnston
+    - 14.2:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Johnston
+    - 14.3:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 14.4:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 14.5:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 14.6:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 14.7:
+        non_striker: R Johnston
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJ Villani
+    - 15.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Johnston
+    - 15.2:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 15.3:
+        non_striker: R Johnston
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 15.4:
+        non_striker: R Johnston
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 15.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 15.6:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+        wicket:
+          player_out: R Johnston
+          fielders:
+          - M Hinkley
+          kind: caught
+    - 16.1:
+        non_striker: H Silver-holmes
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 16.2:
+        non_striker: EJ Villani
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Silver-holmes
+    - 16.3:
+        non_striker: EJ Villani
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Silver-holmes
+    - 16.4:
+        non_striker: H Silver-holmes
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 16.5:
+        non_striker: H Silver-holmes
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 16.6:
+        non_striker: H Silver-holmes
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 17.1:
+        non_striker: H Silver-holmes
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 17.2:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Silver-holmes
+    - 17.3:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Silver-holmes
+    - 17.4:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Silver-holmes
+    - 17.5:
+        non_striker: H Silver-holmes
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 17.6:
+        non_striker: EJ Villani
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Silver-holmes
+    - 18.1:
+        non_striker: H Silver-holmes
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 18.2:
+        non_striker: H Silver-holmes
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 18.3:
+        non_striker: H Silver-holmes
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 18.4:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Silver-holmes
+        wicket:
+          player_out: H Silver-holmes
+          kind: bowled
+    - 18.5:
+        non_striker: EJ Villani
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Strano
+    - 18.6:
+        non_striker: M Strano
+        bowler: CG Sippel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJ Villani
+    - 19.1:
+        non_striker: M Strano
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 19.2:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: M Strano
+    - 19.3:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Strano
+        wicket:
+          player_out: M Strano
+          kind: bowled
+    - 19.4:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 19.5:
+        non_striker: A Smith
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 19.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+- 2nd innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 0.2:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 0.3:
+        non_striker: GM Harris
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 0.4:
+        non_striker: GM Harris
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 0.5:
+        non_striker: GM Harris
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 0.6:
+        non_striker: GM Harris
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 1.1:
+        non_striker: G Redmayne
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          kind: lbw
+    - 1.2:
+        non_striker: G Redmayne
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.3:
+        non_striker: G Redmayne
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 1.4:
+        non_striker: G Redmayne
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Kerr
+    - 1.5:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Redmayne
+    - 1.6:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 2.1:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.2:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.3:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.4:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.5:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 3.1:
+        non_striker: G Redmayne
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Redmayne
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Redmayne
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Redmayne
+    - 3.7:
+        non_striker: AC Kerr
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Redmayne
+    - 4.1:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Redmayne
+    - 4.2:
+        non_striker: G Redmayne
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Redmayne
+    - 4.4:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Redmayne
+        wicket:
+          player_out: G Redmayne
+          fielders:
+          - A Smith
+          kind: caught
+    - 4.5:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.6:
+        non_striker: M du Preez
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.3:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.4:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.2:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.5:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.2:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: M du Preez
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M du Preez
+    - 8.4:
+        non_striker: M du Preez
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: M du Preez
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: M du Preez
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.1:
+        non_striker: M du Preez
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: M du Preez
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: M du Preez
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: M du Preez
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.5:
+        non_striker: M du Preez
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 10.5:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.2:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 11.4:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.6:
+        non_striker: M du Preez
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: M du Preez
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 12.3:
+        non_striker: M du Preez
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 12.5:
+        non_striker: M du Preez
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: M du Preez
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: M du Preez
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          kind: bowled
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 13.6:
+        non_striker: CR Knott
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 14.2:
+        non_striker: CR Knott
+        bowler: S Ismail
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: CR Knott
+        bowler: S Ismail
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 14.5:
+        non_striker: CR Knott
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 14.7:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 15.2:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 15.4:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 15.5:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 15.6:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 16.1:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 16.2:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 16.3:
+        non_striker: CR Knott
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 16.4:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 16.5:
+        non_striker: CR Knott
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 16.6:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 17.1:
+        non_striker: CR Knott
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 17.2:
+        non_striker: G Voll
+        bowler: H Silver-holmes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Knott

@@ -1,0 +1,1913 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  competition: Big Bash League
+  dates:
+  - '2026-01-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Perth Scorchers
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - JA Richardson
+  players:
+    Melbourne Stars:
+    - TF Rogers
+    - SB Harper
+    - JM Clarke
+    - C Kellaway
+    - MP Stoinis
+    - HWR Cartwright
+    - GJ Maxwell
+    - TK Curran
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+    Perth Scorchers:
+    - MR Marsh
+    - FH Allen
+    - C Connolly
+    - JP Inglis
+    - AM Hardie
+    - AJ Turner
+    - LJ Evans
+    - JA Richardson
+    - L Holt
+    - DA Payne
+    - M Beardman
+  registry:
+    people:
+      AJ Turner: ff1e12a0
+      AM Hardie: d405c0d5
+      C Connolly: fe366f34
+      C Kellaway: 60c28835
+      DA Payne: 6c79c098
+      David Johnston: 92cef862
+      FH Allen: bf74b130
+      GJ Maxwell: b681e71e
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      JA Richardson: 1ee08e9a
+      JM Clarke: 2eca67f5
+      JP Inglis: 989889ff
+      L Holt: 21e1e7bd
+      LJ Evans: 1c513d54
+      M Beardman: b5a12740
+      ME Claydon: 15101f12
+      MJ Swepson: 86b4bf88
+      MP Stoinis: d9273ee7
+      MR Marsh: 3d8feaf8
+      MW Graham-Smith: 18aca3ce
+      PM Siddle: bd93fea4
+      SB Harper: a756e61a
+      SJ Nogajski: 9b3f9323
+      Sharad Patel: 8e6dd3ba
+      TF Rogers: 7f232d46
+      TK Curran: e86754b2
+  teams:
+  - Melbourne Stars
+  - Perth Scorchers
+  toss:
+    winner: Perth Scorchers
+    decision: field
+  umpires:
+  - MW Graham-Smith
+  - SJ Nogajski
+  venue: Perth Stadium
+innings:
+- 1st innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 0.2:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 0.3:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.4:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - M Beardman
+          kind: caught
+    - 0.5:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          kind: bowled
+    - 0.6:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Kellaway
+    - 0.7:
+        non_striker: SB Harper
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 1.1:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.2:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.3:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.4:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 1.5:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.6:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - L Holt
+          kind: caught
+    - 2.1:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Kellaway
+    - 2.2:
+        non_striker: C Kellaway
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.3:
+        non_striker: C Kellaway
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.4:
+        non_striker: C Kellaway
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 2.5:
+        non_striker: C Kellaway
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.6:
+        non_striker: C Kellaway
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 3.1:
+        non_striker: MP Stoinis
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 3.2:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.3:
+        non_striker: C Kellaway
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 3.4:
+        non_striker: MP Stoinis
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 3.5:
+        non_striker: MP Stoinis
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 3.6:
+        non_striker: MP Stoinis
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 4.1:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 4.2:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 4.3:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 4.4:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 4.5:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 4.6:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.1:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 5.2:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Kellaway
+    - 5.3:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 5.4:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 5.5:
+        non_striker: C Kellaway
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 5.6:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 6.1:
+        non_striker: C Kellaway
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.2:
+        non_striker: MP Stoinis
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.3:
+        non_striker: C Kellaway
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.4:
+        non_striker: MP Stoinis
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.5:
+        non_striker: C Kellaway
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: C Kellaway
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.1:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 7.2:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 7.3:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Kellaway
+    - 7.4:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 7.5:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 7.6:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.7:
+        non_striker: C Kellaway
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.1:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 8.3:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: C Kellaway
+        bowler: L Holt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 9.2:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 9.4:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 9.5:
+        non_striker: HWR Cartwright
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 10.1:
+        non_striker: HWR Cartwright
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.2:
+        non_striker: MP Stoinis
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 10.5:
+        non_striker: HWR Cartwright
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 10.6:
+        non_striker: HWR Cartwright
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.1:
+        non_striker: HWR Cartwright
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 11.2:
+        non_striker: HWR Cartwright
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 11.3:
+        non_striker: HWR Cartwright
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 11.4:
+        non_striker: HWR Cartwright
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 11.6:
+        non_striker: MP Stoinis
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 12.1:
+        non_striker: HWR Cartwright
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.2:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 12.3:
+        non_striker: HWR Cartwright
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 12.4:
+        non_striker: HWR Cartwright
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 12.5:
+        non_striker: HWR Cartwright
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.6:
+        non_striker: MP Stoinis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HWR Cartwright
+    - 13.1:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.2:
+        non_striker: MP Stoinis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 13.3:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - JA Richardson
+          kind: caught
+    - 13.4:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.5:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HWR Cartwright
+    - 13.6:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 13.7:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 13.8:
+        non_striker: HWR Cartwright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.1:
+        non_striker: HWR Cartwright
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.2:
+        non_striker: GJ Maxwell
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HWR Cartwright
+    - 14.3:
+        non_striker: GJ Maxwell
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+        wicket:
+          player_out: HWR Cartwright
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 14.4:
+        non_striker: GJ Maxwell
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.5:
+        non_striker: TK Curran
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.6:
+        non_striker: TK Curran
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 15.1:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 15.2:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TK Curran
+    - 15.3:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 15.4:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - JA Richardson
+          kind: caught
+    - 15.5:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 15.6:
+        non_striker: GJ Maxwell
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 16.1:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 16.2:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 16.3:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+        wicket:
+          player_out: Haris Rauf
+          kind: caught and bowled
+    - 16.4:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 16.5:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 16.6:
+        non_striker: MJ Swepson
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 17.1:
+        non_striker: PM Siddle
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 17.2:
+        non_striker: PM Siddle
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 17.3:
+        non_striker: PM Siddle
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 17.4:
+        non_striker: MJ Swepson
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 17.5:
+        non_striker: MJ Swepson
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 17.6:
+        non_striker: MJ Swepson
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PM Siddle
+    - 18.1:
+        non_striker: PM Siddle
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Swepson
+    - 18.2:
+        non_striker: PM Siddle
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+        wicket:
+          player_out: MJ Swepson
+          fielders:
+          - JP Inglis
+          kind: caught
+- 2nd innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: MR Marsh
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.6:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.1:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 1.5:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 2.2:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Connolly
+    - 2.3:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 2.4:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.5:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.6:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.1:
+        non_striker: JP Inglis
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.2:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.3:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.4:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.5:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.6:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.1:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - SB Harper
+          kind: caught
+    - 4.2:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 4.3:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 4.4:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 4.5:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.6:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.1:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 5.2:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.3:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.4:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.5:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 5.6:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 6.1:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.2:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 6.3:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.4:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.5:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.6:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 7.1:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 7.2:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Hardie
+    - 7.3:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.4:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 7.5:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 7.6:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.1:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.2:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 8.3:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.4:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 8.5:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.6:
+        non_striker: FH Allen
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 9.1:
+        non_striker: FH Allen
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 9.2:
+        non_striker: FH Allen
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 9.3:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 9.4:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 9.5:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 9.6:
+        non_striker: AM Hardie
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.1:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 10.2:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 10.3:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 10.4:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Hardie
+    - 10.5:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.6:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 11.1:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 11.2:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 11.3:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.4:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 11.5:
+        non_striker: AM Hardie
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.6:
+        non_striker: FH Allen
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 12.1:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 12.2:
+        non_striker: FH Allen
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 12.3:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 12.4:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 12.5:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 12.6:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 12.7:
+        non_striker: FH Allen
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 13.1:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 13.2:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 13.3:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 13.4:
+        non_striker: FH Allen
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 13.5:
+        non_striker: AM Hardie
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 13.6:
+        non_striker: AM Hardie
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.1:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 14.2:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.3:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 14.4:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 14.5:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.6:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 14.7:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 15.1:
+        non_striker: AM Hardie
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 15.2:
+        non_striker: AM Hardie
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 15.3:
+        non_striker: AM Hardie
+        bowler: PM Siddle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Turner
+    - 15.4:
+        non_striker: AJ Turner
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 15.5:
+        non_striker: AJ Turner
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 15.6:
+        non_striker: AJ Turner
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 16.1:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 16.2:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 16.3:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 16.4:
+        non_striker: AM Hardie
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 16.5:
+        non_striker: AJ Turner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie

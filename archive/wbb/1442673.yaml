@@ -1,0 +1,2143 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Women's Big Bash League
+  dates:
+  - '2024-11-15'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Melbourne Renegades
+    by:
+      runs: 9
+  overs: 20
+  player_of_match:
+  - N Faltum
+  players:
+    Melbourne Renegades:
+    - HK Matthews
+    - E Hayward
+    - A Capsey
+    - NE Stalenberg
+    - G Wareham
+    - DJS Dottin
+    - N Faltum
+    - G Prestwidge
+    - SJ Coyte
+    - MH Illingworth
+    - C Bekker
+    Melbourne Stars:
+    - YH Bhatia
+    - IY Mckeon
+    - MM Lanning
+    - A Sutherland
+    - M Kapp
+    - DB Sharma
+    - R McKenna
+    - T Flintoff
+    - KJ Garth
+    - ML Gibson
+    - S Day
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A Sutherland: 65d9b6b6
+      C Bekker: 1508c1ee
+      C Grant: 876ed858
+      C Haysom: e8eb3b33
+      D Brigham: 464daf41
+      DB Sharma: 201fef33
+      DJS Dottin: 53bee17f
+      E Hayward: eacd9bb1
+      G Prestwidge: c218e4e7
+      G Wareham: f0b4e47d
+      HK Matthews: d32cf49a
+      IY Mckeon: 59ff3c57
+      KJ Garth: 0b69a844
+      L McCabe: 1dbc4a64
+      M Kapp: 63e3b6b3
+      MH Illingworth: 99dc3877
+      ML Gibson: 27fa592f
+      MM Lanning: 27e003ce
+      N Faltum: 9a56c670
+      NE Stalenberg: 609c519e
+      R McKenna: f7e41cd8
+      RW Stratford: '85489579'
+      S Day: c3d27d76
+      SJ Coyte: a5f488bc
+      T Flintoff: 5471b94a
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - Melbourne Renegades
+  - Melbourne Stars
+  toss:
+    winner: Melbourne Renegades
+    decision: bat
+  umpires:
+  - C Grant
+  - D Brigham
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: E Hayward
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hayward
+        wicket:
+          player_out: E Hayward
+          fielders:
+          - S Day
+          kind: caught
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.1:
+        non_striker: A Capsey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - ML Gibson
+          kind: caught
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Stalenberg
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 2.1:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 2.5:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.6:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: NE Stalenberg
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NE Stalenberg
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 3.5:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - DB Sharma
+          kind: caught
+    - 3.7:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 4.1:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 4.2:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Stalenberg
+    - 4.3:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 4.4:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 4.5:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 4.6:
+        non_striker: NE Stalenberg
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 5.1:
+        non_striker: NE Stalenberg
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 5.2:
+        non_striker: NE Stalenberg
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 5.3:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 5.4:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+        wicket:
+          player_out: NE Stalenberg
+          kind: lbw
+    - 5.5:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 5.6:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.1:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 6.2:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.3:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.4:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 6.5:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.6:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 6.7:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.1:
+        non_striker: DJS Dottin
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 7.2:
+        non_striker: DJS Dottin
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 7.3:
+        non_striker: G Wareham
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          kind: lbw
+    - 7.4:
+        non_striker: G Wareham
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 7.5:
+        non_striker: G Wareham
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 7.6:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 8.1:
+        non_striker: N Faltum
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 8.2:
+        non_striker: N Faltum
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 8.3:
+        non_striker: N Faltum
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 8.4:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 8.5:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 8.6:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 9.1:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 9.2:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 9.3:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 9.4:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 9.5:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 9.6:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 10.1:
+        non_striker: N Faltum
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 10.2:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 10.3:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 10.4:
+        non_striker: N Faltum
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 10.5:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 10.6:
+        non_striker: G Wareham
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 11.1:
+        non_striker: G Wareham
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 11.2:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 11.3:
+        non_striker: G Wareham
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 11.4:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 11.5:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 11.6:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 12.1:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 12.2:
+        non_striker: N Faltum
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 12.3:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 12.4:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 12.5:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 12.6:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Faltum
+    - 12.7:
+        non_striker: G Wareham
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 13.1:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 13.2:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 13.3:
+        non_striker: G Wareham
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 13.4:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 13.5:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 13.6:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 14.1:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 14.2:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 14.3:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 14.4:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 14.5:
+        non_striker: G Wareham
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 14.6:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 15.1:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 15.2:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 15.3:
+        non_striker: N Faltum
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 15.4:
+        non_striker: N Faltum
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 15.5:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 15.6:
+        non_striker: G Wareham
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 16.1:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Wareham
+    - 16.2:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+        wicket:
+          player_out: G Wareham
+          fielders:
+          - T Flintoff
+          kind: caught
+    - 16.3:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Prestwidge
+    - 16.4:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Faltum
+    - 16.5:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Faltum
+    - 16.6:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 16.7:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 17.1:
+        non_striker: G Prestwidge
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 17.2:
+        non_striker: G Prestwidge
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 17.3:
+        non_striker: G Prestwidge
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 17.4:
+        non_striker: G Prestwidge
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 17.5:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Prestwidge
+    - 17.6:
+        non_striker: N Faltum
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Prestwidge
+    - 18.1:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Prestwidge
+    - 18.2:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Prestwidge
+    - 18.3:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Prestwidge
+    - 18.4:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Faltum
+    - 18.5:
+        non_striker: G Prestwidge
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 18.6:
+        non_striker: N Faltum
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Prestwidge
+    - 19.1:
+        non_striker: G Prestwidge
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 19.2:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Prestwidge
+    - 19.3:
+        non_striker: G Prestwidge
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 19.4:
+        non_striker: N Faltum
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Prestwidge
+    - 19.5:
+        non_striker: G Prestwidge
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 19.6:
+        non_striker: G Prestwidge
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: YH Bhatia
+    - 0.2:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 0.3:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 0.4:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 0.5:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 0.6:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 0.7:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 1.1:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - N Faltum
+          kind: stumped
+    - 1.2:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 1.3:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 1.4:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 1.5:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 1.6:
+        non_striker: IY Mckeon
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 2.1:
+        non_striker: MM Lanning
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 2.2:
+        non_striker: MM Lanning
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 2.3:
+        non_striker: MM Lanning
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IY Mckeon
+    - 2.4:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 2.5:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 2.6:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 2.7:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 2.8:
+        non_striker: IY Mckeon
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 3.1:
+        non_striker: MM Lanning
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.2:
+        non_striker: MM Lanning
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IY Mckeon
+    - 3.3:
+        non_striker: IY Mckeon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 3.4:
+        non_striker: IY Mckeon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+        wicket:
+          player_out: MM Lanning
+          fielders:
+          - MH Illingworth
+          kind: caught
+    - 3.5:
+        non_striker: IY Mckeon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 3.6:
+        non_striker: IY Mckeon
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 4.1:
+        non_striker: A Sutherland
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+        wicket:
+          player_out: IY Mckeon
+          kind: bowled
+    - 4.2:
+        non_striker: A Sutherland
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 4.3:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 4.4:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 4.5:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 4.6:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 5.1:
+        non_striker: M Kapp
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 5.2:
+        non_striker: M Kapp
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 5.3:
+        non_striker: M Kapp
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 5.4:
+        non_striker: A Sutherland
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 5.5:
+        non_striker: M Kapp
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 5.6:
+        non_striker: M Kapp
+        bowler: C Bekker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 6.1:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 6.2:
+        non_striker: A Sutherland
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 6.3:
+        non_striker: A Sutherland
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 6.4:
+        non_striker: A Sutherland
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 6.5:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 6.6:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 7.1:
+        non_striker: A Sutherland
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 7.2:
+        non_striker: A Sutherland
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 7.3:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 7.4:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 7.5:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 7.6:
+        non_striker: A Sutherland
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 8.1:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          kind: caught and bowled
+    - 8.2:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 8.3:
+        non_striker: DB Sharma
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 8.4:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 8.5:
+        non_striker: DB Sharma
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 8.6:
+        non_striker: DB Sharma
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 9.1:
+        non_striker: DB Sharma
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 9.2:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 9.3:
+        non_striker: DB Sharma
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 9.4:
+        non_striker: DB Sharma
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 9.5:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 9.6:
+        non_striker: DB Sharma
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 10.1:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 10.2:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 10.3:
+        non_striker: DB Sharma
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 10.4:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 10.5:
+        non_striker: DB Sharma
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 10.6:
+        non_striker: M Kapp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.1:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.2:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.3:
+        non_striker: M Kapp
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.4:
+        non_striker: DB Sharma
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 11.5:
+        non_striker: DB Sharma
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 11.6:
+        non_striker: DB Sharma
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.1:
+        non_striker: M Kapp
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 12.2:
+        non_striker: M Kapp
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 12.3:
+        non_striker: DB Sharma
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.4:
+        non_striker: M Kapp
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 12.5:
+        non_striker: DB Sharma
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.6:
+        non_striker: M Kapp
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.1:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - MH Illingworth
+          kind: caught
+    - 13.2:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R McKenna
+    - 13.3:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R McKenna
+    - 13.4:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R McKenna
+    - 13.5:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R McKenna
+    - 13.6:
+        non_striker: M Kapp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R McKenna
+    - 14.1:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 14.2:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.3:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          kind: bowled
+    - 14.4:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Flintoff
+    - 14.5:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Flintoff
+    - 14.6:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Flintoff
+    - 15.1:
+        non_striker: T Flintoff
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R McKenna
+    - 15.2:
+        non_striker: T Flintoff
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R McKenna
+    - 15.3:
+        non_striker: R McKenna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Flintoff
+    - 15.4:
+        non_striker: T Flintoff
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R McKenna
+    - 15.5:
+        non_striker: R McKenna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Flintoff
+    - 15.6:
+        non_striker: R McKenna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Flintoff
+    - 16.1:
+        non_striker: T Flintoff
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R McKenna
+    - 16.2:
+        non_striker: T Flintoff
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R McKenna
+    - 16.3:
+        non_striker: T Flintoff
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R McKenna
+    - 16.4:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Flintoff
+    - 16.5:
+        non_striker: T Flintoff
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R McKenna
+    - 16.6:
+        non_striker: R McKenna
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Flintoff
+    - 17.1:
+        non_striker: R McKenna
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Flintoff
+    - 17.2:
+        non_striker: T Flintoff
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R McKenna
+    - 17.3:
+        non_striker: T Flintoff
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R McKenna
+    - 17.4:
+        non_striker: R McKenna
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Flintoff
+    - 17.5:
+        non_striker: T Flintoff
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R McKenna
+    - 17.6:
+        non_striker: T Flintoff
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R McKenna
+    - 18.1:
+        non_striker: T Flintoff
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R McKenna
+    - 18.2:
+        non_striker: R McKenna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Flintoff
+    - 18.3:
+        non_striker: R McKenna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Flintoff
+        wicket:
+          player_out: T Flintoff
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 18.4:
+        non_striker: R McKenna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 18.5:
+        non_striker: KJ Garth
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R McKenna
+        wicket:
+          player_out: R McKenna
+          kind: bowled
+    - 18.6:
+        non_striker: KJ Garth
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Gibson
+    - 19.1:
+        non_striker: ML Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 19.2:
+        non_striker: ML Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 19.3:
+        non_striker: KJ Garth
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Gibson
+    - 19.4:
+        non_striker: ML Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Garth
+    - 19.5:
+        non_striker: ML Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 19.6:
+        non_striker: KJ Garth
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Gibson

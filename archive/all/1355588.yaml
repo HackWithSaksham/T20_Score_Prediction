@@ -1,0 +1,1816 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-13'
+  revision: 2
+info:
+  balls_per_over: 5
+  city: Cardiff
+  competition: The Hundred Women's Competition
+  dates:
+  - '2023-08-12'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Southern Brave
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - GL Adams
+  players:
+    Welsh Fire:
+    - SIR Dunkley
+    - TT Beaumont
+    - SJ Bryce
+    - L Harris
+    - GA Elwiss
+    - EM McCaughan
+    - E Windsor
+    - FR Davies
+    - A Griffiths
+    - S Ismail
+    - C Nicholas
+    Southern Brave:
+    - S Mandhana
+    - DN Wyatt
+    - ME Bouchier
+    - GL Adams
+    - FG Kemp
+    - CL Tryon
+    - M Brown
+    - K Moore
+    - R Southby
+    - A Shrubsole
+    - LK Bell
+  registry:
+    people:
+      A Griffiths: '091001f8'
+      A Shrubsole: 32497ecd
+      AG Wharf: 2e0fcc58
+      BJ Peverall: 3e04e05a
+      C Nicholas: efc40724
+      CL Tryon: 4d4605e6
+      DA Cosker: aac9f784
+      DN Wyatt: a139c379
+      E Windsor: 1d7f8759
+      EM McCaughan: ed2711ea
+      FG Kemp: abc9f8a4
+      FR Davies: 2479daa6
+      GA Elwiss: 287ed3a0
+      GL Adams: 7b1f2542
+      K Moore: d12c8445
+      L Harris: 36e2dc83
+      LK Bell: 38b4583c
+      M Brown: 78bec461
+      ME Bouchier: c2554b59
+      R Southby: bbe1525d
+      Rob White: 59b91222
+      S Ismail: 108c4c09
+      S Mandhana: 5d2eda89
+      SIR Dunkley: 3a9e9cb2
+      SJ Bryce: 2ca65aee
+      TT Beaumont: b2664905
+      WRP Fernando: 7d98d385
+  teams:
+  - Welsh Fire
+  - Southern Brave
+  toss:
+    winner: Southern Brave
+    decision: field
+  umpires:
+  - Rob White
+  - WRP Fernando
+  venue: Sophia Gardens, Cardiff
+innings:
+- 1st innings:
+    team: Welsh Fire
+    deliveries:
+    - 0.1:
+        non_striker: TT Beaumont
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: TT Beaumont
+        bowler: LK Bell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: SIR Dunkley
+    - 0.3:
+        non_striker: TT Beaumont
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SIR Dunkley
+    - 0.4:
+        non_striker: SIR Dunkley
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 0.7:
+        non_striker: SIR Dunkley
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 1.2:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.4:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.5:
+        non_striker: TT Beaumont
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.1:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 2.2:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.3:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 2.4:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.2:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 3.4:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 3.5:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 4.4:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 4.5:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.2:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 5.3:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.4:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 5.5:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 6.1:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.2:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.3:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.4:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.1:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 7.2:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.3:
+        non_striker: SIR Dunkley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 7.5:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 8.3:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.4:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 9.1:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.2:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 9.3:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 9.4:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.5:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 10.1:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.3:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 10.4:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 10.5:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 10.6:
+        non_striker: SIR Dunkley
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 11.1:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 11.2:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 11.4:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 11.5:
+        non_striker: SIR Dunkley
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.1:
+        non_striker: SIR Dunkley
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.2:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: bowled
+    - 12.3:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 12.5:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 13.1:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 13.2:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 13.5:
+        non_striker: L Harris
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: L Harris
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.1:
+        non_striker: L Harris
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.2:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+        wicket:
+          player_out: L Harris
+          kind: bowled
+    - 14.3:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 14.4:
+        non_striker: GA Elwiss
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.5:
+        non_striker: SJ Bryce
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 15.1:
+        non_striker: GA Elwiss
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 15.2:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Elwiss
+    - 15.3:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Elwiss
+    - 15.4:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 15.5:
+        non_striker: SJ Bryce
+        bowler: K Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 16.1:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 16.2:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 16.3:
+        non_striker: GA Elwiss
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.4:
+        non_striker: GA Elwiss
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 16.5:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Elwiss
+    - 17.1:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 17.2:
+        non_striker: GA Elwiss
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 17.3:
+        non_striker: SJ Bryce
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 17.4:
+        non_striker: GA Elwiss
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 17.5:
+        non_striker: GA Elwiss
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 18.1:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 18.2:
+        non_striker: GA Elwiss
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 18.3:
+        non_striker: GA Elwiss
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 18.4:
+        non_striker: GA Elwiss
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 18.5:
+        non_striker: SJ Bryce
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+        wicket:
+          player_out: GA Elwiss
+          fielders:
+          - ME Bouchier
+          kind: caught
+    - 19.1:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM McCaughan
+    - 19.2:
+        non_striker: EM McCaughan
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 19.3:
+        non_striker: EM McCaughan
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 19.4:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM McCaughan
+    - 19.5:
+        non_striker: EM McCaughan
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+        wicket:
+          player_out: EM McCaughan
+          fielders:
+          - ME Bouchier
+          - LK Bell
+          kind: run out
+- 2nd innings:
+    team: Southern Brave
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - L Harris
+          kind: caught
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 1.3:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: ME Bouchier
+        bowler: FR Davies
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: FR Davies
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Bouchier
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 2.6:
+        non_striker: ME Bouchier
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Bouchier
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 3.4:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: ME Bouchier
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: ME Bouchier
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: ME Bouchier
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: ME Bouchier
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: ME Bouchier
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 5.3:
+        non_striker: S Mandhana
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 5.4:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.2:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 6.3:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.1:
+        non_striker: S Mandhana
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 7.2:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: ME Bouchier
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: S Mandhana
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 8.1:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 8.2:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 8.3:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 8.4:
+        non_striker: ME Bouchier
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.5:
+        non_striker: S Mandhana
+        bowler: C Nicholas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 9.1:
+        non_striker: S Mandhana
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 9.2:
+        non_striker: ME Bouchier
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: ME Bouchier
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.4:
+        non_striker: S Mandhana
+        bowler: SIR Dunkley
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ME Bouchier
+    - 9.5:
+        non_striker: S Mandhana
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.1:
+        non_striker: S Mandhana
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.2:
+        non_striker: ME Bouchier
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - S Ismail
+          kind: caught
+    - 10.3:
+        non_striker: ME Bouchier
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 10.4:
+        non_striker: GL Adams
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.5:
+        non_striker: ME Bouchier
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 11.1:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 11.2:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 11.3:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 11.4:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 11.5:
+        non_striker: ME Bouchier
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 12.1:
+        non_striker: ME Bouchier
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 12.2:
+        non_striker: GL Adams
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 12.3:
+        non_striker: GL Adams
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 12.4:
+        non_striker: GL Adams
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 12.5:
+        non_striker: ME Bouchier
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 13.1:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+        wicket:
+          player_out: ME Bouchier
+          fielders:
+          - FR Davies
+          kind: caught
+    - 13.2:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+        wicket:
+          player_out: FG Kemp
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 13.3:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.4:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.5:
+        non_striker: CL Tryon
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GL Adams
+    - 14.1:
+        non_striker: GL Adams
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 14.2:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL Adams
+    - 14.3:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Adams
+    - 14.4:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 14.5:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 15.1:
+        non_striker: GL Adams
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.2:
+        non_striker: CL Tryon
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 15.3:
+        non_striker: GL Adams
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.4:
+        non_striker: CL Tryon
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 15.5:
+        non_striker: GL Adams
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 16.1:
+        non_striker: CL Tryon
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 16.2:
+        non_striker: GL Adams
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.3:
+        non_striker: CL Tryon
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 16.4:
+        non_striker: GL Adams
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 16.5:
+        non_striker: GL Adams
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 17.1:
+        non_striker: GL Adams
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 17.2:
+        non_striker: M Brown
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Adams
+    - 17.3:
+        non_striker: M Brown
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Adams
+    - 17.4:
+        non_striker: M Brown
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GL Adams
+    - 17.5:
+        non_striker: M Brown
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 18.1:
+        non_striker: M Brown
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 18.2:
+        non_striker: GL Adams
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 18.3:
+        non_striker: M Brown
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL Adams
+    - 18.4:
+        non_striker: M Brown
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+        wicket:
+          player_out: GL Adams
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 18.5:
+        non_striker: M Brown
+        bowler: FR Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Moore
+        wicket:
+          player_out: K Moore
+          fielders:
+          - FR Davies
+          kind: run out
+    - 19.1:
+        non_striker: R Southby
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Brown
+    - 19.2:
+        non_striker: R Southby
+        bowler: S Ismail
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Brown
+    - 19.3:
+        non_striker: R Southby
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+        wicket:
+          player_out: R Southby
+          fielders:
+          - SIR Dunkley
+          - S Ismail
+          kind: run out
+    - 19.4:
+        non_striker: A Shrubsole
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Brown
+    - 19.5:
+        non_striker: M Brown
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Shrubsole

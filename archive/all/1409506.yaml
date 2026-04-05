@@ -1,0 +1,2271 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Women's Super Smash
+  dates:
+  - '2023-12-19'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - FL Mackay
+  players:
+    Canterbury:
+    - KG Anderson
+    - FL Mackay
+    - IG Sharp
+    - NB Cox
+    - J Dean
+    - JL Savage
+    - LEV Hughes
+    - JA Simmons
+    - MJ Banks
+    - GES Sullivan
+    - SR Asmussen
+    Auckland:
+    - S Shahri
+    - AS Browning
+    - BG Armstrong
+    - P Catton
+    - JO Penfold
+    - SE Bowden
+    - CS Pedersen
+    - AT Hucker
+    - E Buchanan
+    - BG Illing
+    - R Jaswal
+  registry:
+    people:
+      AS Browning: c4c97b51
+      AT Hucker: 9b554bb9
+      BG Armstrong: eca08a1d
+      BG Illing: 80a0cd77
+      CS Pedersen: 553eff23
+      Damian Morrow: 0fb1f503
+      E Buchanan: e23c041b
+      FL Mackay: 7391f160
+      GES Sullivan: 165b9097
+      Glen Walklin: 0070ed27
+      IG Sharp: 4de0779a
+      J Dean: 2e018b14
+      JA Simmons: 33360da1
+      JL Savage: 7938c793
+      JO Penfold: 321ea9e8
+      KG Anderson: ae79a86f
+      LEV Hughes: 5b43fe48
+      MJ Banks: 1e17a238
+      NB Cox: 219f1323
+      P Catton: 22e8ba50
+      R Jaswal: c0787387
+      S Shahri: c28355cd
+      SE Bowden: e2a71375
+      SR Asmussen: '31972229'
+      SRM Morris: 74b402c6
+      VC Calabro: 1f9404f3
+      WR Knights: 63cbf8d8
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - Damian Morrow
+  - WR Knights
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FL Mackay
+        batsman: KG Anderson
+    - 0.2:
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FL Mackay
+        batsman: KG Anderson
+    - 0.3:
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: FL Mackay
+        batsman: KG Anderson
+    - 0.4:
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FL Mackay
+        batsman: KG Anderson
+    - 0.5:
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FL Mackay
+        batsman: KG Anderson
+    - 0.6:
+        non_striker: FL Mackay
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.1:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 1.2:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Mackay
+    - 1.3:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 1.5:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Mackay
+    - 1.6:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 1.7:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: FL Mackay
+    - 1.8:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 2.1:
+        non_striker: KG Anderson
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 2.2:
+        non_striker: KG Anderson
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 2.3:
+        non_striker: KG Anderson
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 2.4:
+        non_striker: FL Mackay
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.5:
+        non_striker: KG Anderson
+        bowler: AS Browning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Mackay
+    - 2.6:
+        non_striker: KG Anderson
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 2.7:
+        non_striker: FL Mackay
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 3.1:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 3.2:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 3.3:
+        non_striker: FL Mackay
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.4:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 3.5:
+        non_striker: FL Mackay
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 3.6:
+        non_striker: FL Mackay
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 4.1:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 4.2:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.3:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.4:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 4.5:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 4.6:
+        non_striker: FL Mackay
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.1:
+        non_striker: FL Mackay
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.2:
+        non_striker: FL Mackay
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.3:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 5.4:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 5.5:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 5.6:
+        non_striker: FL Mackay
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 6.1:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 6.2:
+        non_striker: FL Mackay
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.3:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 6.4:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 6.5:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 6.6:
+        non_striker: FL Mackay
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.1:
+        non_striker: FL Mackay
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.2:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 7.3:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+        wicket:
+          player_out: FL Mackay
+          fielders:
+          - P Catton
+          kind: caught
+    - 7.4:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IG Sharp
+    - 7.5:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 7.6:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 7.7:
+        non_striker: KG Anderson
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 8.1:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 8.2:
+        non_striker: IG Sharp
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 8.3:
+        non_striker: IG Sharp
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.4:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 8.5:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          fielders:
+          - E Buchanan
+          kind: caught
+    - 8.6:
+        non_striker: KG Anderson
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 9.1:
+        non_striker: KG Anderson
+        bowler: SE Bowden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NB Cox
+    - 9.2:
+        non_striker: KG Anderson
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 9.3:
+        non_striker: KG Anderson
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 9.4:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - E Buchanan
+          kind: caught
+    - 9.5:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 9.6:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 9.7:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 10.1:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 10.2:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 10.3:
+        non_striker: J Dean
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.4:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 10.5:
+        non_striker: J Dean
+        bowler: R Jaswal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NB Cox
+    - 10.6:
+        non_striker: J Dean
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 10.7:
+        non_striker: J Dean
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 11.1:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 11.2:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 11.3:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 11.4:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 11.5:
+        non_striker: J Dean
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 11.6:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 12.1:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 12.2:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 12.3:
+        non_striker: J Dean
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 12.4:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 12.5:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 12.6:
+        non_striker: NB Cox
+        bowler: R Jaswal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 13.1:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 13.2:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 13.3:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 13.4:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 13.5:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 13.6:
+        non_striker: NB Cox
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 14.1:
+        non_striker: NB Cox
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 14.2:
+        non_striker: J Dean
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NB Cox
+    - 14.3:
+        non_striker: J Dean
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 14.4:
+        non_striker: J Dean
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 14.5:
+        non_striker: J Dean
+        bowler: JO Penfold
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NB Cox
+    - 14.6:
+        non_striker: NB Cox
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 14.7:
+        non_striker: J Dean
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 15.1:
+        non_striker: NB Cox
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 15.2:
+        non_striker: J Dean
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 15.3:
+        non_striker: J Dean
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 15.4:
+        non_striker: J Dean
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 15.5:
+        non_striker: J Dean
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 15.6:
+        non_striker: NB Cox
+        bowler: AS Browning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Dean
+    - 15.7:
+        non_striker: NB Cox
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 16.1:
+        non_striker: J Dean
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 16.2:
+        non_striker: NB Cox
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 16.3:
+        non_striker: J Dean
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          fielders:
+          - P Catton
+          - JO Penfold
+          kind: run out
+    - 16.4:
+        non_striker: J Dean
+        bowler: SE Bowden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Savage
+    - 16.5:
+        non_striker: J Dean
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Savage
+    - 16.6:
+        non_striker: JL Savage
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+        wicket:
+          player_out: J Dean
+          kind: caught and bowled
+    - 16.7:
+        non_striker: JL Savage
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 17.1:
+        non_striker: LEV Hughes
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Savage
+    - 17.2:
+        non_striker: JL Savage
+        bowler: AS Browning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: LEV Hughes
+    - 17.3:
+        non_striker: JL Savage
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LEV Hughes
+    - 17.4:
+        non_striker: JL Savage
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 17.5:
+        non_striker: LEV Hughes
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 17.6:
+        non_striker: LEV Hughes
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Savage
+    - 17.7:
+        non_striker: LEV Hughes
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 18.1:
+        non_striker: JL Savage
+        bowler: SE Bowden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LEV Hughes
+    - 18.2:
+        non_striker: LEV Hughes
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+        wicket:
+          player_out: JL Savage
+          kind: bowled
+    - 18.3:
+        non_striker: LEV Hughes
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 18.4:
+        non_striker: LEV Hughes
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Simmons
+    - 18.5:
+        non_striker: LEV Hughes
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+        wicket:
+          player_out: JA Simmons
+          kind: bowled
+    - 18.6:
+        non_striker: LEV Hughes
+        bowler: SE Bowden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 19.1:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 19.2:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 19.3:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+        wicket:
+          player_out: MJ Banks
+          fielders:
+          - P Catton
+          kind: run out
+    - 19.4:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GES Sullivan
+    - 19.5:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 19.6:
+        non_striker: LEV Hughes
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GES Sullivan
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.2:
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.3:
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.4:
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.5:
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.6:
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.7:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 1.1:
+        non_striker: AS Browning
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 1.2:
+        non_striker: AS Browning
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 1.3:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 1.4:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 1.5:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 1.6:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 2.1:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 2.2:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 2.3:
+        non_striker: AS Browning
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Shahri
+    - 2.4:
+        non_striker: AS Browning
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 2.5:
+        non_striker: AS Browning
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 2.6:
+        non_striker: AS Browning
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 2.7:
+        non_striker: AS Browning
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 3.1:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+        wicket:
+          player_out: AS Browning
+          fielders:
+          - FL Mackay
+          kind: caught
+    - 3.2:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 3.3:
+        non_striker: BG Armstrong
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 3.4:
+        non_striker: BG Armstrong
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 3.5:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          kind: bowled
+    - 3.6:
+        non_striker: S Shahri
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.1:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 4.2:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.3:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 4.4:
+        non_striker: S Shahri
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 4.5:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 4.6:
+        non_striker: P Catton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 5.1:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.2:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.3:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.4:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 5.5:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 5.6:
+        non_striker: S Shahri
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 6.1:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 6.2:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 6.3:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 6.4:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 6.5:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Shahri
+    - 6.6:
+        non_striker: S Shahri
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 7.1:
+        non_striker: P Catton
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 7.2:
+        non_striker: S Shahri
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 7.3:
+        non_striker: P Catton
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 7.4:
+        non_striker: S Shahri
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 7.5:
+        non_striker: P Catton
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 7.6:
+        non_striker: S Shahri
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.1:
+        non_striker: S Shahri
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.2:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 8.3:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 8.4:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 8.5:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+        wicket:
+          player_out: S Shahri
+          kind: bowled
+    - 8.6:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 9.1:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.2:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.3:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.4:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.5:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.6:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 9.7:
+        non_striker: P Catton
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 9.8:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 9.9:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 9.10:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 9.11:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Catton
+    - 9.12:
+        non_striker: JO Penfold
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+        wicket:
+          player_out: P Catton
+          fielders:
+          - MJ Banks
+          kind: caught
+    - 10.1:
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SE Bowden
+        batsman: JO Penfold
+    - 10.2:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 10.3:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Bowden
+    - 10.4:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 10.5:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 10.6:
+        non_striker: SE Bowden
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 10.7:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 11.1:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 11.2:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Bowden
+    - 11.3:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 11.4:
+        non_striker: SE Bowden
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Penfold
+    - 11.5:
+        non_striker: SE Bowden
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Penfold
+    - 11.6:
+        non_striker: SE Bowden
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Penfold
+    - 12.1:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 12.2:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 12.3:
+        non_striker: SE Bowden
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 12.4:
+        non_striker: SE Bowden
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 12.5:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Bowden
+    - 12.6:
+        non_striker: JO Penfold
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 13.1:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 13.2:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 13.3:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 13.4:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Bowden
+    - 13.5:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 13.6:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 14.1:
+        non_striker: JO Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 14.2:
+        non_striker: SE Bowden
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Penfold
+    - 14.3:
+        non_striker: SE Bowden
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 14.4:
+        non_striker: SE Bowden
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 14.5:
+        non_striker: JO Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 14.6:
+        non_striker: JO Penfold
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 15.1:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 15.2:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 15.3:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 15.4:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 15.5:
+        non_striker: SE Bowden
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 15.6:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bowden
+    - 16.1:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+    - 16.2:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bowden
+        wicket:
+          player_out: SE Bowden
+          fielders:
+          - KG Anderson
+          kind: caught
+    - 16.3:
+        non_striker: JO Penfold
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 16.4:
+        non_striker: CS Pedersen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 16.5:
+        non_striker: CS Pedersen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Penfold
+    - 16.6:
+        non_striker: CS Pedersen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 17.1:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 17.2:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 17.3:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 17.4:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 17.5:
+        non_striker: JO Penfold
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 17.6:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 18.1:
+        non_striker: JO Penfold
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 18.2:
+        non_striker: CS Pedersen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 18.3:
+        non_striker: CS Pedersen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+    - 18.4:
+        non_striker: CS Pedersen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Penfold
+    - 18.5:
+        non_striker: JO Penfold
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Pedersen
+    - 18.6:
+        non_striker: JO Penfold
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Pedersen
+    - 19.1:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Penfold
+        wicket:
+          player_out: JO Penfold
+          fielders:
+          - GES Sullivan
+          kind: caught
+    - 19.2:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Hucker
+    - 19.3:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Hucker
+    - 19.4:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Hucker
+    - 19.5:
+        non_striker: AT Hucker
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Pedersen
+    - 19.6:
+        non_striker: CS Pedersen
+        bowler: FL Mackay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+        wicket:
+          player_out: AT Hucker
+          fielders:
+          - KG Anderson
+          kind: caught

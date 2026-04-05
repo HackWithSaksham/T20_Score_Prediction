@@ -1,0 +1,1683 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2026-01-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - RK Gulati
+  players:
+    Canterbury:
+    - RA Mariu
+    - HJ Chamberlain
+    - MWT Boyle
+    - CE McConchie
+    - LJ Carter
+    - MJG Rippon
+    - JJA Frew
+    - CB Paul
+    - LLB Harper
+    - IS Sodhi
+    - FW Sheat
+    Auckland:
+    - DN Phillips
+    - SM Solia
+    - MJ Guptill
+    - MS Chapman
+    - BJ Jacobs
+    - CD Fletcher
+    - RD Harrison
+    - S Dixit
+    - H Johal
+    - AL Olliver
+    - RK Gulati
+  registry:
+    people:
+      AL Olliver: 9b05c1c1
+      BJ Jacobs: 972f217b
+      CB Paul: c945df30
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      DN Phillips: be0c9f5b
+      FW Sheat: 56d471f2
+      H Johal: 54bd6664
+      HJ Chamberlain: 1d7c927b
+      IS Sodhi: 641ac5ff
+      JJA Frew: f209ee79
+      JM Dempsey: 153c9f33
+      K Pulley: 644bf4ad
+      LJ Carter: dfb51f40
+      LLB Harper: 2bdd2350
+      MJ Guptill: 2be41edb
+      MJG Rippon: b03db6fa
+      MS Chapman: 7fa12533
+      MWT Boyle: b42d5053
+      RA Mariu: 6d816d13
+      RD Harrison: 8f3f2d61
+      RK Gulati: f5da80da
+      S Dixit: 85ec63b5
+      SB Martin: '08ad6466'
+      SM Solia: fd9f43bb
+      V Mahna: 5dcdc811
+      WR Knights: 63cbf8d8
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Canterbury
+    decision: bat
+  umpires:
+  - SB Martin
+  - WR Knights
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HJ Chamberlain
+        batsman: RA Mariu
+    - 0.2:
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Chamberlain
+        batsman: RA Mariu
+    - 0.3:
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: HJ Chamberlain
+        batsman: RA Mariu
+    - 0.4:
+        non_striker: RA Mariu
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Chamberlain
+    - 0.5:
+        non_striker: RA Mariu
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+    - 0.6:
+        non_striker: RA Mariu
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+        wicket:
+          player_out: HJ Chamberlain
+          fielders:
+          - SM Solia
+          kind: caught
+    - 1.1:
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MWT Boyle
+        batsman: RA Mariu
+    - 1.2:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 1.3:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+        wicket:
+          player_out: MWT Boyle
+          fielders:
+          - DN Phillips
+          kind: run out
+    - 1.4:
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CE McConchie
+        batsman: RA Mariu
+    - 1.5:
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CE McConchie
+        batsman: RA Mariu
+    - 1.6:
+        non_striker: CE McConchie
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 2.1:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.2:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.3:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 2.4:
+        non_striker: CE McConchie
+        bowler: H Johal
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: RA Mariu
+    - 2.5:
+        non_striker: CE McConchie
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 2.6:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 3.1:
+        non_striker: CE McConchie
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 3.2:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 3.3:
+        non_striker: CE McConchie
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 3.4:
+        non_striker: CE McConchie
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 3.5:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - DN Phillips
+          kind: caught
+    - 3.6:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 4.1:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 4.2:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 4.3:
+        non_striker: LJ Carter
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 4.4:
+        non_striker: LJ Carter
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 4.5:
+        non_striker: LJ Carter
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 4.6:
+        non_striker: RA Mariu
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Carter
+    - 5.1:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Mariu
+    - 5.2:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 5.3:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 5.4:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 5.5:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 5.6:
+        non_striker: RA Mariu
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 6.1:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 6.2:
+        non_striker: RA Mariu
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 6.3:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 6.4:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 6.5:
+        non_striker: RA Mariu
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 6.6:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 7.1:
+        non_striker: RA Mariu
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 7.2:
+        non_striker: RA Mariu
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 7.3:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+        wicket:
+          player_out: RA Mariu
+          fielders:
+          - CD Fletcher
+          kind: stumped
+    - 7.4:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 7.5:
+        non_striker: MJG Rippon
+        bowler: RK Gulati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Carter
+    - 7.6:
+        non_striker: MJG Rippon
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 7.7:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 8.1:
+        non_striker: MJG Rippon
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.2:
+        non_striker: MJG Rippon
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 8.3:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 8.4:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 8.5:
+        non_striker: MJG Rippon
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 8.6:
+        non_striker: LJ Carter
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 9.1:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MJG Rippon
+    - 9.2:
+        non_striker: MJG Rippon
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.3:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 9.4:
+        non_striker: MJG Rippon
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.5:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 9.6:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.1:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.2:
+        non_striker: MJG Rippon
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 10.3:
+        non_striker: MJG Rippon
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 10.4:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.5:
+        non_striker: MJG Rippon
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Carter
+    - 10.6:
+        non_striker: MJG Rippon
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 11.1:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+        wicket:
+          player_out: MJG Rippon
+          fielders:
+          - RD Harrison
+          kind: caught
+    - 11.2:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 11.3:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 11.4:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJA Frew
+    - 11.5:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 11.6:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 12.1:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJA Frew
+    - 12.2:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJA Frew
+    - 12.3:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJA Frew
+    - 12.4:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 12.5:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.6:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJA Frew
+    - 13.1:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 13.2:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 13.3:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 13.4:
+        non_striker: LJ Carter
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 13.5:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 13.6:
+        non_striker: JJA Frew
+        bowler: RK Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 14.1:
+        non_striker: JJA Frew
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 14.2:
+        non_striker: JJA Frew
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 14.3:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJA Frew
+    - 14.4:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 14.5:
+        non_striker: JJA Frew
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 14.6:
+        non_striker: LJ Carter
+        bowler: AL Olliver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 15.1:
+        non_striker: LJ Carter
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 15.2:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Carter
+    - 15.3:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+        wicket:
+          player_out: LJ Carter
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 15.4:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Paul
+    - 15.5:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Paul
+    - 15.6:
+        non_striker: JJA Frew
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Paul
+    - 15.7:
+        non_striker: CB Paul
+        bowler: S Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJA Frew
+    - 16.1:
+        non_striker: CB Paul
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJA Frew
+        wicket:
+          player_out: JJA Frew
+          fielders:
+          - DN Phillips
+          kind: caught
+    - 16.2:
+        non_striker: CB Paul
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LLB Harper
+    - 16.3:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CB Paul
+    - 16.4:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Paul
+        wicket:
+          player_out: CB Paul
+          kind: bowled
+    - 16.5:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 16.6:
+        non_striker: IS Sodhi
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 17.1:
+        non_striker: IS Sodhi
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 17.2:
+        non_striker: LLB Harper
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          kind: bowled
+    - 17.3:
+        non_striker: LLB Harper
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FW Sheat
+    - 17.4:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 17.5:
+        non_striker: LLB Harper
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FW Sheat
+    - 17.6:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 18.1:
+        non_striker: FW Sheat
+        bowler: H Johal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LLB Harper
+    - 18.2:
+        non_striker: FW Sheat
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+    - 18.3:
+        non_striker: FW Sheat
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 18.4:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FW Sheat
+    - 18.5:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FW Sheat
+    - 18.6:
+        non_striker: FW Sheat
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LLB Harper
+    - 18.7:
+        non_striker: LLB Harper
+        bowler: H Johal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FW Sheat
+    - 19.1:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LLB Harper
+    - 19.2:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+    - 19.3:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LLB Harper
+    - 19.4:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+    - 19.5:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+    - 19.6:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+    - 19.7:
+        non_striker: FW Sheat
+        bowler: RD Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LLB Harper
+        wicket:
+          player_out: LLB Harper
+          fielders:
+          - CD Fletcher
+          - RD Harrison
+          kind: run out
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Solia
+        batsman: DN Phillips
+    - 0.2:
+        bowler: CE McConchie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: SM Solia
+        batsman: DN Phillips
+    - 0.3:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.4:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 0.5:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 0.6:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 1.1:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          legbyes: 5
+        batsman: DN Phillips
+    - 1.2:
+        non_striker: DN Phillips
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 1.3:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 1.4:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DN Phillips
+    - 1.5:
+        non_striker: DN Phillips
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.6:
+        non_striker: DN Phillips
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.1:
+        non_striker: DN Phillips
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 2.2:
+        non_striker: DN Phillips
+        bowler: CB Paul
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SM Solia
+    - 2.3:
+        non_striker: DN Phillips
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.4:
+        non_striker: DN Phillips
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 2.5:
+        non_striker: DN Phillips
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.6:
+        non_striker: SM Solia
+        bowler: CB Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Phillips
+    - 2.7:
+        non_striker: SM Solia
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 2.8:
+        non_striker: SM Solia
+        bowler: CB Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Phillips
+    - 3.1:
+        non_striker: DN Phillips
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 3.2:
+        non_striker: DN Phillips
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.3:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 3.4:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 3.5:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Phillips
+    - 3.6:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 3.7:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DN Phillips
+    - 4.1:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Phillips
+    - 4.2:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 4.3:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 4.4:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - CB Paul
+          kind: caught
+    - 4.5:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: DN Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 5.1:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 5.2:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 5.4:
+        non_striker: DN Phillips
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 5.6:
+        non_striker: DN Phillips
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Phillips
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 6.4:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 6.5:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 7.1:
+        non_striker: DN Phillips
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.2:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 7.3:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 7.4:
+        non_striker: DN Phillips
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.5:
+        non_striker: DN Phillips
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 8.1:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 8.2:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 8.3:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 8.4:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.5:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 8.6:
+        non_striker: DN Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.1:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Phillips
+    - 9.2:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Phillips
+    - 9.3:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Phillips
+    - 9.4:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 9.6:
+        non_striker: DN Phillips
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 10.1:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Phillips
+    - 10.2:
+        non_striker: MJ Guptill
+        bowler: LLB Harper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips

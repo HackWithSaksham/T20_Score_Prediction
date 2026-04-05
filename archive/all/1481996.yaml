@@ -1,0 +1,2072 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Oakland
+  competition: Major League Cricket
+  dates:
+  - '2025-06-15'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Texas Super Kings
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - Noor Ahmad
+  players:
+    Texas Super Kings:
+    - DP Conway
+    - F du Plessis
+    - SR Mukkamalla
+    - DJ Mitchell
+    - Shubham Ranjane
+    - D Ferreira
+    - CP Savage
+    - SV Wiig
+    - AF Milne
+    - Noor Ahmad
+    - Zia-ul-Haq
+    Los Angeles Knight Riders:
+    - ADS Fletcher
+    - AD Hales
+    - UBT Chand
+    - NR Kumar
+    - Saif Badar
+    - MW Tromp
+    - AD Russell
+    - SP Narine
+    - SC van Schalkwyk
+    - Ali Khan
+    - T Sangha
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AD Russell: bbd41817
+      ADS Fletcher: 1bae756b
+      AF Milne: 350bb1b1
+      Ali Khan: b0eaaac6
+      BV Taylor: '99760152'
+      CP Savage: a55e0360
+      D Ferreira: f0af99a7
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      F du Plessis: 3355b542
+      LS Reifer: 5dee559a
+      M Erasmus: 15d3c895
+      MW Tromp: 568473e4
+      NR Kumar: b3bad3f2
+      Noor Ahmad: efc04be7
+      R Samuels: 8a8bc9f6
+      Reon King: 20fbf68c
+      SC van Schalkwyk: 97b0e4ff
+      SP Narine: 9d430b40
+      SR Mukkamalla: 156d0ea2
+      SV Wiig: 44f11bd0
+      Saif Badar: e5d452d7
+      Shubham Ranjane: 6c7a68d0
+      T Sangha: 52c952d9
+      UBT Chand: 0c94f480
+      Zia-ul-Haq: 99c81226
+  teams:
+  - Texas Super Kings
+  - Los Angeles Knight Riders
+  toss:
+    winner: Los Angeles Knight Riders
+    decision: field
+  umpires:
+  - BV Taylor
+  - R Samuels
+  venue: Oakland Coliseum,Oakland
+innings:
+- 1st innings:
+    team: Texas Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.2:
+        non_striker: DP Conway
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: DP Conway
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: DP Conway
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.1:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.3:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.6:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.2:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.4:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          kind: bowled
+    - 2.6:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.1:
+        non_striker: SR Mukkamalla
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.2:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.3:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 3.4:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 3.5:
+        non_striker: SR Mukkamalla
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.6:
+        non_striker: DP Conway
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 4.1:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.2:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.3:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 4.4:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 4.5:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SR Mukkamalla
+    - 4.6:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.7:
+        non_striker: DP Conway
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 5.1:
+        non_striker: SR Mukkamalla
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: SR Mukkamalla
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.3:
+        non_striker: SR Mukkamalla
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.4:
+        non_striker: SR Mukkamalla
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.5:
+        non_striker: SR Mukkamalla
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.6:
+        non_striker: DP Conway
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.1:
+        non_striker: SR Mukkamalla
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.2:
+        non_striker: SR Mukkamalla
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 6.3:
+        non_striker: SR Mukkamalla
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.4:
+        non_striker: DP Conway
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.5:
+        non_striker: SR Mukkamalla
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.6:
+        non_striker: DP Conway
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.1:
+        non_striker: DP Conway
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.2:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.3:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.4:
+        non_striker: DP Conway
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.5:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 7.6:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - AD Hales
+          kind: caught
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 8.5:
+        non_striker: SR Mukkamalla
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 9.1:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: SR Mukkamalla
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.3:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          fielders:
+          - AD Russell
+          kind: caught
+    - 9.4:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 9.5:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 10.1:
+        non_striker: Shubham Ranjane
+        bowler: Saif Badar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: Shubham Ranjane
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 10.4:
+        non_striker: Shubham Ranjane
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: Shubham Ranjane
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: DJ Mitchell
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 10.7:
+        non_striker: Shubham Ranjane
+        bowler: Saif Badar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.3:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.5:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.7:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.1:
+        non_striker: Shubham Ranjane
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 12.3:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.5:
+        non_striker: Shubham Ranjane
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 12.7:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.1:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.2:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 13.4:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.5:
+        non_striker: Shubham Ranjane
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.6:
+        non_striker: DJ Mitchell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.1:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.2:
+        non_striker: Shubham Ranjane
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.3:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 14.5:
+        non_striker: Shubham Ranjane
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.6:
+        non_striker: DJ Mitchell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+        wicket:
+          player_out: Shubham Ranjane
+          fielders:
+          - MW Tromp
+          kind: caught
+    - 15.2:
+        non_striker: DJ Mitchell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 15.3:
+        non_striker: D Ferreira
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 15.4:
+        non_striker: D Ferreira
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 15.5:
+        non_striker: D Ferreira
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 15.6:
+        non_striker: D Ferreira
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 16.1:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 16.2:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.3:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.4:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.5:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: DJ Mitchell
+    - 16.6:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.7:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 17.1:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.2:
+        non_striker: D Ferreira
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 17.3:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.4:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.5:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.6:
+        non_striker: D Ferreira
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.1:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.2:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 18.3:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 18.4:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DJ Mitchell
+    - 18.5:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 18.6:
+        non_striker: D Ferreira
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.7:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 18.8:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 18.9:
+        non_striker: DJ Mitchell
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Ferreira
+    - 19.1:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 19.2:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 19.3:
+        non_striker: D Ferreira
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 19.4:
+        non_striker: D Ferreira
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 19.5:
+        non_striker: D Ferreira
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 19.6:
+        non_striker: DJ Mitchell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+- 2nd innings:
+    team: Los Angeles Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: AD Hales
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: AD Hales
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.7:
+        non_striker: ADS Fletcher
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.1:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.4:
+        non_striker: ADS Fletcher
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.5:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: lbw
+    - 1.6:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 2.1:
+        non_striker: UBT Chand
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: UBT Chand
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 2.3:
+        non_striker: UBT Chand
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.4:
+        non_striker: UBT Chand
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.5:
+        non_striker: UBT Chand
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AD Hales
+    - 2.6:
+        non_striker: AD Hales
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 2.7:
+        non_striker: AD Hales
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UBT Chand
+    - 3.1:
+        non_striker: UBT Chand
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.2:
+        non_striker: UBT Chand
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.3:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 3.4:
+        non_striker: UBT Chand
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.5:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 3.6:
+        non_striker: AD Hales
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 4.1:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 4.2:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 4.3:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 4.4:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kumar
+    - 4.5:
+        non_striker: NR Kumar
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 4.6:
+        non_striker: NR Kumar
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 5.1:
+        non_striker: NR Kumar
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 5.2:
+        non_striker: NR Kumar
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UBT Chand
+    - 5.3:
+        non_striker: NR Kumar
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 5.4:
+        non_striker: UBT Chand
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kumar
+    - 5.5:
+        non_striker: UBT Chand
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kumar
+    - 5.6:
+        non_striker: UBT Chand
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kumar
+        wicket:
+          player_out: NR Kumar
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 6.1:
+        non_striker: Saif Badar
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 6.2:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+        wicket:
+          player_out: Saif Badar
+          kind: lbw
+    - 6.3:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 6.4:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 6.5:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 6.6:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 7.1:
+        non_striker: MW Tromp
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 7.2:
+        non_striker: UBT Chand
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Tromp
+    - 7.3:
+        non_striker: UBT Chand
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Tromp
+    - 7.4:
+        non_striker: UBT Chand
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Tromp
+    - 7.5:
+        non_striker: UBT Chand
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 7.6:
+        non_striker: MW Tromp
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 8.1:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 8.2:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UBT Chand
+    - 8.3:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+    - 8.4:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+    - 8.5:
+        non_striker: UBT Chand
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 8.6:
+        non_striker: MW Tromp
+        bowler: SV Wiig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: UBT Chand
+    - 9.1:
+        non_striker: UBT Chand
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 9.2:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 9.3:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 9.4:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+        wicket:
+          player_out: UBT Chand
+          kind: bowled
+    - 9.5:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.6:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 10.1:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.2:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.3:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 10.4:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Narine
+    - 10.5:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Narine
+    - 10.6:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 10.7:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 10.8:
+        non_striker: SC van Schalkwyk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Tromp
+    - 11.1:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 11.2:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 11.3:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 11.4:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 11.5:
+        non_striker: SC van Schalkwyk
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 11.6:
+        non_striker: MW Tromp
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 12.1:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 12.2:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC van Schalkwyk
+    - 12.3:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 12.4:
+        non_striker: MW Tromp
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 12.5:
+        non_striker: SC van Schalkwyk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+        wicket:
+          player_out: MW Tromp
+          kind: bowled
+    - 12.6:
+        non_striker: SC van Schalkwyk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 13.1:
+        non_striker: Ali Khan
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC van Schalkwyk
+    - 13.2:
+        non_striker: Ali Khan
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 13.3:
+        non_striker: Ali Khan
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 13.4:
+        non_striker: SC van Schalkwyk
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 13.5:
+        non_striker: SC van Schalkwyk
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Khan
+    - 13.6:
+        non_striker: SC van Schalkwyk
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 14.1:
+        non_striker: Ali Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 14.2:
+        non_striker: Ali Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 14.3:
+        non_striker: SC van Schalkwyk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 14.4:
+        non_striker: SC van Schalkwyk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 14.5:
+        non_striker: Ali Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.6:
+        non_striker: Ali Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.1:
+        non_striker: SC van Schalkwyk
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 15.2:
+        non_striker: SC van Schalkwyk
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 15.3:
+        non_striker: SC van Schalkwyk
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Khan
+    - 15.4:
+        non_striker: SC van Schalkwyk
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 15.5:
+        non_striker: Ali Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.6:
+        non_striker: Ali Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.7:
+        non_striker: Ali Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 16.1:
+        non_striker: Ali Khan
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+        wicket:
+          player_out: SC van Schalkwyk
+          fielders:
+          - DP Conway
+          kind: caught
+    - 16.2:
+        non_striker: Ali Khan
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sangha
+    - 16.3:
+        non_striker: T Sangha
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Khan
+    - 16.4:
+        non_striker: T Sangha
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 16.5:
+        non_striker: T Sangha
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 16.6:
+        non_striker: T Sangha
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Khan
+    - 17.1:
+        non_striker: Ali Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+        wicket:
+          player_out: T Sangha
+          kind: bowled

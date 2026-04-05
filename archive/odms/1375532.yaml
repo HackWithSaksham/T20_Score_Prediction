@@ -1,0 +1,4964 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-15'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Cork
+  competition: Cricket Ireland Inter-Provincial Limited Over Cup
+  dates:
+  - '2023-08-15'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Northern Knights
+    by:
+      runs: 52
+  overs: 50
+  players:
+    Northern Knights:
+    - GR Adair
+    - Jake Egan
+    - JA McCollum
+    - C Carmichael
+    - M Topping
+    - NA Rock
+    - MR Adair
+    - TF van Woerkom
+    - T Mayes
+    - MJ Humphreys
+    - MT Foster
+    Munster Reds:
+    - M Commins
+    - AR Frost
+    - M Ford
+    - R Joyce
+    - PJ Moor
+    - TE Kane
+    - GJ Delany
+    - L McCarthy
+    - M Frost
+    - J Manley
+    - B White
+  registry:
+    people:
+      AR Frost: a7750ab4
+      B White: 1a448be0
+      C Carmichael: f3b158d9
+      G Morrisey: f442110f
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      J Manley: 05f85159
+      JA McCollum: c7105dab
+      Jake Egan: a863ba68
+      Jonathan Kennedy: f7ad4494
+      L McCarthy: 8eb2e2e6
+      M Commins: c537cf4d
+      M Ford: 4fd0c3a6
+      M Frost: 96d56d32
+      M Topping: 33f44dfc
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      MT Foster: 14e801aa
+      NA Rock: 43f4087c
+      PJ Moor: a1d3540a
+      R Joyce: 5caf0bcc
+      S Wood: fe38aa0b
+      T Mayes: 9aedf23b
+      TE Kane: af28816c
+      TF van Woerkom: 70f2f922
+  teams:
+  - Northern Knights
+  - Munster Reds
+  toss:
+    winner: Munster Reds
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - S Wood
+  venue: Mardyke, Cork
+innings:
+- 1st innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Jake Egan
+        batsman: GR Adair
+    - 0.2:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          kind: lbw
+    - 0.3:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.4:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JA McCollum
+    - 0.5:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.6:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.7:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.8:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA McCollum
+    - 1.1:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 1.2:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 1.3:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.4:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 1.5:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 1.6:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 2.1:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 2.2:
+        non_striker: JA McCollum
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 2.3:
+        non_striker: JA McCollum
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 2.4:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 2.5:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.6:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 3.1:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 3.2:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 3.3:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 3.4:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 3.5:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 3.6:
+        non_striker: JA McCollum
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 4.1:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.2:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          kind: lbw
+    - 4.3:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael
+    - 4.4:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 4.5:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Carmichael
+    - 4.6:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 5.1:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 5.2:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 5.3:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 5.4:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 5.5:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 5.6:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 6.1:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 6.2:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 6.3:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jake Egan
+    - 6.4:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 6.5:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 6.6:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 7.1:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael
+    - 7.2:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 7.3:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael
+    - 7.4:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 7.5:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 7.6:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 8.1:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Carmichael
+    - 8.2:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 8.3:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 8.4:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 8.5:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 8.6:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Carmichael
+    - 8.7:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Carmichael
+    - 8.8:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 9.1:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 9.2:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 9.3:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 9.4:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 9.5:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 9.6:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 10.1:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 10.2:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 10.3:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 10.4:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Carmichael
+    - 10.5:
+        non_striker: Jake Egan
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 10.6:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 10.7:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jake Egan
+    - 10.8:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+    - 11.1:
+        non_striker: Jake Egan
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 11.2:
+        non_striker: Jake Egan
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 11.3:
+        non_striker: Jake Egan
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 11.4:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jake Egan
+        wicket:
+          player_out: Jake Egan
+          kind: bowled
+    - 11.5:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.6:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Topping
+    - 11.7:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 12.1:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.2:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.3:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.4:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.5:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 12.6:
+        non_striker: C Carmichael
+        bowler: R Joyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 13.1:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 13.2:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 13.3:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 13.4:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Carmichael
+    - 13.5:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 13.6:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael
+    - 14.1:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 14.2:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 14.3:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 14.4:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 14.5:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 14.6:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 15.1:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 15.2:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 15.3:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 15.4:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 15.5:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 15.6:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 16.1:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 16.2:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Topping
+    - 16.3:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 16.4:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 16.5:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Topping
+    - 16.6:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 16.7:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 16.8:
+        non_striker: C Carmichael
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 17.1:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 17.2:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 17.3:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 17.4:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 17.5:
+        non_striker: C Carmichael
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 17.6:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Carmichael
+    - 18.1:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 18.2:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 18.3:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 18.4:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Carmichael
+    - 18.5:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 18.6:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 18.7:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Topping
+    - 18.8:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 19.1:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 19.2:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 19.3:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 19.4:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 19.5:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 19.6:
+        non_striker: M Topping
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 20.1:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 20.2:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 20.3:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 20.4:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 20.5:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 20.6:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 21.1:
+        non_striker: M Topping
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 21.2:
+        non_striker: M Topping
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 21.3:
+        non_striker: M Topping
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 21.4:
+        non_striker: M Topping
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 21.5:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 21.6:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 22.1:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 22.2:
+        non_striker: M Topping
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 22.3:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+        wicket:
+          player_out: M Topping
+          fielders:
+          - R Joyce
+          kind: caught
+    - 22.4:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 22.5:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 22.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 23.1:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 23.2:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 23.3:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Carmichael
+    - 23.4:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 23.5:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 23.6:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 23.7:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 24.1:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 24.2:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 24.3:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 24.4:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 24.5:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 24.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 25.1:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 25.2:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 25.3:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 25.4:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 25.5:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 25.6:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 26.1:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 26.2:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 26.3:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 26.4:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 26.5:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 26.6:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 27.1:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 27.2:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 27.3:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 27.4:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 27.5:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 27.6:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 28.1:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 28.2:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 28.3:
+        non_striker: C Carmichael
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 28.4:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 28.5:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 28.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 29.1:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 29.2:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 29.3:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 29.4:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 29.5:
+        non_striker: C Carmichael
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 29.6:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 30.1:
+        non_striker: C Carmichael
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 30.2:
+        non_striker: C Carmichael
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 30.3:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 30.4:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 30.5:
+        non_striker: C Carmichael
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 30.6:
+        non_striker: C Carmichael
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 31.1:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 31.2:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 31.3:
+        non_striker: C Carmichael
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 31.4:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 31.5:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 31.6:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+        wicket:
+          player_out: C Carmichael
+          fielders:
+          - R Joyce
+          kind: caught
+    - 32.1:
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MR Adair
+        batsman: NA Rock
+    - 32.2:
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MR Adair
+        batsman: NA Rock
+    - 32.3:
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Adair
+        batsman: NA Rock
+    - 32.4:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 32.5:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 32.6:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 33.1:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: NA Rock
+    - 33.2:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 33.3:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 33.4:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 33.5:
+        non_striker: NA Rock
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 33.6:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 34.1:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 34.2:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 34.3:
+        non_striker: NA Rock
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 34.4:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 34.5:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 34.6:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 35.1:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 35.2:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 35.3:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 35.4:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 35.5:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 35.6:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 35.7:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 36.1:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 36.2:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 36.3:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 36.4:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 36.5:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 36.6:
+        non_striker: NA Rock
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 37.1:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 37.2:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 37.3:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 37.4:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 37.5:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 37.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 38.1:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 38.2:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 38.3:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 38.4:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 38.5:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 38.6:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 39.1:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 39.2:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 39.3:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 39.4:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 39.5:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 39.6:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 40.1:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 40.2:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 40.3:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 40.4:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 40.5:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 40.6:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 41.1:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 41.2:
+        non_striker: NA Rock
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 41.3:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - M Frost
+          kind: caught
+    - 41.4:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 41.5:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 41.6:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF van Woerkom
+    - 42.1:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 42.2:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF van Woerkom
+    - 42.3:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 42.4:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TF van Woerkom
+    - 42.5:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF van Woerkom
+    - 42.6:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 42.7:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF van Woerkom
+    - 43.1:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 43.2:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF van Woerkom
+    - 43.3:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF van Woerkom
+    - 43.4:
+        non_striker: TF van Woerkom
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 43.5:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 43.6:
+        non_striker: MR Adair
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+    - 44.1:
+        non_striker: TF van Woerkom
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 44.2:
+        non_striker: TF van Woerkom
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 44.3:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF van Woerkom
+    - 44.4:
+        non_striker: TF van Woerkom
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 44.5:
+        non_striker: MR Adair
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF van Woerkom
+    - 44.6:
+        non_striker: TF van Woerkom
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 45.1:
+        non_striker: TF van Woerkom
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 45.2:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TF van Woerkom
+    - 45.3:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF van Woerkom
+        wicket:
+          player_out: TF van Woerkom
+          fielders:
+          - M Commins
+          kind: caught
+    - 45.4:
+        non_striker: MR Adair
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 45.5:
+        non_striker: T Mayes
+        bowler: GJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Adair
+    - 45.6:
+        non_striker: T Mayes
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 45.7:
+        non_striker: T Mayes
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 46.1:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 46.2:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 46.3:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 46.4:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 46.5:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 46.6:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 47.1:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Mayes
+    - 47.2:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 47.3:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 47.4:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 47.5:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - M Ford
+          kind: caught
+    - 47.6:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Humphreys
+    - 47.7:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 48.1:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 48.2:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 48.3:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 48.4:
+        non_striker: T Mayes
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 48.5:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 48.6:
+        non_striker: MJ Humphreys
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Mayes
+    - 49.1:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 49.2:
+        non_striker: MJ Humphreys
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 49.3:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 49.4:
+        non_striker: MJ Humphreys
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 49.5:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+        wicket:
+          player_out: MJ Humphreys
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 49.6:
+        non_striker: T Mayes
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MT Foster
+- 2nd innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Frost
+        batsman: M Commins
+    - 0.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Frost
+        batsman: M Commins
+    - 0.3:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Frost
+        batsman: M Commins
+    - 0.4:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Frost
+        batsman: M Commins
+    - 0.5:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Frost
+        batsman: M Commins
+    - 0.6:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Commins
+    - 1.1:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Commins
+    - 1.2:
+        non_striker: M Commins
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Frost
+    - 1.3:
+        non_striker: M Commins
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Frost
+    - 1.4:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Commins
+    - 1.5:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Commins
+        wicket:
+          player_out: M Commins
+          fielders:
+          - NA Rock
+          kind: caught
+    - 1.6:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ford
+    - 2.1:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ford
+    - 2.2:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 2.3:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 2.4:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 2.5:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 2.6:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 3.1:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 3.2:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 3.3:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Ford
+    - 3.4:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 3.5:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ford
+    - 3.6:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Frost
+    - 4.1:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 4.2:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 4.3:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 4.4:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ford
+    - 4.5:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 4.6:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 4.7:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 5.1:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.2:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.3:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.4:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Frost
+    - 5.5:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.6:
+        non_striker: M Ford
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 6.1:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 6.2:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 6.3:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+    - 6.4:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ford
+    - 6.5:
+        non_striker: M Ford
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Frost
+    - 6.6:
+        non_striker: AR Frost
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ford
+    - 7.1:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Ford
+    - 7.2:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ford
+        wicket:
+          player_out: M Ford
+          fielders:
+          - MR Adair
+          kind: caught
+    - 7.3:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 7.4:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 7.5:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 7.6:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Joyce
+    - 8.1:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 8.2:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 8.3:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 8.4:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 8.5:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 8.6:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Joyce
+    - 9.1:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 9.2:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 9.3:
+        non_striker: AR Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Joyce
+    - 9.4:
+        non_striker: R Joyce
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 9.5:
+        non_striker: R Joyce
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 9.6:
+        non_striker: R Joyce
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 10.1:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 10.2:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 10.3:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+    - 10.4:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Joyce
+    - 10.5:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Joyce
+        wicket:
+          player_out: R Joyce
+          fielders:
+          - T Mayes
+          kind: caught
+    - 10.6:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 11.1:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 11.2:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Frost
+    - 11.3:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 11.4:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Frost
+    - 11.5:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Frost
+    - 11.6:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 12.1:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Moor
+    - 12.2:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 12.3:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PJ Moor
+    - 12.4:
+        non_striker: PJ Moor
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 12.5:
+        non_striker: PJ Moor
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Frost
+    - 12.6:
+        non_striker: AR Frost
+        bowler: C Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 13.1:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 13.2:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+        wicket:
+          player_out: AR Frost
+          fielders:
+          - JA McCollum
+          kind: caught
+    - 13.3:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 13.4:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 13.5:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 13.6:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 14.1:
+        non_striker: TE Kane
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Moor
+    - 14.2:
+        non_striker: TE Kane
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Moor
+    - 14.3:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 14.4:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 14.5:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 14.6:
+        non_striker: TE Kane
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 15.1:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+    - 15.2:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Kane
+    - 15.3:
+        non_striker: TE Kane
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 15.4:
+        non_striker: TE Kane
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 15.5:
+        non_striker: TE Kane
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 15.6:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TE Kane
+    - 15.7:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Kane
+        wicket:
+          player_out: TE Kane
+          fielders:
+          - NA Rock
+          kind: stumped
+    - 16.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GJ Delany
+        batsman: PJ Moor
+    - 16.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GJ Delany
+        batsman: PJ Moor
+    - 16.3:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GJ Delany
+        batsman: PJ Moor
+    - 16.4:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 16.5:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.6:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 17.1:
+        non_striker: GJ Delany
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 17.2:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 17.3:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Delany
+    - 17.4:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Delany
+    - 17.5:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 17.6:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 17.7:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 17.8:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          kind: lbw
+    - 18.1:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L McCarthy
+        batsman: PJ Moor
+    - 18.2:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L McCarthy
+        batsman: PJ Moor
+    - 18.3:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L McCarthy
+        batsman: PJ Moor
+    - 18.4:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L McCarthy
+        batsman: PJ Moor
+    - 18.5:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L McCarthy
+        batsman: PJ Moor
+    - 18.6:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 19.1:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 19.2:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 19.3:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 19.4:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 19.5:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 19.6:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 20.1:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 20.2:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 20.3:
+        non_striker: PJ Moor
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 20.4:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 20.5:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 20.6:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 21.1:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 21.2:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 21.3:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 21.4:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 21.5:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 21.6:
+        non_striker: PJ Moor
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 22.1:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 22.2:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L McCarthy
+    - 22.3:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 22.4:
+        non_striker: PJ Moor
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 22.5:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+        wicket:
+          player_out: PJ Moor
+          fielders:
+          - MJ Humphreys
+          kind: caught
+    - 22.6:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 23.1:
+        non_striker: M Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 23.2:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 23.3:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 23.4:
+        non_striker: M Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 23.5:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Frost
+    - 23.6:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 24.1:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 24.2:
+        non_striker: M Frost
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 24.3:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 24.4:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Frost
+    - 24.5:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 24.6:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 25.1:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 25.2:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 25.3:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 25.4:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 25.5:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 25.6:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 26.1:
+        non_striker: M Frost
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 26.2:
+        non_striker: M Frost
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L McCarthy
+    - 26.3:
+        non_striker: M Frost
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 26.4:
+        non_striker: M Frost
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 26.5:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Frost
+    - 26.6:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 27.1:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 27.2:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 27.3:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 27.4:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 27.5:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 27.6:
+        non_striker: M Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 28.1:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 28.2:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Frost
+    - 28.3:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 28.4:
+        non_striker: M Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L McCarthy
+    - 28.5:
+        non_striker: M Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 28.6:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 29.1:
+        non_striker: M Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 29.2:
+        non_striker: M Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 29.3:
+        non_striker: M Frost
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 29.4:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+        wicket:
+          player_out: M Frost
+          fielders:
+          - GR Adair
+          kind: caught
+    - 29.5:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 29.6:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 30.1:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 30.2:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 30.3:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 30.4:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 30.5:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 30.6:
+        non_striker: L McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Manley
+    - 31.1:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 31.2:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 31.3:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 31.4:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 31.5:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 31.6:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 32.1:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 32.2:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 32.3:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L McCarthy
+    - 32.4:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L McCarthy
+    - 32.5:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 32.6:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L McCarthy
+    - 32.7:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 33.1:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 33.2:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 33.3:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 33.4:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 33.5:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 33.6:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 34.1:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 34.2:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 34.3:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 34.4:
+        non_striker: L McCarthy
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 34.5:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 34.6:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 35.1:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L McCarthy
+    - 35.2:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 35.3:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Manley
+    - 35.4:
+        non_striker: L McCarthy
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 35.5:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L McCarthy
+    - 35.6:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+        wicket:
+          player_out: L McCarthy
+          fielders:
+          - MT Foster
+          kind: caught
+    - 36.1:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B White
+        batsman: J Manley
+    - 36.2:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B White
+        batsman: J Manley
+    - 36.3:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B White
+        batsman: J Manley
+    - 36.4:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B White
+        batsman: J Manley
+    - 36.5:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B White
+        batsman: J Manley
+    - 36.6:
+        non_striker: B White
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 37.1:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B White
+    - 37.2:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 37.3:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 37.4:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 37.5:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: J Manley
+    - 37.6:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 37.7:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B White
+    - 38.1:
+        non_striker: B White
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 38.2:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B White
+    - 38.3:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B White
+    - 38.4:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B White
+    - 38.5:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B White
+    - 38.6:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 38.7:
+        non_striker: B White
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 39.1:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 39.2:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 39.3:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Manley
+    - 39.4:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 39.5:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 39.6:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 40.1:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B White
+    - 40.2:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 40.3:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 40.4:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 40.5:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 40.6:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 41.1:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 41.2:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Manley
+    - 41.3:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 41.4:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Manley
+    - 41.5:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Manley
+    - 41.6:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Manley
+    - 41.7:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 42.1:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 42.2:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 42.3:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 42.4:
+        non_striker: J Manley
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 42.5:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 42.6:
+        non_striker: B White
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 43.1:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 43.2:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Manley
+    - 43.3:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 43.4:
+        non_striker: B White
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 43.5:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B White
+    - 43.6:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B White
+    - 44.1:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 44.2:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 44.3:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 44.4:
+        non_striker: B White
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+        wicket:
+          player_out: J Manley
+          kind: lbw

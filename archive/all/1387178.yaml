@@ -1,0 +1,1875 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Women's Big Bash League
+  dates:
+  - '2023-10-23'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Melbourne Renegades
+    by:
+      runs: 81
+  overs: 20
+  player_of_match:
+  - H Kaur
+  players:
+    Melbourne Renegades:
+    - TT Beaumont
+    - HK Matthews
+    - JE Dooley
+    - H Kaur
+    - C Webb
+    - SJ Coyte
+    - JE Duffin
+    - E Hayward
+    - E Kershaw
+    - G Prestwidge
+    - G Wareham
+    Adelaide Strikers:
+    - L Wolvaardt
+    - KM Mack
+    - TM McGrath
+    - BE Patterson
+    - M Penna
+    - A Wellington
+    - DR Gibson
+    - GL Adams
+    - JL Barsby
+    - ML Schutt
+    - AC Mushangwe
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      AC Mushangwe: db873292
+      BE Patterson: 7dfbcfff
+      C Grant: 876ed858
+      C Webb: 1f4a8a2a
+      D Brigham: 464daf41
+      DR Gibson: d2763568
+      E Hayward: eacd9bb1
+      E Kershaw: 8eeebce2
+      G Prestwidge: c218e4e7
+      G Wareham: f0b4e47d
+      GL Adams: 7b1f2542
+      H Kaur: 53cd8da6
+      HK Matthews: d32cf49a
+      JE Dooley: 6f7e30d6
+      JE Duffin: 5ebc3941
+      JL Barsby: 47bcaf7a
+      KM Mack: ef13bd20
+      L Wolvaardt: e60f81c9
+      M Penna: 36453b99
+      ML Schutt: 17608a6f
+      RW Stratford: '85489579'
+      SJ Coyte: a5f488bc
+      TM McGrath: ca5acfa4
+      TT Beaumont: b2664905
+  teams:
+  - Melbourne Renegades
+  - Adelaide Strikers
+  toss:
+    winner: Adelaide Strikers
+    decision: field
+  umpires:
+  - C Grant
+  - D Brigham
+  venue: Junction Oval, Melbourne
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TT Beaumont
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.7:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 1.8:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 2.2:
+        non_striker: TT Beaumont
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: TT Beaumont
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: caught and bowled
+    - 2.4:
+        non_striker: TT Beaumont
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+    - 2.5:
+        non_striker: TT Beaumont
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 2.6:
+        non_striker: JE Dooley
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 3.1:
+        non_striker: JE Dooley
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 3.2:
+        non_striker: JE Dooley
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.3:
+        non_striker: JE Dooley
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 3.4:
+        non_striker: JE Dooley
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+    - 3.6:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 4.1:
+        non_striker: TT Beaumont
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+    - 4.2:
+        non_striker: TT Beaumont
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 4.3:
+        non_striker: JE Dooley
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.4:
+        non_striker: JE Dooley
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 4.5:
+        non_striker: TT Beaumont
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 4.6:
+        non_striker: JE Dooley
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 5.1:
+        non_striker: JE Dooley
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 5.2:
+        non_striker: JE Dooley
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 5.3:
+        non_striker: TT Beaumont
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 5.4:
+        non_striker: JE Dooley
+        bowler: DR Gibson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: TT Beaumont
+    - 5.5:
+        non_striker: JE Dooley
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 5.6:
+        non_striker: TT Beaumont
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 6.1:
+        non_striker: TT Beaumont
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 6.2:
+        non_striker: JE Dooley
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 6.3:
+        non_striker: JE Dooley
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 6.4:
+        non_striker: TT Beaumont
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Dooley
+    - 6.5:
+        non_striker: TT Beaumont
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 6.6:
+        non_striker: JE Dooley
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.1:
+        non_striker: TT Beaumont
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 7.2:
+        non_striker: JE Dooley
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 7.3:
+        non_striker: TT Beaumont
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 7.4:
+        non_striker: JE Dooley
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 7.5:
+        non_striker: TT Beaumont
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Dooley
+    - 7.6:
+        non_striker: TT Beaumont
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Dooley
+    - 8.1:
+        non_striker: JE Dooley
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          fielders:
+          - GL Adams
+          kind: caught
+    - 8.2:
+        non_striker: JE Dooley
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.3:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+    - 8.4:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+    - 8.5:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 8.6:
+        non_striker: JE Dooley
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.1:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: JE Dooley
+    - 9.2:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+        wicket:
+          player_out: JE Dooley
+          fielders:
+          - AC Mushangwe
+          kind: caught
+    - 9.3:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 9.4:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 9.5:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 9.6:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.1:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.2:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 10.3:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.4:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 10.5:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.6:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 11.1:
+        non_striker: C Webb
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.2:
+        non_striker: H Kaur
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 11.3:
+        non_striker: H Kaur
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 11.4:
+        non_striker: C Webb
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.5:
+        non_striker: C Webb
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.6:
+        non_striker: H Kaur
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.1:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.2:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 12.3:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.4:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 12.5:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.6:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.1:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 13.2:
+        non_striker: C Webb
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 13.3:
+        non_striker: C Webb
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.4:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 13.5:
+        non_striker: C Webb
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.6:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 14.1:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 14.2:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 14.3:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 14.4:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.5:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 14.6:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 15.1:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 15.2:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.3:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 15.4:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.5:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 15.6:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 16.1:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 16.2:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 16.3:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 16.4:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 16.5:
+        non_striker: H Kaur
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 16.6:
+        non_striker: C Webb
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.1:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Kaur
+    - 17.2:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 17.3:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.4:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 17.5:
+        non_striker: C Webb
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.6:
+        non_striker: H Kaur
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 18.1:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 18.2:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Kaur
+    - 18.3:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 18.4:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 18.5:
+        non_striker: H Kaur
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 18.6:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 18.7:
+        non_striker: C Webb
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 19.1:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 19.2:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 19.3:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 19.4:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 19.5:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 19.6:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.1:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.1:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - JE Dooley
+          kind: stumped
+    - 3.1:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 3.2:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 3.3:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.4:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 3.5:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.6:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 4.1:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 4.2:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.3:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 4.4:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 4.5:
+        non_striker: KM Mack
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.6:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          fielders:
+          - H Kaur
+          kind: caught
+    - 5.1:
+        non_striker: BE Patterson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.2:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 5.3:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 5.4:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 5.5:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 5.6:
+        non_striker: BE Patterson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 6.1:
+        non_striker: TM McGrath
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 6.2:
+        non_striker: BE Patterson
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 6.3:
+        non_striker: BE Patterson
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 6.4:
+        non_striker: BE Patterson
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 6.5:
+        non_striker: BE Patterson
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.6:
+        non_striker: TM McGrath
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 7.1:
+        non_striker: BE Patterson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.2:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 7.3:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+        wicket:
+          player_out: BE Patterson
+          fielders:
+          - JE Dooley
+          - SJ Coyte
+          kind: run out
+    - 7.4:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 7.5:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 7.6:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.1:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.2:
+        non_striker: M Penna
+        bowler: E Hayward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM McGrath
+    - 8.3:
+        non_striker: M Penna
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.4:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.5:
+        non_striker: M Penna
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 8.6:
+        non_striker: M Penna
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.7:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Penna
+    - 8.8:
+        non_striker: TM McGrath
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 9.1:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 9.2:
+        non_striker: TM McGrath
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 9.3:
+        non_striker: M Penna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.4:
+        non_striker: M Penna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM McGrath
+    - 9.5:
+        non_striker: M Penna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.6:
+        non_striker: M Penna
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.1:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 10.2:
+        non_striker: M Penna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.3:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 10.4:
+        non_striker: TM McGrath
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 10.5:
+        non_striker: M Penna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.6:
+        non_striker: M Penna
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.1:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 11.2:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          fielders:
+          - G Wareham
+          kind: caught
+    - 11.3:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 11.4:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - G Prestwidge
+          kind: caught
+    - 11.5:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 11.6:
+        non_striker: M Penna
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 12.1:
+        non_striker: DR Gibson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+        wicket:
+          player_out: M Penna
+          fielders:
+          - G Prestwidge
+          kind: caught
+    - 12.2:
+        non_striker: DR Gibson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 12.3:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 12.4:
+        non_striker: DR Gibson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 12.5:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 12.6:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 13.1:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 13.2:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 13.3:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+        wicket:
+          player_out: DR Gibson
+          kind: lbw
+    - 13.4:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Barsby
+    - 13.5:
+        non_striker: JL Barsby
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 13.6:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+        wicket:
+          player_out: JL Barsby
+          kind: bowled
+    - 14.1:
+        non_striker: ML Schutt
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+        wicket:
+          player_out: GL Adams
+          fielders:
+          - E Kershaw
+          kind: caught
+    - 14.2:
+        non_striker: ML Schutt
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Mushangwe
+    - 14.3:
+        non_striker: AC Mushangwe
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 14.4:
+        non_striker: ML Schutt
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Mushangwe
+    - 14.5:
+        non_striker: AC Mushangwe
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+        wicket:
+          player_out: ML Schutt
+          kind: bowled

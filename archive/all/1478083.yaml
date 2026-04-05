@@ -1,0 +1,2135 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2025-07-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Leinster Lightning
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - TH Tector
+  players:
+    Northern Knights:
+    - PR Stirling
+    - GR Adair
+    - JA McCollum
+    - M Topping
+    - NA Rock
+    - BF Calitz
+    - T Mayes
+    - CJB McCullough
+    - SB Davey
+    - MJ Humphreys
+    - C Robertson
+    Leinster Lightning:
+    - TH Tector
+    - C De Freitas
+    - HT Tector
+    - S Lynch
+    - L Tucker
+    - GH Dockrell
+    - G Hoey
+    - DC Delany
+    - BJ McCarthy
+    - J Little
+    - R Wilson
+  registry:
+    people:
+      BF Calitz: 24ad97e7
+      BJ McCarthy: 3766056b
+      C De Freitas: 22072cab
+      C McGarry: fdf4ec77
+      C Robertson: d26de4de
+      CJB McCullough: 5d6364f0
+      DC Delany: 0f9c9d1d
+      G Hoey: 19d0a172
+      G McCrea: 46f4a901
+      GH Dockrell: 99cddc5e
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      JA McCollum: c7105dab
+      Jonathan Kennedy: f7ad4494
+      L Tucker: 3979b5e0
+      M Hawthorne: ea123ee4
+      M Topping: 33f44dfc
+      MJ Humphreys: 2c54c49b
+      NA Rock: 43f4087c
+      PR Stirling: cf494ffe
+      R Wilson: 81b0935a
+      S Lynch: 5ffe6225
+      SB Davey: f45cd5c8
+      T Mayes: 9aedf23b
+      TH Tector: '0348f9a5'
+  teams:
+  - Northern Knights
+  - Leinster Lightning
+  toss:
+    winner: Leinster Lightning
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - M Hawthorne
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.2:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.3:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - C De Freitas
+          kind: caught
+    - 0.5:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 0.6:
+        non_striker: GR Adair
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.1:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.2:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 1.3:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.4:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - DC Delany
+          kind: caught
+    - 1.5:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 1.6:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 1.7:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.1:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 2.2:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Topping
+    - 2.3:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 2.4:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 2.5:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 2.6:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 2.7:
+        non_striker: JA McCollum
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 3.1:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 3.2:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 3.3:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 3.4:
+        non_striker: M Topping
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 3.5:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 3.6:
+        non_striker: JA McCollum
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 4.1:
+        non_striker: M Topping
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 4.2:
+        non_striker: M Topping
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 4.3:
+        non_striker: JA McCollum
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 4.4:
+        non_striker: JA McCollum
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 4.5:
+        non_striker: JA McCollum
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 4.6:
+        non_striker: JA McCollum
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Topping
+    - 5.1:
+        non_striker: M Topping
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.2:
+        non_striker: M Topping
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.3:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 5.4:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 5.5:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Topping
+    - 5.6:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 5.7:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 6.1:
+        non_striker: JA McCollum
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 6.2:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 6.3:
+        non_striker: JA McCollum
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 6.4:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.5:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.6:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.1:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 7.2:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Topping
+    - 7.3:
+        non_striker: JA McCollum
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 7.4:
+        non_striker: M Topping
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.5:
+        non_striker: M Topping
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 7.6:
+        non_striker: M Topping
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 8.1:
+        non_striker: JA McCollum
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 8.2:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          kind: bowled
+    - 8.3:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 8.4:
+        non_striker: NA Rock
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 8.5:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          kind: bowled
+    - 8.6:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+        wicket:
+          player_out: BF Calitz
+          kind: lbw
+    - 9.1:
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Mayes
+        batsman: M Topping
+    - 9.2:
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Mayes
+        batsman: M Topping
+    - 9.3:
+        non_striker: M Topping
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 9.4:
+        non_striker: M Topping
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 9.5:
+        non_striker: M Topping
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mayes
+    - 9.6:
+        non_striker: M Topping
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 10.1:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 10.2:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 10.3:
+        non_striker: T Mayes
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Topping
+    - 10.4:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Mayes
+    - 10.5:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mayes
+    - 10.6:
+        non_striker: M Topping
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 11.1:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.2:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.3:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+    - 11.4:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Topping
+        wicket:
+          player_out: M Topping
+          fielders:
+          - C De Freitas
+          kind: caught
+    - 11.5:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJB McCullough
+    - 11.6:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJB McCullough
+    - 12.1:
+        non_striker: CJB McCullough
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 12.2:
+        non_striker: CJB McCullough
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mayes
+    - 12.3:
+        non_striker: CJB McCullough
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 12.4:
+        non_striker: CJB McCullough
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 12.5:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJB McCullough
+        wicket:
+          player_out: CJB McCullough
+          kind: bowled
+    - 12.6:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 13.1:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 13.2:
+        non_striker: T Mayes
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 13.3:
+        non_striker: SB Davey
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 13.4:
+        non_striker: SB Davey
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 13.5:
+        non_striker: SB Davey
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Mayes
+    - 13.6:
+        non_striker: SB Davey
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Mayes
+    - 13.7:
+        non_striker: SB Davey
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 14.1:
+        non_striker: SB Davey
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 14.2:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 14.3:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 14.4:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 14.5:
+        non_striker: T Mayes
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 14.6:
+        non_striker: SB Davey
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 15.1:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 15.2:
+        non_striker: SB Davey
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 15.3:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 15.4:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 15.5:
+        non_striker: SB Davey
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Mayes
+    - 15.6:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Davey
+    - 16.1:
+        non_striker: T Mayes
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+    - 16.2:
+        non_striker: T Mayes
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Davey
+        wicket:
+          player_out: SB Davey
+          fielders:
+          - C De Freitas
+          kind: caught
+    - 16.3:
+        non_striker: T Mayes
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 16.4:
+        non_striker: MJ Humphreys
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mayes
+    - 16.5:
+        non_striker: MJ Humphreys
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Mayes
+    - 16.6:
+        non_striker: MJ Humphreys
+        bowler: G Hoey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 17.1:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Humphreys
+    - 17.2:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 17.3:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 17.4:
+        non_striker: MJ Humphreys
+        bowler: BJ McCarthy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Mayes
+    - 17.5:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Humphreys
+    - 17.6:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Humphreys
+    - 17.7:
+        non_striker: T Mayes
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Humphreys
+    - 17.8:
+        non_striker: MJ Humphreys
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 18.1:
+        non_striker: MJ Humphreys
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Mayes
+    - 18.2:
+        non_striker: T Mayes
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 18.3:
+        non_striker: T Mayes
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 18.4:
+        non_striker: MJ Humphreys
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Mayes
+    - 18.5:
+        non_striker: MJ Humphreys
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+    - 18.6:
+        non_striker: MJ Humphreys
+        bowler: R Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Mayes
+        wicket:
+          player_out: T Mayes
+          fielders:
+          - C De Freitas
+          kind: caught
+    - 19.1:
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Robertson
+        batsman: MJ Humphreys
+    - 19.2:
+        non_striker: MJ Humphreys
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Robertson
+    - 19.3:
+        non_striker: C Robertson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Humphreys
+    - 19.4:
+        non_striker: MJ Humphreys
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Robertson
+    - 19.5:
+        non_striker: C Robertson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 19.6:
+        non_striker: C Robertson
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MJ Humphreys
+- 2nd innings:
+    team: Leinster Lightning
+    deliveries:
+    - 0.1:
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C De Freitas
+        batsman: TH Tector
+    - 0.2:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+        wicket:
+          player_out: C De Freitas
+          kind: lbw
+    - 0.3:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 0.4:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 0.5:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 0.6:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 1.1:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 1.2:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 1.3:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 1.4:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 1.5:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 1.6:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 2.1:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 2.2:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 2.3:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.4:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 2.5:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.6:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 3.1:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 3.2:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 3.3:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 3.4:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 3.5:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 3.6:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 4.1:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 4.2:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 4.3:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 4.4:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 4.5:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.6:
+        non_striker: HT Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 5.1:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 5.2:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 5.3:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 5.4:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH Tector
+    - 5.5:
+        non_striker: HT Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 5.6:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.1:
+        non_striker: HT Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 6.2:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 6.3:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.4:
+        non_striker: HT Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 6.5:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 6.6:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.7:
+        non_striker: HT Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH Tector
+    - 7.2:
+        non_striker: HT Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 7.3:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.4:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 7.5:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.6:
+        non_striker: HT Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 8.1:
+        non_striker: HT Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 8.2:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.3:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.4:
+        non_striker: HT Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 8.5:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.6:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 9.2:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 9.3:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH Tector
+    - 9.4:
+        non_striker: HT Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 9.5:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.6:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.1:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.2:
+        non_striker: HT Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 10.3:
+        non_striker: HT Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 10.4:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: bowled
+    - 10.5:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lynch
+    - 10.6:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lynch
+    - 11.1:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lynch
+    - 11.2:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lynch
+    - 11.3:
+        non_striker: S Lynch
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 11.4:
+        non_striker: S Lynch
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH Tector
+    - 11.5:
+        non_striker: S Lynch
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 11.6:
+        non_striker: TH Tector
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lynch
+    - 12.1:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lynch
+        wicket:
+          player_out: S Lynch
+          fielders:
+          - NA Rock
+          kind: caught
+    - 12.2:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 12.3:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.4:
+        non_striker: L Tucker
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 12.5:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 12.6:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 13.1:
+        non_striker: L Tucker
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 13.2:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 13.3:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Tucker
+    - 13.4:
+        non_striker: L Tucker
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 13.5:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 13.6:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.1:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 14.2:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.3:
+        non_striker: L Tucker
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH Tector
+    - 14.4:
+        non_striker: L Tucker
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 14.5:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 14.6:
+        non_striker: TH Tector
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: bowled
+    - 15.1:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Dockrell
+        batsman: TH Tector
+    - 15.2:
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Dockrell
+        batsman: TH Tector
+    - 15.3:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          kind: bowled
+    - 15.4:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Hoey
+    - 15.5:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Hoey
+        wicket:
+          player_out: G Hoey
+          fielders:
+          - NA Rock
+          kind: caught
+    - 15.6:
+        non_striker: TH Tector
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 16.1:
+        non_striker: DC Delany
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 16.2:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Delany
+    - 16.3:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 16.4:
+        non_striker: DC Delany
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 16.5:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Delany
+    - 16.6:
+        non_striker: TH Tector
+        bowler: CJB McCullough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DC Delany
+    - 17.1:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 17.2:
+        non_striker: DC Delany
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 17.3:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Delany
+    - 17.4:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 17.5:
+        non_striker: DC Delany
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Tector
+    - 17.6:
+        non_striker: TH Tector
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 18.1:
+        non_striker: DC Delany
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+        wicket:
+          player_out: TH Tector
+          kind: bowled
+    - 18.2:
+        non_striker: DC Delany
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 18.3:
+        non_striker: DC Delany
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 18.4:
+        non_striker: BJ McCarthy
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Delany
+    - 18.5:
+        non_striker: BJ McCarthy
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 18.6:
+        non_striker: BJ McCarthy
+        bowler: C Robertson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 19.1:
+        non_striker: BJ McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DC Delany
+    - 19.2:
+        non_striker: BJ McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+        wicket:
+          player_out: DC Delany
+          fielders:
+          - NA Rock
+          kind: caught
+    - 19.3:
+        non_striker: BJ McCarthy
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Little

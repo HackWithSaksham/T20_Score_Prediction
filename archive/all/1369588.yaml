@@ -1,0 +1,2035 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-20'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Providence
+  competition: Caribbean Premier League
+  dates:
+  - '2023-09-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Jamaica Tallawahs
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - FA Allen
+  players:
+    St Lucia Kings:
+    - J Charles
+    - C Munro
+    - PBB Rajapaksa
+    - RL Chase
+    - S Descarte
+    - AS Joseph
+    - Sikandar Raza
+    - RS Primus
+    - MW Forde
+    - K Pierre
+    - P Hatzoglou
+    Jamaica Tallawahs:
+    - BA King
+    - AD Hales
+    - SR Taylor
+    - SSJ Brooks
+    - RA Reifer
+    - Imad Wasim
+    - SK Springer
+    - FA Allen
+    - CJ Green
+    - Mohammad Amir
+    - NA Gordon
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AS Joseph: b0946605
+      BA King: 7fca84b7
+      C Munro: af2c687b
+      CJ Green: 19b9f399
+      CM Tuckett: a67252f0
+      FA Allen: b52ffbbd
+      GO Brathwaite: 1ace56d4
+      Imad Wasim: 9cb8d7a6
+      J Charles: '09a9d073'
+      K Pierre: a61bcb94
+      MW Forde: 83d17bbc
+      Mohammad Amir: e174dadd
+      NA Gordon: 59377a7f
+      P Hatzoglou: 6f95e5fa
+      PA Gustard: 25bcf808
+      PBB Rajapaksa: 6c882e9a
+      RA Reifer: d7725664
+      RL Chase: 3feda4fa
+      RS Primus: 6f4c73ce
+      Reon King: 20fbf68c
+      S Descarte: b7b09ba5
+      SK Springer: 4175d211
+      SR Taylor: a9231c3f
+      SSJ Brooks: 977b841a
+      Sikandar Raza: 26d041c4
+      Zahid Bassarath: ca6bf044
+  teams:
+  - St Lucia Kings
+  - Jamaica Tallawahs
+  toss:
+    winner: Jamaica Tallawahs
+    decision: field
+  umpires:
+  - GO Brathwaite
+  - PA Gustard
+  venue: Providence Stadium, Guyana
+innings:
+- 1st innings:
+    team: St Lucia Kings
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.2:
+        non_striker: C Munro
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.3:
+        non_striker: C Munro
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 0.4:
+        non_striker: C Munro
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: RA Reifer
+            out: Mohammad Amir
+            reason: injury
+            role: bowler
+        batsman: J Charles
+    - 0.5:
+        non_striker: J Charles
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.6:
+        non_striker: J Charles
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.1:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.3:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - CJ Green
+          kind: caught
+    - 1.4:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 1.5:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PBB Rajapaksa
+    - 1.6:
+        non_striker: J Charles
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 2.1:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.2:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 2.3:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 2.4:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.5:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.6:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.7:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.8:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.1:
+        non_striker: J Charles
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 3.2:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.3:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.4:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 3.5:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Imad Wasim
+          kind: caught
+    - 3.6:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.1:
+        non_striker: RL Chase
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 4.2:
+        non_striker: RL Chase
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 4.3:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.4:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.5:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.6:
+        non_striker: PBB Rajapaksa
+        bowler: RA Reifer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.1:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 5.2:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.3:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PBB Rajapaksa
+    - 5.4:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 5.5:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 5.6:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 6.1:
+        non_striker: PBB Rajapaksa
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.2:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 6.3:
+        non_striker: PBB Rajapaksa
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.4:
+        non_striker: PBB Rajapaksa
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.5:
+        non_striker: PBB Rajapaksa
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 6.6:
+        non_striker: PBB Rajapaksa
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.1:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.2:
+        non_striker: PBB Rajapaksa
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.3:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 7.4:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          kind: bowled
+    - 7.5:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+    - 7.6:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+    - 8.1:
+        non_striker: S Descarte
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.2:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+    - 8.3:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Descarte
+    - 8.4:
+        non_striker: S Descarte
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.5:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Descarte
+    - 8.6:
+        non_striker: S Descarte
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 9.1:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Descarte
+    - 9.2:
+        non_striker: S Descarte
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.3:
+        non_striker: S Descarte
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.4:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+    - 9.5:
+        non_striker: RL Chase
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Descarte
+    - 9.6:
+        non_striker: S Descarte
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 10.1:
+        non_striker: RL Chase
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Descarte
+    - 10.2:
+        non_striker: S Descarte
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 10.3:
+        non_striker: S Descarte
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 10.4:
+        non_striker: S Descarte
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.5:
+        non_striker: RL Chase
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+    - 10.6:
+        non_striker: RL Chase
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Descarte
+        wicket:
+          player_out: S Descarte
+          fielders:
+          - SSJ Brooks
+          kind: caught
+    - 11.1:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 11.2:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.3:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.4:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.5:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.6:
+        non_striker: AS Joseph
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.1:
+        non_striker: AS Joseph
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 12.2:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 12.3:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+        wicket:
+          player_out: AS Joseph
+          kind: bowled
+    - 12.4:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.5:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: RL Chase
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: Sikandar Raza
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Chase
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 13.3:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 13.5:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.1:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.3:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 14.4:
+        non_striker: RL Chase
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 14.6:
+        non_striker: Sikandar Raza
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.1:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 15.2:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: bowled
+    - 15.3:
+        non_striker: RL Chase
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Primus
+    - 15.4:
+        non_striker: RS Primus
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 15.5:
+        non_striker: RS Primus
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          kind: bowled
+    - 15.6:
+        non_striker: RS Primus
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Forde
+    - 16.1:
+        non_striker: MW Forde
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Primus
+    - 16.2:
+        non_striker: RS Primus
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 16.3:
+        non_striker: MW Forde
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Primus
+    - 16.4:
+        non_striker: RS Primus
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 16.5:
+        non_striker: MW Forde
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Primus
+    - 16.6:
+        non_striker: MW Forde
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Primus
+    - 17.1:
+        non_striker: MW Forde
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Primus
+    - 17.2:
+        non_striker: MW Forde
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Primus
+    - 17.3:
+        non_striker: RS Primus
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+        wicket:
+          player_out: MW Forde
+          kind: lbw
+    - 17.4:
+        non_striker: RS Primus
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pierre
+    - 17.5:
+        non_striker: K Pierre
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Primus
+        wicket:
+          player_out: RS Primus
+          kind: bowled
+    - 17.6:
+        non_striker: K Pierre
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatzoglou
+    - 18.1:
+        non_striker: K Pierre
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatzoglou
+    - 18.2:
+        non_striker: P Hatzoglou
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pierre
+    - 18.3:
+        non_striker: P Hatzoglou
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Pierre
+    - 18.4:
+        non_striker: P Hatzoglou
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Pierre
+    - 18.5:
+        non_striker: P Hatzoglou
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pierre
+    - 18.6:
+        non_striker: K Pierre
+        bowler: SK Springer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Hatzoglou
+    - 19.1:
+        non_striker: P Hatzoglou
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Pierre
+    - 19.2:
+        non_striker: K Pierre
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatzoglou
+    - 19.3:
+        non_striker: K Pierre
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Hatzoglou
+    - 19.4:
+        non_striker: K Pierre
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatzoglou
+    - 19.5:
+        non_striker: P Hatzoglou
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Pierre
+    - 19.6:
+        non_striker: P Hatzoglou
+        bowler: NA Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Pierre
+- 2nd innings:
+    team: Jamaica Tallawahs
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.3:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.4:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 0.5:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 0.6:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.7:
+        non_striker: AD Hales
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.1:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 1.2:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.3:
+        non_striker: BA King
+        bowler: AS Joseph
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AD Hales
+    - 1.4:
+        non_striker: BA King
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.5:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.6:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 1.7:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.1:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.2:
+        non_striker: BA King
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.3:
+        non_striker: BA King
+        bowler: MW Forde
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AD Hales
+    - 2.4:
+        non_striker: BA King
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.5:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.6:
+        non_striker: BA King
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.7:
+        non_striker: BA King
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.1:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 3.2:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.3:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.4:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 3.5:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.6:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 4.1:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 4.2:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          kind: bowled
+    - 4.3:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 4.4:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 4.5:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 4.6:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSJ Brooks
+    - 5.1:
+        non_striker: SSJ Brooks
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 5.2:
+        non_striker: SSJ Brooks
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 5.3:
+        non_striker: SSJ Brooks
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.4:
+        non_striker: SSJ Brooks
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 5.5:
+        non_striker: SSJ Brooks
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.6:
+        non_striker: AD Hales
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 6.1:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 6.2:
+        non_striker: SSJ Brooks
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.3:
+        non_striker: SSJ Brooks
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 6.4:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+        wicket:
+          player_out: SSJ Brooks
+          kind: lbw
+    - 6.5:
+        non_striker: AD Hales
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 6.6:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.1:
+        non_striker: RA Reifer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 7.2:
+        non_striker: RA Reifer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.3:
+        non_striker: AD Hales
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 7.4:
+        non_striker: RA Reifer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: caught and bowled
+    - 7.5:
+        non_striker: RA Reifer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.6:
+        non_striker: Imad Wasim
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 8.1:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 8.2:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 8.3:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Imad Wasim
+    - 8.4:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 8.5:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 8.6:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.1:
+        non_striker: Imad Wasim
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 9.2:
+        non_striker: Imad Wasim
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 9.3:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.4:
+        non_striker: Imad Wasim
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 9.5:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.6:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.1:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.2:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.3:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 10.4:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 10.5:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 10.6:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.1:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 11.2:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 11.3:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.4:
+        non_striker: Imad Wasim
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Reifer
+    - 11.5:
+        non_striker: Imad Wasim
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 11.6:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Imad Wasim
+    - 11.7:
+        non_striker: RA Reifer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.1:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 12.2:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.3:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Reifer
+    - 12.4:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 12.5:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 12.6:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 13.1:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 13.2:
+        non_striker: RA Reifer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.3:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Reifer
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 13.6:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 13.7:
+        non_striker: Imad Wasim
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 14.1:
+        non_striker: Imad Wasim
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 14.2:
+        non_striker: RA Reifer
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: Imad Wasim
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 14.4:
+        non_striker: Imad Wasim
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Reifer
+    - 14.5:
+        non_striker: Imad Wasim
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 14.6:
+        non_striker: RA Reifer
+        bowler: P Hatzoglou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.1:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 15.2:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.3:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 15.4:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 15.5:
+        non_striker: RA Reifer
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.6:
+        non_striker: Imad Wasim
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 16.1:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imad Wasim
+    - 16.2:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 16.3:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 16.4:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - S Descarte
+          kind: caught
+    - 16.5:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Springer
+    - 16.6:
+        non_striker: RA Reifer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Springer
+    - 16.7:
+        non_striker: SK Springer
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Reifer
+    - 17.1:
+        non_striker: SK Springer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Reifer
+    - 17.2:
+        non_striker: SK Springer
+        bowler: K Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Reifer
+    - 17.3:
+        non_striker: SK Springer
+        bowler: K Pierre
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Reifer

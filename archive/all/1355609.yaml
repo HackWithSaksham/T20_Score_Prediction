@@ -1,0 +1,639 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-03'
+  revision: 1
+info:
+  balls_per_over: 5
+  city: Leeds
+  competition: The Hundred Men's Competition
+  dates:
+  - '2023-08-03'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Birmingham Phoenix:
+    - WCF Smeed
+    - JG Bethell
+    - BM Duckett
+    - JL Smith
+    - DR Mousley
+    - Shadab Khan
+    - CG Benjamin
+    - BAC Howell
+    - AF Milne
+    - TG Helm
+    - KW Richardson
+    Northern Superchargers:
+    - A Lyth
+    - T Banton
+    - MW Short
+    - HC Brook
+    - AJ Hose
+    - D Wiese
+    - WD Parnell
+    - AU Rashid
+    - RJW Topley
+    - BA Carse
+    - SA Zaib
+  registry:
+    people:
+      A Lyth: 70b8fd28
+      AF Milne: 350bb1b1
+      AJ Hose: 104e88a4
+      AU Rashid: 249d60c9
+      BA Carse: cad40f5e
+      BAC Howell: 0bec3a6c
+      BM Duckett: 5f26f677
+      CG Benjamin: 95a15317
+      D Wiese: aa8d28ae
+      DA Cosker: aac9f784
+      DR Mousley: 876dbe2d
+      HC Brook: 4ae1755b
+      JG Bethell: 3c55c703
+      JL Smith: c834c290
+      KW Richardson: dfc4d8b5
+      MW Short: a90e53ec
+      N Pratt: 01f65cd3
+      NJ Llong: 573fb985
+      RA Kettleborough: 4017868f
+      RJ Warren: 9d1c62d7
+      RJW Topley: 8db7f47f
+      SA Zaib: ab01e323
+      Shadab Khan: 9de62878
+      T Banton: 25f7b7d6
+      TG Helm: 74a274cc
+      WCF Smeed: 4e18e961
+      WD Parnell: 3a60e0b5
+  teams:
+  - Birmingham Phoenix
+  - Northern Superchargers
+  toss:
+    winner: Northern Superchargers
+    decision: field
+  umpires:
+  - RA Kettleborough
+  - RJ Warren
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: Birmingham Phoenix
+    deliveries:
+    - 0.1:
+        non_striker: JG Bethell
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.2:
+        non_striker: JG Bethell
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.3:
+        non_striker: JG Bethell
+        bowler: RJW Topley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WCF Smeed
+    - 0.4:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.5:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 0.6:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          kind: bowled
+    - 1.1:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 1.4:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.5:
+        non_striker: WCF Smeed
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 2.1:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 2.2:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: WCF Smeed
+    - 2.3:
+        non_striker: WCF Smeed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 2.4:
+        non_striker: WCF Smeed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 2.5:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 2.6:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 3.1:
+        non_striker: WCF Smeed
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 3.2:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 3.3:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 3.4:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 3.5:
+        non_striker: WCF Smeed
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 4.1:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 4.2:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 4.3:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 4.4:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 4.5:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 5.1:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 5.2:
+        non_striker: WCF Smeed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.3:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 5.4:
+        non_striker: WCF Smeed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.5:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 6.1:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+        wicket:
+          player_out: WCF Smeed
+          fielders:
+          - BA Carse
+          kind: caught
+    - 6.2:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 6.3:
+        non_striker: JL Smith
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 6.4:
+        non_striker: JL Smith
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 6.5:
+        non_striker: BM Duckett
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Smith
+    - 7.1:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Smith
+    - 7.2:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Smith
+    - 7.3:
+        non_striker: BM Duckett
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 7.4:
+        non_striker: JL Smith
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 7.5:
+        non_striker: JL Smith
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 7.6:
+        non_striker: JL Smith
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.1:
+        non_striker: JL Smith
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.2:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 8.3:
+        non_striker: JL Smith
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.4:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+        wicket:
+          player_out: JL Smith
+          kind: bowled
+    - 8.5:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 9.1:
+        non_striker: DR Mousley
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 9.2:
+        non_striker: DR Mousley
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 9.3:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 9.4:
+        non_striker: DR Mousley
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 9.5:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 10.1:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Mousley
+    - 10.2:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Mousley
+    - 10.3:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Mousley
+    - 10.4:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+        wicket:
+          player_out: DR Mousley
+          kind: bowled
+    - 10.5:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 10.6:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          kind: caught and bowled
+    - 11.1:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 11.2:
+        non_striker: CG Benjamin
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 11.3:
+        non_striker: CG Benjamin
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 11.4:
+        non_striker: CG Benjamin
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 11.5:
+        non_striker: CG Benjamin
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 12.1:
+        non_striker: CG Benjamin
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 12.2:
+        non_striker: BM Duckett
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin

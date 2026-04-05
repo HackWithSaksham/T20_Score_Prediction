@@ -1,0 +1,1912 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2024-01-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - FH Allen
+  players:
+    Canterbury:
+    - CJ Bowes
+    - TWM Latham
+    - HM Nicholls
+    - DJ Mitchell
+    - CE McConchie
+    - MJG Rippon
+    - ZGF Foulkes
+    - IS Sodhi
+    - MJ Henry
+    - MD Rae
+    - W O'Rourke
+    Auckland:
+    - FH Allen
+    - SM Solia
+    - MS Chapman
+    - RR O'Donnell
+    - MJ Guptill
+    - CD Fletcher
+    - RD Harrison
+    - DK Ferns
+    - LH Ferguson
+    - L Delport
+    - BG Lister
+  registry:
+    people:
+      BG Lister: 79f5bc26
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      DJ Henderson: 76e3c08f
+      DJ Mitchell: eade4650
+      DK Ferns: f28c7456
+      FH Allen: bf74b130
+      HM Nicholls: 03521fd3
+      IS Sodhi: 641ac5ff
+      JM Dempsey: 153c9f33
+      KS Jagannathan: 9bc8dcec
+      Kim Cotton: 67a7c2ee
+      L Delport: 2c1438ef
+      LH Ferguson: 2f9d0389
+      MD Rae: 1c06d60a
+      MJ Guptill: 2be41edb
+      MJ Henry: e84ac20c
+      MJG Rippon: b03db6fa
+      MS Chapman: 7fa12533
+      RD Harrison: 8f3f2d61
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TL Anderson: f52ddf8d
+      TWM Latham: e824e6ee
+      W O'Rourke: cb9b8664
+      ZGF Foulkes: 30f92334
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - KS Jagannathan
+  - Kim Cotton
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CJ Bowes
+    - 0.2:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 0.3:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 0.4:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 0.5:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 0.6:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CJ Bowes
+    - 0.7:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.1:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.2:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.3:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.4:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+        wicket:
+          player_out: TWM Latham
+          kind: bowled
+    - 1.5:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 1.6:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 2.1:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.2:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.3:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CJ Bowes
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 2.5:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - L Delport
+          kind: caught
+    - 2.6:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.1:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 3.2:
+        non_striker: HM Nicholls
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.3:
+        non_striker: HM Nicholls
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.4:
+        non_striker: HM Nicholls
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.5:
+        non_striker: HM Nicholls
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.6:
+        non_striker: HM Nicholls
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+    - 4.1:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.2:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 4.3:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 4.4:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 4.5:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 4.6:
+        non_striker: HM Nicholls
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.1:
+        non_striker: HM Nicholls
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.2:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 5.3:
+        non_striker: HM Nicholls
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.4:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 6.1:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.3:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 6.5:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 6.6:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 7.1:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 7.2:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+        wicket:
+          player_out: HM Nicholls
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 7.3:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 7.4:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.5:
+        non_striker: CE McConchie
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 8.2:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 8.5:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.1:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.3:
+        non_striker: CE McConchie
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - FH Allen
+          kind: caught
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.2:
+        non_striker: MJG Rippon
+        bowler: MS Chapman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 10.3:
+        non_striker: MJG Rippon
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.4:
+        non_striker: MJG Rippon
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: DJ Mitchell
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.6:
+        non_striker: MJG Rippon
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 10.7:
+        non_striker: MJG Rippon
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 11.3:
+        non_striker: MJG Rippon
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 11.6:
+        non_striker: MJG Rippon
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 12.1:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 12.3:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 12.5:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 12.6:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.1:
+        non_striker: MJG Rippon
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.2:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.4:
+        non_striker: MJG Rippon
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 13.5:
+        non_striker: MJG Rippon
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 13.6:
+        non_striker: MJG Rippon
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 14.1:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 14.3:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 14.5:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.6:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 15.2:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 15.3:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 15.4:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 15.5:
+        non_striker: MJG Rippon
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 15.6:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 16.1:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 16.2:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.3:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 16.4:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.5:
+        non_striker: DJ Mitchell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 16.6:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 17.1:
+        non_striker: MJG Rippon
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 17.2:
+        non_striker: MJG Rippon
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+    - 17.3:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 17.4:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+        wicket:
+          player_out: MJG Rippon
+          fielders:
+          - RR O'Donnell
+          kind: caught
+    - 17.5:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZGF Foulkes
+    - 17.6:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 17.7:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.1:
+        non_striker: ZGF Foulkes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 18.2:
+        non_striker: ZGF Foulkes
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 18.3:
+        non_striker: ZGF Foulkes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.4:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZGF Foulkes
+    - 18.5:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ZGF Foulkes
+    - 18.6:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 18.7:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 19.1:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 19.2:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 19.3:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 19.4:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 19.5:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 19.6:
+        non_striker: ZGF Foulkes
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 0.2:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.3:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.4:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.5:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.6:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Solia
+    - 0.7:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.2:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.3:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 1.4:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 1.5:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 1.6:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.2:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.3:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.5:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.6:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.1:
+        non_striker: SM Solia
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.2:
+        non_striker: SM Solia
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.3:
+        non_striker: SM Solia
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.4:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          kind: bowled
+    - 3.5:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.2:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.3:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.6:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.1:
+        non_striker: MS Chapman
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.2:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.3:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.1:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.4:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 6.6:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: FH Allen
+    - 6.7:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 7.1:
+        non_striker: FH Allen
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 7.2:
+        non_striker: FH Allen
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.3:
+        non_striker: FH Allen
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.4:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.5:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 7.6:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 8.1:
+        non_striker: FH Allen
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.2:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 8.3:
+        non_striker: FH Allen
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 8.4:
+        non_striker: FH Allen
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.6:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 8.7:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.1:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.2:
+        non_striker: FH Allen
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 9.4:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 9.5:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 9.6:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.1:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.2:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 10.4:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.5:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 10.6:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.1:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 11.2:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 11.3:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.4:
+        non_striker: FH Allen
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.5:
+        non_striker: MS Chapman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.6:
+        non_striker: FH Allen
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.1:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.2:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.3:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 12.4:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 12.5:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 12.6:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.7:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.1:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 13.2:
+        non_striker: FH Allen
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.3:
+        non_striker: FH Allen
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Chapman
+    - 13.4:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 13.5:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 13.6:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.1:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 14.2:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.3:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.4:
+        non_striker: MS Chapman
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.5:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - MJ Henry
+          kind: caught
+    - 14.6:
+        non_striker: FH Allen
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 15.1:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 15.2:
+        non_striker: FH Allen
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell

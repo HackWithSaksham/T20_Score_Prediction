@@ -1,0 +1,2196 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2025-01-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      runs: 41
+  overs: 20
+  players:
+    Canterbury:
+    - CJ Bowes
+    - RA Mariu
+    - MWT Boyle
+    - CE McConchie
+    - HJ Chamberlain
+    - MJG Rippon
+    - ZGF Foulkes
+    - HB Shipley
+    - KA Jamieson
+    - IS Sodhi
+    - MD Rae
+    Auckland:
+    - MJ Guptill
+    - WT O'Donnell
+    - M Sclanders
+    - SM Solia
+    - BJ Jacobs
+    - CD Fletcher
+    - J McKenzie
+    - LN Stackpole
+    - SB Keene
+    - A Ashok
+    - DK Ferns
+  registry:
+    people:
+      A Ashok: 321be7e3
+      AW McKenzie: b53136ce
+      BJ Jacobs: 972f217b
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      CM Brown: 448f4f1c
+      DJ Henderson: 76e3c08f
+      DK Ferns: f28c7456
+      HB Shipley: 5426de63
+      HJ Chamberlain: 1d7c927b
+      IS Sodhi: 641ac5ff
+      J McKenzie: a1ad8978
+      JM Dempsey: 153c9f33
+      KA Jamieson: 68c56d09
+      LN Stackpole: 66c59019
+      M Sclanders: fd094249
+      MD Rae: 1c06d60a
+      MJ Guptill: 2be41edb
+      MJG Rippon: b03db6fa
+      MWT Boyle: b42d5053
+      PJ Pasco: fd92a10c
+      RA Mariu: 6d816d13
+      RE Hayward: 57689d0b
+      SB Keene: 6fb2d3a2
+      SM Solia: fd9f43bb
+      WT O'Donnell: 730b57de
+      ZGF Foulkes: 30f92334
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Canterbury
+    decision: bat
+  umpires:
+  - CM Brown
+  - JM Dempsey
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Mariu
+        batsman: CJ Bowes
+    - 0.2:
+        non_striker: CJ Bowes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Mariu
+    - 0.3:
+        non_striker: CJ Bowes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Mariu
+    - 0.4:
+        non_striker: CJ Bowes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 0.5:
+        non_striker: CJ Bowes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 0.6:
+        non_striker: RA Mariu
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.1:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+    - 1.2:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mariu
+    - 1.3:
+        non_striker: RA Mariu
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 1.4:
+        non_striker: RA Mariu
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.5:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mariu
+        wicket:
+          player_out: RA Mariu
+          kind: lbw
+    - 1.6:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 2.1:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+        wicket:
+          player_out: MWT Boyle
+          fielders:
+          - SM Solia
+          kind: caught
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 2.3:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.6:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 3.1:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 3.2:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.3:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 3.4:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 3.6:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 3.7:
+        non_striker: CE McConchie
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 4.1:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 4.2:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 4.3:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 4.4:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.6:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CJ Bowes
+    - 4.7:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.1:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 5.2:
+        non_striker: CE McConchie
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: CE McConchie
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.4:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 5.5:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 5.6:
+        non_striker: CE McConchie
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.7:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 6.1:
+        non_striker: CE McConchie
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.2:
+        non_striker: CJ Bowes
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 6.3:
+        non_striker: CJ Bowes
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 6.4:
+        non_striker: CE McConchie
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 6.5:
+        non_striker: CE McConchie
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: CE McConchie
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 7.1:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.2:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 7.3:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.4:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.5:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.6:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          kind: lbw
+    - 8.1:
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Chamberlain
+        batsman: CJ Bowes
+    - 8.2:
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Chamberlain
+        batsman: CJ Bowes
+    - 8.3:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Chamberlain
+    - 8.4:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 8.5:
+        non_striker: HJ Chamberlain
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.6:
+        non_striker: CJ Bowes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 9.1:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 9.2:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 9.3:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 9.4:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 9.5:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.6:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+    - 10.1:
+        non_striker: HJ Chamberlain
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 10.2:
+        non_striker: HJ Chamberlain
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          kind: bowled
+    - 10.3:
+        non_striker: HJ Chamberlain
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 10.4:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 10.5:
+        non_striker: HJ Chamberlain
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 10.6:
+        non_striker: HJ Chamberlain
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 11.1:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 11.2:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 11.3:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 11.4:
+        non_striker: HJ Chamberlain
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 11.5:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Chamberlain
+    - 11.6:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+    - 12.1:
+        non_striker: HJ Chamberlain
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 12.2:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+        wicket:
+          player_out: HJ Chamberlain
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 12.3:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 12.4:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZGF Foulkes
+    - 12.5:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZGF Foulkes
+    - 12.6:
+        non_striker: ZGF Foulkes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.1:
+        non_striker: ZGF Foulkes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.2:
+        non_striker: MJG Rippon
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 13.3:
+        non_striker: ZGF Foulkes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 13.4:
+        non_striker: ZGF Foulkes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 13.5:
+        non_striker: ZGF Foulkes
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.6:
+        non_striker: MJG Rippon
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 14.1:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 14.2:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 14.3:
+        non_striker: ZGF Foulkes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 14.4:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZGF Foulkes
+    - 14.5:
+        non_striker: MJG Rippon
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 14.6:
+        non_striker: ZGF Foulkes
+        bowler: LN Stackpole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 15.1:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 15.2:
+        non_striker: ZGF Foulkes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 15.3:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 15.4:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZGF Foulkes
+    - 15.5:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZGF Foulkes
+    - 15.6:
+        non_striker: MJG Rippon
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 16.1:
+        non_striker: ZGF Foulkes
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJG Rippon
+    - 16.2:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+        wicket:
+          player_out: ZGF Foulkes
+          fielders:
+          - WT O'Donnell
+          kind: caught
+    - 16.3:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 16.4:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+        wicket:
+          player_out: HB Shipley
+          fielders:
+          - SM Solia
+          kind: caught
+    - 16.5:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 16.6:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 17.1:
+        non_striker: KA Jamieson
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 17.2:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 17.3:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 17.4:
+        non_striker: KA Jamieson
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 17.5:
+        non_striker: KA Jamieson
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 17.6:
+        non_striker: KA Jamieson
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 18.1:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 18.2:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 18.3:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 18.4:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 18.5:
+        non_striker: MJG Rippon
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 18.6:
+        non_striker: KA Jamieson
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 19.1:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: bowled
+    - 19.2:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.3:
+        non_striker: IS Sodhi
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 19.4:
+        non_striker: IS Sodhi
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 19.5:
+        non_striker: IS Sodhi
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 19.6:
+        non_striker: MJG Rippon
+        bowler: J McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - WT O'Donnell
+          kind: caught
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: MJ Guptill
+    - 0.2:
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: MJ Guptill
+    - 0.3:
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: WT O'Donnell
+        batsman: MJ Guptill
+    - 0.4:
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: MJ Guptill
+    - 0.5:
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: WT O'Donnell
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 1.3:
+        non_striker: WT O'Donnell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.4:
+        non_striker: WT O'Donnell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 1.5:
+        non_striker: WT O'Donnell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.6:
+        non_striker: WT O'Donnell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - CE McConchie
+          kind: caught
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Sclanders
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 2.5:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 2.7:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 3.2:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 3.5:
+        non_striker: MJ Guptill
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Sclanders
+    - 3.6:
+        non_striker: M Sclanders
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: MJ Guptill
+        bowler: HB Shipley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Sclanders
+    - 4.2:
+        non_striker: M Sclanders
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: M Sclanders
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.4:
+        non_striker: M Sclanders
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.5:
+        non_striker: MJ Guptill
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 4.6:
+        non_striker: MJ Guptill
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 5.1:
+        non_striker: MJ Guptill
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Sclanders
+    - 5.2:
+        non_striker: MJ Guptill
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Sclanders
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 5.4:
+        non_striker: M Sclanders
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: M Sclanders
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: MJ Guptill
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 5.7:
+        non_striker: M Sclanders
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - IS Sodhi
+          kind: run out
+    - 6.3:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 6.4:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 6.5:
+        non_striker: M Sclanders
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 6.6:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Sclanders
+    - 7.1:
+        non_striker: M Sclanders
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 7.2:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Sclanders
+    - 7.3:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Sclanders
+    - 7.4:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 7.5:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Sclanders
+    - 7.6:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 8.1:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+    - 8.2:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sclanders
+    - 8.3:
+        non_striker: M Sclanders
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 8.4:
+        non_striker: M Sclanders
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 8.5:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sclanders
+        wicket:
+          player_out: M Sclanders
+          fielders:
+          - CJ Bowes
+          kind: stumped
+    - 8.6:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 9.1:
+        non_striker: BJ Jacobs
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 9.2:
+        non_striker: BJ Jacobs
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.3:
+        non_striker: SM Solia
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Jacobs
+    - 9.4:
+        non_striker: SM Solia
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 9.5:
+        non_striker: SM Solia
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+        wicket:
+          player_out: BJ Jacobs
+          fielders:
+          - CE McConchie
+          kind: caught
+    - 9.6:
+        non_striker: SM Solia
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 10.1:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.2:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 10.3:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.4:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.5:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.6:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.1:
+        non_striker: CD Fletcher
+        bowler: HB Shipley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Solia
+    - 11.2:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 11.3:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 11.4:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 11.5:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.6:
+        non_striker: CD Fletcher
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.1:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 12.2:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 12.3:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 12.4:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.5:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 12.6:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.1:
+        non_striker: CD Fletcher
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 13.2:
+        non_striker: CD Fletcher
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.3:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.4:
+        non_striker: CD Fletcher
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - IS Sodhi
+          kind: caught
+    - 13.5:
+        non_striker: CD Fletcher
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 13.6:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.1:
+        non_striker: J McKenzie
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 14.2:
+        non_striker: J McKenzie
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.3:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 14.4:
+        non_striker: J McKenzie
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.5:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J McKenzie
+    - 14.6:
+        non_striker: CD Fletcher
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 15.1:
+        non_striker: CD Fletcher
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 15.2:
+        non_striker: J McKenzie
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.3:
+        non_striker: CD Fletcher
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J McKenzie
+    - 15.4:
+        non_striker: J McKenzie
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.5:
+        non_striker: CD Fletcher
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 15.6:
+        non_striker: J McKenzie
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.1:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CD Fletcher
+    - 16.2:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 16.3:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: CD Fletcher
+          fielders:
+          - AW McKenzie (sub)
+          kind: caught
+    - 16.4:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Stackpole
+    - 16.5:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Stackpole
+        wicket:
+          player_out: LN Stackpole
+          kind: bowled
+    - 16.6:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Keene
+    - 16.7:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Keene
+    - 17.1:
+        non_striker: J McKenzie
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Keene
+    - 17.2:
+        non_striker: SB Keene
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J McKenzie
+    - 17.3:
+        non_striker: SB Keene
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 17.4:
+        non_striker: J McKenzie
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Keene
+    - 17.5:
+        non_striker: SB Keene
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J McKenzie
+    - 17.6:
+        non_striker: SB Keene
+        bowler: HB Shipley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J McKenzie
+    - 17.7:
+        non_striker: SB Keene
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 18.1:
+        non_striker: SB Keene
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J McKenzie
+    - 18.2:
+        non_striker: SB Keene
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 18.3:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Keene
+    - 18.4:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Keene
+    - 18.5:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Keene
+        wicket:
+          player_out: SB Keene
+          kind: bowled
+    - 18.6:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ashok
+    - 18.7:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ashok
+    - 18.8:
+        non_striker: J McKenzie
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashok
+    - 19.1:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+        wicket:
+          player_out: A Ashok
+          kind: lbw
+    - 19.2:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 19.3:
+        non_striker: DK Ferns
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J McKenzie
+    - 19.4:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 19.5:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DK Ferns
+    - 19.6:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 19.7:
+        non_striker: J McKenzie
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns

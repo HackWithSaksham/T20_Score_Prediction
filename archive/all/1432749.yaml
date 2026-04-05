@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2024-07-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: San Francisco Unicorns
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - FH Allen
+  players:
+    San Francisco Unicorns:
+    - FH Allen
+    - J Fraser-McGurk
+    - SP Krishnamurthi
+    - JP Inglis
+    - SE Rutherford
+    - Hassan Khan
+    - CJ Anderson
+    - PJ Cummins
+    - Haris Rauf
+    - C le Roux
+    - J Drysdale
+    Texas Super Kings:
+    - DP Conway
+    - F du Plessis
+    - AM Hardie
+    - Milind Kumar
+    - MP Stoinis
+    - J Tromp
+    - CP Savage
+    - Mohammad Mohsin
+    - OEG Baartman
+    - Noor Ahmad
+    - Zia-ul-Haq
+  registry:
+    people:
+      AM Hardie: d405c0d5
+      BV Taylor: '99760152'
+      C le Roux: 7a490dec
+      CJ Anderson: 8abdf100
+      CP Savage: a55e0360
+      DP Conway: df5a6881
+      F du Plessis: 3355b542
+      FH Allen: bf74b130
+      Haris Rauf: 24bb1c2f
+      Hassan Khan: 486065b3
+      J Drysdale: 23f94c02
+      J Fraser-McGurk: 9b6e1b3f
+      J Tromp: fb501329
+      JP Inglis: 989889ff
+      M Erasmus: 15d3c895
+      MP Stoinis: d9273ee7
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      Noor Ahmad: efc04be7
+      OEG Baartman: 6b9eb501
+      PJ Cummins: ded9240e
+      SE Rutherford: d014d5ac
+      SJA Taufel: 4b43d5ac
+      SP Krishnamurthi: 3b8e7647
+      Vijaya Mallela: 85b6244a
+      WR Knights: 63cbf8d8
+      Zia-ul-Haq: 99c81226
+  teams:
+  - San Francisco Unicorns
+  - Texas Super Kings
+  toss:
+    winner: Texas Super Kings
+    decision: field
+  umpires:
+  - BV Taylor
+  - M Erasmus
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: San Francisco Unicorns
+    deliveries:
+    - 0.1:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 0.3:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.5:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.6:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 1.2:
+        non_striker: J Fraser-McGurk
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.3:
+        non_striker: J Fraser-McGurk
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 1.4:
+        non_striker: J Fraser-McGurk
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.5:
+        non_striker: J Fraser-McGurk
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.6:
+        non_striker: J Fraser-McGurk
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.1:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.2:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.3:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 2.5:
+        non_striker: J Fraser-McGurk
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 2.6:
+        non_striker: FH Allen
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 3.1:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 3.2:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 3.3:
+        non_striker: J Fraser-McGurk
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.4:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 3.5:
+        non_striker: J Fraser-McGurk
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.6:
+        non_striker: J Fraser-McGurk
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.1:
+        non_striker: J Fraser-McGurk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.2:
+        non_striker: J Fraser-McGurk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.3:
+        non_striker: J Fraser-McGurk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.4:
+        non_striker: J Fraser-McGurk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.5:
+        non_striker: J Fraser-McGurk
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.6:
+        non_striker: FH Allen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 5.1:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 5.2:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 5.3:
+        non_striker: J Fraser-McGurk
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.4:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 5.5:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 5.6:
+        non_striker: FH Allen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 6.1:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.2:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 6.3:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 6.4:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 6.5:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.6:
+        non_striker: FH Allen
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.7:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 6.8:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 6.9:
+        non_striker: J Fraser-McGurk
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 7.1:
+        non_striker: FH Allen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 7.2:
+        non_striker: FH Allen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 7.3:
+        non_striker: FH Allen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          kind: bowled
+    - 7.4:
+        non_striker: FH Allen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.5:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 7.6:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 7.7:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.1:
+        non_striker: FH Allen
+        bowler: CP Savage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JP Inglis
+    - 8.2:
+        non_striker: JP Inglis
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 8.3:
+        non_striker: JP Inglis
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 8.4:
+        non_striker: JP Inglis
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.5:
+        non_striker: JP Inglis
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.6:
+        non_striker: FH Allen
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.7:
+        non_striker: FH Allen
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.1:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 9.2:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.3:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.4:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.5:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.6:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.7:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.1:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 10.2:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 10.3:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.4:
+        non_striker: FH Allen
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 10.5:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.6:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.7:
+        non_striker: JP Inglis
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.1:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.2:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 11.3:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 11.4:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.5:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 11.6:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 12.1:
+        non_striker: FH Allen
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Inglis
+    - 12.2:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 12.3:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 12.4:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 12.5:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 12.6:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 12.7:
+        non_striker: JP Inglis
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 13.1:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 13.2:
+        non_striker: FH Allen
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 13.3:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 13.4:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: bowled
+    - 13.5:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 14.2:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.3:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 14.5:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: caught and bowled
+    - 14.6:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 15.1:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 15.2:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 15.3:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 15.4:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.5:
+        non_striker: Hassan Khan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 15.6:
+        non_striker: JP Inglis
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.1:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 16.2:
+        non_striker: JP Inglis
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.3:
+        non_striker: JP Inglis
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.4:
+        non_striker: JP Inglis
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 16.5:
+        non_striker: JP Inglis
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 16.6:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 16.7:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 17.1:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 17.2:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 17.3:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 17.4:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 17.5:
+        non_striker: Hassan Khan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 17.6:
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 18.1:
+        non_striker: Hassan Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 18.2:
+        non_striker: Hassan Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 18.3:
+        non_striker: CJ Anderson
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 18.4:
+        non_striker: Hassan Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 18.5:
+        non_striker: Hassan Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 18.6:
+        non_striker: Hassan Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 19.1:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 19.2:
+        non_striker: CJ Anderson
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 19.3:
+        non_striker: CJ Anderson
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 19.4:
+        non_striker: CJ Anderson
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 19.5:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+        wicket:
+          player_out: CJ Anderson
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 19.6:
+        non_striker: Hassan Khan
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Cummins
+- 2nd innings:
+    team: Texas Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.2:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.3:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.5:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.4:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.6:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - CJ Anderson
+          kind: caught
+    - 4.3:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 4.4:
+        non_striker: AM Hardie
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.5:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Hardie
+    - 4.6:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 4.7:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 5.1:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.3:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 5.4:
+        non_striker: AM Hardie
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.5:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 5.6:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 5.7:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.1:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 6.2:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 6.3:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 6.4:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.5:
+        non_striker: AM Hardie
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.6:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 7.1:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 7.2:
+        non_striker: AM Hardie
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.3:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 7.4:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 7.5:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+        wicket:
+          player_out: AM Hardie
+          fielders:
+          - SE Rutherford
+          kind: caught
+    - 7.6:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 8.1:
+        non_striker: Milind Kumar
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.2:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 8.3:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 8.4:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - PJ Cummins
+          kind: caught
+    - 8.5:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.2:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.4:
+        non_striker: MP Stoinis
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.5:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 9.6:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.1:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.2:
+        non_striker: J Tromp
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.3:
+        non_striker: J Tromp
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.4:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 10.5:
+        non_striker: J Tromp
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.6:
+        non_striker: DP Conway
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 11.1:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 11.2:
+        non_striker: J Tromp
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 11.3:
+        non_striker: J Tromp
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.4:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 11.5:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tromp
+    - 11.6:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tromp
+    - 11.7:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 12.1:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 12.2:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 12.3:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.4:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 12.5:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 12.6:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 13.1:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 13.2:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.3:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Tromp
+    - 13.4:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 13.5:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.6:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 14.1:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.2:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 14.3:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 14.4:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.5:
+        non_striker: DP Conway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 14.6:
+        non_striker: J Tromp
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 15.1:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 15.2:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 15.3:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 15.4:
+        non_striker: J Tromp
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.5:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tromp
+    - 15.6:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 15.7:
+        non_striker: DP Conway
+        bowler: J Drysdale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Tromp
+    - 16.1:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.2:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 16.3:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 16.4:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 16.5:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.6:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 17.1:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 17.2:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 17.3:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 17.4:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 17.5:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tromp
+    - 17.6:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tromp
+    - 18.1:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.2:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 18.3:
+        non_striker: J Tromp
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.4:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 18.5:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 18.6:
+        non_striker: DP Conway
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 19.1:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 19.2:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.3:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp
+    - 19.4:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 19.5:
+        non_striker: J Tromp
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.6:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 19.7:
+        non_striker: DP Conway
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tromp

@@ -1,0 +1,4748 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-02-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  dates:
+  - '2025-02-10'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Uganda
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - Raghav Dhawan
+  players:
+    Singapore:
+    - HK Kukreja
+    - A Kaul
+    - Aman Desai
+    - Manpreet Singh
+    - IP Swaney
+    - Janak Prakash
+    - A Chaudhary
+    - R Sharma
+    - V Baskaran
+    - PSRK Sudarshan
+    - H Bharadwaj
+    Uganda:
+    - R Obuya
+    - SG Mangela
+    - Raghav Dhawan
+    - AR Ramjani
+    - Riazat Ali Shah
+    - DM Nakrani
+    - K Waiswa
+    - J Miyaji
+    - F Achelam
+    - C Kyewuta
+    - H Ssenyondo
+  registry:
+    people:
+      A Chaudhary: 465fd722
+      A Kaul: 53d0b0dc
+      AR Ramjani: 30d8136b
+      Aman Desai: c10fd8f9
+      C Kyewuta: 395695ce
+      DM Nakrani: 46a7ac78
+      F Achelam: b6b3ee6e
+      H Bharadwaj: 2e89652e
+      H Ssenyondo: 2b7609f1
+      HK Kukreja: b67bfbf8
+      IP Swaney: 430b7399
+      J Miyaji: 414d8a10
+      Janak Prakash: f092b4c7
+      K Waiswa: a3a275ec
+      LE Hannibal: 3c04e91a
+      Manpreet Singh: e9d6a2ce
+      PSRK Sudarshan: 3a44a4e4
+      R Obuya: 6bc04a3e
+      R Sharma: 2278c4ca
+      Raghav Dhawan: ac64c2ef
+      Ramasamy Venkatesh: 8ad68ea7
+      Riazat Ali Shah: 269cc4ff
+      SG Mangela: eb3c3cca
+      V Baskaran: dd5a9067
+      V Kalidas: 42d76418
+      WC Labrooy: 29d4e29b
+  teams:
+  - Singapore
+  - Uganda
+  toss:
+    winner: Uganda
+    decision: field
+  umpires:
+  - LE Hannibal
+  - Ramasamy Venkatesh
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.2:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.3:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.4:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.5:
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.6:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: HK Kukreja
+    - 0.7:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.1:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 1.2:
+        non_striker: A Kaul
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.3:
+        non_striker: A Kaul
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.4:
+        non_striker: A Kaul
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.5:
+        non_striker: A Kaul
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 1.6:
+        non_striker: A Kaul
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 2.1:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 2.2:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 2.3:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 2.4:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 2.5:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 2.6:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 3.1:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Aman Desai
+            out: A Kaul
+            reason: injury
+            role: batter
+        batsman: Aman Desai
+    - 3.2:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 3.3:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 3.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 3.5:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 3.6:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 4.1:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 4.2:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 4.3:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 4.4:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 4.5:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 4.6:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 4.7:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 5.1:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 5.2:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 5.3:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 5.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 5.5:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 5.6:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 6.1:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 6.2:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 6.3:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 6.4:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 6.5:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 6.6:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 7.1:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 7.2:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 7.3:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 7.4:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 7.5:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 7.6:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 8.1:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 8.2:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Kukreja
+    - 8.3:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 8.4:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 8.5:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 8.6:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 8.7:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 9.1:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 9.2:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 9.3:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 9.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 9.5:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 9.6:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 10.1:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.2:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.3:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 10.4:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 10.5:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 10.6:
+        non_striker: HK Kukreja
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 11.1:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 11.2:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 11.3:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 11.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 11.5:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 11.6:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 12.1:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 12.2:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 12.3:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 12.4:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 12.5:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 12.6:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 13.1:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 13.2:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 13.3:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 13.4:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 13.5:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 13.6:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 14.1:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 14.2:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 14.3:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 14.4:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 14.5:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Kukreja
+    - 14.6:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 15.1:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 15.2:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 15.3:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 15.4:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 15.5:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 15.6:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 16.1:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 16.2:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 16.3:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 16.4:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 16.5:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 16.6:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 17.1:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 17.2:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 17.3:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 17.4:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 17.5:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 17.6:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 18.1:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 18.2:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Kukreja
+    - 18.3:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 18.4:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 18.5:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 18.6:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 19.1:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 19.2:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 19.3:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 19.4:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 19.5:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 19.6:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 20.1:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 20.2:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 20.3:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 20.4:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 20.5:
+        non_striker: HK Kukreja
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 20.6:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 21.1:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 21.2:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 21.3:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 21.4:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 21.5:
+        non_striker: Aman Desai
+        bowler: AR Ramjani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HK Kukreja
+    - 21.6:
+        non_striker: HK Kukreja
+        bowler: AR Ramjani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Aman Desai
+    - 22.1:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 22.2:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 22.3:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 22.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Kukreja
+    - 22.5:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 22.6:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 23.1:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 23.2:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Kukreja
+    - 23.3:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 23.4:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 23.5:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 23.6:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 24.1:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 24.2:
+        non_striker: HK Kukreja
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: HK Kukreja
+          fielders:
+          - Riazat Ali Shah
+          kind: run out
+    - 24.3:
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kaul
+        batsman: Aman Desai
+    - 24.4:
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Kaul
+        batsman: Aman Desai
+    - 24.5:
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kaul
+        batsman: Aman Desai
+    - 24.6:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 25.1:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 25.2:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 25.3:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 25.4:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 25.5:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 25.6:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 26.1:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 26.2:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 26.3:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 26.4:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 26.5:
+        non_striker: Aman Desai
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 26.6:
+        non_striker: A Kaul
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 27.1:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 27.2:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 27.3:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 27.4:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 27.5:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 27.6:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 28.1:
+        non_striker: Aman Desai
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 28.2:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 28.3:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 28.4:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 28.5:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 28.6:
+        non_striker: A Kaul
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 29.1:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 29.2:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 29.3:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 29.4:
+        non_striker: Aman Desai
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 29.5:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 29.6:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 30.1:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 30.2:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 30.3:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 30.4:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 30.5:
+        non_striker: Aman Desai
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 30.6:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - Raghav Dhawan
+          kind: caught
+    - 31.1:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manpreet Singh
+        batsman: A Kaul
+    - 31.2:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 31.3:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 31.4:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 31.5:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 31.6:
+        non_striker: A Kaul
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          kind: bowled
+    - 32.1:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IP Swaney
+        batsman: A Kaul
+    - 32.2:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IP Swaney
+        batsman: A Kaul
+    - 32.3:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 32.4:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 32.5:
+        non_striker: A Kaul
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 32.6:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: A Kaul
+    - 33.1:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 33.2:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+        wicket:
+          player_out: A Kaul
+          kind: bowled
+    - 33.3:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 33.4:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 33.5:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 33.6:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 34.1:
+        non_striker: Janak Prakash
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 34.2:
+        non_striker: Janak Prakash
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IP Swaney
+    - 34.3:
+        non_striker: Janak Prakash
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 34.4:
+        non_striker: IP Swaney
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 34.5:
+        non_striker: IP Swaney
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 34.6:
+        non_striker: IP Swaney
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 35.1:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 35.2:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 35.3:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 35.4:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 35.5:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IP Swaney
+    - 35.6:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 35.7:
+        non_striker: Janak Prakash
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IP Swaney
+    - 36.1:
+        non_striker: IP Swaney
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 36.2:
+        non_striker: Janak Prakash
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 36.3:
+        non_striker: Janak Prakash
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 36.4:
+        non_striker: Janak Prakash
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 36.5:
+        non_striker: Janak Prakash
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 36.6:
+        non_striker: Janak Prakash
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 37.1:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 37.2:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+        wicket:
+          player_out: Janak Prakash
+          fielders:
+          - F Achelam
+          kind: stumped
+    - 37.3:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 37.4:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 37.5:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 37.6:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 38.1:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 38.2:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 38.3:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 38.4:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 38.5:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IP Swaney
+    - 38.6:
+        non_striker: A Chaudhary
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 39.1:
+        non_striker: IP Swaney
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 39.2:
+        non_striker: A Chaudhary
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 39.3:
+        non_striker: IP Swaney
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chaudhary
+    - 39.4:
+        non_striker: IP Swaney
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 39.5:
+        non_striker: A Chaudhary
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 39.6:
+        non_striker: IP Swaney
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 40.1:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Chaudhary
+    - 40.2:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chaudhary
+    - 40.3:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 40.4:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 40.5:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 40.6:
+        non_striker: A Chaudhary
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 40.7:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 41.1:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 41.2:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 41.3:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 41.4:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 41.5:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chaudhary
+    - 41.6:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 42.1:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 42.2:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 42.3:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IP Swaney
+    - 42.4:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 42.5:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 42.6:
+        non_striker: A Chaudhary
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 43.1:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 43.2:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+    - 43.3:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Chaudhary
+    - 43.4:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 43.5:
+        non_striker: A Chaudhary
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 43.6:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chaudhary
+    - 44.1:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chaudhary
+    - 44.2:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chaudhary
+        wicket:
+          player_out: A Chaudhary
+          fielders:
+          - F Achelam
+          kind: caught
+    - 44.3:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 44.4:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Sharma
+    - 44.5:
+        non_striker: IP Swaney
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Sharma
+    - 44.6:
+        non_striker: R Sharma
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 45.1:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+        wicket:
+          player_out: R Sharma
+          kind: bowled
+    - 45.2:
+        non_striker: IP Swaney
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Baskaran
+    - 45.3:
+        non_striker: V Baskaran
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 45.4:
+        non_striker: V Baskaran
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 45.5:
+        non_striker: V Baskaran
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 45.6:
+        non_striker: V Baskaran
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IP Swaney
+    - 46.1:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Baskaran
+    - 46.2:
+        non_striker: V Baskaran
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 46.3:
+        non_striker: V Baskaran
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 46.4:
+        non_striker: V Baskaran
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 46.5:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Baskaran
+    - 46.6:
+        non_striker: V Baskaran
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 47.1:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Baskaran
+    - 47.2:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Baskaran
+    - 47.3:
+        non_striker: V Baskaran
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IP Swaney
+    - 47.4:
+        non_striker: V Baskaran
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 47.5:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Baskaran
+    - 47.6:
+        non_striker: IP Swaney
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Baskaran
+        wicket:
+          player_out: V Baskaran
+          kind: bowled
+    - 48.1:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PSRK Sudarshan
+        batsman: IP Swaney
+    - 48.2:
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PSRK Sudarshan
+        batsman: IP Swaney
+    - 48.3:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSRK Sudarshan
+    - 48.4:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSRK Sudarshan
+        wicket:
+          player_out: PSRK Sudarshan
+          fielders:
+          - F Achelam
+          kind: run out
+    - 48.5:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 48.6:
+        non_striker: IP Swaney
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 49.1:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 49.2:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IP Swaney
+    - 49.3:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IP Swaney
+    - 49.4:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 49.5:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 49.6:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 49.7:
+        non_striker: H Bharadwaj
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: IP Swaney
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.2:
+        bowler: V Baskaran
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.3:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.4:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.5:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.6:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SG Mangela
+        batsman: R Obuya
+    - 0.7:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 1.1:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 1.2:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 1.3:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 1.4:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 1.5:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 1.6:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 1.7:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 2.1:
+        non_striker: R Obuya
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 2.2:
+        non_striker: R Obuya
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 2.3:
+        non_striker: R Obuya
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 2.4:
+        non_striker: R Obuya
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 2.5:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Obuya
+    - 2.6:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 3.1:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 3.2:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 3.3:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Obuya
+    - 3.4:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: R Obuya
+    - 3.5:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 3.6:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 3.7:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 3.8:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 4.1:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Obuya
+    - 4.2:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 4.3:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 4.4:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 4.5:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 4.6:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Obuya
+    - 4.7:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Obuya
+    - 4.8:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 5.1:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.2:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.3:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.4:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.5:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 5.6:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 6.1:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 6.2:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 6.3:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 6.4:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 6.5:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 6.6:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 7.1:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 7.2:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 7.3:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 7.4:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 7.5:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 7.6:
+        non_striker: SG Mangela
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 8.1:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 8.2:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 8.3:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 8.4:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Obuya
+    - 8.5:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 8.6:
+        non_striker: R Obuya
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 8.7:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Obuya
+    - 8.8:
+        non_striker: SG Mangela
+        bowler: V Baskaran
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: R Obuya
+    - 9.1:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 9.2:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 9.3:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 9.4:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 9.5:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 9.6:
+        non_striker: R Obuya
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 10.1:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 10.2:
+        non_striker: R Obuya
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 10.3:
+        non_striker: R Obuya
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 10.4:
+        non_striker: R Obuya
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 10.5:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Obuya
+    - 10.6:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 10.7:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 11.1:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 11.2:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 11.3:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 11.4:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 11.5:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Obuya
+    - 11.6:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 12.1:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 12.2:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 12.3:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 12.4:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 12.5:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 12.6:
+        non_striker: R Obuya
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 13.1:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 13.2:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 13.3:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Obuya
+    - 13.4:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 13.5:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 13.6:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 13.7:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 14.1:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Obuya
+    - 14.2:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 14.3:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 14.4:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 14.5:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 14.6:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+    - 15.1:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 15.2:
+        non_striker: R Obuya
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 15.3:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Obuya
+        wicket:
+          player_out: R Obuya
+          kind: lbw
+    - 15.4:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 15.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 15.6:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 16.1:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raghav Dhawan
+    - 16.2:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 16.3:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 16.4:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 16.5:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 16.6:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 17.1:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 17.2:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 17.3:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 17.4:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 17.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 17.6:
+        non_striker: SG Mangela
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 18.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 18.2:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 18.3:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 18.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 18.5:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 18.6:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 19.1:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 19.2:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 19.3:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 19.4:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raghav Dhawan
+    - 19.5:
+        non_striker: SG Mangela
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 19.6:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Mangela
+    - 20.1:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 20.2:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 20.3:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 20.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 20.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 20.6:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SG Mangela
+    - 21.1:
+        non_striker: SG Mangela
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 21.2:
+        non_striker: SG Mangela
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 21.3:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Mangela
+    - 21.4:
+        non_striker: SG Mangela
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 21.5:
+        non_striker: SG Mangela
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 21.6:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Mangela
+    - 21.7:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 22.1:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 22.2:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 22.3:
+        non_striker: SG Mangela
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 22.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+    - 22.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Mangela
+        wicket:
+          player_out: SG Mangela
+          kind: bowled
+    - 22.6:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 23.1:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 23.2:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 23.3:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 23.4:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 23.5:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 23.6:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 24.1:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 24.2:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 24.3:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 24.4:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 24.5:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 24.6:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 25.1:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 25.2:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 25.3:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 25.4:
+        non_striker: Raghav Dhawan
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 25.5:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 25.6:
+        non_striker: AR Ramjani
+        bowler: A Chaudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raghav Dhawan
+    - 26.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 26.2:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 26.3:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 26.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 26.5:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 26.6:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 27.1:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 27.2:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 27.3:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 27.4:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 27.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 27.6:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 28.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Ramjani
+    - 28.2:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 28.3:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Raghav Dhawan
+    - 28.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 28.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 28.6:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 28.7:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 29.1:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 29.2:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 29.3:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 29.4:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 29.5:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 29.6:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 30.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 30.2:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 30.3:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 30.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 30.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 30.6:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 31.1:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 31.2:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 31.3:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 31.4:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Raghav Dhawan
+    - 31.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 31.6:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 31.7:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 32.1:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 32.2:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Ramjani
+    - 32.3:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 32.4:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 32.5:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 32.6:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 32.7:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 33.1:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 33.2:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 33.3:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 33.4:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 33.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 33.6:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 33.7:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 34.1:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 34.2:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 34.3:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 34.4:
+        non_striker: Raghav Dhawan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 34.5:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 34.6:
+        non_striker: AR Ramjani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raghav Dhawan
+    - 35.1:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 35.2:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 35.3:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 35.4:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 35.5:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 35.6:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 35.7:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 36.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 36.2:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 36.3:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 36.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 36.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 36.6:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 36.7:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 37.1:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 37.2:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 37.3:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 37.4:
+        non_striker: Raghav Dhawan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 37.5:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 37.6:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raghav Dhawan
+    - 37.7:
+        non_striker: AR Ramjani
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Raghav Dhawan
+    - 38.1:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 38.2:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 38.3:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 38.4:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 38.5:
+        non_striker: Raghav Dhawan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 38.6:
+        non_striker: AR Ramjani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Raghav Dhawan
+    - 39.1:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Ramjani
+    - 39.2:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raghav Dhawan
+    - 39.3:
+        non_striker: AR Ramjani
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raghav Dhawan
+    - 39.4:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 39.5:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 39.6:
+        non_striker: Raghav Dhawan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 40.1:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 40.2:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Ramjani
+    - 40.3:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 40.4:
+        non_striker: Raghav Dhawan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani

@@ -1,0 +1,2041 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2025-05-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Tamil Union Cricket and Athletic Club
+    by:
+      runs: 6
+    method: D/L
+  overs: 20
+  players:
+    Tamil Union Cricket and Athletic Club:
+    - Mohamed Shamaz
+    - Sineth Jayawardena
+    - M Bhanuka
+    - S Shanmuganathan
+    - STS Senarathne
+    - S Jayathilake
+    - KTH Ratnayake
+    - V Viyaskanth
+    - SMLD Samarakoon
+    - K Dilhara
+    - T Vithushan
+    Police Sports Club:
+    - Vishad Randika
+    - N Balasooriya
+    - PARP Perera
+    - D Induwara
+    - KNA Bandara
+    - R Hirushan
+    - DS Thilakaratne
+    - NN Fernando
+    - Ishira Ayupala
+    - D Kappagoda
+    - WACP Wijelath
+  registry:
+    people:
+      D Induwara: 7f280989
+      D Kappagoda: c10f9b62
+      DS Thilakaratne: a2198010
+      Ishira Ayupala: ad9e5bcb
+      K Dilhara: 52bf4a58
+      KNA Bandara: 585dda5d
+      KTH Ratnayake: 4eb02f2e
+      M Bhanuka: 684d21d7
+      Mohamed Shamaz: 93b6157d
+      N Balasooriya: e57312fb
+      NN Fernando: bd386d09
+      PARP Perera: 5f75a7c5
+      PSR Fonseka: 8fd2cea5
+      R Dulsiri: a7d3d23c
+      R Hirushan: aa9980cb
+      RA Kottahachchi: 808f2939
+      S Jayathilake: 6ba6ca1f
+      S Shanmuganathan: 50ed826d
+      SMLD Samarakoon: d28f4d1c
+      STS Senarathne: cbafbb70
+      Sineth Jayawardena: e4bf3570
+      T Vithushan: 748f1901
+      THR Priyantha: 33f2a901
+      V Viyaskanth: 03a83c50
+      Vishad Randika: 7075624e
+      WACP Wijelath: b7e98f01
+  teams:
+  - Tamil Union Cricket and Athletic Club
+  - Police Sports Club
+  toss:
+    winner: Tamil Union Cricket and Athletic Club
+    decision: bat
+  umpires:
+  - R Dulsiri
+  - RA Kottahachchi
+  venue: Colts Cricket Club Ground, Colombo
+innings:
+- 1st innings:
+    team: Tamil Union Cricket and Athletic Club
+    deliveries:
+    - 0.1:
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sineth Jayawardena
+        batsman: Mohamed Shamaz
+    - 0.2:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sineth Jayawardena
+    - 0.3:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sineth Jayawardena
+    - 0.4:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sineth Jayawardena
+    - 0.5:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sineth Jayawardena
+    - 0.6:
+        non_striker: Sineth Jayawardena
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 0.7:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sineth Jayawardena
+        wicket:
+          player_out: Sineth Jayawardena
+          fielders:
+          - PARP Perera
+          kind: caught
+    - 1.1:
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Bhanuka
+        batsman: Mohamed Shamaz
+    - 1.2:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhanuka
+    - 1.3:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhanuka
+    - 1.4:
+        non_striker: M Bhanuka
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 1.5:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhanuka
+    - 1.6:
+        non_striker: M Bhanuka
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shamaz
+    - 2.1:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bhanuka
+    - 2.2:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhanuka
+    - 2.3:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhanuka
+    - 2.4:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhanuka
+        wicket:
+          player_out: M Bhanuka
+          kind: lbw
+    - 2.5:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 2.6:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 2.7:
+        non_striker: Mohamed Shamaz
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 3.1:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shamaz
+    - 3.2:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 3.3:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 3.4:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohamed Shamaz
+    - 3.5:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 3.6:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Shamaz
+    - 4.1:
+        non_striker: Mohamed Shamaz
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 4.2:
+        non_striker: Mohamed Shamaz
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 4.3:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohamed Shamaz
+    - 4.4:
+        non_striker: Mohamed Shamaz
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 4.5:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Shamaz
+    - 4.6:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 5.1:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 5.2:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 5.3:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 5.4:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shanmuganathan
+    - 5.5:
+        non_striker: Mohamed Shamaz
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 5.6:
+        non_striker: S Shanmuganathan
+        bowler: Ishira Ayupala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+    - 6.1:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Shamaz
+        wicket:
+          player_out: Mohamed Shamaz
+          fielders:
+          - Ishira Ayupala
+          kind: run out
+    - 6.2:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STS Senarathne
+    - 6.3:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STS Senarathne
+    - 6.4:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STS Senarathne
+        wicket:
+          player_out: STS Senarathne
+          kind: caught and bowled
+    - 6.5:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 6.6:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 7.1:
+        non_striker: S Jayathilake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 7.2:
+        non_striker: S Jayathilake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 7.3:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Jayathilake
+    - 7.4:
+        non_striker: S Jayathilake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 7.5:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jayathilake
+    - 7.6:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 8.1:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 8.2:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 8.3:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 8.4:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 8.5:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 8.6:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Shanmuganathan
+    - 9.1:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 9.2:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 9.3:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 9.4:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 9.5:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 9.6:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 10.1:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 10.2:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 10.3:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 10.4:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 10.5:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+    - 10.6:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 11.1:
+        non_striker: S Shanmuganathan
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jayathilake
+    - 11.2:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 11.3:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 11.4:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 11.5:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 11.6:
+        non_striker: S Jayathilake
+        bowler: NN Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 12.1:
+        non_striker: S Jayathilake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 12.2:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+        wicket:
+          player_out: S Jayathilake
+          kind: lbw
+    - 12.3:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTH Ratnayake
+    - 12.4:
+        non_striker: KTH Ratnayake
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 12.5:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KTH Ratnayake
+    - 12.6:
+        non_striker: S Shanmuganathan
+        bowler: DS Thilakaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTH Ratnayake
+    - 13.1:
+        non_striker: KTH Ratnayake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 13.2:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KTH Ratnayake
+    - 13.3:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KTH Ratnayake
+    - 13.4:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTH Ratnayake
+    - 13.5:
+        non_striker: KTH Ratnayake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 13.6:
+        non_striker: KTH Ratnayake
+        bowler: D Kappagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Shanmuganathan
+    - 13.7:
+        non_striker: KTH Ratnayake
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 14.1:
+        non_striker: KTH Ratnayake
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+    - 14.2:
+        non_striker: KTH Ratnayake
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 14.3:
+        non_striker: S Shanmuganathan
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTH Ratnayake
+        wicket:
+          player_out: KTH Ratnayake
+          fielders:
+          - WACP Wijelath
+          kind: caught
+    - 14.4:
+        non_striker: S Shanmuganathan
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 14.5:
+        non_striker: S Shanmuganathan
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 14.6:
+        non_striker: V Viyaskanth
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 15.1:
+        non_striker: V Viyaskanth
+        bowler: D Kappagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Shanmuganathan
+    - 15.2:
+        non_striker: V Viyaskanth
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 15.3:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 15.4:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 15.5:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 15.6:
+        non_striker: V Viyaskanth
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 15.7:
+        non_striker: S Shanmuganathan
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Viyaskanth
+    - 16.1:
+        non_striker: V Viyaskanth
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shanmuganathan
+    - 16.2:
+        non_striker: V Viyaskanth
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+        wicket:
+          player_out: V Viyaskanth
+          fielders:
+          - WACP Wijelath
+          kind: run out
+    - 16.3:
+        non_striker: S Shanmuganathan
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMLD Samarakoon
+    - 16.4:
+        non_striker: S Shanmuganathan
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SMLD Samarakoon
+    - 16.5:
+        non_striker: SMLD Samarakoon
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shanmuganathan
+    - 16.6:
+        non_striker: S Shanmuganathan
+        bowler: WACP Wijelath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SMLD Samarakoon
+    - 17.1:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shanmuganathan
+    - 17.2:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shanmuganathan
+        wicket:
+          player_out: S Shanmuganathan
+          kind: lbw
+    - 17.3:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dilhara
+    - 17.4:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dilhara
+    - 17.5:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Dilhara
+    - 17.6:
+        non_striker: SMLD Samarakoon
+        bowler: D Kappagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dilhara
+    - 18.1:
+        non_striker: K Dilhara
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMLD Samarakoon
+    - 18.2:
+        non_striker: K Dilhara
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SMLD Samarakoon
+        wicket:
+          player_out: SMLD Samarakoon
+          fielders:
+          - KNA Bandara
+          kind: caught
+    - 18.3:
+        non_striker: K Dilhara
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Vithushan
+    - 18.4:
+        non_striker: K Dilhara
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Vithushan
+    - 18.5:
+        non_striker: T Vithushan
+        bowler: N Balasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dilhara
+        wicket:
+          player_out: T Vithushan
+          fielders:
+          - N Balasooriya
+          - D Induwara
+          kind: run out
+- 2nd innings:
+    team: Police Sports Club
+    deliveries:
+    - 0.1:
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Balasooriya
+        batsman: Vishad Randika
+    - 0.2:
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Balasooriya
+        batsman: Vishad Randika
+    - 0.3:
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Balasooriya
+        batsman: Vishad Randika
+    - 0.4:
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Balasooriya
+        batsman: Vishad Randika
+    - 0.5:
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Balasooriya
+        batsman: Vishad Randika
+    - 0.6:
+        non_striker: N Balasooriya
+        bowler: SMLD Samarakoon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Vishad Randika
+    - 1.1:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Balasooriya
+    - 1.2:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Balasooriya
+    - 1.3:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Balasooriya
+        wicket:
+          player_out: N Balasooriya
+          fielders:
+          - M Bhanuka
+          - S Jayathilake
+          kind: run out
+    - 1.4:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 1.5:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 1.6:
+        non_striker: Vishad Randika
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 2.1:
+        non_striker: PARP Perera
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishad Randika
+    - 2.2:
+        non_striker: Vishad Randika
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 2.3:
+        non_striker: Vishad Randika
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PARP Perera
+    - 2.4:
+        non_striker: Vishad Randika
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 2.5:
+        non_striker: PARP Perera
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vishad Randika
+    - 2.6:
+        non_striker: Vishad Randika
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 3.1:
+        non_striker: Vishad Randika
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 3.2:
+        non_striker: PARP Perera
+        bowler: T Vithushan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Vishad Randika
+    - 3.3:
+        non_striker: PARP Perera
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Vishad Randika
+    - 3.4:
+        non_striker: PARP Perera
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vishad Randika
+        wicket:
+          player_out: Vishad Randika
+          fielders:
+          - STS Senarathne
+          kind: caught
+    - 3.5:
+        non_striker: PARP Perera
+        bowler: T Vithushan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Induwara
+    - 3.6:
+        non_striker: PARP Perera
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 3.7:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 4.1:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 4.2:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 4.3:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+        wicket:
+          player_out: PARP Perera
+          kind: bowled
+    - 4.4:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 4.5:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 4.6:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KNA Bandara
+    - 5.1:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 5.2:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 5.3:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 5.4:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Induwara
+    - 5.5:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 5.6:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 6.1:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 6.2:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 6.3:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 6.4:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 6.5:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 6.6:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 7.1:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 7.2:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 7.3:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 7.4:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 7.5:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 7.6:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 8.1:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 8.2:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.3:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.4:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.5:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 8.6:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 9.1:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 9.2:
+        non_striker: KNA Bandara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 9.3:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 9.4:
+        non_striker: KNA Bandara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 9.5:
+        non_striker: D Induwara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 9.6:
+        non_striker: KNA Bandara
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 10.1:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 10.2:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 10.3:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 10.4:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 10.5:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 10.6:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 11.1:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 11.2:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 11.3:
+        non_striker: KNA Bandara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Induwara
+    - 11.4:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+        wicket:
+          player_out: KNA Bandara
+          fielders:
+          - V Viyaskanth
+          kind: caught
+    - 11.5:
+        non_striker: D Induwara
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hirushan
+    - 11.6:
+        non_striker: R Hirushan
+        bowler: T Vithushan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+    - 12.1:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Hirushan
+    - 12.2:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Hirushan
+    - 12.3:
+        non_striker: D Induwara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hirushan
+    - 12.4:
+        non_striker: R Hirushan
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Induwara
+        wicket:
+          player_out: D Induwara
+          fielders:
+          - M Bhanuka
+          - KTH Ratnayake
+          kind: run out
+    - 12.5:
+        non_striker: R Hirushan
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+    - 12.6:
+        non_striker: R Hirushan
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Thilakaratne
+    - 13.1:
+        non_striker: R Hirushan
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Thilakaratne
+    - 13.2:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hirushan
+    - 13.3:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hirushan
+    - 13.4:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Hirushan
+    - 13.5:
+        non_striker: R Hirushan
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Thilakaratne
+    - 13.6:
+        non_striker: R Hirushan
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+    - 14.1:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hirushan
+    - 14.2:
+        non_striker: R Hirushan
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Thilakaratne
+    - 14.3:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hirushan
+        wicket:
+          player_out: R Hirushan
+          kind: lbw
+    - 14.4:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Fernando
+    - 14.5:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Fernando
+    - 14.6:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Fernando
+    - 15.1:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Fernando
+    - 15.2:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NN Fernando
+    - 15.3:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Fernando
+    - 15.4:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Fernando
+    - 15.5:
+        non_striker: DS Thilakaratne
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Fernando
+    - 15.6:
+        non_striker: NN Fernando
+        bowler: K Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+    - 16.1:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NN Fernando
+    - 16.2:
+        non_striker: NN Fernando
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+    - 16.3:
+        non_striker: NN Fernando
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+    - 16.4:
+        non_striker: NN Fernando
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Thilakaratne
+        wicket:
+          player_out: NN Fernando
+          fielders:
+          - Mohamed Shamaz
+          - M Bhanuka
+          kind: run out
+    - 16.5:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+    - 16.6:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+    - 16.7:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+    - 17.1:
+        non_striker: Ishira Ayupala
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Thilakaratne
+    - 17.2:
+        non_striker: DS Thilakaratne
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+    - 17.3:
+        non_striker: DS Thilakaratne
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishira Ayupala
+    - 17.4:
+        non_striker: DS Thilakaratne
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishira Ayupala
+    - 17.5:
+        non_striker: DS Thilakaratne
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+    - 17.6:
+        non_striker: DS Thilakaratne
+        bowler: KTH Ratnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishira Ayupala
+        wicket:
+          player_out: Ishira Ayupala
+          fielders:
+          - STS Senarathne
+          kind: caught
+    - 18.1:
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Kappagoda
+        batsman: DS Thilakaratne
+    - 18.2:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kappagoda
+        wicket:
+          player_out: D Kappagoda
+          kind: lbw
+    - 18.3:
+        non_striker: DS Thilakaratne
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WACP Wijelath
+        wicket:
+          player_out: WACP Wijelath
+          kind: bowled

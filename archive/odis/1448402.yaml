@@ -1,0 +1,5069 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2025-07-16'
+  gender: female
+  match_type: ODI
+  match_type_number: 1472
+  outcome:
+    winner: India
+    by:
+      wickets: 4
+  overs: 50
+  player_of_match:
+  - DB Sharma
+  players:
+    England:
+    - TT Beaumont
+    - AE Jones
+    - EL Lamb
+    - NR Sciver-Brunt
+    - SIR Dunkley
+    - AN Davidson-Richards
+    - S Ecclestone
+    - CE Dean
+    - KL Cross
+    - L Filer
+    - LK Bell
+    India:
+    - Pratika Rawal
+    - S Mandhana
+    - H Deol
+    - H Kaur
+    - JI Rodrigues
+    - DB Sharma
+    - RM Ghosh
+    - AB Kaur
+    - S Rana
+    - N Shree Charani
+    - K Goud
+  registry:
+    people:
+      AB Kaur: 9565fda6
+      AE Jones: b05e45e4
+      AN Davidson-Richards: 35828bdd
+      AY Harris: 90d95b82
+      CE Dean: c6625a26
+      DB Sharma: 201fef33
+      EL Lamb: '02181d9a'
+      H Deol: 3664712e
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      JM Williams: b61d9d70
+      K Goud: 4d622fee
+      KL Cross: 1ade138e
+      L Filer: 31adb911
+      LK Bell: 38b4583c
+      N Shree Charani: 583ce32c
+      NR Sciver-Brunt: f3a18a0c
+      Pratika Rawal: 45a13dcf
+      RM Ghosh: 721e0199
+      Rob White: 59b91222
+      S Ecclestone: cdb82f1c
+      S Mandhana: 5d2eda89
+      S Rana: c4c374d9
+      S Redfern: 5b038989
+      SIR Dunkley: 3a9e9cb2
+      SM Bartlett: 7ba18406
+      TT Beaumont: b2664905
+  teams:
+  - England
+  - India
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - JM Williams
+  - S Redfern
+  venue: The Rose Bowl, Southampton
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: AE Jones
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Jones
+    - 0.3:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 0.4:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 0.7:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 1.1:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 1.2:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Jones
+    - 1.3:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Jones
+    - 1.4:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Jones
+    - 1.5:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          kind: bowled
+    - 1.6:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 1.7:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Lamb
+    - 1.8:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.9:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 1.10:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.1:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 2.2:
+        non_striker: TT Beaumont
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: EL Lamb
+    - 2.3:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.4:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 2.5:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.6:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.1:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.2:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 3.3:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.4:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 3.6:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          kind: lbw
+    - 4.1:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.2:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.3:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Lamb
+    - 4.4:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 4.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 4.7:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 5.1:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 5.2:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 5.3:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 5.4:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 5.5:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 5.6:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 6.1:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 6.2:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 6.3:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 6.4:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 6.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 7.1:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 7.2:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 7.3:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Lamb
+    - 7.4:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 7.5:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 7.6:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 7.7:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 8.1:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 8.2:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 8.3:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 8.4:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 8.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 8.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 9.1:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 9.2:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 9.3:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 9.4:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 9.5:
+        non_striker: EL Lamb
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 9.6:
+        non_striker: NR Sciver-Brunt
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 10.1:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 10.2:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 10.3:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 10.4:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver-Brunt
+    - 10.5:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 10.6:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 11.1:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 11.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 11.3:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 11.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 11.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 11.6:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 12.1:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 12.2:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 12.3:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 12.4:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Sciver-Brunt
+    - 12.5:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 12.6:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.1:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.2:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 13.3:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.4:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 13.5:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 13.6:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 14.1:
+        non_striker: EL Lamb
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 14.2:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Lamb
+    - 14.3:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 14.4:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 14.5:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 14.6:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 14.7:
+        non_striker: NR Sciver-Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 15.1:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.2:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.3:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.4:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 15.5:
+        non_striker: NR Sciver-Brunt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 15.6:
+        non_striker: EL Lamb
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 16.1:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EL Lamb
+    - 16.2:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 16.3:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 16.4:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 16.5:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 16.6:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.1:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 17.2:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.3:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.4:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.5:
+        non_striker: EL Lamb
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 17.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 18.1:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 18.2:
+        non_striker: EL Lamb
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 18.3:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          fielders:
+          - H Kaur
+          kind: caught
+    - 18.4:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 18.5:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 18.6:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 18.7:
+        non_striker: NR Sciver-Brunt
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 19.1:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 19.2:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 19.3:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 19.4:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 19.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 19.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 20.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+        wicket:
+          player_out: NR Sciver-Brunt
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 20.2:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 20.3:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 20.4:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 20.5:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 20.6:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 21.1:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 21.2:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 21.3:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 21.4:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 21.5:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 21.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 22.1:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 22.2:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 22.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 22.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 22.5:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 22.6:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 23.1:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 23.2:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 23.3:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SIR Dunkley
+    - 23.4:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 23.5:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 23.6:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 24.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 24.2:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 24.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 24.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 24.5:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 24.6:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 25.1:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 25.2:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 25.3:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 25.4:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 25.5:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 25.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 26.1:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 26.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Davidson-Richards
+    - 26.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 26.4:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 26.5:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 26.6:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 27.1:
+        non_striker: SIR Dunkley
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 27.2:
+        non_striker: AN Davidson-Richards
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 27.3:
+        non_striker: AN Davidson-Richards
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 27.4:
+        non_striker: AN Davidson-Richards
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 27.5:
+        non_striker: AN Davidson-Richards
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 27.6:
+        non_striker: SIR Dunkley
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 28.1:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 28.2:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 28.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 28.4:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 28.5:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 28.6:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 29.1:
+        non_striker: AN Davidson-Richards
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 29.2:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 29.3:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 29.4:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 29.5:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 29.6:
+        non_striker: AN Davidson-Richards
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 30.1:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 30.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 30.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 30.4:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 30.5:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 30.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 31.1:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Davidson-Richards
+    - 31.2:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 31.3:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 31.4:
+        non_striker: AN Davidson-Richards
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 31.5:
+        non_striker: AN Davidson-Richards
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 31.6:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 31.7:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 32.1:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 32.2:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 32.3:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 32.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 32.5:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 32.6:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 33.1:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 33.2:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 33.3:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 33.4:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 33.5:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 33.6:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 34.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 34.2:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 34.3:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 34.4:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 34.5:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 34.6:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 35.1:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 35.2:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 35.3:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 35.4:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 35.5:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 35.6:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 36.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 36.2:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 36.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 36.4:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 36.5:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 36.6:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 37.1:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 37.2:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 37.3:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 37.4:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 37.5:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 37.6:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 38.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 38.2:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 38.3:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 38.4:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 38.5:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 38.6:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 39.1:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 39.2:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 39.3:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 39.4:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 39.5:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 39.6:
+        non_striker: AN Davidson-Richards
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 40.1:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 40.2:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 40.3:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 40.4:
+        non_striker: SIR Dunkley
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 40.5:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 40.6:
+        non_striker: AN Davidson-Richards
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 41.1:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 41.2:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 41.3:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Davidson-Richards
+    - 41.4:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 41.5:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 41.6:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 42.1:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 42.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+    - 42.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 42.4:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 42.5:
+        non_striker: AN Davidson-Richards
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 42.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 43.1:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Davidson-Richards
+    - 43.2:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Davidson-Richards
+    - 43.3:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 43.4:
+        non_striker: AN Davidson-Richards
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 43.5:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Davidson-Richards
+        wicket:
+          player_out: AN Davidson-Richards
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 43.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 44.1:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 44.2:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 44.3:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 44.4:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 44.5:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 44.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 45.1:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 45.2:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 45.3:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 45.4:
+        non_striker: S Ecclestone
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 45.5:
+        non_striker: S Ecclestone
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 45.6:
+        non_striker: SIR Dunkley
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 46.1:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 46.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 46.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 46.4:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 46.5:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 46.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 47.1:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 47.2:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 47.3:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 47.4:
+        non_striker: S Ecclestone
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 47.5:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 47.6:
+        non_striker: SIR Dunkley
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 48.1:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SIR Dunkley
+    - 48.2:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 48.3:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 48.4:
+        non_striker: S Ecclestone
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 48.5:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 48.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 49.1:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 49.2:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 49.3:
+        non_striker: SIR Dunkley
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 49.4:
+        non_striker: S Ecclestone
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 49.5:
+        non_striker: S Ecclestone
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 49.6:
+        non_striker: S Ecclestone
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: bowled
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 0.7:
+        non_striker: Pratika Rawal
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 1.6:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 2.2:
+        non_striker: Pratika Rawal
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: Pratika Rawal
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: Pratika Rawal
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.1:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.4:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.7:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 4.4:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 4.5:
+        non_striker: Pratika Rawal
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 5.1:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.6:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 6.2:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.3:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.4:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.5:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.6:
+        non_striker: S Mandhana
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 7.1:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.2:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - AE Jones
+          kind: caught
+    - 8.1:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 8.2:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 8.3:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 8.4:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 8.5:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 8.6:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 8.7:
+        non_striker: H Deol
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.1:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 9.2:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 9.3:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 9.4:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 9.5:
+        non_striker: Pratika Rawal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 9.6:
+        non_striker: H Deol
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 10.1:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.2:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.3:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Deol
+    - 10.4:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 10.5:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.6:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.1:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 11.2:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 11.3:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 11.4:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.5:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.6:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.7:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 12.1:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.2:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 12.3:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.4:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.5:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.6:
+        non_striker: Pratika Rawal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 13.1:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 13.2:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 13.3:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 13.4:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 13.5:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 13.6:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 14.1:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 14.2:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 14.3:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 14.4:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 14.5:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 14.6:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 15.1:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 15.2:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 15.3:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 15.4:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 15.5:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 15.6:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 16.1:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 16.2:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 16.3:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 16.4:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 16.5:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 16.6:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 17.1:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 17.2:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 17.3:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.4:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.5:
+        non_striker: Pratika Rawal
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 17.6:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 18.1:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+        wicket:
+          player_out: Pratika Rawal
+          kind: bowled
+    - 18.2:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.3:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.4:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.5:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.6:
+        non_striker: H Deol
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 19.1:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 19.2:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 19.3:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 19.4:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 19.5:
+        non_striker: H Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 19.6:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 19.7:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 19.8:
+        non_striker: H Deol
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 20.1:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.2:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.3:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.4:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.5:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.6:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.1:
+        non_striker: H Deol
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 21.2:
+        non_striker: H Deol
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 21.3:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.4:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          fielders:
+          - AN Davidson-Richards
+          kind: run out
+    - 21.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 21.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 22.1:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 22.2:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 22.3:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 22.4:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 22.5:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 22.6:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 23.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 23.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 23.3:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 23.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 23.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 23.6:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 24.1:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 24.2:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.3:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.4:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.5:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.6:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.1:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 25.2:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 25.3:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 25.5:
+        non_striker: H Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 26.1:
+        non_striker: H Kaur
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 26.2:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 26.3:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 26.4:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 26.5:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 26.6:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 27.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          kind: lbw
+    - 27.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.3:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.5:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 27.6:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 28.1:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 28.2:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 28.3:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 28.4:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 28.5:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 28.6:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 29.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 29.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 29.3:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 29.4:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 29.5:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 29.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 30.1:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 30.2:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 30.3:
+        non_striker: JI Rodrigues
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 30.4:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 30.5:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 30.6:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 31.1:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 31.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.3:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 31.4:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 31.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.6:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 32.1:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 32.2:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 32.3:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 32.4:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 32.5:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 32.6:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 33.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 33.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 33.3:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 33.4:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 33.5:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 33.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.1:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.2:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 34.3:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.4:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.5:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 34.6:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 35.1:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.2:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 35.3:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 35.4:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 35.5:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 35.6:
+        non_striker: JI Rodrigues
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 36.1:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 36.2:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 36.3:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 36.4:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 36.5:
+        non_striker: DB Sharma
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 36.6:
+        non_striker: JI Rodrigues
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 37.1:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 37.2:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 37.3:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DB Sharma
+    - 37.4:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 37.5:
+        non_striker: DB Sharma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 37.6:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.1:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.2:
+        non_striker: DB Sharma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 38.3:
+        non_striker: DB Sharma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 38.4:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.5:
+        non_striker: DB Sharma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 38.6:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 39.1:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 39.2:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 39.3:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 39.4:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: DB Sharma
+    - 39.5:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 39.6:
+        non_striker: DB Sharma
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 39.7:
+        non_striker: JI Rodrigues
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 40.1:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 40.2:
+        non_striker: DB Sharma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 40.3:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 40.4:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 40.5:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 40.6:
+        non_striker: JI Rodrigues
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 41.1:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 41.2:
+        non_striker: JI Rodrigues
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 41.3:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - AE Jones
+          kind: caught
+    - 41.4:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 41.5:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 41.6:
+        non_striker: RM Ghosh
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 42.1:
+        non_striker: RM Ghosh
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 42.2:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 42.3:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 42.4:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 42.5:
+        non_striker: RM Ghosh
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 42.6:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 43.1:
+        non_striker: RM Ghosh
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 43.2:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 43.3:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 43.4:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 43.5:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 43.6:
+        non_striker: RM Ghosh
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 44.1:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 44.2:
+        non_striker: RM Ghosh
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 44.3:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - AE Jones
+          kind: stumped
+    - 44.4:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 44.5:
+        non_striker: AB Kaur
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 44.6:
+        non_striker: DB Sharma
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 45.1:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 45.2:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 45.3:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 45.4:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 45.5:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 45.6:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 45.7:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 45.8:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 46.1:
+        non_striker: AB Kaur
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 46.2:
+        non_striker: AB Kaur
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 46.3:
+        non_striker: AB Kaur
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 46.4:
+        non_striker: AB Kaur
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 46.5:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 46.6:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Kaur
+    - 46.7:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Kaur
+    - 47.1:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 47.2:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 47.3:
+        non_striker: AB Kaur
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 47.4:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 47.5:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 47.6:
+        non_striker: DB Sharma
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 48.1:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Kaur
+    - 48.2:
+        non_striker: DB Sharma
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Kaur

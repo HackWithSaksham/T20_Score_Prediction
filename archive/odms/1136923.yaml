@@ -1,0 +1,4013 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Eglinton
+  competition: Cricket Ireland Inter-Provincial Limited Over Cup
+  dates:
+  - '2018-07-16'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Northern Knights
+    by:
+      wickets: 2
+  overs: 50
+  players:
+    North-West Warriors:
+    - WTS Porterfield
+    - DA Rankin
+    - AP Gillespie
+    - NJ O'Brien
+    - SR Thompson
+    - AR McBrine
+    - G Kennedy
+    - R Allen
+    - CA Young
+    - D Scanlon
+    - R MacBeth
+    Northern Knights:
+    - A Dennison
+    - JA McCollum
+    - C Dougherty
+    - MP Ellison
+    - HT Tector
+    - SC Getkate
+    - MR Adair
+    - NA Rock
+    - J Mulder
+    - SM Bunting
+    - J Cameron-Dow
+  registry:
+    people:
+      A Dennison: 72b95896
+      AP Gillespie: 8b054bba
+      AR McBrine: e957b38f
+      C Dougherty: a2a0fa9a
+      CA Young: bd0a4a7d
+      D Scanlon: 51c90542
+      DA Rankin: ab859427
+      G Kennedy: 574b4c01
+      G McCrea: 46f4a901
+      GN Brolly: b7e4df9e
+      HT Tector: 59ea70a4
+      J Cameron-Dow: b9a2c483
+      J Mulder: 6b64e7a3
+      JA McCollum: c7105dab
+      MP Ellison: c9e66e00
+      MR Adair: fc55ec67
+      Michael Foster: '0280a934'
+      NA Rock: 43f4087c
+      NJ O'Brien: 84826f48
+      R Allen: 415e5c01
+      R MacBeth: b4402d8a
+      SC Getkate: c8065f31
+      SM Bunting: 902b91d5
+      SR Thompson: 7f3ad1ed
+      WTS Porterfield: ec02b798
+  teams:
+  - North-West Warriors
+  - Northern Knights
+  toss:
+    winner: North-West Warriors
+    decision: bat
+  umpires:
+  - GN Brolly
+  - Michael Foster
+  venue: Woodvale Road, Eglinton
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Rankin
+        batsman: WTS Porterfield
+    - 0.2:
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Rankin
+        batsman: WTS Porterfield
+    - 0.3:
+        non_striker: WTS Porterfield
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 0.4:
+        non_striker: WTS Porterfield
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 0.5:
+        non_striker: WTS Porterfield
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 0.6:
+        non_striker: WTS Porterfield
+        bowler: SM Bunting
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Rankin
+    - 0.7:
+        non_striker: WTS Porterfield
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 1.1:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 1.2:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 1.3:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+        wicket:
+          player_out: WTS Porterfield
+          kind: bowled
+    - 1.4:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+        wicket:
+          player_out: AP Gillespie
+          fielders:
+          - J Cameron-Dow
+          kind: caught
+    - 1.5:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ O'Brien
+    - 1.6:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 1.7:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 2.1:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Rankin
+    - 2.2:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 2.3:
+        non_striker: DA Rankin
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 2.4:
+        non_striker: DA Rankin
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 2.5:
+        non_striker: DA Rankin
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ O'Brien
+    - 2.6:
+        non_striker: DA Rankin
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 2.7:
+        non_striker: DA Rankin
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 3.1:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 3.2:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 3.3:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 3.4:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 3.5:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 3.6:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 4.1:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 4.2:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Rankin
+    - 4.3:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 4.4:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 4.5:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 4.6:
+        non_striker: NJ O'Brien
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 5.1:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 5.2:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 5.3:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+        wicket:
+          player_out: DA Rankin
+          fielders:
+          - A Dennison
+          kind: run out
+    - 5.4:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Thompson
+        batsman: NJ O'Brien
+    - 5.5:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Thompson
+        batsman: NJ O'Brien
+    - 5.6:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 6.1:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 6.2:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 6.3:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 6.4:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ O'Brien
+    - 6.5:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 6.6:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 6.7:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 7.1:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 7.2:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 7.3:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 7.4:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 7.5:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 7.6:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 8.1:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 8.2:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ O'Brien
+    - 8.3:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ O'Brien
+    - 8.4:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 8.5:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ O'Brien
+    - 8.6:
+        non_striker: SR Thompson
+        bowler: SM Bunting
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 8.7:
+        non_striker: SR Thompson
+        bowler: A Dennison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: A Dennison
+            out: SM Bunting
+            reason: injury
+            role: bowler
+        batsman: NJ O'Brien
+    - 9.1:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 9.2:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 9.3:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 9.4:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 9.5:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          fielders:
+          - J Mulder
+          kind: caught
+    - 9.6:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 10.1:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.2:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR McBrine
+    - 10.3:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.4:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.5:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.6:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.7:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 11.1:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 11.2:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 11.3:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 11.4:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 11.5:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 11.6:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 12.1:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.2:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.3:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.4:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.5:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 12.6:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 13.1:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.2:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 13.3:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 13.4:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 13.5:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 13.6:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 14.1:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 14.2:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 14.3:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 14.4:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 14.5:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 14.6:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 15.1:
+        non_striker: AR McBrine
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 15.2:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 15.3:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 15.4:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - C Dougherty
+          kind: caught
+    - 15.5:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 15.6:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.1:
+        non_striker: G Kennedy
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 16.2:
+        non_striker: G Kennedy
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 16.3:
+        non_striker: G Kennedy
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 16.4:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.5:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.6:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 17.1:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 17.2:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 17.3:
+        non_striker: G Kennedy
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 17.4:
+        non_striker: G Kennedy
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 17.5:
+        non_striker: G Kennedy
+        bowler: JA McCollum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NJ O'Brien
+    - 17.6:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 18.1:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kennedy
+    - 18.2:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 18.3:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 18.4:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 18.5:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 18.6:
+        non_striker: NJ O'Brien
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 19.1:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 19.2:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 19.3:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 19.4:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 19.5:
+        non_striker: G Kennedy
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 19.6:
+        non_striker: NJ O'Brien
+        bowler: JA McCollum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 20.1:
+        non_striker: G Kennedy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 20.2:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 20.3:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 20.4:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 20.5:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 20.6:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kennedy
+    - 20.7:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 21.1:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 21.2:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 21.3:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ O'Brien
+    - 21.4:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ O'Brien
+    - 21.5:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 21.6:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 21.7:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 22.1:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 22.2:
+        non_striker: G Kennedy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 22.3:
+        non_striker: G Kennedy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 22.4:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 22.5:
+        non_striker: NJ O'Brien
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 22.6:
+        non_striker: G Kennedy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 23.1:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 23.2:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NJ O'Brien
+    - 23.3:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kennedy
+    - 23.4:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 23.5:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 23.6:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 24.1:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 24.2:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 24.3:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 24.4:
+        non_striker: G Kennedy
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 24.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+        wicket:
+          player_out: G Kennedy
+          fielders:
+          - NA Rock
+          kind: caught
+    - 24.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 25.1:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 25.2:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 25.3:
+        non_striker: R Allen
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 25.4:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 25.5:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 25.6:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 26.1:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 26.2:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 26.3:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 26.4:
+        non_striker: R Allen
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 26.5:
+        non_striker: R Allen
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 26.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 27.1:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 27.2:
+        non_striker: R Allen
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 27.3:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 27.4:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 27.5:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 27.6:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Allen
+    - 28.1:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 28.2:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 28.3:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+    - 28.4:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Allen
+    - 28.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Allen
+        wicket:
+          player_out: R Allen
+          kind: bowled
+    - 28.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 29.1:
+        non_striker: CA Young
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 29.2:
+        non_striker: NJ O'Brien
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 29.3:
+        non_striker: CA Young
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 29.4:
+        non_striker: CA Young
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 29.5:
+        non_striker: CA Young
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ O'Brien
+    - 29.6:
+        non_striker: CA Young
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 30.1:
+        non_striker: CA Young
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 30.2:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 30.3:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 30.4:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 30.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 30.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 31.1:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 31.2:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Young
+    - 31.3:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 31.4:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 31.5:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Young
+    - 31.6:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+        wicket:
+          player_out: CA Young
+          kind: bowled
+    - 32.1:
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Scanlon
+        batsman: NJ O'Brien
+    - 32.2:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+    - 32.3:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+    - 32.4:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+    - 32.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+    - 32.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Scanlon
+    - 33.1:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+    - 33.2:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Scanlon
+        wicket:
+          player_out: D Scanlon
+          kind: lbw
+    - 33.3:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 33.4:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R MacBeth
+    - 33.5:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ O'Brien
+    - 33.6:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 34.1:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 34.2:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 34.3:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NJ O'Brien
+    - 34.4:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 34.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 34.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 34.7:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 35.1:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 35.2:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ O'Brien
+    - 35.3:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 35.4:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 35.5:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 35.6:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 36.1:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 36.2:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 36.3:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 36.4:
+        non_striker: R MacBeth
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 36.5:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 36.6:
+        non_striker: NJ O'Brien
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 37.1:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ O'Brien
+    - 37.2:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 37.3:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ O'Brien
+    - 37.4:
+        non_striker: R MacBeth
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ O'Brien
+    - 37.5:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R MacBeth
+    - 37.6:
+        non_striker: NJ O'Brien
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R MacBeth
+        wicket:
+          player_out: R MacBeth
+          fielders:
+          - J Cameron-Dow
+          kind: run out
+- 2nd innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JA McCollum
+        batsman: A Dennison
+    - 0.2:
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JA McCollum
+        batsman: A Dennison
+    - 0.3:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA McCollum
+        batsman: A Dennison
+    - 0.4:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA McCollum
+        batsman: A Dennison
+    - 0.5:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA McCollum
+        batsman: A Dennison
+    - 0.6:
+        non_striker: A Dennison
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.7:
+        non_striker: A Dennison
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 0.8:
+        non_striker: A Dennison
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.1:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 1.2:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 1.3:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+        wicket:
+          player_out: A Dennison
+          fielders:
+          - WTS Porterfield
+          kind: caught
+    - 1.4:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 1.5:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 1.6:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Dougherty
+    - 1.7:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 2.1:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.2:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.3:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 2.4:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 2.5:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 2.6:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 3.1:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.2:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.3:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.4:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 3.5:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA McCollum
+    - 3.6:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 3.7:
+        non_striker: JA McCollum
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 4.1:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.2:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.3:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 4.4:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.5:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.6:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.1:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.2:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 5.3:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.4:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.5:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.6:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          kind: lbw
+    - 6.1:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP Ellison
+        batsman: C Dougherty
+    - 6.2:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP Ellison
+        batsman: C Dougherty
+    - 6.3:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP Ellison
+        batsman: C Dougherty
+    - 6.4:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP Ellison
+        batsman: C Dougherty
+    - 6.5:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP Ellison
+        batsman: C Dougherty
+    - 6.6:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 7.1:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 7.2:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 7.3:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 7.4:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Ellison
+    - 7.5:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 7.6:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MP Ellison
+    - 7.7:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Ellison
+    - 8.1:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 8.2:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MP Ellison
+    - 8.3:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 8.4:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 8.5:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dougherty
+    - 8.6:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 9.1:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 9.2:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 9.3:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ellison
+    - 9.4:
+        non_striker: MP Ellison
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dougherty
+    - 9.5:
+        non_striker: MP Ellison
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 9.6:
+        non_striker: MP Ellison
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 10.1:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 10.2:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 10.3:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 10.4:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 10.5:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 10.6:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Ellison
+    - 11.1:
+        non_striker: MP Ellison
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 11.2:
+        non_striker: MP Ellison
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 11.3:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 11.4:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 11.5:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Ellison
+    - 11.6:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 12.1:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dougherty
+    - 12.2:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 12.3:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 12.4:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 12.5:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Ellison
+    - 12.6:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 13.1:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 13.2:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 13.3:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 13.4:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 13.5:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 13.6:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 14.1:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Dougherty
+    - 14.2:
+        non_striker: MP Ellison
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 14.3:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 14.4:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 14.5:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 14.6:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+    - 15.1:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 15.2:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 15.3:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 15.4:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 15.5:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 15.6:
+        non_striker: MP Ellison
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 16.1:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Ellison
+        wicket:
+          player_out: MP Ellison
+          kind: caught and bowled
+    - 16.2:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.3:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.4:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.5:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 16.6:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 17.1:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 17.2:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 17.3:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 17.4:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 17.5:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dougherty
+    - 17.6:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 18.1:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 18.2:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dougherty
+    - 18.3:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 18.4:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 18.5:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 18.6:
+        non_striker: C Dougherty
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 19.1:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 19.2:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 19.3:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 19.4:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 19.5:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 19.6:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 20.1:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 20.2:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 20.3:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 20.4:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dougherty
+    - 20.5:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 20.6:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 21.1:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.2:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.3:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.4:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.5:
+        non_striker: C Dougherty
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 21.6:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 22.1:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 22.2:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.3:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.4:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 22.5:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.6:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 23.1:
+        non_striker: HT Tector
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 23.2:
+        non_striker: HT Tector
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 23.3:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 23.4:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 23.5:
+        non_striker: HT Tector
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 23.6:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 24.1:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 24.2:
+        non_striker: HT Tector
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 24.3:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - CA Young
+          kind: caught
+    - 24.4:
+        bowler: G Kennedy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: SC Getkate
+        batsman: C Dougherty
+    - 24.5:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 24.6:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 25.1:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 25.2:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 25.3:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 25.4:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 25.5:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 25.6:
+        non_striker: C Dougherty
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 26.1:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 26.2:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 26.3:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 26.4:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 26.5:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 26.6:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 27.1:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 27.2:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 27.3:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 27.4:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 27.5:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 27.6:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 28.1:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 28.2:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 28.3:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 28.4:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 28.5:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 28.6:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 29.1:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 29.2:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 29.3:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: C Dougherty
+    - 29.4:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 29.5:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 29.6:
+        non_striker: SC Getkate
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 29.7:
+        non_striker: C Dougherty
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 30.1:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dougherty
+    - 30.2:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 30.3:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dougherty
+    - 30.4:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 30.5:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 30.6:
+        non_striker: C Dougherty
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 31.1:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 31.2:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 31.3:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 31.4:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+    - 31.5:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dougherty
+        wicket:
+          player_out: C Dougherty
+          kind: lbw
+    - 31.6:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - AP Gillespie
+          kind: caught
+    - 32.1:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - NJ O'Brien
+          kind: caught
+    - 32.2:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 32.3:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 32.4:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 32.5:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 32.6:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 33.1:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 33.2:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 33.3:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 33.4:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 33.5:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 33.6:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 34.1:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 34.2:
+        non_striker: J Mulder
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 34.3:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mulder
+    - 34.4:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 34.5:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 34.6:
+        non_striker: J Mulder
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 35.1:
+        non_striker: NA Rock
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 35.2:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 35.3:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 35.4:
+        non_striker: J Mulder
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 35.5:
+        non_striker: NA Rock
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 35.6:
+        non_striker: NA Rock
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mulder
+    - 36.1:
+        non_striker: J Mulder
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 36.2:
+        non_striker: J Mulder
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 36.3:
+        non_striker: J Mulder
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 36.4:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 36.5:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 36.6:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 37.1:
+        non_striker: J Mulder
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 37.2:
+        non_striker: NA Rock
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+        wicket:
+          player_out: J Mulder
+          fielders:
+          - AR McBrine
+          kind: caught
+    - 37.3:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Bunting
+        batsman: NA Rock
+    - 37.4:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Bunting
+        batsman: NA Rock
+    - 37.5:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Bunting
+        batsman: NA Rock
+    - 37.6:
+        non_striker: NA Rock
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Bunting
+    - 38.1:
+        non_striker: SM Bunting
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 38.2:
+        non_striker: SM Bunting
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 38.3:
+        non_striker: SM Bunting
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 38.4:
+        non_striker: SM Bunting
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 38.5:
+        non_striker: NA Rock
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Bunting

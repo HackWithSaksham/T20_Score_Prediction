@@ -1,0 +1,1865 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Oakland
+  competition: Major League Cricket
+  dates:
+  - '2025-06-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Texas Super Kings
+    by:
+      runs: 93
+  overs: 20
+  player_of_match:
+  - Zia-ul-Haq
+  players:
+    Texas Super Kings:
+    - DP Conway
+    - F du Plessis
+    - SR Mukkamalla
+    - DJ Mitchell
+    - MP Stoinis
+    - CP Savage
+    - Milind Kumar
+    - Shubham Ranjane
+    - Noor Ahmad
+    - Zia-ul-Haq
+    - N Burger
+    Seattle Orcas:
+    - DA Warner
+    - KR Mayers
+    - SR Taylor
+    - Aaron Jones
+    - H Klaasen
+    - Sikandar Raza
+    - Sujit Nayak
+    - Harmeet Singh
+    - Jasdeep Singh
+    - OC McCoy
+    - Waqar Salamkheil
+  registry:
+    people:
+      Aaron Jones: 17aa4f1d
+      BV Taylor: '99760152'
+      CP Savage: a55e0360
+      DA Warner: dcce6f09
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      F du Plessis: 3355b542
+      H Klaasen: 235c2bb6
+      Harmeet Singh: 0bf15e52
+      Jasdeep Singh: 5ec41cd7
+      KR Mayers: 73c18486
+      LS Reifer: 5dee559a
+      M Erasmus: 15d3c895
+      MP Stoinis: d9273ee7
+      Milind Kumar: b4296080
+      N Burger: 465aa633
+      Noor Ahmad: efc04be7
+      OC McCoy: 529eb9e0
+      R Samuels: 8a8bc9f6
+      Reon King: 20fbf68c
+      SR Mukkamalla: 156d0ea2
+      SR Taylor: a9231c3f
+      Shubham Ranjane: 6c7a68d0
+      Sikandar Raza: 26d041c4
+      Sujit Nayak: e06f7116
+      Waqar Salamkheil: 3f1066d0
+      Zia-ul-Haq: 99c81226
+  teams:
+  - Texas Super Kings
+  - Seattle Orcas
+  toss:
+    winner: Seattle Orcas
+    decision: field
+  umpires:
+  - BV Taylor
+  - LS Reifer
+  venue: Oakland Coliseum,Oakland
+innings:
+- 1st innings:
+    team: Texas Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.4:
+        non_striker: F du Plessis
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.5:
+        non_striker: DP Conway
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: DP Conway
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.7:
+        non_striker: F du Plessis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.2:
+        non_striker: F du Plessis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.5:
+        non_striker: DP Conway
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.6:
+        non_striker: DP Conway
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: DP Conway
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.6:
+        non_striker: DP Conway
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.4:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 4.5:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 4.6:
+        non_striker: DP Conway
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.1:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: lbw
+    - 5.2:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 5.3:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 5.4:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 5.5:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 5.6:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 6.1:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.2:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.3:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: SR Mukkamalla
+    - 6.5:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.6:
+        non_striker: SR Mukkamalla
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 6.7:
+        non_striker: SR Mukkamalla
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.1:
+        non_striker: SR Mukkamalla
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: SR Mukkamalla
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.3:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.4:
+        non_striker: SR Mukkamalla
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 9.1:
+        non_striker: SR Mukkamalla
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 9.3:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 9.4:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 9.5:
+        non_striker: SR Mukkamalla
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 10.1:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 10.4:
+        non_striker: DJ Mitchell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.5:
+        non_striker: SR Mukkamalla
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: DJ Mitchell
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.3:
+        non_striker: MP Stoinis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 12.1:
+        non_striker: MP Stoinis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 12.2:
+        non_striker: MP Stoinis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 12.3:
+        non_striker: MP Stoinis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.5:
+        non_striker: MP Stoinis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 13.1:
+        non_striker: MP Stoinis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 13.2:
+        non_striker: MP Stoinis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.4:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 13.5:
+        non_striker: DJ Mitchell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.6:
+        non_striker: MP Stoinis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 14.1:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.3:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - SR Taylor
+          kind: caught
+    - 14.5:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 14.6:
+        non_striker: DJ Mitchell
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 15.1:
+        non_striker: CP Savage
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 15.2:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 15.3:
+        non_striker: DJ Mitchell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 15.4:
+        non_striker: CP Savage
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - Waqar Salamkheil
+          kind: caught
+    - 15.5:
+        non_striker: CP Savage
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 15.6:
+        non_striker: Milind Kumar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 16.1:
+        non_striker: CP Savage
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 16.2:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CP Savage
+    - 16.3:
+        non_striker: CP Savage
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 16.4:
+        non_striker: CP Savage
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 16.5:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 16.6:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 17.1:
+        non_striker: CP Savage
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 17.2:
+        non_striker: CP Savage
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.3:
+        non_striker: Milind Kumar
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+        wicket:
+          player_out: CP Savage
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 17.4:
+        non_striker: Milind Kumar
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.5:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 17.6:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 18.1:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 18.2:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 18.3:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.4:
+        non_striker: Shubham Ranjane
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 18.5:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 18.6:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 18.7:
+        non_striker: Milind Kumar
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shubham Ranjane
+    - 19.1:
+        non_striker: Milind Kumar
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 19.3:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 19.4:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 19.5:
+        non_striker: Shubham Ranjane
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 19.6:
+        non_striker: Milind Kumar
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+- 2nd innings:
+    team: Seattle Orcas
+    deliveries:
+    - 0.1:
+        non_striker: KR Mayers
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.2:
+        non_striker: KR Mayers
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.3:
+        non_striker: KR Mayers
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 0.4:
+        non_striker: KR Mayers
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.5:
+        non_striker: DA Warner
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 0.6:
+        non_striker: DA Warner
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Mayers
+    - 0.7:
+        non_striker: KR Mayers
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.1:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.2:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 1.5:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 1.6:
+        non_striker: DA Warner
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 2.1:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.2:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 2.3:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.4:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 2.5:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 2.6:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 2.7:
+        non_striker: SR Taylor
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 3.1:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 3.2:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.3:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.4:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.5:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.6:
+        non_striker: Aaron Jones
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 4.1:
+        non_striker: H Klaasen
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 4.2:
+        non_striker: H Klaasen
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 4.3:
+        non_striker: Aaron Jones
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          kind: bowled
+    - 4.4:
+        non_striker: Aaron Jones
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 4.5:
+        non_striker: Aaron Jones
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 4.6:
+        non_striker: Aaron Jones
+        bowler: Zia-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - DP Conway
+          kind: caught
+    - 5.1:
+        non_striker: Sujit Nayak
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 5.2:
+        non_striker: Sujit Nayak
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 5.3:
+        non_striker: Sujit Nayak
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 5.4:
+        non_striker: Sujit Nayak
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 5.5:
+        non_striker: Sujit Nayak
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 5.6:
+        non_striker: Aaron Jones
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sujit Nayak
+    - 6.1:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sujit Nayak
+    - 6.2:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+    - 6.3:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sujit Nayak
+        wicket:
+          player_out: Sujit Nayak
+          kind: lbw
+    - 6.4:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          kind: lbw
+    - 6.5:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 6.6:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 7.1:
+        non_striker: Aaron Jones
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 7.2:
+        non_striker: Aaron Jones
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 7.3:
+        non_striker: Jasdeep Singh
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aaron Jones
+    - 7.4:
+        non_striker: Jasdeep Singh
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 7.5:
+        non_striker: Aaron Jones
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 7.6:
+        non_striker: Jasdeep Singh
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 8.1:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aaron Jones
+    - 8.2:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 8.3:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 8.4:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 8.5:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 8.6:
+        non_striker: Aaron Jones
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 9.1:
+        non_striker: Jasdeep Singh
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 9.2:
+        non_striker: Jasdeep Singh
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+        wicket:
+          player_out: Aaron Jones
+          fielders:
+          - Noor Ahmad
+          kind: caught
+    - 9.3:
+        non_striker: Jasdeep Singh
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC McCoy
+    - 9.4:
+        non_striker: OC McCoy
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 9.5:
+        non_striker: OC McCoy
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 9.6:
+        non_striker: Jasdeep Singh
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 10.1:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 10.2:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+    - 10.3:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OC McCoy
+    - 10.4:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 10.5:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: OC McCoy
+    - 10.6:
+        non_striker: OC McCoy
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Jasdeep Singh
+    - 10.7:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OC McCoy
+        wicket:
+          player_out: OC McCoy
+          kind: lbw
+    - 11.1:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jasdeep Singh
+    - 11.2:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 11.3:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 11.4:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 11.5:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 11.6:
+        non_striker: Jasdeep Singh
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Salamkheil
+    - 12.1:
+        non_striker: Waqar Salamkheil
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 12.2:
+        non_striker: Waqar Salamkheil
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 12.3:
+        non_striker: Waqar Salamkheil
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 12.4:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Salamkheil
+    - 12.5:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Salamkheil
+    - 12.6:
+        non_striker: Jasdeep Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Salamkheil
+    - 13.1:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 13.2:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 13.3:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 13.4:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 13.5:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jasdeep Singh
+    - 13.6:
+        non_striker: Waqar Salamkheil
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+        wicket:
+          player_out: Jasdeep Singh
+          fielders:
+          - CP Savage
+          kind: caught

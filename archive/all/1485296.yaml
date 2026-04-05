@@ -1,0 +1,1325 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2025-05-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Moors Sports Club
+    by:
+      runs: 11
+  overs: 20
+  players:
+    Moors Sports Club:
+    - J Perera
+    - S de Livera
+    - S Samarawickrama
+    - DPS Sooriyabandara
+    - M Tharupathi
+    - RTM Mendis
+    - RMMP Rathnayake
+    - SA Fernando
+    - P Jayawickrama
+    - G Sanketh
+    - UVS Fernando
+    Colombo Cricket Club:
+    - KNM Fernando
+    - L Croospulle
+    - DM de Silva
+    - P Rathnayake
+    - GS Dinusha
+    - I Udana
+    - S Kosala
+    - C Wijesinghe
+    - PC de Silva
+    - MVT Fernando
+    - PADLR Sandakan
+  registry:
+    people:
+      C Wijesinghe: 0a2d45b0
+      DM de Silva: 7d608e12
+      DPS Sooriyabandara: cc17536f
+      G Sanketh: 40db4769
+      GS Dinusha: 4bbfddd5
+      I Udana: ac5ae4af
+      J Perera: 0e0d4577
+      JWHD Boteju: 7934d6fb
+      KNM Fernando: d2a2bb1a
+      L Croospulle: e30c9b2d
+      M Tharupathi: ec0b9258
+      MVT Fernando: 5eef2118
+      P Jayawickrama: b7d1eadd
+      P Rathnayake: c1fdfb46
+      PADLR Sandakan: 79aad751
+      PC de Silva: b40ee8a8
+      RMMP Rathnayake: afe830a2
+      RR Wimalasiri: 4950c8db
+      RTM Mendis: 1be67d37
+      Ranganath Prasanna: 9fc85271
+      S Kosala: b4411c29
+      S Samarawickrama: 9ab2914d
+      S de Livera: '77708937'
+      SA Fernando: 49fb57d4
+      UVS Fernando: 7625e5df
+      WC Labrooy: 29d4e29b
+  teams:
+  - Moors Sports Club
+  - Colombo Cricket Club
+  toss:
+    winner: Colombo Cricket Club
+    decision: field
+  umpires:
+  - Ranganath Prasanna
+  - RR Wimalasiri
+  venue: Sinhalese Sports Club Ground, Colombo
+innings:
+- 1st innings:
+    team: Moors Sports Club
+    deliveries:
+    - 0.1:
+        bowler: MVT Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S de Livera
+        batsman: J Perera
+    - 0.2:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S de Livera
+        batsman: J Perera
+    - 0.3:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S de Livera
+        batsman: J Perera
+    - 0.4:
+        bowler: MVT Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: S de Livera
+        batsman: J Perera
+    - 0.5:
+        non_striker: J Perera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 0.6:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Perera
+    - 0.7:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 1.1:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perera
+    - 1.2:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perera
+    - 1.3:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perera
+        wicket:
+          player_out: J Perera
+          kind: bowled
+    - 1.4:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 1.5:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Samarawickrama
+    - 1.6:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 2.1:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 2.2:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Samarawickrama
+    - 2.3:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Samarawickrama
+    - 2.4:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Samarawickrama
+    - 2.5:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Samarawickrama
+    - 2.6:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Samarawickrama
+    - 2.7:
+        non_striker: S de Livera
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 2.8:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 2.9:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 3.1:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 3.2:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 3.3:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.4:
+        non_striker: S Samarawickrama
+        bowler: PC de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S de Livera
+    - 3.5:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 3.6:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 4.1:
+        non_striker: S de Livera
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 4.2:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 4.3:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 4.4:
+        non_striker: S de Livera
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 4.5:
+        non_striker: S de Livera
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 4.6:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S de Livera
+    - 5.1:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Samarawickrama
+    - 5.2:
+        non_striker: S Samarawickrama
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S de Livera
+    - 5.3:
+        non_striker: S Samarawickrama
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S de Livera
+    - 5.4:
+        non_striker: S Samarawickrama
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 5.5:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - KNM Fernando
+          kind: caught
+    - 5.6:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 6.1:
+        non_striker: S de Livera
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 6.2:
+        non_striker: DPS Sooriyabandara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 6.3:
+        non_striker: S de Livera
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 6.4:
+        non_striker: DPS Sooriyabandara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 6.5:
+        non_striker: DPS Sooriyabandara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S de Livera
+    - 6.6:
+        non_striker: DPS Sooriyabandara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S de Livera
+    - 7.1:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 7.2:
+        non_striker: DPS Sooriyabandara
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S de Livera
+    - 7.3:
+        non_striker: DPS Sooriyabandara
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S de Livera
+    - 7.4:
+        non_striker: DPS Sooriyabandara
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S de Livera
+    - 7.5:
+        non_striker: DPS Sooriyabandara
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 7.6:
+        non_striker: S de Livera
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Sooriyabandara
+    - 8.1:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 8.2:
+        non_striker: S de Livera
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Sooriyabandara
+    - 8.3:
+        non_striker: S de Livera
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 8.4:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 8.5:
+        non_striker: S de Livera
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPS Sooriyabandara
+    - 8.6:
+        non_striker: S de Livera
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Sooriyabandara
+    - 9.1:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DPS Sooriyabandara
+    - 9.2:
+        non_striker: S de Livera
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DPS Sooriyabandara
+    - 9.3:
+        non_striker: DPS Sooriyabandara
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+        wicket:
+          player_out: S de Livera
+          fielders:
+          - I Udana
+          kind: run out
+    - 9.4:
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Tharupathi
+        batsman: DPS Sooriyabandara
+    - 9.5:
+        non_striker: DPS Sooriyabandara
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tharupathi
+    - 9.6:
+        non_striker: DPS Sooriyabandara
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tharupathi
+    - 9.7:
+        non_striker: M Tharupathi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPS Sooriyabandara
+    - 10.1:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Tharupathi
+    - 10.2:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Tharupathi
+    - 10.3:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tharupathi
+        wicket:
+          player_out: M Tharupathi
+          fielders:
+          - PADLR Sandakan
+          kind: caught
+    - 10.4:
+        non_striker: DPS Sooriyabandara
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RTM Mendis
+    - 10.5:
+        non_striker: RTM Mendis
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DPS Sooriyabandara
+    - 10.6:
+        non_striker: RTM Mendis
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DPS Sooriyabandara
+    - 10.7:
+        non_striker: RTM Mendis
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Sooriyabandara
+        wicket:
+          player_out: DPS Sooriyabandara
+          kind: caught and bowled
+- 2nd innings:
+    team: Colombo Cricket Club
+    deliveries:
+    - 0.1:
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.2:
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.3:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 0.4:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 0.5:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 0.6:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 1.1:
+        non_striker: L Croospulle
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KNM Fernando
+    - 1.2:
+        non_striker: L Croospulle
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNM Fernando
+    - 1.3:
+        non_striker: L Croospulle
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 1.4:
+        non_striker: KNM Fernando
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 1.5:
+        non_striker: KNM Fernando
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+    - 1.6:
+        non_striker: KNM Fernando
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+        wicket:
+          player_out: L Croospulle
+          fielders:
+          - RTM Mendis
+          kind: caught
+    - 2.1:
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DM de Silva
+        batsman: KNM Fernando
+    - 2.2:
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DM de Silva
+        batsman: KNM Fernando
+    - 2.3:
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DM de Silva
+        batsman: KNM Fernando
+    - 2.4:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 2.5:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 2.6:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DM de Silva
+    - 2.7:
+        non_striker: KNM Fernando
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 3.1:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+        wicket:
+          player_out: KNM Fernando
+          kind: bowled
+    - 3.2:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 3.3:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 3.4:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 3.5:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 3.6:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 4.1:
+        non_striker: DM de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 4.2:
+        non_striker: P Rathnayake
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 4.3:
+        non_striker: P Rathnayake
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 4.4:
+        non_striker: DM de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 4.5:
+        non_striker: P Rathnayake
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 4.6:
+        non_striker: P Rathnayake
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 5.1:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DM de Silva
+    - 5.2:
+        non_striker: DM de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 5.3:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 5.4:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 5.5:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - M Tharupathi
+          kind: caught
+    - 5.6:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Dinusha
+    - 5.7:
+        non_striker: P Rathnayake
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Dinusha
+    - 6.1:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.2:
+        non_striker: P Rathnayake
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 6.3:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          fielders:
+          - S Samarawickrama
+          kind: caught
+    - 6.4:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - J Perera
+          kind: caught
+    - 6.5:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kosala
+    - 6.6:
+        non_striker: S Kosala
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 7.1:
+        non_striker: S Kosala
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 7.2:
+        non_striker: GS Dinusha
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kosala
+    - 7.3:
+        non_striker: GS Dinusha
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kosala
+    - 7.4:
+        non_striker: GS Dinusha
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kosala
+    - 7.5:
+        non_striker: S Kosala
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 7.6:
+        non_striker: GS Dinusha
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kosala
+    - 8.1:
+        non_striker: S Kosala
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 8.2:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Kosala
+    - 8.3:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Kosala
+    - 8.4:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Kosala
+    - 8.5:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Kosala
+    - 8.6:
+        non_striker: GS Dinusha
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kosala
+    - 9.1:
+        non_striker: S Kosala
+        bowler: G Sanketh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GS Dinusha
+    - 9.2:
+        non_striker: GS Dinusha
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kosala
+        wicket:
+          player_out: S Kosala
+          fielders:
+          - RTM Mendis
+          kind: caught
+    - 9.3:
+        non_striker: GS Dinusha
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Wijesinghe
+    - 9.4:
+        non_striker: GS Dinusha
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wijesinghe
+    - 9.5:
+        non_striker: C Wijesinghe
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 9.6:
+        non_striker: GS Dinusha
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wijesinghe
+        wicket:
+          player_out: C Wijesinghe
+          fielders:
+          - S Samarawickrama
+          kind: caught
+    - 10.1:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PC de Silva
+        batsman: GS Dinusha
+    - 10.2:
+        non_striker: GS Dinusha
+        bowler: SA Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PC de Silva
+    - 10.3:
+        non_striker: GS Dinusha
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 10.4:
+        non_striker: PC de Silva
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Dinusha
+    - 10.5:
+        non_striker: GS Dinusha
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC de Silva
+    - 10.6:
+        non_striker: GS Dinusha
+        bowler: SA Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PC de Silva
+    - 10.7:
+        non_striker: GS Dinusha
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 10.8:
+        non_striker: PC de Silva
+        bowler: SA Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GS Dinusha
+        wicket:
+          player_out: GS Dinusha
+          fielders:
+          - RTM Mendis
+          kind: run out
+    - 10.9:
+        non_striker: MVT Fernando
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PC de Silva

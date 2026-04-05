@@ -1,0 +1,2136 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2024-05-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Knights
+    by:
+      runs: 99
+  overs: 20
+  player_of_match:
+  - MR Adair
+  players:
+    Northern Knights:
+    - GR Adair
+    - PR Stirling
+    - JA McCollum
+    - NA Rock
+    - Jake Egan
+    - MR Adair
+    - R Pretorius
+    - C Carmichael
+    - MT Foster
+    - T Mayes
+    - MJ Humphreys
+    Munster Reds:
+    - PJ Moor
+    - B Kruger
+    - J Neill
+    - C Campher
+    - AR Frost
+    - GJ Delany
+    - JC McNally
+    - L McCarthy
+    - J Manley
+    - M Frost
+    - B White
+  registry:
+    people:
+      AR Frost: a7750ab4
+      Aidan Seaver: 862c0b16
+      B Kruger: 103431a3
+      B White: 1a448be0
+      C Campher: 478a63e7
+      C Carmichael: f3b158d9
+      G McCrea: 46f4a901
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      J Manley: 05f85159
+      J Neill: 8bb34d86
+      JA McCollum: c7105dab
+      JC McNally: 8614ffef
+      Jake Egan: a863ba68
+      L McCarthy: 8eb2e2e6
+      M Frost: 96d56d32
+      M Hawthorne: ea123ee4
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      MT Foster: 14e801aa
+      NA Rock: 43f4087c
+      PJ Moor: a1d3540a
+      PR Stirling: cf494ffe
+      R Pretorius: 8ff85f5c
+      T Mayes: 9aedf23b
+      W Mohammed: 0a3e73a5
+  teams:
+  - Northern Knights
+  - Munster Reds
+  toss:
+    winner: Munster Reds
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - M Hawthorne
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.2:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GR Adair
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: GR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.7:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.1:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.7:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.8:
+        non_striker: GR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 3.6:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA McCollum
+    - 3.7:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.1:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 4.4:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.1:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.2:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.7:
+        non_striker: JA McCollum
+        bowler: JC McNally
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 6.3:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.4:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: JA McCollum
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.1:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.2:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.3:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.6:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 8.1:
+        non_striker: PR Stirling
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 8.2:
+        non_striker: PR Stirling
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 8.3:
+        non_striker: PR Stirling
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 8.4:
+        non_striker: JA McCollum
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 8.5:
+        non_striker: JA McCollum
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 8.6:
+        non_striker: PR Stirling
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 9.1:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 9.2:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 9.3:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 9.4:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 9.5:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.6:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 10.1:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.2:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.3:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.4:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.5:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 10.6:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.1:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.2:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 11.3:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 11.4:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 11.5:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 11.6:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 12.1:
+        non_striker: PR Stirling
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 12.2:
+        non_striker: PR Stirling
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 12.3:
+        non_striker: PR Stirling
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 12.4:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 12.5:
+        non_striker: JA McCollum
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 12.6:
+        non_striker: PR Stirling
+        bowler: M Frost
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 13.1:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 13.2:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 13.3:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 13.4:
+        non_striker: JA McCollum
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 13.5:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 13.6:
+        non_striker: PR Stirling
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          fielders:
+          - JC McNally
+          kind: caught
+    - 14.1:
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Rock
+        batsman: PR Stirling
+    - 14.2:
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Rock
+        batsman: PR Stirling
+    - 14.3:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 14.4:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 14.5:
+        non_striker: NA Rock
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 14.6:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 15.1:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 15.2:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 15.3:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 15.4:
+        non_striker: NA Rock
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 15.5:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 15.6:
+        non_striker: PR Stirling
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 16.1:
+        non_striker: NA Rock
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 16.2:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 16.3:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - J Neill
+          kind: caught
+    - 16.4:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 16.5:
+        non_striker: Jake Egan
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 16.6:
+        non_striker: PR Stirling
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 17.1:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 17.2:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: PR Stirling
+    - 17.3:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PR Stirling
+    - 17.4:
+        non_striker: PR Stirling
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jake Egan
+    - 17.5:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - J Neill
+          kind: caught
+    - 17.6:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 17.7:
+        non_striker: Jake Egan
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.8:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jake Egan
+    - 18.1:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 18.2:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 18.3:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 18.4:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 18.5:
+        non_striker: Jake Egan
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+        wicket:
+          player_out: Jake Egan
+          fielders:
+          - PJ Moor
+          - AR Frost
+          kind: run out
+    - 18.6:
+        non_striker: MR Adair
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 19.1:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pretorius
+    - 19.2:
+        non_striker: MR Adair
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pretorius
+    - 19.3:
+        non_striker: R Pretorius
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 19.4:
+        non_striker: R Pretorius
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 19.5:
+        non_striker: R Pretorius
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 19.6:
+        non_striker: R Pretorius
+        bowler: J Manley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+- 2nd innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Kruger
+        batsman: PJ Moor
+    - 0.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Kruger
+        batsman: PJ Moor
+    - 0.3:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 0.4:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Kruger
+    - 0.5:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 0.6:
+        non_striker: PJ Moor
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 1.1:
+        non_striker: B Kruger
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+        wicket:
+          player_out: PJ Moor
+          fielders:
+          - NA Rock
+          kind: caught
+    - 1.2:
+        non_striker: B Kruger
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 1.3:
+        non_striker: J Neill
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 1.4:
+        non_striker: J Neill
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kruger
+    - 1.5:
+        non_striker: B Kruger
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+    - 1.6:
+        non_striker: B Kruger
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+    - 2.1:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Kruger
+    - 2.2:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 2.3:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+    - 2.4:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kruger
+        wicket:
+          player_out: B Kruger
+          fielders:
+          - T Mayes
+          kind: caught
+    - 2.5:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 2.6:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 2.7:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 3.1:
+        non_striker: C Campher
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Neill
+    - 3.2:
+        non_striker: C Campher
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+    - 3.3:
+        non_striker: C Campher
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 3.4:
+        non_striker: J Neill
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 3.5:
+        non_striker: J Neill
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 3.6:
+        non_striker: J Neill
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 4.1:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Campher
+    - 4.2:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - MR Adair
+          kind: caught
+    - 4.3:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 4.4:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 4.5:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 4.6:
+        non_striker: J Neill
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.1:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 5.2:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.3:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.4:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 5.5:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Frost
+    - 5.6:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Frost
+    - 6.1:
+        non_striker: AR Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+    - 6.2:
+        non_striker: AR Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 6.3:
+        non_striker: J Neill
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 6.4:
+        non_striker: J Neill
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Frost
+    - 6.5:
+        non_striker: AR Frost
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 6.6:
+        non_striker: J Neill
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+    - 7.1:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Neill
+    - 7.2:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+    - 7.3:
+        non_striker: AR Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Neill
+    - 7.4:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Frost
+        wicket:
+          player_out: AR Frost
+          fielders:
+          - JA McCollum
+          kind: caught
+    - 7.5:
+        non_striker: J Neill
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 7.6:
+        non_striker: GJ Delany
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Neill
+    - 8.1:
+        non_striker: J Neill
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 8.2:
+        non_striker: GJ Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Neill
+        wicket:
+          player_out: J Neill
+          kind: bowled
+    - 8.3:
+        non_striker: GJ Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 8.4:
+        non_striker: GJ Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 8.5:
+        non_striker: GJ Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 8.6:
+        non_striker: GJ Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 9.1:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 9.2:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+    - 9.3:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L McCarthy
+    - 9.4:
+        non_striker: L McCarthy
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 9.5:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L McCarthy
+        wicket:
+          player_out: L McCarthy
+          fielders:
+          - JA McCollum
+          kind: caught
+    - 9.6:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 10.1:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 10.2:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 10.3:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 10.4:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 10.5:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 10.6:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 11.1:
+        non_striker: J Manley
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 11.2:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 11.3:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 11.4:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 11.5:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Manley
+    - 11.6:
+        non_striker: J Manley
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 12.1:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 12.2:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 12.3:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+    - 12.4:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Manley
+    - 12.5:
+        non_striker: JC McNally
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 12.6:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 13.1:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 13.2:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC McNally
+    - 13.3:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 13.4:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 13.5:
+        non_striker: J Manley
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 13.6:
+        non_striker: JC McNally
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Manley
+    - 13.7:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        replacements:
+          role:
+          - in: GR Adair
+            out: MT Foster
+            reason: injury
+            role: bowler
+        batsman: J Manley
+    - 14.1:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 14.2:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 14.3:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 14.4:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 14.5:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC McNally
+    - 14.6:
+        non_striker: J Manley
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 15.1:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 15.2:
+        non_striker: JC McNally
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 15.3:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC McNally
+    - 15.4:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC McNally
+    - 15.5:
+        non_striker: J Manley
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 15.6:
+        non_striker: JC McNally
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 16.1:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 16.2:
+        non_striker: J Manley
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 16.3:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Manley
+    - 16.4:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 16.5:
+        non_striker: J Manley
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 16.6:
+        non_striker: JC McNally
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Manley
+    - 17.1:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Manley
+        wicket:
+          player_out: J Manley
+          fielders:
+          - T Mayes
+          kind: caught
+    - 17.2:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 17.3:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 17.4:
+        non_striker: M Frost
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 17.5:
+        non_striker: JC McNally
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Frost
+    - 17.6:
+        non_striker: M Frost
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC McNally
+    - 18.1:
+        non_striker: M Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+    - 18.2:
+        non_striker: M Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC McNally
+        wicket:
+          player_out: JC McNally
+          kind: bowled
+    - 18.3:
+        non_striker: M Frost
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 18.4:
+        non_striker: B White
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+    - 18.5:
+        non_striker: B White
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Frost
+        wicket:
+          player_out: M Frost
+          fielders:
+          - R Pretorius
+          kind: caught

@@ -1,0 +1,4866 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: One-Day Cup (Australia)
+  dates:
+  - '2026-02-03'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Victoria
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - PSP Handscomb
+  players:
+    Queensland:
+    - J Clayton
+    - HR Burdon
+    - M Labuschagne
+    - HD Weibgen
+    - LD Hearne
+    - JJ Peirson
+    - JD Wildermuth
+    - MG Neser
+    - MJ Swepson
+    - O Patterson
+    - Thomas Balkin
+    Victoria:
+    - SB Harper
+    - TF Rogers
+    - C Kellaway
+    - PSP Handscomb
+    - BD Macdonald
+    - HT Dixon
+    - W Sutherland
+    - XA Crone
+    - T Murphy
+    - A Anlezark
+    - CL McClure
+  registry:
+    people:
+      A Anlezark: 3adc8219
+      Andrew Crozier: 00d07580
+      BD Macdonald: 28147cdc
+      C Kellaway: 60c28835
+      CA Polosak: 26a360d2
+      CL McClure: b3267eaa
+      HD Weibgen: 2535b30f
+      HR Burdon: 309e9b1c
+      HT Dixon: ecbad6c6
+      J Clayton: c56fc66d
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      LD Hearne: 7f2163a0
+      M Labuschagne: fa433be6
+      MG Neser: 0164b064
+      MJ Swepson: 86b4bf88
+      O Patterson: '069a5170'
+      PSP Handscomb: ada15e88
+      RL Parry: 86d151dc
+      SB Harper: a756e61a
+      T Murphy: ac2e7ec0
+      TF Rogers: 7f232d46
+      Thomas Balkin: 61c4f340
+      W Sutherland: bc2d4f2e
+      XA Crone: e5ee7c83
+  teams:
+  - Queensland
+  - Victoria
+  toss:
+    winner: Victoria
+    decision: field
+  umpires:
+  - Andrew Crozier
+  - CA Polosak
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Queensland
+    deliveries:
+    - 0.1:
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HR Burdon
+        batsman: J Clayton
+    - 0.2:
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HR Burdon
+        batsman: J Clayton
+    - 0.3:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HR Burdon
+    - 0.4:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Burdon
+    - 0.5:
+        non_striker: HR Burdon
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 0.6:
+        non_striker: HR Burdon
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 0.7:
+        non_striker: HR Burdon
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 1.1:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+    - 1.2:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+    - 1.3:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HR Burdon
+    - 1.4:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+    - 1.5:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+        wicket:
+          player_out: HR Burdon
+          kind: bowled
+    - 1.6:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 1.7:
+        non_striker: J Clayton
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 2.1:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 2.2:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Clayton
+    - 2.3:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+        wicket:
+          player_out: J Clayton
+          fielders:
+          - W Sutherland
+          kind: caught
+    - 2.4:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 2.5:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 2.6:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 2.7:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 3.1:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Labuschagne
+    - 3.2:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Labuschagne
+    - 3.3:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.4:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 3.5:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.6:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 3.7:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 3.8:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.1:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 4.2:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 4.3:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 4.4:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 4.5:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 4.6:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 5.1:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          fielders:
+          - TF Rogers
+          kind: caught
+    - 5.2:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 5.3:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 5.4:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 5.5:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 5.6:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 6.1:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 6.2:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 6.3:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 6.4:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 6.5:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 6.6:
+        non_striker: HD Weibgen
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 7.1:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.2:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LD Hearne
+    - 7.3:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 7.4:
+        non_striker: LD Hearne
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.5:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 7.6:
+        non_striker: HD Weibgen
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 8.1:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 8.2:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 8.3:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 8.4:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.5:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 8.6:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 9.1:
+        non_striker: LD Hearne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.2:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 9.3:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 9.4:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 9.5:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 9.6:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 10.1:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.2:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.3:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 10.4:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LD Hearne
+    - 10.5:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.6:
+        non_striker: LD Hearne
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 11.1:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 11.2:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 11.3:
+        non_striker: LD Hearne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.4:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 11.5:
+        non_striker: LD Hearne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.6:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 12.1:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 12.2:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 12.3:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+        wicket:
+          player_out: LD Hearne
+          kind: lbw
+    - 12.4:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 12.5:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 12.6:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 13.1:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.2:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 13.3:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.4:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.5:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 13.6:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 14.1:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.2:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 14.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.4:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.5:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.6:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 15.1:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.2:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.3:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 15.4:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 15.5:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.6:
+        non_striker: HD Weibgen
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 16.1:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 16.4:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 16.5:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 16.6:
+        non_striker: HD Weibgen
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.1:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 17.2:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.3:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 17.4:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.5:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 17.6:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.1:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 18.2:
+        non_striker: HD Weibgen
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 18.3:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 18.4:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 18.5:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 18.6:
+        non_striker: HD Weibgen
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 19.1:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 19.2:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 19.3:
+        non_striker: HD Weibgen
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 19.4:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 19.5:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 19.6:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+        wicket:
+          player_out: HD Weibgen
+          fielders:
+          - SB Harper
+          kind: caught
+    - 20.1:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JD Wildermuth
+        batsman: JJ Peirson
+    - 20.2:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JD Wildermuth
+        batsman: JJ Peirson
+    - 20.3:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JD Wildermuth
+        batsman: JJ Peirson
+    - 20.4:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JD Wildermuth
+        batsman: JJ Peirson
+    - 20.5:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JD Wildermuth
+        batsman: JJ Peirson
+    - 20.6:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 21.1:
+        non_striker: JD Wildermuth
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 21.2:
+        non_striker: JD Wildermuth
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 21.3:
+        non_striker: JD Wildermuth
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 21.4:
+        non_striker: JD Wildermuth
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 21.5:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 21.6:
+        non_striker: JD Wildermuth
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 22.1:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 22.2:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 22.3:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 22.4:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 22.5:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 22.6:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 23.1:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 23.2:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Wildermuth
+    - 23.3:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 23.4:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 23.5:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 23.6:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 23.7:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 24.1:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 24.2:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 24.3:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 24.4:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 24.5:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 24.6:
+        non_striker: JD Wildermuth
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 25.1:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 25.2:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 25.3:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 25.4:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 25.5:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 25.6:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 26.1:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 26.2:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 26.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 26.4:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 26.5:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 26.6:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 27.1:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 27.2:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 27.3:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 27.4:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 27.5:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 27.6:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 27.7:
+        non_striker: JD Wildermuth
+        bowler: CL McClure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Peirson
+    - 28.1:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 28.2:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 28.3:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 28.4:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 28.5:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 28.6:
+        non_striker: JD Wildermuth
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 29.1:
+        non_striker: JD Wildermuth
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 29.2:
+        non_striker: JD Wildermuth
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 29.3:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 29.4:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 29.5:
+        non_striker: JD Wildermuth
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 29.6:
+        non_striker: JD Wildermuth
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 30.1:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 30.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          fielders:
+          - HT Dixon
+          kind: caught
+    - 30.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 30.4:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 30.5:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 30.6:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.1:
+        non_striker: MG Neser
+        bowler: A Anlezark
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Peirson
+    - 31.2:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.3:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Neser
+    - 31.4:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.5:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.6:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 31.7:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 32.1:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 32.2:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 32.3:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 32.4:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 32.5:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Neser
+    - 32.6:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 32.7:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 33.1:
+        non_striker: MG Neser
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 33.2:
+        non_striker: MG Neser
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 33.3:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MG Neser
+    - 33.4:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 33.5:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 33.6:
+        non_striker: MG Neser
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.1:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+        wicket:
+          player_out: MG Neser
+          kind: bowled
+    - 34.2:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 34.3:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 34.4:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 34.5:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.6:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 34.7:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 35.1:
+        non_striker: MJ Swepson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 35.2:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Swepson
+    - 35.3:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 35.4:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 35.5:
+        non_striker: MJ Swepson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 35.6:
+        non_striker: JJ Peirson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 36.1:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 36.2:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 36.3:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 36.4:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 36.5:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 36.6:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 37.1:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 37.2:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 37.3:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 37.4:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 37.5:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 37.6:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 38.1:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 38.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 38.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 38.4:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 38.5:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 38.6:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 39.1:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 39.2:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 39.3:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 39.4:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 39.5:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 39.6:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 40.1:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 40.2:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 40.3:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 40.4:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 40.5:
+        non_striker: MJ Swepson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 40.6:
+        non_striker: JJ Peirson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 41.1:
+        non_striker: MJ Swepson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.2:
+        non_striker: MJ Swepson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 41.3:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Swepson
+    - 41.4:
+        non_striker: MJ Swepson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 41.5:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 41.6:
+        non_striker: JJ Peirson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 42.1:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 42.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 42.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 42.4:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          fielders:
+          - BD Macdonald
+          kind: caught
+    - 42.5:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 42.6:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 43.1:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 43.2:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+        wicket:
+          player_out: MJ Swepson
+          fielders:
+          - SB Harper
+          kind: caught
+    - 43.3:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 43.4:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 43.5:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 43.6:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 44.1:
+        non_striker: O Patterson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 44.2:
+        non_striker: Thomas Balkin
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 44.3:
+        non_striker: O Patterson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 44.4:
+        non_striker: Thomas Balkin
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Patterson
+    - 44.5:
+        non_striker: Thomas Balkin
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 44.6:
+        non_striker: O Patterson
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 45.1:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 45.2:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 45.3:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 45.4:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Patterson
+    - 45.5:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Patterson
+    - 45.6:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 45.7:
+        non_striker: Thomas Balkin
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 45.8:
+        non_striker: O Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 46.1:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 46.2:
+        non_striker: O Patterson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 46.3:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 46.4:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 46.5:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Patterson
+    - 46.6:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 47.1:
+        non_striker: Thomas Balkin
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 47.2:
+        non_striker: O Patterson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 47.3:
+        non_striker: O Patterson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 47.4:
+        non_striker: O Patterson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 47.5:
+        non_striker: Thomas Balkin
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 47.6:
+        non_striker: O Patterson
+        bowler: A Anlezark
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 48.1:
+        non_striker: O Patterson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 48.2:
+        non_striker: O Patterson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 48.3:
+        non_striker: O Patterson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 48.4:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Patterson
+    - 48.5:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Patterson
+    - 48.6:
+        non_striker: Thomas Balkin
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+        wicket:
+          player_out: O Patterson
+          fielders:
+          - T Murphy
+          kind: caught
+- 2nd innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TF Rogers
+        batsman: SB Harper
+    - 0.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TF Rogers
+        batsman: SB Harper
+    - 0.3:
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TF Rogers
+        batsman: SB Harper
+    - 0.4:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TF Rogers
+        batsman: SB Harper
+    - 0.5:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.6:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.7:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.1:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.2:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.4:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 1.5:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Kellaway
+    - 1.6:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 1.7:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.1:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 2.2:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.3:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.4:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.5:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.6:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 3.1:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.2:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.3:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 3.5:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.1:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 4.2:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 4.3:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 4.4:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 4.5:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 4.6:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.1:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 5.2:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.3:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 5.4:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 5.5:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 5.6:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 6.1:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 6.2:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.3:
+        non_striker: C Kellaway
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 6.4:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 6.5:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 6.6:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 7.1:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 7.2:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.3:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.4:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.5:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.6:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TF Rogers
+    - 8.1:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.2:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.3:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.4:
+        non_striker: TF Rogers
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 8.5:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 8.6:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.1:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 9.2:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.3:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.4:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.5:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.6:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 10.1:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 10.2:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 10.3:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 10.4:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 10.5:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 10.6:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 11.1:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.2:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 11.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TF Rogers
+    - 11.4:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 11.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 11.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 11.7:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 12.1:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 12.2:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 12.3:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 12.4:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 12.5:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 12.6:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 13.1:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 13.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 13.3:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 13.4:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 13.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 13.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 14.1:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 14.2:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 14.3:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 14.4:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 14.5:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 14.6:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 14.7:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 15.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 15.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 15.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 15.4:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 15.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 15.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 16.1:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 16.2:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 16.3:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 16.4:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 16.5:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 16.6:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 17.2:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 17.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 17.4:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 17.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 17.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 18.1:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 18.2:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 18.3:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 18.4:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 18.5:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 18.6:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 19.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 19.2:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.3:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.4:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 19.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 19.6:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PSP Handscomb
+    - 20.1:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 20.2:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 20.3:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 20.4:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 20.5:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 20.6:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 21.1:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 21.2:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 21.3:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 21.4:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 21.5:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 21.6:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 22.1:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 22.2:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 22.3:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 22.4:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 22.5:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 22.6:
+        non_striker: TF Rogers
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 23.1:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 23.2:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 23.3:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 23.4:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 23.5:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 23.6:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 24.1:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 24.2:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 24.3:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TF Rogers
+    - 24.4:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 24.5:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 24.6:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 25.1:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 25.2:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 25.3:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 25.4:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 25.5:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 25.6:
+        non_striker: TF Rogers
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 26.1:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 26.2:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 26.3:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 26.4:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 26.5:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 26.6:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 27.1:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 27.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 27.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 27.4:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 27.5:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 27.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 28.1:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: PSP Handscomb
+    - 28.2:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 28.3:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 28.4:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 28.5:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 28.6:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 28.7:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 29.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 29.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 29.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 29.4:
+        non_striker: TF Rogers
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 29.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 29.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 30.1:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 30.2:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 30.3:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 30.4:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 30.5:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 30.6:
+        non_striker: PSP Handscomb
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 31.1:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 31.2:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 31.3:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 31.4:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 31.5:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 31.6:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 31.7:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 32.1:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 32.2:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 32.3:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 32.4:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 32.5:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 32.6:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 33.1:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 33.2:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 33.3:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.4:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.5:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.6:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 34.1:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 34.2:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 34.3:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 34.4:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 34.5:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 34.6:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 35.1:
+        non_striker: BD Macdonald
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 35.2:
+        non_striker: BD Macdonald
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 35.3:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 35.4:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 35.5:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 35.6:
+        non_striker: PSP Handscomb
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 36.1:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 36.2:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 36.3:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 36.4:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 36.5:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 36.6:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 37.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BD Macdonald
+    - 37.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 37.3:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 37.4:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 37.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 37.6:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 37.7:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 38.1:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 38.2:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 38.3:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 38.4:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 38.5:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 38.6:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 38.7:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 38.8:
+        non_striker: PSP Handscomb
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 39.1:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 39.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 39.3:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 39.4:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 39.5:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 39.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 40.1:
+        non_striker: BD Macdonald
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 40.2:
+        non_striker: BD Macdonald
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 40.3:
+        non_striker: BD Macdonald
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 40.4:
+        non_striker: BD Macdonald
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 40.5:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 40.6:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 41.1:
+        non_striker: BD Macdonald
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 41.2:
+        non_striker: BD Macdonald
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 41.3:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 41.4:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 41.5:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 41.6:
+        non_striker: BD Macdonald
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 42.1:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 42.2:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 42.3:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 42.4:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 42.5:
+        non_striker: BD Macdonald
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 42.6:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 42.7:
+        non_striker: PSP Handscomb
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 43.1:
+        non_striker: BD Macdonald
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 43.2:
+        non_striker: BD Macdonald
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 43.3:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 43.4:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 43.5:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 43.6:
+        non_striker: PSP Handscomb
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 44.1:
+        non_striker: BD Macdonald
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 44.2:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 44.3:
+        non_striker: PSP Handscomb
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald

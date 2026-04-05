@@ -1,0 +1,2020 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Oakland
+  competition: Major League Cricket
+  dates:
+  - '2025-06-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Washington Freedom
+    by:
+      runs: 113
+  overs: 20
+  player_of_match:
+  - GJ Maxwell
+  players:
+    Washington Freedom:
+    - MJ Owen
+    - R Ravindra
+    - AGS Gous
+    - MS Chapman
+    - J Edwards
+    - GJ Maxwell
+    - AJ Pienaar
+    - MR Adair
+    - Yasir Mohammad
+    - IG Holland
+    - SN Netravalkar
+    Los Angeles Knight Riders:
+    - AD Hales
+    - SP Narine
+    - UBT Chand
+    - Saif Badar
+    - R Powell
+    - MW Tromp
+    - JO Holder
+    - AD Russell
+    - SC van Schalkwyk
+    - CA Dry
+    - T Sangha
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AD Russell: bbd41817
+      AGS Gous: d1305df0
+      AJ Pienaar: 647a48da
+      CA Dry: 7bc29ffb
+      GJ Maxwell: b681e71e
+      IG Holland: 4167f30b
+      J Edwards: f787e0eb
+      JO Holder: 0f721006
+      Jermaine Lindo: 1154bf4f
+      M Erasmus: 15d3c895
+      MJ Owen: f2c936d7
+      MR Adair: fc55ec67
+      MS Chapman: 7fa12533
+      MW Tromp: 568473e4
+      R Powell: 650d5e49
+      R Ravindra: ba5e1069
+      SC van Schalkwyk: 97b0e4ff
+      SJA Taufel: 4b43d5ac
+      SN Netravalkar: c8a3f688
+      SP Narine: 9d430b40
+      Saif Badar: e5d452d7
+      T Sangha: 52c952d9
+      UBT Chand: 0c94f480
+      Vijaya Mallela: 85b6244a
+      WR Knights: 63cbf8d8
+      Yasir Mohammad: fe5175ce
+  teams:
+  - Washington Freedom
+  - Los Angeles Knight Riders
+  toss:
+    winner: Washington Freedom
+    decision: bat
+  umpires:
+  - Vijaya Mallela
+  - WR Knights
+  venue: Oakland Coliseum,Oakland
+innings:
+- 1st innings:
+    team: Washington Freedom
+    deliveries:
+    - 0.1:
+        non_striker: R Ravindra
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 0.2:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 0.3:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 0.4:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 0.5:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ravindra
+    - 0.6:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          kind: bowled
+    - 0.7:
+        non_striker: MJ Owen
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.1:
+        non_striker: AGS Gous
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Owen
+    - 1.3:
+        non_striker: AGS Gous
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 1.4:
+        non_striker: AGS Gous
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 1.5:
+        non_striker: MJ Owen
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 1.6:
+        non_striker: MJ Owen
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Owen
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Owen
+    - 2.4:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 2.5:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 2.6:
+        non_striker: AGS Gous
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+        wicket:
+          player_out: MJ Owen
+          fielders:
+          - SP Narine
+          kind: caught
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.2:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.3:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.4:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 3.5:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - AD Russell
+          kind: caught
+    - 4.1:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.2:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.3:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.4:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 5.1:
+        non_striker: MS Chapman
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Edwards
+    - 5.3:
+        non_striker: MS Chapman
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 5.4:
+        non_striker: J Edwards
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: J Edwards
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.7:
+        non_striker: MS Chapman
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.4:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.6:
+        non_striker: J Edwards
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Edwards
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+        wicket:
+          player_out: J Edwards
+          fielders:
+          - UBT Chand
+          kind: caught
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.4:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.5:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.6:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.1:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.2:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 8.3:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.4:
+        non_striker: GJ Maxwell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.6:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.7:
+        non_striker: MS Chapman
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.1:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.2:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.4:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 9.5:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 9.6:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 10.1:
+        non_striker: MS Chapman
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: MS Chapman
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.5:
+        non_striker: MS Chapman
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.6:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.1:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 11.2:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 11.3:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 11.4:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - SP Narine
+          kind: caught
+    - 11.5:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 11.6:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 12.1:
+        non_striker: GJ Maxwell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 12.2:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.3:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: GJ Maxwell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 12.5:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.6:
+        non_striker: GJ Maxwell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 13.1:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 13.2:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 13.3:
+        non_striker: AJ Pienaar
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 13.4:
+        non_striker: AJ Pienaar
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 13.5:
+        non_striker: AJ Pienaar
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 13.6:
+        non_striker: AJ Pienaar
+        bowler: T Sangha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 13.7:
+        non_striker: AJ Pienaar
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.1:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.2:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.3:
+        non_striker: GJ Maxwell
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 14.4:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.5:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.6:
+        non_striker: GJ Maxwell
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 15.1:
+        non_striker: AJ Pienaar
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 15.2:
+        non_striker: AJ Pienaar
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 15.3:
+        non_striker: AJ Pienaar
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 15.4:
+        non_striker: GJ Maxwell
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 15.5:
+        non_striker: AJ Pienaar
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 15.6:
+        non_striker: AJ Pienaar
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 16.1:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 16.2:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 16.3:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 16.4:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 16.5:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 16.6:
+        non_striker: AJ Pienaar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 17.1:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 17.2:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 17.3:
+        non_striker: GJ Maxwell
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 17.4:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 17.5:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 17.6:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: GJ Maxwell
+    - 17.7:
+        non_striker: AJ Pienaar
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 18.1:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 18.2:
+        non_striker: AJ Pienaar
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 18.3:
+        non_striker: AJ Pienaar
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 18.4:
+        non_striker: AJ Pienaar
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 18.5:
+        non_striker: AJ Pienaar
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GJ Maxwell
+    - 18.6:
+        non_striker: AJ Pienaar
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 18.7:
+        non_striker: GJ Maxwell
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 19.1:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 19.2:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 19.3:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 19.4:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 19.5:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 19.6:
+        non_striker: GJ Maxwell
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Pienaar
+    - 19.7:
+        non_striker: GJ Maxwell
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 19.8:
+        non_striker: AJ Pienaar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+- 2nd innings:
+    team: Los Angeles Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.2:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.3:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.4:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - AJ Pienaar
+          kind: caught
+    - 0.5:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 0.6:
+        non_striker: SP Narine
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 1.1:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          kind: bowled
+    - 1.2:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 1.3:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saif Badar
+    - 1.4:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 1.5:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 1.6:
+        non_striker: UBT Chand
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 2.1:
+        non_striker: UBT Chand
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 2.2:
+        non_striker: UBT Chand
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 2.3:
+        non_striker: UBT Chand
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 2.4:
+        non_striker: UBT Chand
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 2.5:
+        non_striker: Saif Badar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 2.6:
+        non_striker: Saif Badar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 3.1:
+        non_striker: UBT Chand
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 3.2:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 3.3:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: UBT Chand
+    - 3.4:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+    - 3.5:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UBT Chand
+        wicket:
+          player_out: UBT Chand
+          kind: bowled
+    - 3.6:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 3.7:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 4.1:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 4.2:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 4.3:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 4.4:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 4.5:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 4.6:
+        non_striker: R Powell
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 5.1:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 5.2:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 5.3:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 5.4:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 5.5:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 5.6:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 6.1:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - MR Adair
+          kind: caught
+    - 6.2:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 6.3:
+        non_striker: MW Tromp
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 6.4:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+    - 6.5:
+        non_striker: Saif Badar
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Tromp
+    - 6.6:
+        non_striker: MW Tromp
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 7.1:
+        non_striker: Saif Badar
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+    - 7.2:
+        non_striker: Saif Badar
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+    - 7.3:
+        non_striker: Saif Badar
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Tromp
+        wicket:
+          player_out: MW Tromp
+          fielders:
+          - Yasir Mohammad
+          kind: caught
+    - 7.4:
+        non_striker: Saif Badar
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 7.5:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 7.6:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 8.1:
+        non_striker: Saif Badar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.2:
+        non_striker: Saif Badar
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JO Holder
+    - 8.3:
+        non_striker: Saif Badar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.4:
+        non_striker: Saif Badar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 8.5:
+        non_striker: JO Holder
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+    - 8.6:
+        non_striker: JO Holder
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 8.7:
+        non_striker: JO Holder
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saif Badar
+    - 9.1:
+        non_striker: Saif Badar
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 9.2:
+        non_striker: JO Holder
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saif Badar
+    - 9.3:
+        non_striker: Saif Badar
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 9.4:
+        non_striker: Saif Badar
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 9.5:
+        non_striker: Saif Badar
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 9.6:
+        non_striker: Saif Badar
+        bowler: Yasir Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 10.1:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saif Badar
+        wicket:
+          player_out: Saif Badar
+          kind: lbw
+    - 10.2:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.3:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.4:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 10.5:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - Yasir Mohammad
+          kind: caught
+    - 10.6:
+        non_striker: JO Holder
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 11.1:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 11.2:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 11.3:
+        non_striker: JO Holder
+        bowler: IG Holland
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SC van Schalkwyk
+    - 11.4:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 11.5:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 11.6:
+        non_striker: JO Holder
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 11.7:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 12.1:
+        non_striker: JO Holder
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 12.2:
+        non_striker: SC van Schalkwyk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          kind: bowled
+    - 12.3:
+        non_striker: SC van Schalkwyk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Dry
+    - 12.4:
+        non_striker: CA Dry
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 12.5:
+        non_striker: CA Dry
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 12.6:
+        non_striker: CA Dry
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 13.1:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 13.2:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 13.3:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 13.4:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Dry
+    - 13.5:
+        non_striker: CA Dry
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 13.6:
+        non_striker: CA Dry
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 14.1:
+        non_striker: CA Dry
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 14.2:
+        non_striker: CA Dry
+        bowler: MJ Owen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC van Schalkwyk
+    - 14.3:
+        non_striker: SC van Schalkwyk
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Dry
+    - 14.4:
+        non_striker: SC van Schalkwyk
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 14.5:
+        non_striker: SC van Schalkwyk
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 14.6:
+        non_striker: SC van Schalkwyk
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Dry
+    - 15.1:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Dry
+    - 15.2:
+        non_striker: CA Dry
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.3:
+        non_striker: CA Dry
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 15.4:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 15.5:
+        non_striker: SC van Schalkwyk
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Dry
+    - 15.6:
+        non_striker: CA Dry
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+        wicket:
+          player_out: SC van Schalkwyk
+          fielders:
+          - J Edwards
+          kind: caught
+    - 16.1:
+        non_striker: T Sangha
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Dry
+    - 16.2:
+        non_striker: T Sangha
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+    - 16.3:
+        non_striker: T Sangha
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Dry
+        wicket:
+          player_out: CA Dry
+          fielders:
+          - MS Chapman
+          kind: caught

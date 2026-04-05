@@ -1,0 +1,1824 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2024-07-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: San Francisco Unicorns
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - FH Allen
+  players:
+    Seattle Orcas:
+    - RD Rickelton
+    - Aaron Jones
+    - Q de Kock
+    - GSNFG Jayasuriya
+    - H Klaasen
+    - Shubham Ranjane
+    - Harmeet Singh
+    - KMA Paul
+    - Imad Wasim
+    - CJ Gannon
+    - L Ngidi
+    San Francisco Unicorns:
+    - FH Allen
+    - MW Short
+    - SP Krishnamurthi
+    - JP Inglis
+    - SE Rutherford
+    - CJ Anderson
+    - Hassan Khan
+    - PJ Cummins
+    - Haris Rauf
+    - C le Roux
+    - BL Couch
+  registry:
+    people:
+      Aaron Jones: 17aa4f1d
+      BL Couch: be69e09d
+      C le Roux: 7a490dec
+      CJ Anderson: 8abdf100
+      CJ Gannon: 519c30cb
+      FH Allen: bf74b130
+      GSNFG Jayasuriya: b58b7db6
+      H Klaasen: 235c2bb6
+      Haris Rauf: 24bb1c2f
+      Harmeet Singh: 0bf15e52
+      Hassan Khan: 486065b3
+      Imad Wasim: 9cb8d7a6
+      JJ Crowe: 2e760301
+      JP Inglis: 989889ff
+      KMA Paul: 75224f22
+      L Ngidi: f834dcfc
+      M Erasmus: 15d3c895
+      MW Short: a90e53ec
+      O Brown: 22fe51d7
+      P Wilson: 68304a36
+      PJ Cummins: ded9240e
+      Q de Kock: 372455c4
+      RD Rickelton: e66732f8
+      SE Rutherford: d014d5ac
+      SP Krishnamurthi: 3b8e7647
+      Shubham Ranjane: 6c7a68d0
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Seattle Orcas
+  - San Francisco Unicorns
+  toss:
+    winner: San Francisco Unicorns
+    decision: field
+  umpires:
+  - M Erasmus
+  - Vijaya Mallela
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: Seattle Orcas
+    deliveries:
+    - 0.1:
+        non_striker: Aaron Jones
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - FH Allen
+          kind: caught
+    - 0.2:
+        non_striker: Aaron Jones
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+        wicket:
+          player_out: Aaron Jones
+          kind: lbw
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 1.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 2.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GSNFG Jayasuriya
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GSNFG Jayasuriya
+    - 3.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 4.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.7:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 5.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 6.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 6.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 7.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 7.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 8.4:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GSNFG Jayasuriya
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 9.2:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 9.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 9.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.4:
+        non_striker: Q de Kock
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 10.5:
+        non_striker: Q de Kock
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 10.6:
+        non_striker: Q de Kock
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 11.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - CJ Anderson
+          kind: caught
+    - 11.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: CJ Anderson
+            out: BL Couch
+            reason: injury
+            role: bowler
+        batsman: H Klaasen
+    - 11.4:
+        non_striker: H Klaasen
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+        wicket:
+          player_out: GSNFG Jayasuriya
+          kind: bowled
+    - 11.5:
+        non_striker: H Klaasen
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.6:
+        non_striker: Shubham Ranjane
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.1:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.2:
+        non_striker: H Klaasen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.3:
+        non_striker: H Klaasen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.4:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 12.5:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 12.6:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.1:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - SP Krishnamurthi
+          kind: caught
+    - 13.2:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.3:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 13.4:
+        non_striker: Harmeet Singh
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.5:
+        non_striker: Harmeet Singh
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.6:
+        non_striker: Harmeet Singh
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.1:
+        non_striker: Harmeet Singh
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 14.2:
+        non_striker: Harmeet Singh
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 14.3:
+        non_striker: Harmeet Singh
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 14.5:
+        non_striker: Shubham Ranjane
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 14.6:
+        non_striker: Harmeet Singh
+        bowler: C le Roux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.1:
+        non_striker: Harmeet Singh
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.2:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 15.3:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 15.4:
+        non_striker: Harmeet Singh
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.5:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - FH Allen
+          kind: caught
+    - 15.6:
+        non_striker: Shubham Ranjane
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          kind: bowled
+    - 16.1:
+        non_striker: Imad Wasim
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 16.2:
+        non_striker: Imad Wasim
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 16.3:
+        non_striker: Imad Wasim
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.4:
+        non_striker: Shubham Ranjane
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 16.5:
+        non_striker: Shubham Ranjane
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.6:
+        non_striker: Imad Wasim
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 17.1:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 17.2:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 17.3:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.4:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 17.5:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.6:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.1:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.2:
+        non_striker: Imad Wasim
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.3:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.4:
+        non_striker: Imad Wasim
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 18.5:
+        non_striker: Imad Wasim
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.6:
+        non_striker: Shubham Ranjane
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 19.1:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.3:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Imad Wasim
+    - 19.4:
+        non_striker: Imad Wasim
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.5:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 19.6:
+        non_striker: Shubham Ranjane
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+- 2nd innings:
+    team: San Francisco Unicorns
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.2:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.5:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.6:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.1:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.2:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.3:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.4:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.5:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 1.6:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.2:
+        non_striker: FH Allen
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 2.3:
+        non_striker: FH Allen
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 2.4:
+        non_striker: FH Allen
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.5:
+        non_striker: MW Short
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.6:
+        non_striker: MW Short
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.1:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.2:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.3:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.4:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 3.5:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 3.6:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 3.7:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.1:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.2:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.3:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 4.4:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 4.5:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 4.6:
+        non_striker: MW Short
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 5.1:
+        non_striker: FH Allen
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 5.2:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.3:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 5.4:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 5.5:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 5.6:
+        non_striker: MW Short
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.1:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.2:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 6.3:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.4:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - L Ngidi
+          kind: caught
+    - 6.5:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 6.6:
+        non_striker: FH Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 7.1:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.2:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.3:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.4:
+        non_striker: FH Allen
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 7.5:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 7.6:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.1:
+        non_striker: JP Inglis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 8.2:
+        non_striker: JP Inglis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 8.3:
+        non_striker: JP Inglis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 8.4:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.5:
+        non_striker: JP Inglis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 8.6:
+        non_striker: JP Inglis
+        bowler: Imad Wasim
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: SP Krishnamurthi
+    - 9.1:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 9.2:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.3:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 9.4:
+        non_striker: SP Krishnamurthi
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.5:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 9.6:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 10.1:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 10.2:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 10.3:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 10.4:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 10.5:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 10.6:
+        non_striker: SP Krishnamurthi
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 11.1:
+        non_striker: JP Inglis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 11.2:
+        non_striker: SP Krishnamurthi
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 11.3:
+        non_striker: SP Krishnamurthi
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 11.4:
+        non_striker: JP Inglis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 11.5:
+        non_striker: JP Inglis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 11.6:
+        non_striker: SP Krishnamurthi
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 12.1:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          fielders:
+          - GSNFG Jayasuriya
+          kind: caught
+    - 12.2:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.3:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.4:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 12.5:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 12.7:
+        non_striker: JP Inglis
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 13.2:
+        non_striker: JP Inglis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 13.3:
+        non_striker: JP Inglis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.4:
+        non_striker: SE Rutherford
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 13.5:
+        non_striker: JP Inglis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: caught and bowled
+    - 13.6:
+        non_striker: JP Inglis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 14.1:
+        non_striker: CJ Anderson
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 14.2:
+        non_striker: CJ Anderson
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis

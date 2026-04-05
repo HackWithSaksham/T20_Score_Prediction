@@ -1,0 +1,638 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Women's Super Smash
+  dates:
+  - '2026-01-01'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Central Districts
+    by:
+      wickets: 7
+    method: D/L
+  overs: 20
+  player_of_match:
+  - BF Smith
+  players:
+    Canterbury:
+    - KG Anderson
+    - NB Cox
+    - IG Sharp
+    - J Dean
+    - LMM Tahuhu
+    - KP Irwin
+    - MJ Banks
+    - AG Gerken
+    - KM Chandler
+    - GES Sullivan
+    - SR Asmussen
+    Central Districts:
+    - BF Smith
+    - G Scrivens
+    - FDM Devonshire
+    - KA Tomlinson
+    - HM Rowe
+    - EMA McLeod
+    - RA Mair
+    - CS Pedersen
+    - KJ Gaging
+    - CL Green
+    - Ashtuti Kumar
+  registry:
+    people:
+      AE Shipley: 3115e077
+      AG Gerken: a7fcf627
+      Ashtuti Kumar: 8aa62462
+      BF Smith: c64b7c5b
+      CL Green: 0160b1d9
+      CS Pedersen: 553eff23
+      EMA McLeod: 1f1ee021
+      FDM Devonshire: c8b0b64c
+      G Scrivens: 7306c48d
+      GES Sullivan: 165b9097
+      HM Rowe: 8ca1f93a
+      IG Sharp: 4de0779a
+      J Dean: 2e018b14
+      KA Tomlinson: 83d6e306
+      KG Anderson: ae79a86f
+      KJ Gaging: 7a759a8a
+      KM Chandler: 32221cdb
+      KP Irwin: bd3ab0c3
+      KS Jagannathan: 9bc8dcec
+      Kim Cotton: 67a7c2ee
+      LMM Tahuhu: '60471339'
+      MJ Banks: 1e17a238
+      NB Cox: 219f1323
+      RA Mair: d5eb8b84
+      RG Dalley: c147335d
+      SR Asmussen: '31972229'
+      TL Anderson: f52ddf8d
+  teams:
+  - Canterbury
+  - Central Districts
+  toss:
+    winner: Central Districts
+    decision: field
+  umpires:
+  - AE Shipley
+  - KS Jagannathan
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 0.2:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 0.3:
+        non_striker: NB Cox
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - KA Tomlinson
+          kind: caught
+    - 0.4:
+        non_striker: NB Cox
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 0.5:
+        non_striker: IG Sharp
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 0.6:
+        non_striker: NB Cox
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IG Sharp
+    - 0.7:
+        non_striker: NB Cox
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IG Sharp
+    - 0.8:
+        non_striker: NB Cox
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IG Sharp
+    - 1.1:
+        non_striker: NB Cox
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IG Sharp
+    - 1.2:
+        non_striker: NB Cox
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 1.3:
+        non_striker: IG Sharp
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          kind: bowled
+    - 1.4:
+        non_striker: IG Sharp
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 1.5:
+        non_striker: IG Sharp
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 1.6:
+        non_striker: IG Sharp
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Dean
+    - 2.1:
+        non_striker: J Dean
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IG Sharp
+    - 2.2:
+        non_striker: J Dean
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          fielders:
+          - RA Mair
+          kind: caught
+    - 2.3:
+        non_striker: J Dean
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 2.4:
+        non_striker: LMM Tahuhu
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 2.5:
+        non_striker: LMM Tahuhu
+        bowler: CL Green
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: J Dean
+    - 2.6:
+        non_striker: LMM Tahuhu
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 3.1:
+        non_striker: LMM Tahuhu
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 3.2:
+        non_striker: LMM Tahuhu
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 3.3:
+        non_striker: LMM Tahuhu
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 3.4:
+        non_striker: J Dean
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 3.5:
+        non_striker: J Dean
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 3.6:
+        non_striker: J Dean
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 4.1:
+        non_striker: LMM Tahuhu
+        bowler: FDM Devonshire
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Dean
+    - 4.2:
+        non_striker: LMM Tahuhu
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 4.3:
+        non_striker: LMM Tahuhu
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+        wicket:
+          player_out: J Dean
+          kind: bowled
+    - 4.4:
+        non_striker: LMM Tahuhu
+        bowler: FDM Devonshire
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KP Irwin
+    - 4.5:
+        non_striker: KP Irwin
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 4.6:
+        non_striker: KP Irwin
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: KP Irwin
+          fielders:
+          - KJ Gaging
+          - CL Green
+          kind: run out
+    - 4.7:
+        non_striker: LMM Tahuhu
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+        wicket:
+          player_out: MJ Banks
+          fielders:
+          - RA Mair
+          kind: run out
+    - 4.8:
+        non_striker: AG Gerken
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Scrivens
+        batsman: BF Smith
+    - 0.2:
+        non_striker: BF Smith
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Scrivens
+    - 0.3:
+        non_striker: BF Smith
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 0.4:
+        non_striker: BF Smith
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+        wicket:
+          player_out: G Scrivens
+          fielders:
+          - KG Anderson
+          kind: caught
+    - 0.5:
+        non_striker: BF Smith
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 0.6:
+        non_striker: BF Smith
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 1.1:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 1.2:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 1.3:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Smith
+    - 1.4:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 1.5:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 1.6:
+        non_striker: FDM Devonshire
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 2.1:
+        non_striker: BF Smith
+        bowler: SR Asmussen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: FDM Devonshire
+    - 2.2:
+        non_striker: FDM Devonshire
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 2.3:
+        non_striker: FDM Devonshire
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Smith
+    - 2.4:
+        non_striker: FDM Devonshire
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 2.5:
+        non_striker: BF Smith
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 2.6:
+        non_striker: BF Smith
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FDM Devonshire
+    - 3.1:
+        non_striker: FDM Devonshire
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Smith
+    - 3.2:
+        non_striker: FDM Devonshire
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+        wicket:
+          player_out: BF Smith
+          fielders:
+          - J Dean
+          kind: caught
+    - 3.3:
+        non_striker: FDM Devonshire
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+        wicket:
+          player_out: KA Tomlinson
+          fielders:
+          - NB Cox
+          kind: run out
+    - 3.4:
+        non_striker: FDM Devonshire
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 3.5:
+        non_striker: HM Rowe
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 3.6:
+        non_striker: HM Rowe
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 4.1:
+        non_striker: FDM Devonshire
+        bowler: GES Sullivan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Rowe
+    - 4.2:
+        non_striker: FDM Devonshire
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 4.3:
+        non_striker: FDM Devonshire
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe

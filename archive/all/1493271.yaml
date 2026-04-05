@@ -1,0 +1,1895 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Big Bash League
+  dates:
+  - '2026-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Melbourne Stars
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - TK Curran
+  players:
+    Adelaide Strikers:
+    - AT Carey
+    - MW Short
+    - CA Lynn
+    - L Scott
+    - JJS Sangha
+    - J Overton
+    - HJ Manenti
+    - Hasan Ali
+    - CJ Boyce
+    - L Pope
+    - T Shamsi
+    Melbourne Stars:
+    - SB Harper
+    - TF Rogers
+    - C Kellaway
+    - BD Macdonald
+    - MP Stoinis
+    - TK Curran
+    - HWR Cartwright
+    - GJ Maxwell
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+  registry:
+    people:
+      AT Carey: 69d03465
+      BC Treloar: f7e8ee52
+      BD Macdonald: 28147cdc
+      C Grant: 876ed858
+      C Kellaway: 60c28835
+      CA Lynn: 45eda7c8
+      CA Polosak: 26a360d2
+      CJ Boyce: 51a60c16
+      GA Abood: a4af5528
+      GJ Maxwell: b681e71e
+      HJ Manenti: 0e56c514
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      Hasan Ali: 2911de16
+      J Overton: 59559bc2
+      JJS Sangha: 8e3cb0e9
+      Kent Hannam: 8cc171e7
+      L Pope: 616a8149
+      L Scott: 0ebb3444
+      MJ Swepson: 86b4bf88
+      MP Stoinis: d9273ee7
+      MW Harvey: 47dc9794
+      MW Short: a90e53ec
+      PM Siddle: bd93fea4
+      SB Harper: a756e61a
+      T Shamsi: a03bba42
+      TF Rogers: 7f232d46
+      TK Curran: e86754b2
+  teams:
+  - Adelaide Strikers
+  - Melbourne Stars
+  toss:
+    winner: Melbourne Stars
+    decision: field
+  umpires:
+  - BC Treloar
+  - GA Abood
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 0.2:
+        non_striker: AT Carey
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.3:
+        non_striker: AT Carey
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.4:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 0.5:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 0.6:
+        non_striker: AT Carey
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.1:
+        non_striker: AT Carey
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.2:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 1.3:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 1.4:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Carey
+    - 1.5:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 1.6:
+        non_striker: AT Carey
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.7:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - Haris Rauf
+          kind: caught
+    - 2.1:
+        non_striker: CA Lynn
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.2:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 2.3:
+        non_striker: CA Lynn
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.4:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 2.5:
+        non_striker: CA Lynn
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.6:
+        non_striker: MW Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.1:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 3.2:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.3:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          kind: lbw
+    - 3.4:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 3.5:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 3.6:
+        non_striker: MW Short
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 4.1:
+        non_striker: L Scott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - SB Harper
+          kind: caught
+    - 4.2:
+        non_striker: L Scott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 4.3:
+        non_striker: JJS Sangha
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 4.4:
+        non_striker: L Scott
+        bowler: PM Siddle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJS Sangha
+    - 4.5:
+        non_striker: JJS Sangha
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 4.6:
+        non_striker: L Scott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 5.1:
+        non_striker: JJS Sangha
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 5.2:
+        non_striker: JJS Sangha
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 5.3:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 5.4:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJS Sangha
+    - 5.5:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 5.6:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+        wicket:
+          player_out: JJS Sangha
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 6.1:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 6.2:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 6.3:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott
+    - 6.4:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 6.5:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 6.6:
+        non_striker: J Overton
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 7.1:
+        non_striker: L Scott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 7.2:
+        non_striker: J Overton
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 7.3:
+        non_striker: L Scott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 7.4:
+        non_striker: L Scott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 7.5:
+        non_striker: L Scott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 7.6:
+        non_striker: J Overton
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 8.1:
+        non_striker: L Scott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 8.2:
+        non_striker: L Scott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 8.3:
+        non_striker: J Overton
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Scott
+    - 8.4:
+        non_striker: J Overton
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Scott
+    - 8.5:
+        non_striker: J Overton
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 8.6:
+        non_striker: L Scott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 9.1:
+        non_striker: J Overton
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 9.2:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 9.3:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 9.4:
+        non_striker: L Scott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 9.5:
+        non_striker: J Overton
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+        wicket:
+          player_out: L Scott
+          fielders:
+          - SB Harper
+          kind: caught
+    - 9.6:
+        non_striker: J Overton
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.1:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+    - 10.2:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 10.3:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          kind: bowled
+    - 10.4:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Hasan Ali
+    - 10.5:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Ali
+        wicket:
+          player_out: Hasan Ali
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 10.6:
+        non_striker: HJ Manenti
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 10.7:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.1:
+        non_striker: HJ Manenti
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 11.2:
+        non_striker: HJ Manenti
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 11.3:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.4:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 11.5:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.6:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 12.1:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.2:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.3:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          kind: lbw
+    - 12.4:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pope
+    - 12.5:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pope
+    - 12.6:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pope
+    - 13.1:
+        non_striker: L Pope
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 13.2:
+        non_striker: L Pope
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 13.3:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pope
+    - 13.4:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Pope
+        wicket:
+          player_out: L Pope
+          fielders:
+          - SB Harper
+          kind: stumped
+    - 13.5:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 13.6:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 14.1:
+        non_striker: T Shamsi
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 14.2:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 14.3:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 14.4:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Shamsi
+    - 14.5:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 14.6:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 14.7:
+        non_striker: T Shamsi
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 15.1:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 15.2:
+        non_striker: T Shamsi
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 15.3:
+        non_striker: T Shamsi
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Boyce
+    - 15.4:
+        non_striker: T Shamsi
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 15.5:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 15.6:
+        non_striker: CJ Boyce
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 16.1:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 16.2:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 16.3:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 16.4:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 16.5:
+        non_striker: CJ Boyce
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 16.6:
+        non_striker: T Shamsi
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 17.1:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 17.2:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 17.3:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 17.4:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 17.5:
+        non_striker: T Shamsi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 17.6:
+        non_striker: CJ Boyce
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 18.1:
+        non_striker: CJ Boyce
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 18.2:
+        non_striker: T Shamsi
+        bowler: C Kellaway
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Boyce
+    - 18.3:
+        non_striker: T Shamsi
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 18.4:
+        non_striker: CJ Boyce
+        bowler: C Kellaway
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Shamsi
+    - 18.5:
+        non_striker: CJ Boyce
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 18.6:
+        non_striker: T Shamsi
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Boyce
+    - 18.7:
+        non_striker: T Shamsi
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Boyce
+    - 18.8:
+        non_striker: CJ Boyce
+        bowler: C Kellaway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 19.1:
+        non_striker: T Shamsi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Boyce
+    - 19.2:
+        non_striker: T Shamsi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+    - 19.3:
+        non_striker: T Shamsi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+        wicket:
+          player_out: CJ Boyce
+          fielders:
+          - GJ Maxwell
+          kind: caught
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SB Harper
+    - 0.2:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 0.3:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 0.4:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.5:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 0.6:
+        non_striker: SB Harper
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.7:
+        non_striker: SB Harper
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.1:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.2:
+        non_striker: SB Harper
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.4:
+        non_striker: SB Harper
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.5:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.6:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - MW Harvey (sub)
+          kind: caught
+    - 2.1:
+        non_striker: C Kellaway
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 2.2:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.3:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.4:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.5:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.6:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - J Overton
+          kind: caught
+    - 3.1:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.2:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.3:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.5:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: BD Macdonald
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.1:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.2:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 4.3:
+        non_striker: BD Macdonald
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TF Rogers
+    - 4.4:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 4.5:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 4.6:
+        non_striker: BD Macdonald
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.1:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.2:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 5.3:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 5.4:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 5.5:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 5.6:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 6.1:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 6.2:
+        non_striker: BD Macdonald
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 6.3:
+        non_striker: BD Macdonald
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 6.4:
+        non_striker: BD Macdonald
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 6.5:
+        non_striker: BD Macdonald
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 6.6:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 7.1:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 7.2:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 7.3:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 7.4:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 7.5:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 7.6:
+        non_striker: BD Macdonald
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 8.1:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 8.2:
+        non_striker: BD Macdonald
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 8.3:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+        wicket:
+          player_out: BD Macdonald
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 8.4:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: MP Stoinis
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 8.6:
+        non_striker: TF Rogers
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 9.2:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 9.4:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 10.1:
+        non_striker: MP Stoinis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 10.2:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: TF Rogers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 10.5:
+        non_striker: MP Stoinis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 10.6:
+        non_striker: MP Stoinis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 11.1:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 11.2:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.3:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 11.4:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 11.5:
+        non_striker: TF Rogers
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.6:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 12.1:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 12.2:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 12.3:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.4:
+        non_striker: MP Stoinis
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 12.5:
+        non_striker: MP Stoinis
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 12.6:
+        non_striker: TF Rogers
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.1:
+        non_striker: MP Stoinis
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 13.2:
+        non_striker: MP Stoinis
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 13.3:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.4:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 13.5:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.6:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 13.7:
+        non_striker: TF Rogers
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 14.1:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - JJS Sangha
+          kind: caught
+    - 14.2:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 14.3:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 14.4:
+        non_striker: MP Stoinis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.5:
+        non_striker: TK Curran
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          kind: retired hurt
+    - 14.6:
+        non_striker: TK Curran
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 15.1:
+        non_striker: HWR Cartwright
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran

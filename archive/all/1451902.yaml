@@ -1,0 +1,802 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kampala
+  dates:
+  - '2024-11-13'
+  gender: male
+  match_type: ODM
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Tanzania:
+    - AR Patwa
+    - II Selemani
+    - MO Kitunda
+    - MS Maker
+    - Akhil Anil
+    - AP Rajeevan
+    - HA Chohan
+    - K Juma
+    - M Yunusu Issa
+    - RA Maringanti
+    - S Thakor
+    Singapore:
+    - Aman Desai
+    - Aritra Dutta
+    - R Rohan
+    - Manpreet Singh
+    - A Kaul
+    - RR Naik
+    - R Kalimuthu
+    - AAhan Achar
+    - H Bharadwaj
+    - PSRK Sudarshan
+    - R Gaznavi
+  registry:
+    people:
+      A Kaul: 53d0b0dc
+      AAhan Achar: 797f52cc
+      AP Rajeevan: 63d6f031
+      AR Patwa: b43f7a6a
+      Akhil Anil: c06c25fd
+      Aman Desai: c10fd8f9
+      Aritra Dutta: f3a5c378
+      F Mutizwa: d3e83eef
+      Faisal Afridi: ed0bc503
+      H Bharadwaj: 2e89652e
+      HA Chohan: 847b4bdd
+      II Selemani: b2dadc51
+      K Juma: '089ebf89'
+      M Yunusu Issa: bbab35a3
+      MO Kitunda: badef0dc
+      MS Maker: 14318ae4
+      Manpreet Singh: e9d6a2ce
+      PSRK Sudarshan: 3a44a4e4
+      Patric Makumbi: e4c69c16
+      R Gaznavi: '0079f139'
+      R Kalimuthu: 5892ac75
+      R Rohan: baf0fc26
+      RA Maringanti: 691b2317
+      RR Naik: f456ad17
+      S Thakor: '0848ac5f'
+      S Wadvalla: c1a1acf3
+  teams:
+  - Tanzania
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - F Mutizwa
+  - Patric Makumbi
+  venue: Lugogo Cricket Oval, Kampala
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.2:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.3:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.4:
+        non_striker: AR Patwa
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 0.5:
+        non_striker: AR Patwa
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 0.6:
+        non_striker: II Selemani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+        wicket:
+          player_out: AR Patwa
+          fielders:
+          - AAhan Achar
+          kind: caught
+    - 0.7:
+        non_striker: II Selemani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 1.1:
+        non_striker: II Selemani
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 1.2:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 1.3:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 1.4:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.5:
+        non_striker: II Selemani
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 1.6:
+        non_striker: II Selemani
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 1.7:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.1:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 2.2:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 2.3:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 2.4:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.5:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 2.6:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 3.1:
+        non_striker: MO Kitunda
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 3.2:
+        non_striker: MO Kitunda
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 3.3:
+        non_striker: MO Kitunda
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 3.4:
+        non_striker: II Selemani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 3.5:
+        non_striker: II Selemani
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 3.6:
+        non_striker: MO Kitunda
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 4.1:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 4.2:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 4.3:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 4.4:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 4.5:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 4.6:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.1:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.2:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.3:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.4:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 5.5:
+        non_striker: MO Kitunda
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.6:
+        non_striker: II Selemani
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 6.1:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 6.2:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 6.3:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 6.4:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Kitunda
+    - 6.5:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 6.6:
+        non_striker: MO Kitunda
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 6.7:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 7.1:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 7.2:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 7.3:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 7.4:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 7.5:
+        non_striker: MO Kitunda
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 7.6:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 8.1:
+        non_striker: MO Kitunda
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 8.2:
+        non_striker: II Selemani
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 8.3:
+        non_striker: II Selemani
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 8.4:
+        non_striker: MO Kitunda
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 8.5:
+        non_striker: II Selemani
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 8.6:
+        non_striker: MO Kitunda
+        bowler: A Kaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 9.1:
+        non_striker: MO Kitunda
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 9.2:
+        non_striker: MO Kitunda
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 9.3:
+        non_striker: MO Kitunda
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 9.4:
+        non_striker: II Selemani
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Kitunda
+    - 9.5:
+        non_striker: II Selemani
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+        wicket:
+          player_out: MO Kitunda
+          fielders:
+          - AAhan Achar
+          kind: caught
+    - 9.6:
+        non_striker: II Selemani
+        bowler: RR Naik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 10.1:
+        non_striker: MS Maker
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 10.2:
+        non_striker: II Selemani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 10.3:
+        non_striker: MS Maker
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: MS Maker
+          fielders:
+          - R Gaznavi
+          - Manpreet Singh
+          kind: run out
+    - 10.4:
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Akhil Anil
+        batsman: II Selemani
+    - 10.5:
+        non_striker: II Selemani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 10.6:
+        non_striker: II Selemani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 11.1:
+        non_striker: Akhil Anil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 11.2:
+        non_striker: Akhil Anil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 11.3:
+        non_striker: Akhil Anil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 11.4:
+        non_striker: Akhil Anil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 11.5:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Akhil Anil
+    - 11.6:
+        non_striker: II Selemani
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akhil Anil
+    - 12.1:
+        non_striker: Akhil Anil
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.2:
+        non_striker: II Selemani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 12.3:
+        non_striker: Akhil Anil
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 12.4:
+        non_striker: Akhil Anil
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 12.5:
+        non_striker: Akhil Anil
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.6:
+        non_striker: II Selemani
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 13.1:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 13.2:
+        non_striker: Akhil Anil
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 13.3:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Anil
+    - 13.4:
+        non_striker: II Selemani
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Anil
+    - 13.5:
+        non_striker: Akhil Anil
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 13.6:
+        non_striker: Akhil Anil
+        bowler: AAhan Achar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani

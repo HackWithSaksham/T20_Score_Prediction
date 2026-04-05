@@ -1,0 +1,1480 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2025-05-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Nugegoda Sports Welfare Club
+    by:
+      runs: 13
+  overs: 20
+  players:
+    Nugegoda Sports Welfare Club:
+    - Pulindu Perera
+    - Tillakaratne Sampath
+    - NR Gunasekera
+    - AK Perera
+    - A Muthalib
+    - P Pathum
+    - Kevin Perera
+    - ST Mendis
+    - BGS Mendis
+    - Abdul Hakam
+    - WA Dilshan
+    Chilaw Marians Cricket Club:
+    - Yashodha Lanka
+    - PTM Dabare
+    - H Jayasundara
+    - KVA Adikari
+    - Sammu Ashan
+    - RMRDG Rathnayake
+    - S Liyanage
+    - I Thimira
+    - NH Atharagalla
+    - S Disanayaka
+    - M Hasanka
+  registry:
+    people:
+      A Muthalib: c08bdbbe
+      AK Perera: c8ad0749
+      Abdul Hakam: de37954b
+      BGS Mendis: 29a1e487
+      D Sanjeewa: f7257752
+      H Jayasundara: 5bc572de
+      I Thimira: 2ee2fcc8
+      KVA Adikari: 4830fcaf
+      Kevin Perera: e88e6a14
+      LE Hannibal: 3c04e91a
+      M Hasanka: '70888633'
+      NH Atharagalla: 5250b33c
+      NR Gunasekera: '88781812'
+      P Pathum: 461bde69
+      PTM Dabare: a97fbc2c
+      Pulindu Perera: d33740d9
+      RA Kottahachchi: 808f2939
+      RMRDG Rathnayake: f73c0c37
+      S Disanayaka: fbc17c95
+      S Liyanage: b47a39f9
+      ST Mendis: 2a53d8a4
+      Sammu Ashan: 981b9303
+      Tillakaratne Sampath: dc002962
+      V Bowen: 7297ac4d
+      WA Dilshan: 50ccbd51
+      Yashodha Lanka: 600dce49
+  teams:
+  - Nugegoda Sports Welfare Club
+  - Chilaw Marians Cricket Club
+  toss:
+    winner: Chilaw Marians Cricket Club
+    decision: field
+  umpires:
+  - LE Hannibal
+  - RA Kottahachchi
+  venue: P Sara Oval, Colombo
+innings:
+- 1st innings:
+    team: Nugegoda Sports Welfare Club
+    deliveries:
+    - 0.1:
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tillakaratne Sampath
+        batsman: Pulindu Perera
+    - 0.2:
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tillakaratne Sampath
+        batsman: Pulindu Perera
+    - 0.3:
+        bowler: S Disanayaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Tillakaratne Sampath
+        batsman: Pulindu Perera
+    - 0.4:
+        non_striker: Pulindu Perera
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tillakaratne Sampath
+    - 0.5:
+        non_striker: Tillakaratne Sampath
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pulindu Perera
+    - 0.6:
+        non_striker: Pulindu Perera
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tillakaratne Sampath
+        wicket:
+          player_out: Tillakaratne Sampath
+          kind: bowled
+    - 1.1:
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NR Gunasekera
+        batsman: Pulindu Perera
+    - 1.2:
+        non_striker: NR Gunasekera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pulindu Perera
+        wicket:
+          player_out: Pulindu Perera
+          fielders:
+          - H Jayasundara
+          kind: stumped
+    - 1.3:
+        non_striker: NR Gunasekera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 1.4:
+        non_striker: AK Perera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Gunasekera
+        wicket:
+          player_out: NR Gunasekera
+          kind: lbw
+    - 1.5:
+        non_striker: AK Perera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Muthalib
+    - 1.6:
+        non_striker: AK Perera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 2.1:
+        non_striker: A Muthalib
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 2.2:
+        non_striker: A Muthalib
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Perera
+    - 2.3:
+        non_striker: A Muthalib
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Perera
+    - 2.4:
+        non_striker: A Muthalib
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 2.5:
+        non_striker: AK Perera
+        bowler: S Disanayaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Muthalib
+    - 2.6:
+        non_striker: AK Perera
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 2.7:
+        non_striker: A Muthalib
+        bowler: S Disanayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 3.1:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 3.2:
+        non_striker: AK Perera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 3.3:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 3.4:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Perera
+    - 3.5:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 3.6:
+        non_striker: AK Perera
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 4.1:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 4.2:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 4.3:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 4.4:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 4.5:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 4.6:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 5.1:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 5.2:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 5.3:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AK Perera
+    - 5.4:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Muthalib
+    - 5.5:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 5.6:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 5.7:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 6.1:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 6.2:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 6.3:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 6.4:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 6.5:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 6.6:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 7.1:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 7.2:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 7.3:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 7.4:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 7.5:
+        non_striker: A Muthalib
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 7.6:
+        non_striker: AK Perera
+        bowler: PTM Dabare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Muthalib
+    - 8.1:
+        non_striker: A Muthalib
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 8.2:
+        non_striker: A Muthalib
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 8.3:
+        non_striker: AK Perera
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 8.4:
+        non_striker: A Muthalib
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 8.5:
+        non_striker: AK Perera
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 8.6:
+        non_striker: A Muthalib
+        bowler: M Hasanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 9.1:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AK Perera
+    - 9.2:
+        non_striker: AK Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 9.3:
+        non_striker: AK Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Muthalib
+    - 9.4:
+        non_striker: AK Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 9.5:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AK Perera
+    - 9.6:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 9.7:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 9.8:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 10.1:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 10.2:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 10.3:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 10.4:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 10.5:
+        non_striker: A Muthalib
+        bowler: I Thimira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AK Perera
+    - 10.6:
+        non_striker: AK Perera
+        bowler: I Thimira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 11.1:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+        wicket:
+          player_out: AK Perera
+          fielders:
+          - RMRDG Rathnayake
+          kind: caught
+    - 11.2:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pathum
+    - 11.3:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pathum
+    - 11.4:
+        non_striker: P Pathum
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 11.5:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pathum
+        wicket:
+          player_out: P Pathum
+          fielders:
+          - NH Atharagalla
+          kind: caught
+    - 11.6:
+        non_striker: A Muthalib
+        bowler: Sammu Ashan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kevin Perera
+    - 12.1:
+        non_striker: Kevin Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Muthalib
+    - 12.2:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Kevin Perera
+    - 12.3:
+        non_striker: Kevin Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Muthalib
+    - 12.4:
+        non_striker: Kevin Perera
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Muthalib
+    - 12.5:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kevin Perera
+        wicket:
+          player_out: Kevin Perera
+          fielders:
+          - H Jayasundara
+          kind: caught
+    - 12.6:
+        non_striker: A Muthalib
+        bowler: NH Atharagalla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Mendis
+- 2nd innings:
+    team: Chilaw Marians Cricket Club
+    deliveries:
+    - 0.1:
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PTM Dabare
+        batsman: Yashodha Lanka
+    - 0.2:
+        bowler: WA Dilshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: PTM Dabare
+        batsman: Yashodha Lanka
+    - 0.3:
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PTM Dabare
+        batsman: Yashodha Lanka
+    - 0.4:
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PTM Dabare
+        batsman: Yashodha Lanka
+    - 0.5:
+        non_striker: Yashodha Lanka
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 0.6:
+        non_striker: PTM Dabare
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yashodha Lanka
+    - 0.7:
+        non_striker: PTM Dabare
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yashodha Lanka
+    - 1.1:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 1.2:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PTM Dabare
+    - 1.3:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 1.4:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+        wicket:
+          player_out: PTM Dabare
+          fielders:
+          - A Muthalib
+          kind: caught
+    - 1.5:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jayasundara
+    - 1.6:
+        non_striker: Yashodha Lanka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jayasundara
+    - 2.1:
+        non_striker: H Jayasundara
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yashodha Lanka
+    - 2.2:
+        non_striker: H Jayasundara
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yashodha Lanka
+    - 2.3:
+        non_striker: Yashodha Lanka
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jayasundara
+    - 2.4:
+        non_striker: Yashodha Lanka
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jayasundara
+    - 2.5:
+        non_striker: H Jayasundara
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yashodha Lanka
+    - 2.6:
+        non_striker: H Jayasundara
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yashodha Lanka
+    - 3.1:
+        non_striker: H Jayasundara
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yashodha Lanka
+    - 3.2:
+        non_striker: H Jayasundara
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yashodha Lanka
+        wicket:
+          player_out: Yashodha Lanka
+          kind: bowled
+    - 3.3:
+        non_striker: H Jayasundara
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KVA Adikari
+    - 3.4:
+        non_striker: H Jayasundara
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KVA Adikari
+    - 3.5:
+        non_striker: KVA Adikari
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jayasundara
+    - 3.6:
+        non_striker: KVA Adikari
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jayasundara
+    - 4.1:
+        non_striker: H Jayasundara
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KVA Adikari
+    - 4.2:
+        non_striker: H Jayasundara
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KVA Adikari
+    - 4.3:
+        non_striker: KVA Adikari
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jayasundara
+    - 4.4:
+        non_striker: H Jayasundara
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KVA Adikari
+    - 4.5:
+        non_striker: KVA Adikari
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jayasundara
+    - 4.6:
+        non_striker: H Jayasundara
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KVA Adikari
+    - 5.1:
+        non_striker: KVA Adikari
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jayasundara
+    - 5.2:
+        non_striker: H Jayasundara
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KVA Adikari
+    - 5.3:
+        non_striker: KVA Adikari
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jayasundara
+    - 5.4:
+        non_striker: KVA Adikari
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jayasundara
+        wicket:
+          player_out: H Jayasundara
+          fielders:
+          - Abdul Hakam
+          kind: caught
+    - 5.5:
+        non_striker: KVA Adikari
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sammu Ashan
+    - 5.6:
+        non_striker: KVA Adikari
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sammu Ashan
+    - 6.1:
+        non_striker: KVA Adikari
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sammu Ashan
+    - 6.2:
+        non_striker: KVA Adikari
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sammu Ashan
+    - 6.3:
+        non_striker: KVA Adikari
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sammu Ashan
+    - 6.4:
+        non_striker: Sammu Ashan
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KVA Adikari
+    - 6.5:
+        non_striker: Sammu Ashan
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KVA Adikari
+        wicket:
+          player_out: KVA Adikari
+          fielders:
+          - Kevin Perera
+          kind: caught
+    - 6.6:
+        non_striker: Sammu Ashan
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMRDG Rathnayake
+    - 7.1:
+        non_striker: Sammu Ashan
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMRDG Rathnayake
+    - 7.2:
+        non_striker: RMRDG Rathnayake
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sammu Ashan
+    - 7.3:
+        non_striker: RMRDG Rathnayake
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sammu Ashan
+        wicket:
+          player_out: Sammu Ashan
+          fielders:
+          - Tillakaratne Sampath
+          kind: caught
+    - 7.4:
+        non_striker: RMRDG Rathnayake
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Liyanage
+    - 7.5:
+        non_striker: S Liyanage
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMRDG Rathnayake
+    - 7.6:
+        non_striker: S Liyanage
+        bowler: WA Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMRDG Rathnayake
+        wicket:
+          player_out: RMRDG Rathnayake
+          fielders:
+          - AK Perera
+          kind: caught
+    - 8.1:
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Thimira
+        batsman: S Liyanage
+    - 8.2:
+        non_striker: S Liyanage
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thimira
+    - 8.3:
+        non_striker: S Liyanage
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Thimira
+    - 8.4:
+        non_striker: I Thimira
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Liyanage
+    - 8.5:
+        non_striker: I Thimira
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 8.6:
+        non_striker: I Thimira
+        bowler: Tillakaratne Sampath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Liyanage
+    - 9.1:
+        non_striker: S Liyanage
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thimira
+        wicket:
+          player_out: I Thimira
+          kind: lbw
+    - 9.2:
+        non_striker: S Liyanage
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Atharagalla
+    - 9.3:
+        non_striker: S Liyanage
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NH Atharagalla
+    - 9.4:
+        non_striker: S Liyanage
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Atharagalla
+    - 9.5:
+        non_striker: S Liyanage
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Atharagalla
+    - 9.6:
+        non_striker: NH Atharagalla
+        bowler: BGS Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Liyanage
+    - 10.1:
+        non_striker: NH Atharagalla
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Liyanage
+    - 10.2:
+        non_striker: S Liyanage
+        bowler: ST Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NH Atharagalla
+    - 10.3:
+        non_striker: S Liyanage
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Atharagalla
+        wicket:
+          player_out: NH Atharagalla
+          fielders:
+          - Abdul Hakam
+          kind: caught
+    - 10.4:
+        non_striker: S Liyanage
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Disanayaka
+    - 10.5:
+        non_striker: S Liyanage
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Disanayaka
+    - 10.6:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Liyanage
+    - 10.7:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 11.1:
+        non_striker: S Liyanage
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Disanayaka
+    - 11.2:
+        non_striker: S Liyanage
+        bowler: Abdul Hakam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Disanayaka
+    - 11.3:
+        non_striker: S Disanayaka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Liyanage
+    - 11.4:
+        non_striker: S Disanayaka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 11.5:
+        non_striker: S Disanayaka
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Liyanage
+    - 11.6:
+        non_striker: S Liyanage
+        bowler: Abdul Hakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Disanayaka
+    - 12.1:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Liyanage
+    - 12.2:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 12.3:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 12.4:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Liyanage
+    - 12.5:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Liyanage
+    - 12.6:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Liyanage
+    - 12.7:
+        non_striker: S Disanayaka
+        bowler: ST Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Liyanage

@@ -1,0 +1,2137 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  competition: Vitality Blast Women
+  dates:
+  - '2025-06-06'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Warwickshire
+    by:
+      runs: 69
+  overs: 20
+  players:
+    Warwickshire:
+    - D Perrin
+    - AJ Freeborn
+    - IECM Wong
+    - NAJ Wraith
+    - SL Kalis
+    - C Pavely
+    - L Harris
+    - MSL Taylor
+    - GK Davis
+    - HL Baker
+    - H Hardwick
+    Somerset:
+    - R Odgers
+    - AC Munday
+    - FC Wilson
+    - SN Luff
+    - A Wellington
+    - A Griffiths
+    - C Skelton
+    - E Anderson
+    - MJ Robbins
+    - HE Jones
+    - E Corney
+  registry:
+    people:
+      A Griffiths: '091001f8'
+      A Wellington: 9b3bcca4
+      AC Munday: c3bf7767
+      AJ Freeborn: c6da6ebf
+      C Pavely: 907e5f6c
+      C Skelton: db362015
+      D Perrin: bfa0fa33
+      E Anderson: 5f86ce69
+      E Corney: 2406424c
+      FC Wilson: a28132bd
+      G Brown: 4b781bd0
+      GK Davis: '54719239'
+      H Hardwick: 1164142d
+      HE Jones: f7b74efa
+      HL Baker: cefad9fd
+      IECM Wong: e5b17517
+      L Harris: 36e2dc83
+      MJ Robbins: f929cd04
+      MSL Taylor: 918928a7
+      NAJ Wraith: 1ec1998e
+      R Odgers: 73eb8252
+      SL Kalis: 2b150c6b
+      SM Bartlett: 7ba18406
+      SN Luff: e19307f3
+      WRP Fernando: 7d98d385
+  teams:
+  - Warwickshire
+  - Somerset
+  toss:
+    winner: Somerset
+    decision: field
+  umpires:
+  - G Brown
+  - WRP Fernando
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Warwickshire
+    deliveries:
+    - 0.1:
+        bowler: E Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.2:
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.3:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 0.4:
+        non_striker: AJ Freeborn
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 0.5:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 0.6:
+        non_striker: AJ Freeborn
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 0.7:
+        non_striker: AJ Freeborn
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 1.1:
+        non_striker: D Perrin
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          kind: lbw
+    - 1.2:
+        non_striker: D Perrin
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 1.3:
+        non_striker: D Perrin
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 1.4:
+        non_striker: IECM Wong
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 1.5:
+        non_striker: D Perrin
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          fielders:
+          - A Wellington
+          kind: caught
+    - 1.6:
+        non_striker: D Perrin
+        bowler: MJ Robbins
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: NAJ Wraith
+    - 2.1:
+        non_striker: NAJ Wraith
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 2.2:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 2.3:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 2.4:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 2.5:
+        non_striker: NAJ Wraith
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 2.6:
+        non_striker: D Perrin
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 3.1:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 3.2:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.3:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 3.4:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          kind: bowled
+    - 3.5:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.6:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 3.7:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 4.1:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 4.2:
+        non_striker: NAJ Wraith
+        bowler: HE Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SL Kalis
+    - 4.3:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 4.4:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 4.5:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 4.6:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 5.1:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.2:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 5.3:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.4:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.5:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: NAJ Wraith
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.7:
+        non_striker: SL Kalis
+        bowler: MJ Robbins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 6.2:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+        wicket:
+          player_out: NAJ Wraith
+          kind: bowled
+    - 6.3:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 6.4:
+        non_striker: C Pavely
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.5:
+        non_striker: C Pavely
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 6.6:
+        non_striker: C Pavely
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 7.1:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 7.2:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 7.4:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 7.5:
+        non_striker: C Pavely
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.6:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 8.1:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 8.2:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 8.3:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 8.4:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 8.5:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 8.6:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 9.1:
+        non_striker: SL Kalis
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 9.2:
+        non_striker: SL Kalis
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 9.3:
+        non_striker: C Pavely
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 9.4:
+        non_striker: C Pavely
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.5:
+        non_striker: SL Kalis
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 9.6:
+        non_striker: SL Kalis
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+        wicket:
+          player_out: C Pavely
+          fielders:
+          - FC Wilson
+          kind: caught
+    - 10.1:
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Harris
+        batsman: SL Kalis
+    - 10.2:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 10.3:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 10.4:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 10.5:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 10.6:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 11.1:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 11.2:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 11.3:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 11.4:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 11.5:
+        non_striker: SL Kalis
+        bowler: HE Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Harris
+    - 11.6:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Harris
+    - 12.2:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 12.3:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 12.4:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 12.5:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 12.6:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 12.7:
+        non_striker: SL Kalis
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 13.1:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 13.2:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 13.3:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 13.4:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 13.5:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 13.6:
+        non_striker: SL Kalis
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 14.1:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 14.2:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 14.3:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 14.4:
+        non_striker: SL Kalis
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - A Wellington
+          kind: run out
+    - 14.5:
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: MSL Taylor
+        batsman: L Harris
+    - 14.6:
+        non_striker: MSL Taylor
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 15.1:
+        non_striker: L Harris
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 15.2:
+        non_striker: MSL Taylor
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 15.3:
+        non_striker: MSL Taylor
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 15.4:
+        non_striker: MSL Taylor
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 15.5:
+        non_striker: MSL Taylor
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 15.6:
+        non_striker: L Harris
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSL Taylor
+    - 16.1:
+        non_striker: MSL Taylor
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 16.2:
+        non_striker: MSL Taylor
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 16.3:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSL Taylor
+    - 16.4:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSL Taylor
+        wicket:
+          player_out: MSL Taylor
+          kind: bowled
+    - 16.5:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 16.6:
+        non_striker: L Harris
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 17.1:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Davis
+    - 17.2:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+        wicket:
+          player_out: GK Davis
+          kind: caught and bowled
+    - 17.3:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 17.4:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 17.5:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 17.6:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 18.1:
+        non_striker: HL Baker
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 18.2:
+        non_striker: HL Baker
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 18.3:
+        non_striker: HL Baker
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 18.4:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 18.5:
+        non_striker: L Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 18.6:
+        non_striker: HL Baker
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.1:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 19.2:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 19.3:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.4:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 19.5:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Harris
+    - 19.6:
+        non_striker: L Harris
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 19.7:
+        non_striker: HL Baker
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+        wicket:
+          player_out: L Harris
+          fielders:
+          - A Griffiths
+          kind: run out
+- 2nd innings:
+    team: Somerset
+    absent_hurt:
+    - E Corney
+    deliveries:
+    - 0.1:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Munday
+        batsman: R Odgers
+    - 0.2:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Munday
+        batsman: R Odgers
+    - 0.3:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Munday
+        batsman: R Odgers
+    - 0.4:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Munday
+        batsman: R Odgers
+    - 0.5:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Munday
+        batsman: R Odgers
+    - 0.6:
+        non_striker: R Odgers
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 1.1:
+        non_striker: AC Munday
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Odgers
+    - 1.2:
+        non_striker: AC Munday
+        bowler: H Hardwick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Odgers
+    - 1.3:
+        non_striker: AC Munday
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Odgers
+    - 1.4:
+        non_striker: R Odgers
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Munday
+    - 1.5:
+        non_striker: R Odgers
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 1.6:
+        non_striker: R Odgers
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Munday
+    - 1.7:
+        non_striker: R Odgers
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Munday
+    - 2.1:
+        non_striker: R Odgers
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 2.2:
+        non_striker: R Odgers
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Munday
+    - 2.3:
+        non_striker: AC Munday
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Odgers
+    - 2.4:
+        non_striker: AC Munday
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Odgers
+        wicket:
+          player_out: R Odgers
+          kind: lbw
+    - 2.5:
+        non_striker: AC Munday
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 2.6:
+        non_striker: AC Munday
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 3.1:
+        non_striker: FC Wilson
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 3.2:
+        non_striker: FC Wilson
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Munday
+    - 3.3:
+        non_striker: FC Wilson
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Munday
+    - 3.4:
+        non_striker: AC Munday
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 3.5:
+        non_striker: FC Wilson
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Munday
+    - 3.6:
+        non_striker: FC Wilson
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Munday
+    - 4.1:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 4.2:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Munday
+    - 4.3:
+        non_striker: AC Munday
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 4.4:
+        non_striker: AC Munday
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 4.5:
+        non_striker: AC Munday
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 4.6:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 5.1:
+        non_striker: AC Munday
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 5.2:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+    - 5.3:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Munday
+        wicket:
+          player_out: AC Munday
+          fielders:
+          - NAJ Wraith
+          kind: stumped
+    - 5.4:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.5:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.6:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 6.1:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 6.2:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 6.3:
+        non_striker: SN Luff
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 6.4:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 6.5:
+        non_striker: SN Luff
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 6.6:
+        non_striker: SN Luff
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 7.1:
+        non_striker: SN Luff
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 7.2:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 7.3:
+        non_striker: SN Luff
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 7.4:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 7.5:
+        non_striker: FC Wilson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 7.6:
+        non_striker: SN Luff
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 8.1:
+        non_striker: SN Luff
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 8.2:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 8.3:
+        non_striker: SN Luff
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 8.4:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 8.5:
+        non_striker: SN Luff
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 8.6:
+        non_striker: FC Wilson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Luff
+    - 9.1:
+        non_striker: SN Luff
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 9.2:
+        non_striker: SN Luff
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 9.3:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 9.4:
+        non_striker: SN Luff
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 9.5:
+        non_striker: SN Luff
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 9.6:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 10.1:
+        non_striker: SN Luff
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 10.2:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 10.3:
+        non_striker: SN Luff
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 10.4:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+        wicket:
+          player_out: SN Luff
+          kind: caught and bowled
+    - 10.5:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 10.6:
+        non_striker: A Wellington
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 11.1:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 11.2:
+        non_striker: A Wellington
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 11.3:
+        non_striker: A Wellington
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 11.4:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Wellington
+    - 11.5:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 11.6:
+        non_striker: A Wellington
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 11.7:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Wellington
+    - 11.8:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Wellington
+    - 11.9:
+        non_striker: FC Wilson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 12.1:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 12.2:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 12.3:
+        non_striker: A Wellington
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 12.4:
+        non_striker: A Wellington
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 12.5:
+        non_striker: A Wellington
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 12.6:
+        non_striker: FC Wilson
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 13.1:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 13.2:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Wellington
+    - 13.3:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 13.4:
+        non_striker: A Wellington
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 13.5:
+        non_striker: A Wellington
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 13.6:
+        non_striker: FC Wilson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          kind: bowled
+    - 14.1:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+        wicket:
+          player_out: FC Wilson
+          fielders:
+          - HL Baker
+          kind: caught
+    - 14.2:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 14.3:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 14.4:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 14.5:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 14.6:
+        non_striker: C Skelton
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Griffiths
+    - 15.1:
+        non_striker: C Skelton
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Griffiths
+    - 15.2:
+        non_striker: A Griffiths
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 15.3:
+        non_striker: A Griffiths
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 15.4:
+        non_striker: C Skelton
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Griffiths
+    - 15.5:
+        non_striker: C Skelton
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Griffiths
+    - 15.6:
+        non_striker: A Griffiths
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 16.1:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 16.2:
+        non_striker: C Skelton
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Griffiths
+    - 16.3:
+        non_striker: A Griffiths
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 16.4:
+        non_striker: C Skelton
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Griffiths
+        wicket:
+          player_out: A Griffiths
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 16.5:
+        non_striker: C Skelton
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 16.6:
+        non_striker: C Skelton
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 17.1:
+        non_striker: E Anderson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 17.2:
+        non_striker: C Skelton
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 17.3:
+        non_striker: C Skelton
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Anderson
+    - 17.4:
+        non_striker: C Skelton
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 17.5:
+        non_striker: E Anderson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 17.6:
+        non_striker: C Skelton
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 18.1:
+        non_striker: C Skelton
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 18.2:
+        non_striker: E Anderson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+        wicket:
+          player_out: C Skelton
+          fielders:
+          - L Harris
+          kind: caught
+    - 18.3:
+        non_striker: E Anderson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Robbins
+        wicket:
+          player_out: MJ Robbins
+          kind: lbw
+    - 18.4:
+        non_striker: E Anderson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Jones
+    - 18.5:
+        non_striker: HE Jones
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 18.6:
+        non_striker: E Anderson
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HE Jones
+    - 19.1:
+        non_striker: E Anderson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Jones
+        wicket:
+          player_out: HE Jones
+          fielders:
+          - D Perrin
+          kind: caught

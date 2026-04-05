@@ -1,0 +1,2217 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2024-07-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Texas Super Kings
+    by:
+      runs: 37
+  overs: 20
+  player_of_match:
+  - CP Savage
+  players:
+    Texas Super Kings:
+    - DP Conway
+    - F du Plessis
+    - J Tromp
+    - Milind Kumar
+    - MP Stoinis
+    - MJ Santner
+    - CP Savage
+    - CAH Stevenson
+    - Zia Shahzad
+    - Noor Ahmad
+    - OEG Baartman
+    Seattle Orcas:
+    - RD Rickelton
+    - Q de Kock
+    - GSNFG Jayasuriya
+    - H Klaasen
+    - MG Bracewell
+    - Shubham Ranjane
+    - KMA Paul
+    - Ali Sheikh
+    - CJ Gannon
+    - N Burger
+    - A Desai
+  registry:
+    people:
+      A Desai: 9c1b1f4b
+      Ali Sheikh: fa4f5a0b
+      BV Taylor: '99760152'
+      CAH Stevenson: 7239b60d
+      CJ Gannon: 519c30cb
+      CP Savage: a55e0360
+      DP Conway: df5a6881
+      F du Plessis: 3355b542
+      GO Brathwaite: 1ace56d4
+      GSNFG Jayasuriya: b58b7db6
+      H Klaasen: 235c2bb6
+      J Tromp: fb501329
+      Jermaine Lindo: 1154bf4f
+      KMA Paul: 75224f22
+      MG Bracewell: e38bce7a
+      MJ Santner: e4a0deae
+      MP Stoinis: d9273ee7
+      Milind Kumar: b4296080
+      N Burger: 465aa633
+      Noor Ahmad: efc04be7
+      OEG Baartman: 6b9eb501
+      Q de Kock: 372455c4
+      RD Rickelton: e66732f8
+      SJA Taufel: 4b43d5ac
+      Shubham Ranjane: 6c7a68d0
+      WR Knights: 63cbf8d8
+      Zia Shahzad: 91f8e260
+  teams:
+  - Texas Super Kings
+  - Seattle Orcas
+  toss:
+    winner: Seattle Orcas
+    decision: field
+  umpires:
+  - GO Brathwaite
+  - Jermaine Lindo
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: Texas Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: lbw
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tromp
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 0.4:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 0.5:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tromp
+    - 0.7:
+        non_striker: F du Plessis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tromp
+    - 1.1:
+        non_striker: J Tromp
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: J Tromp
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: J Tromp
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tromp
+        wicket:
+          player_out: J Tromp
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 2.1:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.4:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.6:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 3.2:
+        non_striker: Milind Kumar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: Milind Kumar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: Milind Kumar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 3.6:
+        non_striker: Milind Kumar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 4.3:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 4.4:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.5:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.6:
+        non_striker: F du Plessis
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.1:
+        non_striker: Milind Kumar
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - CJ Gannon
+          kind: caught
+    - 5.2:
+        non_striker: Milind Kumar
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 5.3:
+        non_striker: MP Stoinis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.4:
+        non_striker: MP Stoinis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 5.5:
+        non_striker: MP Stoinis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.6:
+        non_striker: MP Stoinis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 6.1:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.2:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.3:
+        non_striker: MP Stoinis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 6.4:
+        non_striker: MP Stoinis
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 6.5:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 7.1:
+        non_striker: MP Stoinis
+        bowler: Ali Sheikh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Milind Kumar
+    - 7.2:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.4:
+        non_striker: MP Stoinis
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 7.5:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 8.1:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 8.2:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 8.3:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 8.4:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 8.5:
+        non_striker: MJ Santner
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 8.6:
+        non_striker: Milind Kumar
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.1:
+        non_striker: MJ Santner
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 9.2:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.3:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.4:
+        non_striker: MJ Santner
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 9.5:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.6:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 10.1:
+        non_striker: MJ Santner
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.2:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.3:
+        non_striker: MJ Santner
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.4:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 10.5:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 10.6:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.1:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.2:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.3:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.4:
+        non_striker: MJ Santner
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Milind Kumar
+    - 11.5:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - Shubham Ranjane
+          kind: caught
+    - 11.6:
+        non_striker: Milind Kumar
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 12.1:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.2:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 12.3:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 12.4:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.5:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 12.6:
+        non_striker: Milind Kumar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 13.1:
+        non_striker: CP Savage
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.2:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 13.3:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 13.4:
+        non_striker: Milind Kumar
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 13.5:
+        non_striker: CP Savage
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 13.6:
+        non_striker: CP Savage
+        bowler: Ali Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 14.1:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - GSNFG Jayasuriya
+          kind: caught
+    - 14.2:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 14.3:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 14.4:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CAH Stevenson
+    - 14.5:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 14.6:
+        non_striker: CAH Stevenson
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 15.1:
+        non_striker: CP Savage
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CAH Stevenson
+    - 15.2:
+        non_striker: CP Savage
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CAH Stevenson
+    - 15.3:
+        non_striker: CAH Stevenson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 15.4:
+        non_striker: CAH Stevenson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 15.5:
+        non_striker: CAH Stevenson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CP Savage
+    - 15.6:
+        non_striker: CAH Stevenson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CP Savage
+    - 16.1:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 16.2:
+        non_striker: CAH Stevenson
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 16.3:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 16.4:
+        non_striker: CAH Stevenson
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 16.5:
+        non_striker: CAH Stevenson
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CP Savage
+    - 16.6:
+        non_striker: CAH Stevenson
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 16.7:
+        non_striker: CP Savage
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAH Stevenson
+    - 17.1:
+        non_striker: CAH Stevenson
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CP Savage
+    - 17.2:
+        non_striker: CAH Stevenson
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 17.3:
+        non_striker: CAH Stevenson
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 17.4:
+        non_striker: CAH Stevenson
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 17.5:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAH Stevenson
+    - 17.6:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+        wicket:
+          player_out: CAH Stevenson
+          kind: bowled
+    - 17.7:
+        non_striker: CP Savage
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zia Shahzad
+    - 18.1:
+        non_striker: CP Savage
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zia Shahzad
+    - 18.2:
+        non_striker: Zia Shahzad
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 18.3:
+        non_striker: CP Savage
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zia Shahzad
+        wicket:
+          player_out: Zia Shahzad
+          fielders:
+          - MG Bracewell
+          kind: run out
+    - 18.4:
+        non_striker: Noor Ahmad
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Savage
+    - 18.5:
+        non_striker: CP Savage
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 18.6:
+        non_striker: CP Savage
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Noor Ahmad
+    - 19.1:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 19.2:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 19.3:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CP Savage
+    - 19.4:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 19.5:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Savage
+    - 19.6:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Savage
+    - 19.7:
+        non_striker: Noor Ahmad
+        bowler: A Desai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CP Savage
+- 2nd innings:
+    team: Seattle Orcas
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GSNFG Jayasuriya
+    - 0.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: OEG Baartman
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Q de Kock
+    - 0.7:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 1.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 2.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.7:
+        non_striker: Q de Kock
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.8:
+        non_striker: Q de Kock
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 4.1:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GSNFG Jayasuriya
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GSNFG Jayasuriya
+    - 4.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 4.7:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 5.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GSNFG Jayasuriya
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GSNFG Jayasuriya
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 5.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GSNFG Jayasuriya
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+        wicket:
+          player_out: GSNFG Jayasuriya
+          fielders:
+          - CAH Stevenson
+          kind: caught
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.1:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.5:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.2:
+        non_striker: H Klaasen
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 8.3:
+        non_striker: H Klaasen
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.4:
+        non_striker: MG Bracewell
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.5:
+        non_striker: MG Bracewell
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.6:
+        non_striker: H Klaasen
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 9.1:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.3:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.4:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.5:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 9.6:
+        non_striker: H Klaasen
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          kind: lbw
+    - 10.1:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 10.3:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 10.4:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 10.5:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 10.6:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 10.7:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 11.1:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 11.2:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.3:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 11.4:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.5:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 11.6:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.1:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.2:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.3:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.4:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.5:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 12.6:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.1:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.2:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.3:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.4:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.5:
+        non_striker: KMA Paul
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.6:
+        non_striker: Shubham Ranjane
+        bowler: Zia Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.1:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 14.2:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 14.3:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.5:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 14.6:
+        non_striker: KMA Paul
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.1:
+        non_striker: KMA Paul
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.2:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 15.3:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.4:
+        non_striker: KMA Paul
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.5:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          kind: bowled
+    - 15.6:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Sheikh
+    - 16.1:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.2:
+        non_striker: Shubham Ranjane
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Sheikh
+    - 16.3:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 16.4:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 16.5:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 16.6:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+        wicket:
+          player_out: Shubham Ranjane
+          fielders:
+          - J Tromp
+          - OEG Baartman
+          kind: run out
+    - 16.7:
+        non_striker: CJ Gannon
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Sheikh
+    - 16.8:
+        non_striker: CJ Gannon
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Sheikh
+    - 17.1:
+        non_striker: Ali Sheikh
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Gannon
+    - 17.2:
+        non_striker: Ali Sheikh
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Gannon
+    - 17.3:
+        non_striker: CJ Gannon
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Sheikh
+    - 17.4:
+        non_striker: CJ Gannon
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ali Sheikh
+    - 17.5:
+        non_striker: Ali Sheikh
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Gannon
+    - 17.6:
+        non_striker: Ali Sheikh
+        bowler: CP Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Gannon
+    - 18.1:
+        non_striker: CJ Gannon
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Sheikh
+    - 18.2:
+        non_striker: CJ Gannon
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Sheikh
+    - 18.3:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Gannon
+        wicket:
+          player_out: CJ Gannon
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 18.4:
+        non_striker: Ali Sheikh
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 18.5:
+        non_striker: N Burger
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Sheikh
+        wicket:
+          player_out: Ali Sheikh
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 18.6:
+        non_striker: N Burger
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Desai
+    - 19.1:
+        non_striker: A Desai
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 19.2:
+        non_striker: N Burger
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Desai
+    - 19.3:
+        non_striker: N Burger
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Desai
+    - 19.4:
+        non_striker: N Burger
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Desai
+    - 19.5:
+        non_striker: N Burger
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Desai
+    - 19.6:
+        non_striker: N Burger
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Desai
+    - 19.7:
+        non_striker: A Desai
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger

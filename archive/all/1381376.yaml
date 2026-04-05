@@ -1,0 +1,2164 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-28'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2023-07-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI New York
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - D Brevis
+  players:
+    MI New York:
+    - Shayan Jahangir
+    - MD Patel
+    - N Pooran
+    - D Brevis
+    - TH David
+    - D Wiese
+    - SR Taylor
+    - Rashid Khan
+    - NP Kenjige
+    - TA Boult
+    - Ehsan Adil
+    Washington Freedom:
+    - MW Short
+    - AGS Gous
+    - Mukhtar Ahmed
+    - GD Phillips
+    - MC Henriques
+    - AJ Pienaar
+    - AJ Hosein
+    - M Jansen
+    - JG Dill
+    - A Nortje
+    - SN Netravalkar
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AGS Gous: d1305df0
+      AJ Hosein: 4d7f517e
+      AJ Pienaar: 647a48da
+      Aleem Dar: f02778d1
+      D Brevis: 844e79d1
+      D Wiese: aa8d28ae
+      Ehsan Adil: 210b05cb
+      GD Phillips: 9a46c4e5
+      JG Dill: 642e8af0
+      Jermaine Lindo: 1154bf4f
+      M Jansen: 81c36ee9
+      MC Henriques: 32198ae0
+      MD Patel: 25d7f1ac
+      MW Short: a90e53ec
+      Mukhtar Ahmed: 456f6d99
+      N Pooran: 3241e3fd
+      NP Kenjige: f7d267f7
+      P Wilson: 68304a36
+      R Samuels: 8a8bc9f6
+      Rashid Khan: 5f547c8b
+      Reon King: 20fbf68c
+      SN Netravalkar: c8a3f688
+      SR Taylor: a9231c3f
+      Shayan Jahangir: 571e1d2a
+      TA Boult: a818c1be
+      TH David: f1f99156
+  teams:
+  - MI New York
+  - Washington Freedom
+  toss:
+    winner: Washington Freedom
+    decision: field
+  umpires:
+  - Aleem Dar
+  - R Samuels
+  venue: Grand Prairie Stadium
+innings:
+- 1st innings:
+    team: MI New York
+    deliveries:
+    - 0.1:
+        non_striker: MD Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 0.2:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.3:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.4:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.5:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.6:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 0.7:
+        non_striker: MD Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.1:
+        non_striker: Shayan Jahangir
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.2:
+        non_striker: Shayan Jahangir
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 1.3:
+        non_striker: MD Patel
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.4:
+        non_striker: MD Patel
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 1.5:
+        non_striker: Shayan Jahangir
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 1.6:
+        non_striker: MD Patel
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.1:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 2.2:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 2.3:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MD Patel
+    - 2.4:
+        non_striker: MD Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: MD Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - M Jansen
+          - JG Dill
+          kind: run out
+    - 2.6:
+        non_striker: N Pooran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 3.1:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 3.2:
+        non_striker: N Pooran
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 3.3:
+        non_striker: N Pooran
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.4:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.5:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.6:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.1:
+        non_striker: N Pooran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 4.2:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.3:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.4:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.5:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.6:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 5.2:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 5.3:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 5.4:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 5.5:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 5.6:
+        non_striker: N Pooran
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 6.1:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 6.2:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.3:
+        non_striker: D Brevis
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 6.4:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.5:
+        non_striker: Shayan Jahangir
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.6:
+        non_striker: D Brevis
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 7.1:
+        non_striker: Shayan Jahangir
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.2:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 7.3:
+        non_striker: Shayan Jahangir
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.4:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 7.5:
+        non_striker: Shayan Jahangir
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.6:
+        non_striker: Shayan Jahangir
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.1:
+        non_striker: Shayan Jahangir
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.2:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shayan Jahangir
+    - 8.3:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 8.4:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 8.5:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 8.6:
+        non_striker: Shayan Jahangir
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.7:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 9.1:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 9.2:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          kind: lbw
+    - 9.3:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 9.4:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.5:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.6:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.1:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.2:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.3:
+        non_striker: D Brevis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.4:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.5:
+        non_striker: D Brevis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.6:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 10.7:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.1:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 11.2:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 11.3:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 11.4:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 11.5:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 11.6:
+        non_striker: TH David
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.1:
+        non_striker: TH David
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 12.2:
+        non_striker: TH David
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.3:
+        non_striker: D Brevis
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.4:
+        non_striker: TH David
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.5:
+        non_striker: D Brevis
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 12.6:
+        non_striker: D Brevis
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.1:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.2:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.3:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.4:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 13.5:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 13.6:
+        non_striker: TH David
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 14.1:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 14.2:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 14.3:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 14.4:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 14.5:
+        non_striker: TH David
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 14.6:
+        non_striker: D Brevis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 15.1:
+        non_striker: TH David
+        bowler: JG Dill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Brevis
+    - 15.2:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 15.3:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.4:
+        non_striker: TH David
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 15.5:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TH David
+    - 15.6:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 15.7:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 15.8:
+        non_striker: D Brevis
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          kind: lbw
+    - 16.1:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 16.2:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.3:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 16.4:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 16.5:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.6:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 16.7:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - AGS Gous
+          kind: caught
+    - 16.8:
+        non_striker: D Wiese
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 17.1:
+        non_striker: SR Taylor
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.2:
+        non_striker: SR Taylor
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 17.3:
+        non_striker: D Wiese
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - JG Dill
+          kind: run out
+    - 17.4:
+        non_striker: Rashid Khan
+        bowler: JG Dill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Taylor
+    - 17.5:
+        non_striker: Rashid Khan
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 17.6:
+        non_striker: Rashid Khan
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 17.7:
+        non_striker: Rashid Khan
+        bowler: JG Dill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 18.1:
+        non_striker: Rashid Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 18.2:
+        non_striker: SR Taylor
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 18.3:
+        non_striker: SR Taylor
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 18.4:
+        non_striker: Rashid Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 18.5:
+        non_striker: Rashid Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 18.6:
+        non_striker: Rashid Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.1:
+        non_striker: Rashid Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Taylor
+    - 19.2:
+        non_striker: Rashid Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.3:
+        non_striker: SR Taylor
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 19.4:
+        non_striker: SR Taylor
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 19.5:
+        non_striker: Rashid Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.6:
+        non_striker: SR Taylor
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          kind: lbw
+- 2nd innings:
+    team: Washington Freedom
+    deliveries:
+    - 0.1:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.2:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 0.3:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.4:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 0.5:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.1:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.2:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.3:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 1.4:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.5:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.6:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          kind: bowled
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 2.4:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 2.5:
+        non_striker: Mukhtar Ahmed
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.6:
+        non_striker: Mukhtar Ahmed
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.1:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 3.2:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 3.4:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.5:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 3.6:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.1:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 4.2:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 4.3:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.4:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.5:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.6:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.1:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 5.2:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mukhtar Ahmed
+    - 5.3:
+        non_striker: AGS Gous
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 5.4:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.5:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 5.6:
+        non_striker: Mukhtar Ahmed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 6.1:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 6.2:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 6.3:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 6.4:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 6.5:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 6.6:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ahmed
+    - 7.1:
+        non_striker: Mukhtar Ahmed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AGS Gous
+    - 7.2:
+        non_striker: Mukhtar Ahmed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 7.3:
+        non_striker: Mukhtar Ahmed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 7.4:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 7.5:
+        non_striker: Mukhtar Ahmed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - TH David
+          kind: caught
+    - 7.6:
+        non_striker: Mukhtar Ahmed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 8.2:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 8.3:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: Mukhtar Ahmed
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: Mukhtar Ahmed
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 9.3:
+        non_striker: Mukhtar Ahmed
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.4:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 9.5:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 9.6:
+        non_striker: Mukhtar Ahmed
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+        wicket:
+          player_out: Mukhtar Ahmed
+          fielders:
+          - NP Kenjige
+          kind: run out
+    - 10.2:
+        non_striker: MC Henriques
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          kind: bowled
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Pienaar
+    - 11.2:
+        non_striker: GD Phillips
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 11.3:
+        non_striker: AJ Pienaar
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: AJ Pienaar
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: AJ Pienaar
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: GD Phillips
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+        wicket:
+          player_out: AJ Pienaar
+          kind: lbw
+    - 12.1:
+        non_striker: AJ Hosein
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 12.3:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 12.4:
+        non_striker: AJ Hosein
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.5:
+        non_striker: GD Phillips
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 12.6:
+        non_striker: AJ Hosein
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.1:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 13.2:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 13.3:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 13.4:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 13.5:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.6:
+        non_striker: GD Phillips
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.1:
+        non_striker: GD Phillips
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.2:
+        non_striker: AJ Hosein
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 14.3:
+        non_striker: AJ Hosein
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - D Wiese
+          kind: caught
+    - 14.4:
+        non_striker: AJ Hosein
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 14.5:
+        non_striker: AJ Hosein
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.6:
+        non_striker: M Jansen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.1:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.2:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jansen
+    - 15.3:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.4:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.5:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.6:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 16.1:
+        non_striker: AJ Hosein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 16.2:
+        non_striker: AJ Hosein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 16.3:
+        non_striker: AJ Hosein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 16.4:
+        non_striker: M Jansen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.5:
+        non_striker: M Jansen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.6:
+        non_striker: AJ Hosein
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Jansen
+    - 17.1:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 17.2:
+        non_striker: M Jansen
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.3:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 17.4:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 17.5:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 17.6:
+        non_striker: AJ Hosein
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 18.1:
+        non_striker: M Jansen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          fielders:
+          - D Wiese
+          kind: caught
+    - 18.2:
+        non_striker: M Jansen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Dill
+    - 18.3:
+        non_striker: JG Dill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          fielders:
+          - D Wiese
+          kind: caught
+    - 18.4:
+        non_striker: JG Dill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 18.5:
+        non_striker: JG Dill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nortje
+    - 18.6:
+        non_striker: A Nortje
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Dill
+    - 19.1:
+        non_striker: A Nortje
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Dill
+    - 19.2:
+        non_striker: JG Dill
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 19.3:
+        non_striker: JG Dill
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nortje
+        wicket:
+          player_out: JG Dill
+          fielders:
+          - TH David
+          kind: run out
+    - 19.4:
+        non_striker: SN Netravalkar
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nortje
+    - 19.5:
+        non_striker: A Nortje
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 19.6:
+        non_striker: SN Netravalkar
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nortje

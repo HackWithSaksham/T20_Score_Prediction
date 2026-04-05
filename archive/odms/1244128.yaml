@@ -1,0 +1,4098 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: The Marsh Cup
+  dates:
+  - '2021-03-31'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: New South Wales
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - DP Hughes
+  players:
+    Queensland:
+    - M Bryant
+    - UT Khawaja
+    - M Labuschagne
+    - MT Renshaw
+    - JA Burns
+    - JJ Peirson
+    - JJ Bazley
+    - MG Neser
+    - XC Bartlett
+    - MP Kuhnemann
+    - B Stanlake
+    New South Wales:
+    - DA Warner
+    - DP Hughes
+    - SPD Smith
+    - MC Henriques
+    - KR Patterson
+    - M Gilkes
+    - DR Sams
+    - PJ Cummins
+    - MA Starc
+    - NM Lyon
+    - JR Hazlewood
+  registry:
+    people:
+      AK Wilds: de412f40
+      B Stanlake: 6834d1f2
+      DA Warner: dcce6f09
+      DP Hughes: f3982af9
+      DR Sams: caf69bf7
+      GA Abood: a4af5528
+      GJ Davidson: 31ad5973
+      JA Burns: 7a5f232a
+      JJ Bazley: 003d49e6
+      JJ Peirson: 2b55c3b4
+      JR Hazlewood: '03806cf8'
+      KR Patterson: e3bf8356
+      M Bryant: f32012f4
+      M Gilkes: d85b0f8b
+      M Labuschagne: fa433be6
+      MA Starc: 3fb19989
+      MC Henriques: 32198ae0
+      MG Neser: 0164b064
+      MP Kuhnemann: 7b953689
+      MT Renshaw: 218d4d78
+      NM Lyon: 96a6a7ad
+      PJ Cummins: ded9240e
+      SPD Smith: 30a45b23
+      SR Bernard: 800187dc
+      UT Khawaja: 331ea488
+      XC Bartlett: 3b53243a
+  teams:
+  - Queensland
+  - New South Wales
+  toss:
+    winner: Queensland
+    decision: bat
+  umpires:
+  - GA Abood
+  - GJ Davidson
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Queensland
+    deliveries:
+    - 0.1:
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UT Khawaja
+        batsman: M Bryant
+    - 0.2:
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UT Khawaja
+        batsman: M Bryant
+    - 0.3:
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: UT Khawaja
+        batsman: M Bryant
+    - 0.4:
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: UT Khawaja
+        batsman: M Bryant
+    - 0.5:
+        non_striker: M Bryant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 0.6:
+        non_striker: M Bryant
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: UT Khawaja
+    - 0.7:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 1.1:
+        non_striker: M Bryant
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.2:
+        non_striker: M Bryant
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 1.3:
+        non_striker: M Bryant
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.4:
+        non_striker: M Bryant
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 1.5:
+        non_striker: M Bryant
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 1.6:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 2.1:
+        non_striker: M Bryant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: UT Khawaja
+    - 2.2:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 2.3:
+        non_striker: M Bryant
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 2.4:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 2.5:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 2.6:
+        non_striker: M Labuschagne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.1:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 3.2:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.3:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 3.4:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 3.5:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 3.6:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 4.1:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.2:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 4.3:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.4:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 4.5:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 4.6:
+        non_striker: UT Khawaja
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.1:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 5.2:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 5.3:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.4:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.5:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.6:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.1:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.2:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.3:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 6.4:
+        non_striker: UT Khawaja
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 6.5:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 6.6:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 7.1:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 7.2:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.3:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 7.4:
+        non_striker: M Labuschagne
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 7.5:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.6:
+        non_striker: UT Khawaja
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 8.1:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 8.2:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 8.3:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 8.4:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          kind: bowled
+    - 8.5:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.6:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.1:
+        non_striker: MT Renshaw
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.2:
+        non_striker: MT Renshaw
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 9.3:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.4:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.6:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.1:
+        non_striker: MT Renshaw
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 10.2:
+        non_striker: MT Renshaw
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 10.3:
+        non_striker: MT Renshaw
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 10.4:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 10.5:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 10.6:
+        non_striker: JA Burns
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 11.1:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.2:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.3:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 11.4:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 11.5:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 11.6:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 12.1:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 12.2:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 12.3:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Burns
+    - 12.4:
+        non_striker: JA Burns
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 12.5:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 12.6:
+        non_striker: M Labuschagne
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Burns
+    - 13.1:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.2:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.3:
+        non_striker: M Labuschagne
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 13.4:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Labuschagne
+    - 13.5:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          kind: caught and bowled
+    - 13.6:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 14.2:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 14.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 14.4:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.5:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 14.6:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 15.1:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.2:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.3:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 15.4:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 15.5:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 15.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 16.1:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 16.2:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 16.3:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 16.4:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 16.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Burns
+    - 16.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 16.7:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 17.1:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 17.2:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.3:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 17.4:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 17.5:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Burns
+    - 18.1:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.2:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.3:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.4:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.5:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 18.6:
+        non_striker: JA Burns
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 19.1:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 19.2:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 19.3:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 19.4:
+        non_striker: JA Burns
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 19.5:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 19.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 20.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 20.2:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 20.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 20.4:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 20.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 20.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 21.1:
+        non_striker: JA Burns
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 21.2:
+        non_striker: JA Burns
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 21.3:
+        non_striker: JA Burns
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 21.4:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 21.5:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+        wicket:
+          player_out: JA Burns
+          kind: lbw
+    - 21.6:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bazley
+    - 22.1:
+        non_striker: JJ Bazley
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 22.2:
+        non_striker: JJ Bazley
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 22.3:
+        non_striker: JJ Bazley
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 22.4:
+        non_striker: JJ Bazley
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 22.5:
+        non_striker: JJ Bazley
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 22.6:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bazley
+        wicket:
+          player_out: JJ Bazley
+          fielders:
+          - DA Warner
+          kind: caught
+    - 22.7:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 23.1:
+        non_striker: MG Neser
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 23.2:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 23.3:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 23.4:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 23.5:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 23.6:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 24.1:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 24.2:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 24.3:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 24.4:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 24.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 24.6:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 25.1:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 25.2:
+        non_striker: MG Neser
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 25.3:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 25.4:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 25.5:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 25.6:
+        non_striker: MG Neser
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 26.1:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 26.2:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 26.3:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 26.4:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 26.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 26.6:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 27.1:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 27.2:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 27.3:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 27.4:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 27.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 27.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 27.7:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 28.1:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 28.2:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 28.3:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 28.4:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 28.5:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Peirson
+    - 28.6:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 29.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 29.2:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 29.3:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 29.4:
+        non_striker: MG Neser
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 29.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 29.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 30.1:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 30.2:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 30.3:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Neser
+    - 30.4:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 30.5:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 30.6:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 31.1:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 31.2:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 31.3:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 31.4:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.5:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 31.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 32.1:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 32.2:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 32.3:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Neser
+    - 32.4:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 32.5:
+        non_striker: MG Neser
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 32.6:
+        non_striker: JJ Peirson
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 33.1:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 33.2:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 33.3:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 33.4:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 33.5:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 33.6:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 34.1:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.2:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 34.3:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 34.4:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 34.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 34.6:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 35.1:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 35.2:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 35.3:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 35.4:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 35.5:
+        non_striker: MG Neser
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 35.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 36.1:
+        non_striker: MG Neser
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 36.2:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 36.3:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+        wicket:
+          player_out: MG Neser
+          fielders:
+          - NM Lyon
+          kind: caught
+    - 36.4:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 36.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 36.6:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 37.1:
+        non_striker: XC Bartlett
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 37.2:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 37.3:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 37.4:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 37.5:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 37.6:
+        non_striker: JJ Peirson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 38.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 38.2:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 38.3:
+        non_striker: XC Bartlett
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 38.4:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 38.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 38.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 39.1:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 39.2:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 39.3:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 39.4:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 39.5:
+        non_striker: XC Bartlett
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 39.6:
+        non_striker: JJ Peirson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 40.1:
+        non_striker: XC Bartlett
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 40.2:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+        wicket:
+          player_out: XC Bartlett
+          kind: bowled
+    - 40.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 40.4:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 40.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 40.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 41.1:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 41.2:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.3:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 41.4:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 41.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 41.6:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.7:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 42.1:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 42.2:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 42.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MP Kuhnemann
+    - 42.4:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 42.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 42.6:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 42.7:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 43.1:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 43.2:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 43.3:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 43.4:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 43.5:
+        non_striker: JJ Peirson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 43.6:
+        non_striker: MP Kuhnemann
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 44.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 44.2:
+        non_striker: MP Kuhnemann
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 44.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 44.4:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Kuhnemann
+    - 44.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 44.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 45.1:
+        non_striker: MP Kuhnemann
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          fielders:
+          - KR Patterson
+          kind: caught
+    - 45.2:
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Stanlake
+        batsman: MP Kuhnemann
+    - 45.3:
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Stanlake
+        batsman: MP Kuhnemann
+    - 45.4:
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Stanlake
+        batsman: MP Kuhnemann
+    - 45.5:
+        non_striker: MP Kuhnemann
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Stanlake
+    - 45.6:
+        non_striker: B Stanlake
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Kuhnemann
+    - 46.1:
+        non_striker: MP Kuhnemann
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 46.2:
+        non_striker: MP Kuhnemann
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 46.3:
+        non_striker: MP Kuhnemann
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 46.4:
+        non_striker: MP Kuhnemann
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 46.5:
+        non_striker: MP Kuhnemann
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+        wicket:
+          player_out: B Stanlake
+          fielders:
+          - M Gilkes
+          kind: caught
+- 2nd innings:
+    team: New South Wales
+    deliveries:
+    - 0.1:
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: DP Hughes
+        batsman: DA Warner
+    - 0.2:
+        non_striker: DA Warner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.3:
+        non_striker: DA Warner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 0.4:
+        non_striker: DA Warner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.5:
+        non_striker: DA Warner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.6:
+        non_striker: DA Warner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.1:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 1.2:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - M Bryant
+          kind: caught
+    - 1.4:
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SPD Smith
+        batsman: DP Hughes
+    - 1.5:
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SPD Smith
+        batsman: DP Hughes
+    - 1.6:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 2.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 2.5:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SPD Smith
+    - 2.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 3.1:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.2:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.5:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.6:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 4.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 4.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 4.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.5:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 4.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 5.1:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.2:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.3:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 5.4:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.5:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.6:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 6.1:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 6.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 6.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 6.5:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 6.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 7.1:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 7.2:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 7.3:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 7.4:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 7.5:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 7.6:
+        non_striker: SPD Smith
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 8.5:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 9.1:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.2:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.3:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.4:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.5:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 9.6:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 10.1:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 10.2:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 10.3:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 10.4:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 10.5:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 10.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.1:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 11.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 11.3:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Hughes
+    - 11.4:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 11.5:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 11.6:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 11.7:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 12.1:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.2:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.3:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 12.4:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 12.5:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 12.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 13.1:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 13.2:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.3:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 13.4:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.5:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 13.6:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 13.7:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 14.1:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 14.2:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 14.3:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 14.4:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 14.5:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 14.6:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 15.1:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 15.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 15.3:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 15.4:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 15.5:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.6:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 16.1:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 16.2:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 16.3:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 16.4:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 16.5:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 16.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 17.1:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 17.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 17.3:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 17.4:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Hughes
+    - 17.5:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 17.6:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 18.1:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 18.2:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 18.3:
+        non_striker: SPD Smith
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 18.4:
+        non_striker: SPD Smith
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 18.5:
+        non_striker: SPD Smith
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 18.6:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 19.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 19.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 19.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 19.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 19.5:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 19.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 20.1:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 20.2:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 20.3:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 20.4:
+        non_striker: SPD Smith
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 20.5:
+        non_striker: SPD Smith
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 20.6:
+        non_striker: DP Hughes
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 21.2:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 21.4:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 21.5:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 22.1:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 22.2:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 22.3:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SPD Smith
+    - 22.4:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 22.5:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 22.6:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 23.1:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 23.2:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Hughes
+    - 23.3:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 23.4:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 23.5:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 23.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.1:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 24.2:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.3:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.4:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 24.5:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 24.6:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 25.1:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 25.2:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 25.3:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 25.4:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 25.5:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 25.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.1:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 26.2:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 26.3:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.4:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 26.5:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 26.6:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 26.7:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 27.1:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 27.2:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 27.3:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 27.4:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 27.5:
+        non_striker: SPD Smith
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 27.6:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.1:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 28.2:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.3:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 28.4:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 28.5:
+        non_striker: DP Hughes
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 28.6:
+        non_striker: SPD Smith
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 29.1:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 29.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 29.3:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 29.4:
+        non_striker: DP Hughes
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 29.5:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 29.6:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 30.1:
+        non_striker: DP Hughes
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 30.2:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 30.3:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MC Henriques
+        batsman: SPD Smith
+    - 30.4:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MC Henriques
+        batsman: SPD Smith
+    - 30.5:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 30.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 31.1:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 31.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 31.3:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 31.4:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 31.5:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 31.6:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 32.1:
+        non_striker: MC Henriques
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 32.2:
+        non_striker: MC Henriques
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 32.3:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 32.4:
+        non_striker: MC Henriques
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 32.5:
+        non_striker: MC Henriques
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 32.6:
+        non_striker: SPD Smith
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 33.1:
+        non_striker: MC Henriques
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 33.2:
+        non_striker: SPD Smith
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques

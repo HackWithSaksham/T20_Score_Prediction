@@ -1,0 +1,2024 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  competition: CSA T20 Challenge
+  dates:
+  - '2024-10-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - B Swanepoel
+  players:
+    Western Province:
+    - EM Moore
+    - JA Bird
+    - SV Kitime
+    - K Verreynne
+    - GF Linde
+    - M Mpongwana
+    - Abdullah Bayoumy
+    - KI Simmonds
+    - BE Hendricks
+    - M Nabe
+    - W Bedja
+    Warriors:
+    - J Pillay
+    - MP Breetzke
+    - B Swanepoel
+    - T Stubbs
+    - S Qeshile
+    - S Muthusamy
+    - PE Kruger
+    - JP King
+    - CJ King
+    - S Simetu
+    - SA Mothoa
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Steenkamp: 89c62cf5
+      Abdullah Bayoumy: 8ab49ad2
+      B Swanepoel: 6e0a2209
+      BE Hendricks: b56dc5f7
+      CD Isaacs: c0215bbd
+      CJ King: 47c9f734
+      EM Moore: 6ca6d885
+      GF Linde: e5437608
+      J Pillay: 230f5cea
+      JA Bird: 572f55fb
+      JP King: 9b384e28
+      K Verreynne: bf814547
+      KI Simmonds: 3122c016
+      M Mpongwana: 547c5509
+      M Nabe: 6ed11905
+      MP Breetzke: 35f173a0
+      PE Kruger: '39181592'
+      S Muthusamy: 7dfb8890
+      S Qeshile: '94268960'
+      S Simetu: d3cc2954
+      SA Mothoa: ea1eba98
+      SV Kitime: 9ca20359
+      T Stubbs: 85b3fab2
+      TC Mokorosi: e93c3cf8
+      W Bedja: f29dfbc0
+  teams:
+  - Western Province
+  - Warriors
+  toss:
+    winner: Western Province
+    decision: bat
+  umpires:
+  - A Jacobs
+  - TC Mokorosi
+  venue: Newlands, Cape Town
+innings:
+- 1st innings:
+    team: Western Province
+    deliveries:
+    - 0.1:
+        non_striker: JA Bird
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Moore
+    - 0.2:
+        non_striker: EM Moore
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 0.3:
+        non_striker: EM Moore
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 0.4:
+        non_striker: EM Moore
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Bird
+    - 0.5:
+        non_striker: EM Moore
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 0.6:
+        non_striker: JA Bird
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Moore
+    - 1.1:
+        non_striker: JA Bird
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EM Moore
+        wicket:
+          player_out: EM Moore
+          kind: lbw
+    - 1.2:
+        non_striker: JA Bird
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 1.3:
+        non_striker: JA Bird
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 1.4:
+        non_striker: JA Bird
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 1.5:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Bird
+    - 1.6:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 2.1:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 2.2:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 2.3:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: JA Bird
+    - 2.4:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 2.5:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 2.6:
+        non_striker: JA Bird
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Kitime
+    - 2.7:
+        non_striker: JA Bird
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 3.1:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 3.2:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 3.3:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Bird
+    - 3.4:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 3.5:
+        non_striker: JA Bird
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 3.6:
+        non_striker: SV Kitime
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 4.1:
+        non_striker: SV Kitime
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Bird
+    - 4.2:
+        non_striker: SV Kitime
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Bird
+    - 4.3:
+        non_striker: SV Kitime
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 4.4:
+        non_striker: SV Kitime
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 4.5:
+        non_striker: SV Kitime
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 4.6:
+        non_striker: JA Bird
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 5.1:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Bird
+    - 5.2:
+        non_striker: JA Bird
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 5.3:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 5.4:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+    - 5.5:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Bird
+        wicket:
+          player_out: JA Bird
+          kind: bowled
+    - 5.6:
+        non_striker: SV Kitime
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 6.1:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 6.2:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 6.3:
+        non_striker: SV Kitime
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 6.4:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 6.5:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Kitime
+    - 6.6:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 7.1:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 7.2:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 7.3:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 7.4:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 7.5:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 7.6:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Kitime
+    - 8.1:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Kitime
+    - 8.2:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 8.3:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Kitime
+    - 8.4:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 8.5:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 8.6:
+        non_striker: K Verreynne
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 9.1:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 9.2:
+        non_striker: SV Kitime
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 9.3:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+        wicket:
+          player_out: SV Kitime
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 9.4:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 9.5:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 9.6:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 10.1:
+        non_striker: GF Linde
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 10.2:
+        non_striker: K Verreynne
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.3:
+        non_striker: GF Linde
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 10.4:
+        non_striker: K Verreynne
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.5:
+        non_striker: GF Linde
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 10.6:
+        non_striker: GF Linde
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 11.1:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 11.2:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: K Verreynne
+    - 11.3:
+        non_striker: K Verreynne
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 11.4:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 11.5:
+        non_striker: K Verreynne
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 11.6:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Verreynne
+    - 12.1:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 12.2:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 12.3:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 12.4:
+        non_striker: K Verreynne
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 12.5:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          fielders:
+          - S Qeshile
+          kind: caught
+    - 12.6:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 13.1:
+        non_striker: M Mpongwana
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.2:
+        non_striker: GF Linde
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 13.3:
+        non_striker: GF Linde
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 13.4:
+        non_striker: GF Linde
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 13.5:
+        non_striker: GF Linde
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 13.6:
+        non_striker: GF Linde
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 14.1:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        extras:
+          legbyes: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: M Mpongwana
+    - 14.2:
+        non_striker: GF Linde
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 14.3:
+        non_striker: M Mpongwana
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 14.4:
+        non_striker: M Mpongwana
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 14.5:
+        non_striker: M Mpongwana
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 14.6:
+        non_striker: M Mpongwana
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.1:
+        non_striker: M Mpongwana
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 15.2:
+        non_striker: M Mpongwana
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.3:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 15.4:
+        non_striker: M Mpongwana
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.5:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Mpongwana
+    - 15.6:
+        non_striker: GF Linde
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 16.1:
+        non_striker: M Mpongwana
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 16.2:
+        non_striker: M Mpongwana
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 16.3:
+        non_striker: GF Linde
+        bowler: CJ King
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: M Mpongwana
+    - 16.4:
+        non_striker: M Mpongwana
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 16.5:
+        non_striker: M Mpongwana
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 16.6:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 17.1:
+        non_striker: GF Linde
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+        wicket:
+          player_out: M Mpongwana
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 17.2:
+        non_striker: GF Linde
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 17.3:
+        non_striker: GF Linde
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 17.4:
+        non_striker: GF Linde
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 17.5:
+        non_striker: Abdullah Bayoumy
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 17.6:
+        non_striker: GF Linde
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 18.1:
+        non_striker: Abdullah Bayoumy
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 18.2:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 18.3:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdullah Bayoumy
+    - 18.4:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+        wicket:
+          player_out: Abdullah Bayoumy
+          fielders:
+          - PE Kruger
+          kind: caught
+    - 18.5:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KI Simmonds
+        wicket:
+          player_out: KI Simmonds
+          fielders:
+          - MP Breetzke
+          kind: caught
+    - 18.6:
+        non_striker: GF Linde
+        bowler: CJ King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Hendricks
+    - 19.1:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: GF Linde
+    - 19.2:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 19.3:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 19.4:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 19.5:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 19.6:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        batsman: GF Linde
+    - 19.7:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 19.8:
+        non_striker: BE Hendricks
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 0.2:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 0.3:
+        non_striker: J Pillay
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 0.4:
+        non_striker: J Pillay
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 0.5:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 0.6:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.1:
+        non_striker: J Pillay
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 1.2:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.3:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+        wicket:
+          player_out: J Pillay
+          fielders:
+          - Abdullah Bayoumy
+          kind: caught
+    - 1.4:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: B Swanepoel
+    - 1.5:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 1.6:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 2.1:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Swanepoel
+    - 2.2:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 2.3:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 2.4:
+        non_striker: B Swanepoel
+        bowler: BE Hendricks
+        extras:
+          legbyes: 4
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        batsman: MP Breetzke
+    - 2.5:
+        non_striker: B Swanepoel
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 2.6:
+        non_striker: MP Breetzke
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 3.1:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 3.2:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 3.3:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 3.4:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Swanepoel
+    - 3.5:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+    - 3.6:
+        non_striker: MP Breetzke
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 4.1:
+        non_striker: MP Breetzke
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 4.2:
+        non_striker: MP Breetzke
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 4.3:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+        wicket:
+          player_out: MP Breetzke
+          fielders:
+          - GF Linde
+          kind: caught
+    - 4.4:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 4.5:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 4.6:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 5.1:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: B Swanepoel
+    - 5.2:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 5.3:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+    - 5.4:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 5.5:
+        non_striker: B Swanepoel
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 5.6:
+        non_striker: B Swanepoel
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 5.7:
+        non_striker: B Swanepoel
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.1:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        extras:
+          legbyes: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        batsman: T Stubbs
+    - 6.2:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.3:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.4:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.5:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.6:
+        non_striker: B Swanepoel
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.1:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Swanepoel
+    - 7.2:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+    - 7.3:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Swanepoel
+    - 7.4:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Swanepoel
+    - 7.5:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Swanepoel
+    - 7.6:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 8.1:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 8.2:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 8.3:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 8.4:
+        non_striker: B Swanepoel
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.5:
+        non_striker: T Stubbs
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 8.6:
+        non_striker: B Swanepoel
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.1:
+        non_striker: B Swanepoel
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.2:
+        non_striker: T Stubbs
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+    - 9.3:
+        non_striker: T Stubbs
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Swanepoel
+    - 9.4:
+        non_striker: T Stubbs
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+    - 9.6:
+        non_striker: T Stubbs
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 10.1:
+        non_striker: T Stubbs
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Swanepoel
+    - 10.2:
+        non_striker: T Stubbs
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 10.3:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.4:
+        non_striker: T Stubbs
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 10.5:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.6:
+        non_striker: T Stubbs
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 11.1:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: T Stubbs
+    - 11.2:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          kind: lbw
+    - 11.3:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: S Qeshile
+    - 11.4:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 11.5:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Qeshile
+    - 11.6:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 11.7:
+        non_striker: B Swanepoel
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 11.8:
+        non_striker: S Qeshile
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Swanepoel
+    - 12.1:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Qeshile
+    - 12.2:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 12.3:
+        non_striker: S Qeshile
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 12.4:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Qeshile
+    - 12.5:
+        non_striker: B Swanepoel
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 12.6:
+        non_striker: S Qeshile
+        bowler: JA Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 13.1:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Swanepoel
+    - 13.2:
+        non_striker: B Swanepoel
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 13.3:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Swanepoel
+        wicket:
+          player_out: B Swanepoel
+          fielders:
+          - Abdullah Bayoumy
+          kind: caught
+    - 13.4:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.5:
+        non_striker: S Muthusamy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 13.6:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.1:
+        non_striker: S Qeshile
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 14.2:
+        non_striker: S Qeshile
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 14.3:
+        non_striker: S Qeshile
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.4:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 14.5:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 14.6:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 15.1:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muthusamy
+    - 15.2:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 15.3:
+        non_striker: S Muthusamy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Qeshile
+    - 15.4:
+        non_striker: S Muthusamy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 15.5:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muthusamy
+    - 15.6:
+        non_striker: S Qeshile
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 16.1:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+        wicket:
+          player_out: S Qeshile
+          fielders:
+          - M Mpongwana
+          kind: run out
+    - 16.2:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 16.3:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 16.4:
+        non_striker: S Muthusamy
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PE Kruger
+    - 16.5:
+        non_striker: PE Kruger
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 16.6:
+        non_striker: PE Kruger
+        bowler: W Bedja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 17.1:
+        non_striker: PE Kruger
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 17.2:
+        non_striker: S Muthusamy
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 17.3:
+        non_striker: S Muthusamy
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 17.4:
+        non_striker: S Muthusamy
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger

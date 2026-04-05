@@ -1,0 +1,1437 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-30'
+  revision: 1
+info:
+  balls_per_over: 5
+  city: London
+  competition: The Hundred Men's Competition
+  dates:
+  - '2024-07-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Oval Invincibles
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - A Zampa
+  players:
+    Birmingham Phoenix:
+    - RK Patel
+    - AHT Donald
+    - LS Livingstone
+    - DR Mousley
+    - MM Ali
+    - JG Bethell
+    - BAC Howell
+    - SA Abbott
+    - AF Milne
+    - TG Helm
+    - TG Southee
+    Oval Invincibles:
+    - WG Jacks
+    - DJ Malan
+    - TS Muyeye
+    - SW Billings
+    - SM Curran
+    - D Ferreira
+    - TA Lammonby
+    - NA Sowter
+    - A Zampa
+    - S Mahmood
+    - Mohammad Amir
+  registry:
+    people:
+      A Zampa: 14f96089
+      AF Milne: 350bb1b1
+      AHT Donald: '72918338'
+      BAC Howell: 0bec3a6c
+      D Ferreira: f0af99a7
+      DJ Malan: ad9c32a2
+      DR Mousley: 876dbe2d
+      GD Lloyd: 36e0770d
+      JG Bethell: 3c55c703
+      LS Livingstone: 50c6bc2b
+      MM Ali: bb351c23
+      Mohammad Amir: e174dadd
+      NA Sowter: ee0c05c0
+      PK Baldwin: 6bb53c12
+      Phil Whitticase: 99d5f6fa
+      RJ Warren: 9d1c62d7
+      RK Patel: 4531f249
+      S Mahmood: 0f6db197
+      S Redfern: 5b038989
+      SA Abbott: 1a2676c5
+      SM Curran: e94915e6
+      SW Billings: c16d4035
+      TA Lammonby: 73f1f6b0
+      TG Helm: 74a274cc
+      TG Southee: 13c35c9e
+      TS Muyeye: 10b79140
+      WG Jacks: 9caf69a1
+  teams:
+  - Birmingham Phoenix
+  - Oval Invincibles
+  toss:
+    winner: Birmingham Phoenix
+    decision: bat
+  umpires:
+  - GD Lloyd
+  - RJ Warren
+  venue: Kennington Oval, London
+innings:
+- 1st innings:
+    team: Birmingham Phoenix
+    deliveries:
+    - 0.1:
+        non_striker: AHT Donald
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RK Patel
+    - 0.2:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AHT Donald
+    - 0.3:
+        non_striker: AHT Donald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 0.4:
+        non_striker: AHT Donald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Patel
+    - 0.5:
+        non_striker: AHT Donald
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 1.1:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AHT Donald
+        wicket:
+          player_out: AHT Donald
+          fielders:
+          - TA Lammonby
+          kind: caught
+    - 1.2:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 1.3:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - SM Curran
+          kind: caught
+    - 1.4:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 1.5:
+        non_striker: DR Mousley
+        bowler: S Mahmood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: RK Patel
+    - 1.6:
+        non_striker: DR Mousley
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 2.1:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 2.2:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+        wicket:
+          player_out: DR Mousley
+          fielders:
+          - A Zampa
+          kind: caught
+    - 2.3:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 2.4:
+        non_striker: MM Ali
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RK Patel
+    - 2.5:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 3.1:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 3.2:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - DJ Malan
+          kind: caught
+    - 3.3:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 3.4:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 3.5:
+        non_striker: RK Patel
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.6:
+        non_striker: JG Bethell
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 4.1:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.2:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.3:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.4:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 4.5:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 4.6:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 4.7:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 5.1:
+        non_striker: RK Patel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 5.2:
+        non_striker: JG Bethell
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 5.3:
+        non_striker: RK Patel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 5.4:
+        non_striker: RK Patel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 5.5:
+        non_striker: RK Patel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 6.1:
+        non_striker: JG Bethell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 6.2:
+        non_striker: JG Bethell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 6.3:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 6.4:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 6.5:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.1:
+        non_striker: JG Bethell
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 7.2:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.3:
+        non_striker: JG Bethell
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Patel
+    - 7.4:
+        non_striker: JG Bethell
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 7.5:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 8.1:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.2:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 8.3:
+        non_striker: JG Bethell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 8.4:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 8.5:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.6:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - DJ Malan
+          kind: caught
+    - 9.1:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 9.2:
+        non_striker: BAC Howell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+    - 9.3:
+        non_striker: BAC Howell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 9.4:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 9.5:
+        non_striker: BAC Howell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Patel
+    - 10.1:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 10.2:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAC Howell
+    - 10.3:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 10.4:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 10.5:
+        non_striker: RK Patel
+        bowler: S Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAC Howell
+    - 11.1:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 11.2:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 11.3:
+        non_striker: BAC Howell
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 11.4:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 11.5:
+        non_striker: BAC Howell
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 12.1:
+        non_striker: BAC Howell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 12.2:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 12.3:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 12.4:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+        wicket:
+          player_out: BAC Howell
+          fielders:
+          - TA Lammonby
+          kind: caught
+    - 12.5:
+        non_striker: RK Patel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 13.1:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 13.2:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 13.3:
+        non_striker: SA Abbott
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Patel
+    - 13.4:
+        non_striker: RK Patel
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 13.5:
+        non_striker: SA Abbott
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Patel
+    - 14.1:
+        non_striker: RK Patel
+        bowler: A Zampa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Abbott
+    - 14.2:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Patel
+        wicket:
+          player_out: RK Patel
+          fielders:
+          - SW Billings
+          kind: stumped
+    - 14.3:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+        wicket:
+          player_out: AF Milne
+          kind: lbw
+    - 14.4:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Helm
+    - 14.5:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Helm
+    - 15.1:
+        non_striker: TG Helm
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 15.2:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Helm
+    - 15.3:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Helm
+        wicket:
+          player_out: TG Helm
+          kind: lbw
+    - 15.4:
+        non_striker: SA Abbott
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 15.5:
+        non_striker: TG Southee
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 16.1:
+        non_striker: TG Southee
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+        wicket:
+          player_out: SA Abbott
+          kind: bowled
+- 2nd innings:
+    team: Oval Invincibles
+    deliveries:
+    - 0.1:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 0.2:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.3:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.4:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 0.5:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.1:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.2:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - MM Ali
+          kind: caught
+    - 1.3:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+    - 1.4:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Muyeye
+    - 1.5:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TS Muyeye
+    - 2.1:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: TS Muyeye
+    - 2.2:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Muyeye
+    - 2.3:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+    - 2.4:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Muyeye
+    - 2.5:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+    - 2.6:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Muyeye
+    - 3.1:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Muyeye
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Muyeye
+    - 3.4:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+    - 3.5:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Muyeye
+        wicket:
+          player_out: TS Muyeye
+          fielders:
+          - BAC Howell
+          kind: caught
+    - 4.1:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.4:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.5:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.1:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 5.2:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 5.3:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 5.4:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.5:
+        non_striker: SW Billings
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.1:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.3:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.4:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SW Billings
+    - 6.5:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 2
+          total: 6
+          batsman: 4
+        extras:
+          noballs: 2
+        batsman: DJ Malan
+    - 7.2:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Malan
+    - 7.3:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.4:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: SW Billings
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.4:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.1:
+        non_striker: SW Billings
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.2:
+        non_striker: SW Billings
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: SW Billings
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: SW Billings
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: SW Billings
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.1:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.2:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 10.4:
+        non_striker: DJ Malan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.5:
+        non_striker: SW Billings
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.2:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 11.3:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 11.5:
+        non_striker: DJ Malan
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.1:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 12.2:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.3:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.4:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.5:
+        non_striker: SW Billings
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.1:
+        non_striker: DJ Malan
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.2:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 13.3:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.4:
+        non_striker: DJ Malan
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.5:
+        non_striker: DJ Malan
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings

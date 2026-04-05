@@ -1,0 +1,2173 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-09-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Basseterre
+  competition: Caribbean Premier League
+  dates:
+  - '2024-09-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Barbados Royals
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - DN Wellalage
+  players:
+    St Kitts and Nevis Patriots:
+    - E Lewis
+    - ADS Fletcher
+    - KR Mayers
+    - M Louis
+    - PWH de Silva
+    - SE Rutherford
+    - JA Clarkson
+    - Mohammad Mohsin
+    - RD John
+    - V Permaul
+    - A Nortje
+    Barbados Royals:
+    - RRS Cornwall
+    - Q de Kock
+    - K Alleyne
+    - SSJ Brooks
+    - DN Wellalage
+    - R Powell
+    - JO Holder
+    - NRJ Young
+    - M Theekshana
+    - Naveen-ul-Haq
+    - OC McCoy
+  registry:
+    people:
+      A Nortje: acdc62f5
+      ADS Fletcher: 1bae756b
+      CM Tuckett: a67252f0
+      DN Wellalage: 736123bb
+      E Lewis: 0ebfb1ad
+      GO Brathwaite: 1ace56d4
+      JA Clarkson: bed90114
+      JO Holder: 0f721006
+      K Alleyne: 6b07035d
+      KR Mayers: 73c18486
+      LS Reifer: 5dee559a
+      M Louis: 1d8c298b
+      M Theekshana: f24c6701
+      Mohammad Mohsin: 79f8472d
+      NRJ Young: 9cab5daf
+      Naveen-ul-Haq: c0c411cb
+      OC McCoy: 529eb9e0
+      PWH de Silva: a97c8ec2
+      Q de Kock: 372455c4
+      R Powell: 650d5e49
+      RD John: 393f2ae3
+      RRS Cornwall: c4d9634c
+      Reon King: 20fbf68c
+      SE Rutherford: d014d5ac
+      SSJ Brooks: 977b841a
+      V Permaul: 78dfe704
+      Zahid Bassarath: ca6bf044
+  teams:
+  - St Kitts and Nevis Patriots
+  - Barbados Royals
+  toss:
+    winner: Barbados Royals
+    decision: field
+  umpires:
+  - CM Tuckett
+  - Zahid Bassarath
+  venue: Warner Park, Basseterre, St Kitts
+innings:
+- 1st innings:
+    team: St Kitts and Nevis Patriots
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          kind: lbw
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          kind: bowled
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 1.1:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: lbw
+    - 1.3:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 1.4:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 1.5:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 1.6:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Louis
+    - 2.1:
+        non_striker: M Louis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 2.2:
+        non_striker: PWH de Silva
+        bowler: M Theekshana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Louis
+    - 2.3:
+        non_striker: PWH de Silva
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 2.4:
+        non_striker: PWH de Silva
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Louis
+    - 2.5:
+        non_striker: M Louis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 2.6:
+        non_striker: M Louis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 2.7:
+        non_striker: M Louis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 3.1:
+        non_striker: M Louis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 3.2:
+        non_striker: PWH de Silva
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 3.3:
+        non_striker: M Louis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 3.4:
+        non_striker: M Louis
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 3.5:
+        non_striker: PWH de Silva
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 3.6:
+        non_striker: PWH de Silva
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Louis
+    - 4.1:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 4.2:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 4.3:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 4.4:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 4.5:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Louis
+    - 4.6:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 5.1:
+        non_striker: M Louis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.2:
+        non_striker: M Louis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.3:
+        non_striker: M Louis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.4:
+        non_striker: M Louis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 5.5:
+        non_striker: PWH de Silva
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 5.6:
+        non_striker: M Louis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 6.1:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 6.2:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.3:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Louis
+    - 6.4:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 6.5:
+        non_striker: M Louis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.6:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Louis
+    - 6.7:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Louis
+    - 6.8:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+    - 7.1:
+        non_striker: M Louis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 7.2:
+        non_striker: M Louis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 7.3:
+        non_striker: M Louis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 7.4:
+        non_striker: PWH de Silva
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 7.5:
+        non_striker: M Louis
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 7.6:
+        non_striker: M Louis
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 7.7:
+        non_striker: PWH de Silva
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Louis
+    - 8.1:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Louis
+    - 8.2:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Louis
+        wicket:
+          player_out: M Louis
+          fielders:
+          - M Theekshana
+          kind: caught
+    - 8.3:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 8.4:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SE Rutherford
+    - 8.5:
+        non_striker: SE Rutherford
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.6:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - JO Holder
+          kind: caught
+    - 9.1:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.2:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          kind: bowled
+    - 9.3:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 9.4:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 9.5:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mohsin
+    - 9.6:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 10.1:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.2:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.3:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.4:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.5:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.6:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.1:
+        non_striker: JA Clarkson
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 11.2:
+        non_striker: JA Clarkson
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 11.3:
+        non_striker: Mohammad Mohsin
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.4:
+        non_striker: JA Clarkson
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 11.5:
+        non_striker: Mohammad Mohsin
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.6:
+        non_striker: Mohammad Mohsin
+        bowler: RRS Cornwall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 12.1:
+        non_striker: JA Clarkson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 12.2:
+        non_striker: JA Clarkson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 12.3:
+        non_striker: JA Clarkson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 12.4:
+        non_striker: JA Clarkson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 12.5:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 12.6:
+        non_striker: Mohammad Mohsin
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 13.1:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 13.2:
+        non_striker: Mohammad Mohsin
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.3:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 13.4:
+        non_striker: Mohammad Mohsin
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 13.5:
+        non_striker: Mohammad Mohsin
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.6:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 14.1:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 14.2:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 14.3:
+        non_striker: Mohammad Mohsin
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 14.4:
+        non_striker: Mohammad Mohsin
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 14.5:
+        non_striker: Mohammad Mohsin
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 14.6:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 15.1:
+        non_striker: Mohammad Mohsin
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 15.2:
+        non_striker: Mohammad Mohsin
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 15.3:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 15.4:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+        wicket:
+          player_out: Mohammad Mohsin
+          kind: caught and bowled
+    - 15.5:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 15.6:
+        non_striker: RD John
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 16.1:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 16.2:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 16.3:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 16.4:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD John
+    - 16.5:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD John
+    - 16.6:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 17.1:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD John
+    - 17.2:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD John
+    - 17.3:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD John
+    - 17.4:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 17.5:
+        non_striker: RD John
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 17.6:
+        non_striker: JA Clarkson
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 17.7:
+        non_striker: RD John
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: JO Holder
+            out: OC McCoy
+            reason: injury
+            role: bowler
+        batsman: JA Clarkson
+    - 18.1:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 18.2:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 18.3:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: JA Clarkson
+    - 18.4:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 18.5:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 18.6:
+        non_striker: RD John
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 18.7:
+        non_striker: JA Clarkson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD John
+    - 19.1:
+        non_striker: RD John
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 19.2:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD John
+    - 19.3:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD John
+    - 19.4:
+        non_striker: RD John
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 19.5:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD John
+    - 19.6:
+        non_striker: JA Clarkson
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD John
+        wicket:
+          player_out: RD John
+          fielders:
+          - Q de Kock
+          - JO Holder
+          kind: run out
+    - 19.7:
+        non_striker: V Permaul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+- 2nd innings:
+    team: Barbados Royals
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RRS Cornwall
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RRS Cornwall
+        wicket:
+          player_out: RRS Cornwall
+          kind: bowled
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Alleyne
+    - 0.4:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Alleyne
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Alleyne
+    - 1.2:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 2.1:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Alleyne
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Alleyne
+    - 2.4:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 3.1:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: K Alleyne
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 4.1:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 4.2:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 4.3:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSJ Brooks
+    - 4.4:
+        non_striker: K Alleyne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 4.5:
+        non_striker: SSJ Brooks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+    - 4.6:
+        non_striker: SSJ Brooks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Alleyne
+    - 4.7:
+        non_striker: SSJ Brooks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Alleyne
+    - 5.1:
+        non_striker: K Alleyne
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 5.2:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Alleyne
+    - 5.3:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Alleyne
+    - 5.4:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Alleyne
+    - 5.5:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Alleyne
+    - 5.6:
+        non_striker: K Alleyne
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 6.1:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Alleyne
+        wicket:
+          player_out: K Alleyne
+          fielders:
+          - KR Mayers
+          kind: caught
+    - 6.2:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 6.3:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 6.4:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 6.5:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 6.6:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 7.1:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 7.2:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 7.3:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 7.4:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 7.5:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 7.6:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 8.1:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 8.2:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 8.3:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSJ Brooks
+    - 8.4:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 8.5:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 8.6:
+        non_striker: SSJ Brooks
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 9.1:
+        non_striker: SSJ Brooks
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 9.2:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 9.3:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+    - 9.4:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSJ Brooks
+    - 9.5:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSJ Brooks
+        wicket:
+          player_out: SSJ Brooks
+          kind: bowled
+    - 9.6:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.1:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.2:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.3:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.4:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wellalage
+    - 10.5:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 10.6:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.7:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.1:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.2:
+        non_striker: DN Wellalage
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.3:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.4:
+        non_striker: DN Wellalage
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 11.5:
+        non_striker: DN Wellalage
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.6:
+        non_striker: DN Wellalage
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.1:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 12.2:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.3:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 12.4:
+        non_striker: R Powell
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 12.5:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.6:
+        non_striker: DN Wellalage
+        bowler: V Permaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 13.1:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 13.2:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.3:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.4:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 13.5:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 13.6:
+        non_striker: R Powell
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 14.1:
+        non_striker: DN Wellalage
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.2:
+        non_striker: R Powell
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 14.3:
+        non_striker: R Powell
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 14.4:
+        non_striker: R Powell
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 14.5:
+        non_striker: R Powell
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 14.6:
+        non_striker: R Powell
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 15.1:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 15.2:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.3:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.4:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.5:
+        non_striker: DN Wellalage
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.6:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 16.1:
+        non_striker: DN Wellalage
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - SE Rutherford
+          - A Nortje
+          kind: run out
+    - 16.2:
+        non_striker: JO Holder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.3:
+        non_striker: R Powell
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 16.4:
+        non_striker: R Powell
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 16.5:
+        non_striker: R Powell
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.6:
+        non_striker: JO Holder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          kind: bowled
+    - 17.1:
+        non_striker: NRJ Young
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.2:
+        non_striker: JO Holder
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Young
+    - 17.3:
+        non_striker: NRJ Young
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 17.4:
+        non_striker: NRJ Young
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.5:
+        non_striker: NRJ Young
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 17.6:
+        non_striker: NRJ Young
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.1:
+        non_striker: NRJ Young
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.2:
+        non_striker: JO Holder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Young
+    - 18.3:
+        non_striker: NRJ Young
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JO Holder
+    - 18.4:
+        non_striker: JO Holder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRJ Young
+    - 18.5:
+        non_striker: JO Holder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRJ Young
+    - 18.6:
+        non_striker: NRJ Young
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.1:
+        non_striker: NRJ Young
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - JA Clarkson
+          kind: caught
+    - 19.2:
+        non_striker: NRJ Young
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 19.3:
+        non_striker: M Theekshana
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRJ Young
+    - 19.4:
+        non_striker: M Theekshana
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRJ Young
+        wicket:
+          player_out: M Theekshana
+          fielders:
+          - ADS Fletcher
+          - RD John
+          kind: run out
+    - 19.5:
+        non_striker: Naveen-ul-Haq
+        bowler: RD John
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NRJ Young

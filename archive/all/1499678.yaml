@@ -1,0 +1,1794 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Women's Super Smash
+  dates:
+  - '2026-01-14'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - P Catton
+  players:
+    Canterbury:
+    - KG Anderson
+    - AG Gerken
+    - IG Sharp
+    - J Dean
+    - KP Irwin
+    - LMM Tahuhu
+    - LG Smith
+    - MJ Banks
+    - AG Hotton
+    - GES Sullivan
+    - SR Asmussen
+    Auckland:
+    - IC Gaze
+    - P Catton
+    - ML Green
+    - BM Halliday
+    - LR Down
+    - BG Armstrong
+    - JO Penfold
+    - A Lambat
+    - AT Hucker
+    - MM Penfold
+    - BG Illing
+  registry:
+    people:
+      A Lambat: 5978fc2a
+      AG Gerken: a7fcf627
+      AG Hotton: 32c6f715
+      AT Hucker: 9b554bb9
+      BG Armstrong: eca08a1d
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      GES Sullivan: 165b9097
+      IC Gaze: 60c250bf
+      IG Sharp: 4de0779a
+      J Dean: 2e018b14
+      JM Dempsey: 153c9f33
+      JO Penfold: 321ea9e8
+      K Pulley: 644bf4ad
+      KG Anderson: ae79a86f
+      KP Irwin: bd3ab0c3
+      LG Smith: 9c515112
+      LMM Tahuhu: '60471339'
+      LR Down: 19147fe0
+      MJ Banks: 1e17a238
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      P Catton: 22e8ba50
+      SB Martin: '08ad6466'
+      SR Asmussen: '31972229'
+      V Mahna: 5dcdc811
+      WR Knights: 63cbf8d8
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - V Mahna
+  - WR Knights
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AG Gerken
+        batsman: KG Anderson
+    - 0.2:
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AG Gerken
+        batsman: KG Anderson
+    - 0.3:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 0.4:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+        wicket:
+          player_out: AG Gerken
+          kind: bowled
+    - 0.5:
+        non_striker: KG Anderson
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 0.6:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.1:
+        non_striker: KG Anderson
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 1.2:
+        non_striker: KG Anderson
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 1.3:
+        non_striker: IG Sharp
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.4:
+        non_striker: IG Sharp
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 1.5:
+        non_striker: IG Sharp
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 1.6:
+        non_striker: KG Anderson
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 2.1:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 2.2:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 2.3:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 2.4:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 2.5:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 2.6:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 3.1:
+        non_striker: IG Sharp
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Dean
+    - 3.2:
+        non_striker: IG Sharp
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 3.3:
+        non_striker: IG Sharp
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 3.4:
+        non_striker: IG Sharp
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 3.5:
+        non_striker: J Dean
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 3.6:
+        non_striker: J Dean
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 4.1:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 4.2:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Dean
+    - 4.3:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 4.4:
+        non_striker: IG Sharp
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 4.5:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IG Sharp
+    - 4.6:
+        non_striker: J Dean
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 5.1:
+        non_striker: J Dean
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 5.2:
+        non_striker: J Dean
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 5.3:
+        non_striker: IG Sharp
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dean
+    - 5.4:
+        non_striker: J Dean
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 5.5:
+        non_striker: J Dean
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          kind: lbw
+    - 5.6:
+        non_striker: J Dean
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 6.1:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 6.2:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+        wicket:
+          player_out: J Dean
+          kind: lbw
+    - 6.3:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 6.4:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 6.5:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 6.6:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 7.1:
+        non_striker: LMM Tahuhu
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 7.2:
+        non_striker: KP Irwin
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 7.3:
+        non_striker: LMM Tahuhu
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 7.4:
+        non_striker: KP Irwin
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 7.5:
+        non_striker: KP Irwin
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 7.6:
+        non_striker: KP Irwin
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 8.1:
+        non_striker: LMM Tahuhu
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 8.2:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 8.3:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 8.4:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 8.5:
+        non_striker: LMM Tahuhu
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 8.6:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LMM Tahuhu
+    - 9.1:
+        non_striker: KP Irwin
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 9.2:
+        non_striker: LMM Tahuhu
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 9.3:
+        non_striker: KP Irwin
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 9.4:
+        non_striker: KP Irwin
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 9.5:
+        non_striker: KP Irwin
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 9.6:
+        non_striker: KP Irwin
+        bowler: JO Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 10.1:
+        non_striker: KP Irwin
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 10.2:
+        non_striker: KP Irwin
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 10.3:
+        non_striker: LMM Tahuhu
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 10.4:
+        non_striker: KP Irwin
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 10.5:
+        non_striker: KP Irwin
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 10.6:
+        non_striker: LMM Tahuhu
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 11.1:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 11.2:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 11.3:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 11.4:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          fielders:
+          - JO Penfold
+          kind: caught
+    - 11.5:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 11.6:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 12.1:
+        non_striker: LG Smith
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 12.2:
+        non_striker: LG Smith
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 12.3:
+        non_striker: LG Smith
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 12.4:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Smith
+    - 12.5:
+        non_striker: LG Smith
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Irwin
+    - 12.6:
+        non_striker: LG Smith
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 13.1:
+        non_striker: LG Smith
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 13.2:
+        non_striker: LG Smith
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 13.3:
+        non_striker: LG Smith
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+    - 13.4:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 13.5:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+        wicket:
+          player_out: LG Smith
+          kind: bowled
+    - 13.6:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 14.1:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 14.2:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 14.3:
+        non_striker: MJ Banks
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Irwin
+        wicket:
+          player_out: MJ Banks
+          fielders:
+          - P Catton
+          - BG Armstrong
+          kind: run out
+    - 14.4:
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AG Hotton
+        batsman: KP Irwin
+    - 14.5:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Hotton
+    - 14.6:
+        non_striker: KP Irwin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Hotton
+    - 15.1:
+        non_striker: KP Irwin
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Hotton
+    - 15.2:
+        non_striker: AG Hotton
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KP Irwin
+    - 15.3:
+        non_striker: AG Hotton
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+    - 15.4:
+        non_striker: AG Hotton
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Irwin
+        wicket:
+          player_out: KP Irwin
+          fielders:
+          - AT Hucker
+          kind: caught
+    - 15.5:
+        non_striker: AG Hotton
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 15.6:
+        non_striker: AG Hotton
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 16.1:
+        non_striker: AG Hotton
+        bowler: BM Halliday
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GES Sullivan
+    - 16.2:
+        non_striker: AG Hotton
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 16.3:
+        non_striker: GES Sullivan
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Hotton
+        wicket:
+          player_out: AG Hotton
+          fielders:
+          - ML Green
+          kind: caught
+    - 16.4:
+        non_striker: GES Sullivan
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Asmussen
+    - 16.5:
+        non_striker: SR Asmussen
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 16.6:
+        non_striker: GES Sullivan
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+    - 16.7:
+        non_striker: GES Sullivan
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Asmussen
+    - 17.1:
+        non_striker: GES Sullivan
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Asmussen
+    - 17.2:
+        non_striker: SR Asmussen
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 17.3:
+        non_striker: GES Sullivan
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Asmussen
+    - 17.4:
+        non_striker: GES Sullivan
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Asmussen
+    - 17.5:
+        non_striker: GES Sullivan
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Asmussen
+    - 17.6:
+        non_striker: SR Asmussen
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+        wicket:
+          player_out: GES Sullivan
+          fielders:
+          - IC Gaze
+          - BM Halliday
+          kind: run out
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: IC Gaze
+    - 0.2:
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: IC Gaze
+    - 0.3:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          fielders:
+          - KG Anderson
+          kind: caught
+    - 0.4:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 0.5:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 0.6:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 1.1:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 1.2:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.3:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.4:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.5:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.6:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.1:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 2.2:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 2.3:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.4:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.5:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Catton
+    - 2.6:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.1:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 3.2:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.3:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 3.4:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 3.5:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 3.6:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.1:
+        non_striker: ML Green
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.2:
+        non_striker: ML Green
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 4.3:
+        non_striker: ML Green
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.4:
+        non_striker: ML Green
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 4.5:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 4.6:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.1:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 5.2:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - IG Sharp
+          kind: caught
+    - 5.3:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 5.4:
+        non_striker: BM Halliday
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 5.5:
+        non_striker: BM Halliday
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 5.6:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 6.1:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 6.2:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Catton
+    - 6.3:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 6.4:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 6.5:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 6.6:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 7.1:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 7.2:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 7.3:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 7.4:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 7.5:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 7.6:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.1:
+        non_striker: BM Halliday
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.2:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Halliday
+    - 8.3:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 8.4:
+        non_striker: BM Halliday
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.5:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 8.6:
+        non_striker: BM Halliday
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 8.7:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 9.1:
+        non_striker: P Catton
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 9.2:
+        non_striker: BM Halliday
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 9.3:
+        non_striker: P Catton
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 9.4:
+        non_striker: BM Halliday
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Catton
+    - 9.5:
+        non_striker: P Catton
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 9.6:
+        non_striker: P Catton
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 10.1:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 10.2:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 10.3:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 10.4:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 10.5:
+        non_striker: BM Halliday
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 10.6:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 11.1:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 11.2:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 11.3:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 11.4:
+        non_striker: BM Halliday
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 11.5:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          kind: bowled
+    - 11.6:
+        non_striker: P Catton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 12.1:
+        non_striker: LR Down
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 12.2:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 12.3:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 12.4:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 12.5:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 12.6:
+        non_striker: P Catton
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 13.1:
+        non_striker: LR Down
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 13.2:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 13.3:
+        non_striker: P Catton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 13.4:
+        non_striker: LR Down
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 13.5:
+        non_striker: LR Down
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 13.6:
+        non_striker: LR Down
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 14.1:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 14.2:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 14.3:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.4:
+        non_striker: LR Down
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 14.5:
+        non_striker: P Catton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.6:
+        non_striker: LR Down
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 15.1:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.2:
+        non_striker: LR Down
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 15.3:
+        non_striker: LR Down
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 15.4:
+        non_striker: P Catton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down

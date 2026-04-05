@@ -1,0 +1,2189 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Alexandra
+  competition: Super Smash
+  dates:
+  - '2024-12-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Otago
+    by:
+      runs: 10
+  overs: 20
+  players:
+    Otago:
+    - DN Phillips
+    - JT Todd
+    - MW Chu
+    - D Foxcroft
+    - LC Johnson
+    - LJ Carter
+    - JM Gibson
+    - BNJ Lockrose
+    - ATE Hazeldine
+    - MB Bacon
+    - M Clarke
+    Canterbury:
+    - CJ Bowes
+    - TWM Latham
+    - MWT Boyle
+    - CE McConchie
+    - HJ Chamberlain
+    - MJG Rippon
+    - HB Shipley
+    - KA Jamieson
+    - IS Sodhi
+    - AW McKenzie
+    - MD Rae
+  registry:
+    people:
+      ATE Hazeldine: 33ad0ad9
+      AW McKenzie: b53136ce
+      BNJ Lockrose: aa8914ad
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      D Foxcroft: ed6894af
+      DN Phillips: be0c9f5b
+      HB Shipley: 5426de63
+      HJ Chamberlain: 1d7c927b
+      IS Sodhi: 641ac5ff
+      JM Dempsey: 153c9f33
+      JM Gibson: e3aa97a2
+      JT Blunt: 2fe9a247
+      JT Todd: d8417b91
+      KA Jamieson: 68c56d09
+      KS Jagannathan: 9bc8dcec
+      LC Johnson: a573ad7a
+      LJ Carter: dfb51f40
+      M Clarke: 7ea2141b
+      MB Bacon: '90701232'
+      MD Rae: 1c06d60a
+      MJG Rippon: b03db6fa
+      MW Chu: ef9f75f8
+      MWT Boyle: b42d5053
+      N Louw: 465c4770
+      SB O'Connor: 4e80ab93
+      TWM Latham: e824e6ee
+  teams:
+  - Otago
+  - Canterbury
+  toss:
+    winner: Canterbury
+    decision: field
+  umpires:
+  - JM Dempsey
+  - N Louw
+  venue: Molyneux Park, Alexandra
+innings:
+- 1st innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JT Todd
+        batsman: DN Phillips
+    - 0.2:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JT Todd
+        batsman: DN Phillips
+    - 0.3:
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: JT Todd
+        batsman: DN Phillips
+    - 0.4:
+        non_striker: DN Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Todd
+    - 0.5:
+        non_striker: DN Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Todd
+        wicket:
+          player_out: JT Todd
+          kind: bowled
+    - 0.6:
+        non_striker: DN Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 1.1:
+        non_striker: DN Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+    - 1.2:
+        non_striker: DN Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 1.3:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 1.4:
+        non_striker: DN Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 1.5:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 1.6:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 2.1:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 2.2:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 2.3:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+        wicket:
+          player_out: DN Phillips
+          kind: bowled
+    - 2.4:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 2.5:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 2.6:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 3.1:
+        non_striker: D Foxcroft
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 3.2:
+        non_striker: D Foxcroft
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Chu
+    - 3.3:
+        non_striker: D Foxcroft
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 3.4:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 3.5:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 3.6:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 3.7:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 3.8:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.1:
+        non_striker: D Foxcroft
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 4.2:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.3:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Foxcroft
+    - 4.4:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.5:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 4.6:
+        non_striker: D Foxcroft
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 5.1:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.2:
+        non_striker: D Foxcroft
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Chu
+    - 5.3:
+        non_striker: D Foxcroft
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 5.4:
+        non_striker: D Foxcroft
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+    - 5.5:
+        non_striker: D Foxcroft
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 5.6:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Foxcroft
+    - 6.1:
+        non_striker: MW Chu
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Foxcroft
+    - 6.2:
+        non_striker: D Foxcroft
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 6.3:
+        non_striker: MW Chu
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 6.4:
+        non_striker: MW Chu
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.5:
+        non_striker: D Foxcroft
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Chu
+    - 6.6:
+        non_striker: D Foxcroft
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 7.1:
+        non_striker: D Foxcroft
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 7.2:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+        wicket:
+          player_out: D Foxcroft
+          fielders:
+          - KA Jamieson
+          kind: caught
+    - 7.3:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+        wicket:
+          player_out: LC Johnson
+          fielders:
+          - MJG Rippon
+          kind: caught
+    - 7.4:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 7.5:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 7.6:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.1:
+        non_striker: LJ Carter
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+    - 8.2:
+        non_striker: LJ Carter
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 8.3:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.4:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Carter
+    - 8.5:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.6:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.1:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 9.2:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 9.3:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.4:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 9.5:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.6:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 10.1:
+        non_striker: LJ Carter
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+    - 10.2:
+        non_striker: LJ Carter
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 10.3:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 10.4:
+        non_striker: LJ Carter
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 10.5:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 10.6:
+        non_striker: MW Chu
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 11.1:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 11.2:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 11.3:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 11.4:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 11.5:
+        non_striker: MW Chu
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 11.6:
+        non_striker: LJ Carter
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 12.1:
+        non_striker: LJ Carter
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 12.2:
+        non_striker: LJ Carter
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 12.3:
+        non_striker: MW Chu
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.4:
+        non_striker: LJ Carter
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 12.5:
+        non_striker: MW Chu
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.6:
+        non_striker: LJ Carter
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 13.1:
+        non_striker: LJ Carter
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 13.2:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 13.3:
+        non_striker: LJ Carter
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 13.4:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 13.5:
+        non_striker: LJ Carter
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 13.6:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 14.1:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 14.2:
+        non_striker: LJ Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 14.3:
+        non_striker: LJ Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 14.4:
+        non_striker: LJ Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 14.5:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 14.6:
+        non_striker: MW Chu
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 15.1:
+        non_striker: MW Chu
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 15.2:
+        non_striker: MW Chu
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 15.3:
+        non_striker: LJ Carter
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 15.4:
+        non_striker: LJ Carter
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 15.5:
+        non_striker: MW Chu
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 15.6:
+        non_striker: LJ Carter
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 16.1:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+        wicket:
+          player_out: LJ Carter
+          kind: bowled
+    - 16.2:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 16.3:
+        non_striker: JM Gibson
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Chu
+    - 16.4:
+        non_striker: JM Gibson
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 16.5:
+        non_striker: MW Chu
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 16.6:
+        non_striker: JM Gibson
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 17.1:
+        non_striker: MW Chu
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 17.2:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 17.3:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 17.4:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+        wicket:
+          player_out: MW Chu
+          kind: bowled
+    - 17.5:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BNJ Lockrose
+    - 17.6:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 18.1:
+        non_striker: JM Gibson
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BNJ Lockrose
+        wicket:
+          player_out: BNJ Lockrose
+          kind: bowled
+    - 18.2:
+        non_striker: JM Gibson
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ATE Hazeldine
+    - 18.3:
+        non_striker: JM Gibson
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ATE Hazeldine
+    - 18.4:
+        non_striker: ATE Hazeldine
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 18.5:
+        non_striker: JM Gibson
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ATE Hazeldine
+    - 18.6:
+        non_striker: JM Gibson
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ATE Hazeldine
+        wicket:
+          player_out: ATE Hazeldine
+          kind: bowled
+    - 19.1:
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MB Bacon
+        batsman: JM Gibson
+    - 19.2:
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MB Bacon
+        batsman: JM Gibson
+    - 19.3:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Bacon
+    - 19.4:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Bacon
+    - 19.5:
+        non_striker: JM Gibson
+        bowler: MD Rae
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MB Bacon
+    - 19.6:
+        non_striker: MB Bacon
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Gibson
+    - 19.7:
+        non_striker: MB Bacon
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+        wicket:
+          player_out: JM Gibson
+          fielders:
+          - MWT Boyle
+          kind: run out
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.2:
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.3:
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.4:
+        non_striker: CJ Bowes
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 0.5:
+        non_striker: CJ Bowes
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 0.6:
+        non_striker: CJ Bowes
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 1.1:
+        non_striker: TWM Latham
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.2:
+        non_striker: TWM Latham
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.3:
+        non_striker: CJ Bowes
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.4:
+        non_striker: CJ Bowes
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.5:
+        non_striker: CJ Bowes
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.6:
+        non_striker: CJ Bowes
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 2.1:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 2.2:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 2.3:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.4:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 2.5:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 2.6:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 2.7:
+        non_striker: TWM Latham
+        bowler: M Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - D Foxcroft
+          kind: caught
+    - 3.1:
+        non_striker: MWT Boyle
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+        wicket:
+          player_out: TWM Latham
+          fielders:
+          - MW Chu
+          kind: stumped
+    - 3.2:
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MWT Boyle
+        batsman: CE McConchie
+    - 3.3:
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MWT Boyle
+        batsman: CE McConchie
+    - 3.4:
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MWT Boyle
+        batsman: CE McConchie
+    - 3.5:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 3.6:
+        non_striker: MWT Boyle
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 4.1:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 4.2:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 4.3:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWT Boyle
+    - 4.4:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 4.5:
+        non_striker: MWT Boyle
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 4.6:
+        non_striker: MWT Boyle
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 5.1:
+        non_striker: MWT Boyle
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 5.2:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWT Boyle
+    - 5.3:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 5.4:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 5.5:
+        non_striker: MWT Boyle
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 5.6:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWT Boyle
+    - 6.1:
+        non_striker: MWT Boyle
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 6.2:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 6.3:
+        non_striker: MWT Boyle
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 6.4:
+        non_striker: MWT Boyle
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 6.5:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 6.6:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 7.1:
+        non_striker: CE McConchie
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 7.2:
+        non_striker: MWT Boyle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 7.3:
+        non_striker: MWT Boyle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.4:
+        non_striker: CE McConchie
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 7.5:
+        non_striker: MWT Boyle
+        bowler: JM Gibson
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: CE McConchie
+    - 7.6:
+        non_striker: MWT Boyle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.7:
+        non_striker: CE McConchie
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 8.1:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+        wicket:
+          player_out: MWT Boyle
+          fielders:
+          - M Clarke
+          kind: caught
+    - 8.2:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+    - 8.3:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 8.4:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 8.5:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 8.6:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 9.1:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 9.2:
+        non_striker: HJ Chamberlain
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.3:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJ Chamberlain
+    - 9.4:
+        non_striker: HJ Chamberlain
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 9.5:
+        non_striker: HJ Chamberlain
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.6:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 10.1:
+        non_striker: CE McConchie
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 10.2:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.3:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 10.4:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.5:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.6:
+        non_striker: HJ Chamberlain
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.1:
+        non_striker: HJ Chamberlain
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.2:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Chamberlain
+    - 11.3:
+        non_striker: HJ Chamberlain
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 11.4:
+        non_striker: HJ Chamberlain
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.5:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Chamberlain
+        wicket:
+          player_out: HJ Chamberlain
+          fielders:
+          - MW Chu
+          kind: caught
+    - 11.6:
+        non_striker: CE McConchie
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 12.1:
+        non_striker: MJG Rippon
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 12.2:
+        non_striker: MJG Rippon
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 12.3:
+        non_striker: MJG Rippon
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.4:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJG Rippon
+    - 12.5:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 12.6:
+        non_striker: MJG Rippon
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.7:
+        non_striker: CE McConchie
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.1:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 13.2:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.3:
+        non_striker: MJG Rippon
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 13.4:
+        non_striker: CE McConchie
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 13.5:
+        non_striker: MJG Rippon
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - DN Phillips
+          kind: caught
+    - 13.6:
+        non_striker: MJG Rippon
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 14.1:
+        non_striker: HB Shipley
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 14.2:
+        non_striker: HB Shipley
+        bowler: D Foxcroft
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJG Rippon
+    - 14.3:
+        non_striker: MJG Rippon
+        bowler: D Foxcroft
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HB Shipley
+    - 14.4:
+        non_striker: HB Shipley
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+        wicket:
+          player_out: MJG Rippon
+          fielders:
+          - BNJ Lockrose
+          kind: caught
+    - 14.5:
+        non_striker: HB Shipley
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 14.6:
+        non_striker: KA Jamieson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 15.1:
+        non_striker: HB Shipley
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.2:
+        non_striker: KA Jamieson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.3:
+        non_striker: HB Shipley
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: bowled
+    - 15.4:
+        non_striker: HB Shipley
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 15.5:
+        non_striker: IS Sodhi
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.6:
+        non_striker: HB Shipley
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 16.1:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 16.2:
+        non_striker: IS Sodhi
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 16.3:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IS Sodhi
+    - 16.4:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 16.5:
+        non_striker: IS Sodhi
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 16.6:
+        non_striker: IS Sodhi
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 16.7:
+        non_striker: IS Sodhi
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 17.1:
+        non_striker: IS Sodhi
+        bowler: BNJ Lockrose
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 17.2:
+        non_striker: IS Sodhi
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 17.3:
+        non_striker: HB Shipley
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 17.4:
+        non_striker: IS Sodhi
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 17.5:
+        non_striker: HB Shipley
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 17.6:
+        non_striker: HB Shipley
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 17.7:
+        non_striker: IS Sodhi
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Shipley
+    - 18.1:
+        non_striker: HB Shipley
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 18.2:
+        non_striker: HB Shipley
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IS Sodhi
+    - 18.3:
+        non_striker: HB Shipley
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: DN Phillips
+            out: JM Gibson
+            reason: injury
+            role: bowler
+        batsman: IS Sodhi
+    - 18.4:
+        non_striker: IS Sodhi
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 18.5:
+        non_striker: IS Sodhi
+        bowler: DN Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HB Shipley
+    - 18.6:
+        non_striker: HB Shipley
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.1:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IS Sodhi
+    - 19.2:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.3:
+        non_striker: IS Sodhi
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - MW Chu
+          kind: run out
+    - 19.4:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AW McKenzie
+        wicket:
+          player_out: AW McKenzie
+          kind: lbw
+    - 19.5:
+        non_striker: HB Shipley
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MD Rae
+    - 19.6:
+        non_striker: MD Rae
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+        wicket:
+          player_out: MD Rae
+          fielders:
+          - D Foxcroft
+          - MB Bacon
+          kind: run out

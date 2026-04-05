@@ -1,0 +1,4900 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: The Marsh Cup
+  dates:
+  - '2021-02-15'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: New South Wales
+    by:
+      runs: 59
+  overs: 50
+  player_of_match:
+  - SPD Smith
+  players:
+    New South Wales:
+    - DP Hughes
+    - M Gilkes
+    - SPD Smith
+    - MC Henriques
+    - KR Patterson
+    - O Davies
+    - SA Abbott
+    - PJ Cummins
+    - BJ Dwarshuis
+    - NM Lyon
+    - LC Hatcher
+    Victoria:
+    - SB Harper
+    - MS Harris
+    - NJ Maddinson
+    - PSP Handscomb
+    - MW Short
+    - J Fraser-McGurk
+    - W Sutherland
+    - JL Pattinson
+    - XA Crone
+    - Z Evans
+    - JM Holland
+  registry:
+    people:
+      BJ Dwarshuis: e1b9f3a9
+      CA Polosak: 26a360d2
+      DP Hughes: f3982af9
+      J Fraser-McGurk: 9b6e1b3f
+      JL Pattinson: f752db61
+      JM Holland: 70c4f525
+      KR Patterson: e3bf8356
+      LC Hatcher: 8f3fde65
+      M Gilkes: d85b0f8b
+      MC Henriques: 32198ae0
+      MS Harris: 9e85455c
+      MW Short: a90e53ec
+      NJ Maddinson: 44afbf2d
+      NM Lyon: 96a6a7ad
+      O Davies: 0ea54eca
+      PJ Cummins: ded9240e
+      PSP Handscomb: ada15e88
+      RJ Tucker: 38810cfc
+      SA Abbott: 1a2676c5
+      SB Harper: a756e61a
+      SPD Smith: 30a45b23
+      SR Bernard: 800187dc
+      Troy Penman: 0aa42c26
+      W Sutherland: bc2d4f2e
+      XA Crone: e5ee7c83
+      Z Evans: 8528effb
+  teams:
+  - New South Wales
+  - Victoria
+  toss:
+    winner: Victoria
+    decision: field
+  umpires:
+  - RJ Tucker
+  - Troy Penman
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: New South Wales
+    deliveries:
+    - 0.1:
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Gilkes
+        batsman: DP Hughes
+    - 0.2:
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Gilkes
+        batsman: DP Hughes
+    - 0.3:
+        non_striker: DP Hughes
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.4:
+        non_striker: DP Hughes
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.5:
+        non_striker: DP Hughes
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.6:
+        non_striker: DP Hughes
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.1:
+        non_striker: M Gilkes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.2:
+        non_striker: M Gilkes
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Hughes
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 1.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          kind: bowled
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.1:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.2:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.3:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 2.4:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 2.5:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 2.6:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 3.1:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 3.2:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.5:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.6:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 4.1:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.2:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.3:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.4:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.5:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.6:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 5.1:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.2:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.4:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.5:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.6:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.1:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.2:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.3:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.4:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.5:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.6:
+        non_striker: MC Henriques
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 7.1:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.2:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 7.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.4:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.5:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.6:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.2:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.4:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.1:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.2:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 9.4:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.2:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.3:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 10.4:
+        non_striker: MC Henriques
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 10.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.1:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.2:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.3:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 11.4:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 11.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.6:
+        non_striker: MC Henriques
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 12.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 12.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          kind: bowled
+    - 12.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Patterson
+    - 12.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 12.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Patterson
+    - 12.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 12.7:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.1:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 13.2:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 13.3:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 13.4:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 13.5:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 13.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 13.7:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 14.1:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.2:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.3:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 14.4:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 14.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 14.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 15.1:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.2:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 15.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 15.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 15.5:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 15.6:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 16.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 16.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 16.3:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 16.4:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 16.5:
+        non_striker: KR Patterson
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 16.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 17.1:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 17.2:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 17.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 17.4:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 17.5:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 17.6:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 18.1:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Patterson
+    - 18.2:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 18.3:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Patterson
+    - 18.4:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 18.5:
+        non_striker: KR Patterson
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 18.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 19.1:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 19.2:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 19.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 19.4:
+        non_striker: KR Patterson
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 19.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 19.6:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+        wicket:
+          player_out: KR Patterson
+          fielders:
+          - SB Harper
+          kind: caught
+    - 20.1:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Davies
+        batsman: SPD Smith
+    - 20.2:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 20.3:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 20.4:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 20.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 20.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 21.1:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 21.3:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 21.4:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 21.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 21.6:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 22.1:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 22.2:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 22.3:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Davies
+    - 22.4:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Davies
+    - 22.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 22.6:
+        non_striker: O Davies
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 23.1:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 23.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 23.3:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 23.4:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 23.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 23.6:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.1:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 24.2:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 24.3:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 24.4:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.5:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 24.6:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 25.1:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 25.2:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 25.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 25.4:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 25.5:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 25.6:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.1:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 26.2:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 26.3:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 26.4:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 26.5:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 26.6:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 27.1:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.2:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.3:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.4:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.5:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.6:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.1:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 28.2:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.3:
+        non_striker: O Davies
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 28.4:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 28.5:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 28.6:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 29.1:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 29.2:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 29.3:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 29.4:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 29.5:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SPD Smith
+    - 29.6:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 30.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 30.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 30.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Davies
+    - 30.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 30.5:
+        non_striker: O Davies
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.6:
+        non_striker: O Davies
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 31.1:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 31.2:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.3:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 31.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 31.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 31.6:
+        non_striker: O Davies
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 32.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 32.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 32.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 32.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+        wicket:
+          player_out: O Davies
+          fielders:
+          - XA Crone
+          kind: caught
+    - 32.5:
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SA Abbott
+        batsman: SPD Smith
+    - 32.6:
+        non_striker: SA Abbott
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 33.1:
+        non_striker: SA Abbott
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 33.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 33.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 33.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 33.5:
+        non_striker: SA Abbott
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 33.6:
+        non_striker: SA Abbott
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 34.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 34.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Abbott
+    - 34.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Abbott
+    - 34.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 34.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 34.6:
+        non_striker: SA Abbott
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 34.7:
+        non_striker: SA Abbott
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 35.1:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 35.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 35.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 35.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 35.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 35.6:
+        non_striker: SA Abbott
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 36.1:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 36.2:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 36.3:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 36.4:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 36.5:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 36.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 37.1:
+        non_striker: SA Abbott
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 37.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Abbott
+    - 37.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 37.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 37.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 37.6:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 38.1:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 38.2:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Abbott
+    - 38.3:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Abbott
+    - 38.4:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Abbott
+    - 38.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 38.6:
+        non_striker: SA Abbott
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 39.1:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 39.2:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 39.3:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+    - 39.4:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+        wicket:
+          player_out: SA Abbott
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 39.5:
+        non_striker: SPD Smith
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 39.6:
+        non_striker: PJ Cummins
+        bowler: JM Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.1:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 40.2:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 40.3:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 40.4:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 40.5:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 40.6:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 41.1:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 41.2:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 41.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 41.4:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 41.5:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 41.6:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 42.1:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 42.2:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 42.3:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 42.4:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 42.5:
+        non_striker: SPD Smith
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 42.6:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 42.7:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 42.8:
+        non_striker: PJ Cummins
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 43.1:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 43.2:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 43.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 43.4:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 43.5:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 43.6:
+        non_striker: PJ Cummins
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 44.1:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 44.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ Cummins
+    - 44.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 44.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 44.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 44.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 44.7:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 45.1:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 45.2:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 45.3:
+        non_striker: PJ Cummins
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 45.4:
+        non_striker: PJ Cummins
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 45.5:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 45.6:
+        non_striker: SPD Smith
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 46.1:
+        non_striker: PJ Cummins
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 46.2:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 46.3:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 46.4:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ Cummins
+    - 46.5:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 46.6:
+        non_striker: SPD Smith
+        bowler: Z Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 47.1:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 47.2:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 47.3:
+        non_striker: SPD Smith
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - JM Holland
+          kind: caught
+    - 47.4:
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: BJ Dwarshuis
+        batsman: SPD Smith
+    - 47.5:
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Dwarshuis
+        batsman: SPD Smith
+    - 47.6:
+        non_striker: BJ Dwarshuis
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 48.1:
+        non_striker: BJ Dwarshuis
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 48.2:
+        non_striker: BJ Dwarshuis
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 48.3:
+        non_striker: BJ Dwarshuis
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 48.4:
+        non_striker: BJ Dwarshuis
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - MW Short
+          kind: caught
+    - 48.5:
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NM Lyon
+        batsman: BJ Dwarshuis
+    - 48.6:
+        non_striker: NM Lyon
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 49.1:
+        non_striker: NM Lyon
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 49.2:
+        non_striker: BJ Dwarshuis
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Lyon
+        wicket:
+          player_out: NM Lyon
+          fielders:
+          - W Sutherland
+          kind: caught
+    - 49.3:
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LC Hatcher
+        batsman: BJ Dwarshuis
+    - 49.4:
+        non_striker: BJ Dwarshuis
+        bowler: XA Crone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LC Hatcher
+    - 49.5:
+        non_striker: LC Hatcher
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 49.6:
+        non_striker: BJ Dwarshuis
+        bowler: XA Crone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Hatcher
+- 2nd innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Harris
+        batsman: SB Harper
+    - 0.2:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 0.3:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 0.4:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 0.5:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 0.6:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.1:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 1.4:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.5:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.6:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.1:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 2.2:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 2.3:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.4:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.5:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.6:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 3.1:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 3.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 3.3:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.4:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.5:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.6:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 4.1:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.2:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.3:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.4:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.5:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.6:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 5.1:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 5.2:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 5.3:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 5.4:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 5.5:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 5.6:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.1:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 6.2:
+        non_striker: SB Harper
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Harris
+    - 6.3:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.4:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 6.5:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 6.6:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+        wicket:
+          player_out: NJ Maddinson
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 7.1:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PSP Handscomb
+        batsman: MS Harris
+    - 7.2:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PSP Handscomb
+        batsman: MS Harris
+    - 7.3:
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PSP Handscomb
+        batsman: MS Harris
+    - 7.4:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 7.5:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 7.6:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 8.1:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.2:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.3:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.4:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.5:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 8.6:
+        non_striker: MS Harris
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 9.1:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 9.2:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 9.3:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 9.4:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 9.5:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 9.6:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 10.1:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 10.2:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 10.3:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 10.4:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 10.5:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 10.6:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.1:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.2:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 11.3:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.4:
+        non_striker: MS Harris
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 11.5:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.6:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 12.1:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.2:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.3:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.4:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.5:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.6:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 13.1:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 13.2:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 13.3:
+        non_striker: MS Harris
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 13.4:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 13.5:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 13.6:
+        non_striker: MS Harris
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 14.1:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 14.2:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 14.3:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 14.4:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 14.5:
+        non_striker: MS Harris
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 14.6:
+        non_striker: MS Harris
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 15.1:
+        non_striker: MS Harris
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PSP Handscomb
+    - 15.2:
+        non_striker: MS Harris
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 15.3:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 15.4:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 15.5:
+        non_striker: MS Harris
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 15.6:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 16.1:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 16.2:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 16.3:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+        wicket:
+          player_out: MS Harris
+          kind: bowled
+    - 16.4:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 16.5:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 16.6:
+        non_striker: PSP Handscomb
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 17.1:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 17.2:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 17.3:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.4:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 17.5:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 17.6:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 18.1:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 18.2:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 18.3:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 18.4:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MW Short
+    - 18.5:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 18.6:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 19.1:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 19.2:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 19.3:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 19.4:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 19.5:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 19.6:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 20.1:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 20.2:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 20.3:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 20.4:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 20.5:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 20.6:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 21.1:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 21.2:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 21.3:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 21.4:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 21.5:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 21.6:
+        non_striker: PSP Handscomb
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 22.1:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 22.2:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 22.3:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          fielders:
+          - O Davies
+          kind: caught
+    - 22.4:
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Fraser-McGurk
+        batsman: MW Short
+    - 22.5:
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Fraser-McGurk
+        batsman: MW Short
+    - 22.6:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 23.1:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 23.2:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 23.3:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MW Short
+    - 23.4:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 23.5:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 23.6:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 24.1:
+        non_striker: J Fraser-McGurk
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 24.2:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Fraser-McGurk
+    - 24.3:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 24.4:
+        non_striker: J Fraser-McGurk
+        bowler: LC Hatcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 24.5:
+        non_striker: J Fraser-McGurk
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 24.6:
+        non_striker: J Fraser-McGurk
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 24.7:
+        non_striker: J Fraser-McGurk
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 24.8:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 25.1:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 25.2:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 25.3:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 25.4:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 25.5:
+        non_striker: J Fraser-McGurk
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - M Gilkes
+          - PJ Cummins
+          kind: run out
+    - 25.6:
+        non_striker: MW Short
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 26.1:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 26.2:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 26.3:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 26.4:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 26.5:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 26.6:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 27.1:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 27.2:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 27.3:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 27.4:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 27.5:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 27.6:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 28.1:
+        non_striker: MW Short
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 28.2:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 28.3:
+        non_striker: MW Short
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 28.4:
+        non_striker: MW Short
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 28.5:
+        non_striker: MW Short
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 28.6:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 29.1:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 29.2:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 29.3:
+        non_striker: MW Short
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 29.4:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 29.5:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 29.6:
+        non_striker: W Sutherland
+        bowler: SPD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 30.1:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 30.2:
+        non_striker: MW Short
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 30.3:
+        non_striker: MW Short
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 30.4:
+        non_striker: MW Short
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 30.5:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 30.6:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 31.1:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 31.2:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 31.3:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 31.4:
+        non_striker: W Sutherland
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 31.5:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 31.6:
+        non_striker: W Sutherland
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 32.1:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 32.2:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 32.3:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 32.4:
+        non_striker: MW Short
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 32.5:
+        non_striker: MW Short
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 32.6:
+        non_striker: W Sutherland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 33.1:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 33.2:
+        non_striker: W Sutherland
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 33.3:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 33.4:
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JL Pattinson
+        batsman: MW Short
+    - 33.5:
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JL Pattinson
+        batsman: MW Short
+    - 33.6:
+        non_striker: JL Pattinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 34.1:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 34.2:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 34.3:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 34.4:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 34.5:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 34.6:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 34.7:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 35.1:
+        non_striker: JL Pattinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 35.2:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 35.3:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 35.4:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 35.5:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 35.6:
+        non_striker: MW Short
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 36.1:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 36.2:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Pattinson
+    - 36.3:
+        non_striker: MW Short
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 36.4:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          kind: lbw
+    - 36.5:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 36.6:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 37.1:
+        non_striker: JL Pattinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 37.2:
+        non_striker: XA Crone
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 37.3:
+        non_striker: XA Crone
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Pattinson
+    - 37.4:
+        non_striker: XA Crone
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 37.5:
+        non_striker: JL Pattinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 37.6:
+        non_striker: JL Pattinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 38.1:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 38.2:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 38.3:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 38.4:
+        non_striker: JL Pattinson
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 38.5:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Pattinson
+    - 38.6:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 39.1:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Pattinson
+    - 39.2:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 39.3:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Pattinson
+    - 39.4:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Pattinson
+    - 39.5:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 39.6:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 40.1:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 40.2:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Pattinson
+    - 40.3:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+    - 40.4:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Pattinson
+    - 40.5:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Pattinson
+    - 40.6:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Pattinson
+    - 40.7:
+        non_striker: XA Crone
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 41.1:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 41.2:
+        non_striker: JL Pattinson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 41.3:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Pattinson
+    - 41.4:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 41.5:
+        non_striker: JL Pattinson
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 41.6:
+        non_striker: XA Crone
+        bowler: NM Lyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Pattinson
+    - 42.1:
+        non_striker: JL Pattinson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 42.2:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Pattinson
+    - 42.3:
+        non_striker: JL Pattinson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 42.4:
+        non_striker: JL Pattinson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 42.5:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Pattinson
+        wicket:
+          player_out: JL Pattinson
+          fielders:
+          - KR Patterson
+          kind: caught
+    - 42.6:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Evans
+    - 43.1:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Evans
+    - 43.2:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Evans
+        wicket:
+          player_out: Z Evans
+          kind: bowled
+    - 43.3:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Holland
+    - 43.4:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Holland
+    - 43.5:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Holland
+    - 43.6:
+        non_striker: JM Holland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Crone
+    - 44.1:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Holland
+    - 44.2:
+        non_striker: JM Holland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 44.3:
+        non_striker: JM Holland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Crone
+    - 44.4:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Holland
+    - 44.5:
+        non_striker: JM Holland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XA Crone
+    - 44.6:
+        non_striker: JM Holland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 45.1:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Holland
+    - 45.2:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Holland
+    - 45.3:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Holland
+    - 45.4:
+        non_striker: XA Crone
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Holland
+    - 45.5:
+        non_striker: JM Holland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 45.6:
+        non_striker: JM Holland
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Crone
+    - 46.1:
+        non_striker: XA Crone
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Holland
+        wicket:
+          player_out: JM Holland
+          fielders:
+          - M Gilkes
+          kind: caught

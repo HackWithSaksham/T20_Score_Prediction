@@ -1,0 +1,1916 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Derby
+  competition: Vitality Blast Women
+  dates:
+  - '2025-06-06'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: The Blaze
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Essex:
+    - L Winfield-Hill
+    - G Scrivens
+    - AJ Macleod
+    - CL Griffith
+    - M Penna
+    - J Gardner
+    - Sophia Smale
+    - E Gray
+    - KL Coppack
+    - EI MacGregor
+    - AH Maqsood
+    The Blaze:
+    - M Kelly
+    - GA Elwiss
+    - KE Bryce
+    - SJ Bryce
+    - ML Green
+    - E Claridge
+    - ML Kirk
+    - J Groves
+    - KL Gordon
+    - CM McCarthy
+    - G Ballinger
+  registry:
+    people:
+      AH Maqsood: f61e2829
+      AJ Macleod: e7f06080
+      CL Griffith: 85ce4231
+      CM McCarthy: 7ce7fb3c
+      E Claridge: d8c6a647
+      E Gray: 58717de2
+      EI MacGregor: c812dfa3
+      G Ballinger: 2f485713
+      G Scrivens: 7306c48d
+      GA Elwiss: 287ed3a0
+      H Pack: fed53c91
+      J Gardner: 184512d1
+      J Groves: 11ff23e3
+      J Naeem: 0dc3fee0
+      KE Bryce: f13d3eba
+      KL Coppack: 24596e4d
+      KL Gordon: '00823a96'
+      L Winfield-Hill: 5230a33d
+      M Kelly: ebf683f9
+      M Penna: 36453b99
+      ML Green: 865eae1f
+      ML Kirk: 2dece89c
+      S Widdup: 65bf2837
+      SJ Bryce: 2ca65aee
+      Sophia Smale: c296dba1
+  teams:
+  - Essex
+  - The Blaze
+  toss:
+    winner: Essex
+    decision: bat
+  umpires:
+  - J Naeem
+  - S Widdup
+  venue: County Ground, Derby
+innings:
+- 1st innings:
+    team: Essex
+    deliveries:
+    - 0.1:
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Scrivens
+        batsman: L Winfield-Hill
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Scrivens
+        replacements:
+          role:
+          - in: KE Bryce
+            out: G Ballinger
+            reason: injury
+            role: bowler
+        batsman: L Winfield-Hill
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Scrivens
+        batsman: L Winfield-Hill
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Scrivens
+        batsman: L Winfield-Hill
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Scrivens
+        batsman: L Winfield-Hill
+    - 0.6:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield-Hill
+        wicket:
+          player_out: L Winfield-Hill
+          kind: lbw
+    - 0.7:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 1.1:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Scrivens
+    - 1.2:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Scrivens
+    - 1.3:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 1.4:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 1.5:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 1.6:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Macleod
+    - 1.7:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Macleod
+    - 1.8:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Scrivens
+    - 1.9:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 2.1:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 2.2:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 2.3:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 2.4:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Macleod
+    - 2.5:
+        non_striker: G Scrivens
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Macleod
+    - 2.6:
+        non_striker: AJ Macleod
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 3.1:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Macleod
+    - 3.2:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Scrivens
+    - 3.3:
+        non_striker: AJ Macleod
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+        wicket:
+          player_out: AJ Macleod
+          fielders:
+          - E Claridge
+          kind: run out
+    - 3.4:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 3.5:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CL Griffith
+    - 3.6:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+        wicket:
+          player_out: CL Griffith
+          fielders:
+          - M Kelly
+          kind: caught
+    - 3.7:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 4.1:
+        non_striker: M Penna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 4.2:
+        non_striker: M Penna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Scrivens
+    - 4.3:
+        non_striker: M Penna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 4.4:
+        non_striker: M Penna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 4.5:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 4.6:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 5.1:
+        non_striker: M Penna
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 5.2:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 5.3:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 5.4:
+        non_striker: M Penna
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 5.5:
+        non_striker: G Scrivens
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 5.6:
+        non_striker: M Penna
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 6.1:
+        non_striker: M Penna
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 6.2:
+        non_striker: M Penna
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 6.3:
+        non_striker: G Scrivens
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Penna
+    - 6.4:
+        non_striker: G Scrivens
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Penna
+    - 6.5:
+        non_striker: G Scrivens
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 6.6:
+        non_striker: G Scrivens
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 7.1:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 7.2:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 7.3:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 7.4:
+        non_striker: M Penna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 7.5:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 7.6:
+        non_striker: G Scrivens
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.1:
+        non_striker: G Scrivens
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 8.2:
+        non_striker: G Scrivens
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 8.3:
+        non_striker: G Scrivens
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 8.4:
+        non_striker: G Scrivens
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.5:
+        non_striker: M Penna
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 8.6:
+        non_striker: G Scrivens
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 9.1:
+        non_striker: G Scrivens
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 9.2:
+        non_striker: M Penna
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+    - 9.3:
+        non_striker: M Penna
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Scrivens
+    - 9.4:
+        non_striker: G Scrivens
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 9.5:
+        non_striker: G Scrivens
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 9.6:
+        non_striker: M Penna
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Scrivens
+        wicket:
+          player_out: G Scrivens
+          fielders:
+          - ML Kirk
+          kind: caught
+    - 10.1:
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Gardner
+        batsman: M Penna
+    - 10.2:
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Gardner
+        batsman: M Penna
+    - 10.3:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+        wicket:
+          player_out: M Penna
+          kind: bowled
+    - 10.4:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 10.5:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 10.6:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 11.1:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 11.2:
+        non_striker: Sophia Smale
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 11.3:
+        non_striker: Sophia Smale
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 11.4:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 11.5:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 11.6:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sophia Smale
+    - 12.1:
+        non_striker: Sophia Smale
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 12.2:
+        non_striker: J Gardner
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 12.3:
+        non_striker: J Gardner
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 12.4:
+        non_striker: Sophia Smale
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gardner
+    - 12.5:
+        non_striker: Sophia Smale
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 12.6:
+        non_striker: J Gardner
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 12.7:
+        non_striker: Sophia Smale
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 13.1:
+        non_striker: J Gardner
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sophia Smale
+    - 13.2:
+        non_striker: J Gardner
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 13.3:
+        non_striker: Sophia Smale
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gardner
+    - 13.4:
+        non_striker: Sophia Smale
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 13.5:
+        non_striker: J Gardner
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 13.6:
+        non_striker: Sophia Smale
+        bowler: J Groves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gardner
+    - 14.1:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 14.2:
+        non_striker: Sophia Smale
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 14.3:
+        non_striker: Sophia Smale
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 14.4:
+        non_striker: Sophia Smale
+        bowler: KL Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Gardner
+    - 14.5:
+        non_striker: Sophia Smale
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 14.6:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Sophia Smale
+    - 14.7:
+        non_striker: J Gardner
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 15.1:
+        non_striker: J Gardner
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 15.2:
+        non_striker: Sophia Smale
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gardner
+    - 15.3:
+        non_striker: Sophia Smale
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 15.4:
+        non_striker: Sophia Smale
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 15.5:
+        non_striker: J Gardner
+        bowler: GA Elwiss
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sophia Smale
+    - 15.6:
+        non_striker: Sophia Smale
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 16.1:
+        non_striker: Sophia Smale
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 16.2:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sophia Smale
+    - 16.3:
+        non_striker: Sophia Smale
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 16.4:
+        non_striker: Sophia Smale
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 16.5:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+        wicket:
+          player_out: Sophia Smale
+          kind: bowled
+    - 16.6:
+        non_striker: J Gardner
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Gray
+    - 17.1:
+        non_striker: E Gray
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+    - 17.2:
+        non_striker: E Gray
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gardner
+    - 17.3:
+        non_striker: J Gardner
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Gray
+    - 17.4:
+        non_striker: E Gray
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gardner
+    - 17.5:
+        non_striker: E Gray
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gardner
+        wicket:
+          player_out: J Gardner
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 17.6:
+        non_striker: E Gray
+        bowler: CM McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Coppack
+    - 18.1:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gray
+    - 18.2:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Gray
+    - 18.3:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gray
+    - 18.4:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Gray
+    - 18.5:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gray
+        wicket:
+          player_out: E Gray
+          kind: bowled
+    - 18.6:
+        non_striker: KL Coppack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EI MacGregor
+    - 19.1:
+        non_striker: KL Coppack
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EI MacGregor
+    - 19.2:
+        non_striker: EI MacGregor
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Coppack
+    - 19.3:
+        non_striker: KL Coppack
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EI MacGregor
+    - 19.4:
+        non_striker: EI MacGregor
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Coppack
+    - 19.5:
+        non_striker: EI MacGregor
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Coppack
+        wicket:
+          player_out: KL Coppack
+          fielders:
+          - KE Bryce
+          kind: run out
+    - 19.6:
+        non_striker: EI MacGregor
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Maqsood
+        wicket:
+          player_out: AH Maqsood
+          fielders:
+          - ML Green
+          kind: run out
+- 2nd innings:
+    team: The Blaze
+    deliveries:
+    - 0.1:
+        bowler: KL Coppack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GA Elwiss
+        batsman: M Kelly
+    - 0.2:
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GA Elwiss
+        batsman: M Kelly
+    - 0.3:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+        wicket:
+          player_out: GA Elwiss
+          fielders:
+          - L Winfield-Hill
+          kind: caught
+    - 0.4:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.5:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.6:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 0.7:
+        non_striker: KE Bryce
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 1.1:
+        non_striker: M Kelly
+        bowler: E Gray
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: KE Bryce
+    - 1.2:
+        non_striker: M Kelly
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 1.3:
+        non_striker: KE Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kelly
+    - 1.4:
+        non_striker: M Kelly
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 1.5:
+        non_striker: KE Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 1.6:
+        non_striker: KE Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kelly
+    - 2.1:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: KE Bryce
+    - 2.2:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.3:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 2.4:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 2.5:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.6:
+        non_striker: M Kelly
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.7:
+        non_striker: KE Bryce
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kelly
+    - 2.8:
+        non_striker: KE Bryce
+        bowler: KL Coppack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kelly
+    - 3.1:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.2:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 3.3:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 3.4:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.5:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.6:
+        non_striker: M Kelly
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.1:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kelly
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+        wicket:
+          player_out: M Kelly
+          fielders:
+          - Sophia Smale
+          kind: caught
+    - 4.3:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.4:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 4.6:
+        non_striker: SJ Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.7:
+        non_striker: SJ Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.2:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.3:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.4:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: SJ Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.2:
+        non_striker: KE Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.3:
+        non_striker: KE Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: SJ Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.5:
+        non_striker: KE Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.1:
+        non_striker: KE Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.2:
+        non_striker: SJ Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.3:
+        non_striker: KE Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.5:
+        non_striker: KE Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.6:
+        non_striker: SJ Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SJ Bryce
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.3:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 8.4:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 8.6:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.7:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          kind: bowled
+    - 9.1:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: KE Bryce
+    - 9.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Green
+        batsman: KE Bryce
+    - 9.3:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: KE Bryce
+    - 9.4:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: KE Bryce
+    - 9.5:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Green
+        batsman: KE Bryce
+    - 9.6:
+        non_striker: KE Bryce
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 10.1:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 10.2:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 10.3:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 10.4:
+        non_striker: KE Bryce
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.5:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.1:
+        non_striker: KE Bryce
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: ML Green
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: ML Green
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.5:
+        non_striker: KE Bryce
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.6:
+        non_striker: ML Green
+        bowler: G Scrivens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.1:
+        non_striker: ML Green
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.2:
+        non_striker: ML Green
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: ML Green
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.4:
+        non_striker: ML Green
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.5:
+        non_striker: ML Green
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.6:
+        non_striker: KE Bryce
+        bowler: E Gray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.1:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.3:
+        non_striker: ML Green
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.4:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.5:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.6:
+        non_striker: KE Bryce
+        bowler: EI MacGregor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.1:
+        non_striker: ML Green
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce

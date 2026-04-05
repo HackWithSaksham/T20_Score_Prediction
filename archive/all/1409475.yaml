@@ -1,0 +1,2082 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Super Smash
+  dates:
+  - '2023-12-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 74
+  overs: 20
+  player_of_match:
+  - TB Robinson
+  players:
+    Wellington:
+    - TB Robinson
+    - NA Greenwood
+    - NF Kelly
+    - MA Abbas
+    - JM Tashkoff
+    - NG Smith
+    - CR McLachlan
+    - LV van Beek
+    - PF Younghusband
+    - MW Snedden
+    - IG McPeake
+    Otago:
+    - HD Rutherford
+    - JM Gibson
+    - DN Phillips
+    - D Foxcroft
+    - MW Chu
+    - LC Johnson
+    - OJ White
+    - BNJ Lockrose
+    - ATE Hazeldine
+    - MB Bacon
+    - T Muller
+  registry:
+    people:
+      ATE Hazeldine: 33ad0ad9
+      BNJ Lockrose: aa8914ad
+      C Black: 75b42f71
+      CR McLachlan: 10da9f8b
+      D Foxcroft: ed6894af
+      DN Phillips: be0c9f5b
+      HD Rutherford: 0605de92
+      IG McPeake: f8e48647
+      JM Gibson: e3aa97a2
+      JM Tashkoff: afe7d695
+      K Pulley: 644bf4ad
+      KS Jagannathan: 9bc8dcec
+      LC Johnson: a573ad7a
+      LV van Beek: 782fb776
+      MA Abbas: c3576908
+      MB Bacon: '90701232'
+      MW Chu: ef9f75f8
+      MW Snedden: 236c8ffb
+      NA Greenwood: 7ca68967
+      NF Kelly: 97f437ed
+      NG Smith: 05b1aef8
+      OJ White: a2e63eab
+      PF Younghusband: 149d0c18
+      T Muller: ebb1f8e8
+      TB Robinson: 5d664346
+      TJ Parlane: 3cfc24b0
+      TM Johnson: 917f66da
+      Tyron Davies: 6ec463f4
+  teams:
+  - Wellington
+  - Otago
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - C Black
+  - TJ Parlane
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        non_striker: NA Greenwood
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 0.2:
+        non_striker: NA Greenwood
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 0.3:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - HD Rutherford
+          kind: caught
+    - 0.4:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 0.5:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 0.6:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 0.7:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 1.1:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.2:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 1.3:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 1.4:
+        non_striker: NF Kelly
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 1.5:
+        non_striker: NF Kelly
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 1.6:
+        non_striker: NF Kelly
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 2.1:
+        non_striker: NF Kelly
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 2.2:
+        non_striker: NF Kelly
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 2.3:
+        non_striker: NF Kelly
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 2.4:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.5:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 2.6:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 3.1:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 3.2:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.3:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.4:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.5:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.6:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 4.1:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 4.2:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 4.3:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 4.4:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 4.5:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 4.6:
+        non_striker: NF Kelly
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 5.1:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 5.2:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 5.3:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 5.4:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 5.5:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 5.6:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.1:
+        non_striker: NF Kelly
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 6.2:
+        non_striker: NF Kelly
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 6.3:
+        non_striker: NF Kelly
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 6.4:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.5:
+        non_striker: NF Kelly
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 6.6:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 7.1:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 7.2:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 7.3:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 7.4:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 7.5:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.6:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 8.1:
+        non_striker: NF Kelly
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 8.2:
+        non_striker: NF Kelly
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 8.3:
+        non_striker: TB Robinson
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 8.4:
+        non_striker: NF Kelly
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 8.5:
+        non_striker: NF Kelly
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 8.6:
+        non_striker: NF Kelly
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 9.1:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 9.2:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 9.3:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 9.4:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NF Kelly
+    - 9.5:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 9.6:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 9.7:
+        non_striker: NF Kelly
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 10.1:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 10.2:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 10.3:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 10.4:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 10.5:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 10.6:
+        non_striker: NF Kelly
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 11.1:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 11.2:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 11.3:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          fielders:
+          - JM Gibson
+          kind: caught
+    - 11.4:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 11.5:
+        non_striker: MA Abbas
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 11.6:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+        wicket:
+          player_out: MA Abbas
+          fielders:
+          - DN Phillips
+          - MW Chu
+          kind: run out
+    - 12.1:
+        non_striker: JM Tashkoff
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 12.2:
+        non_striker: TB Robinson
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+    - 12.3:
+        non_striker: TB Robinson
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 12.4:
+        non_striker: JM Tashkoff
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 12.5:
+        non_striker: JM Tashkoff
+        bowler: JM Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TB Robinson
+    - 12.6:
+        non_striker: JM Tashkoff
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 12.7:
+        non_striker: TB Robinson
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 13.1:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 13.2:
+        non_striker: JM Tashkoff
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 13.3:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+    - 13.4:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 13.5:
+        non_striker: JM Tashkoff
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 13.6:
+        non_striker: JM Tashkoff
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 14.1:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+    - 14.2:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Tashkoff
+    - 14.3:
+        non_striker: JM Tashkoff
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 14.4:
+        non_striker: JM Tashkoff
+        bowler: ATE Hazeldine
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TB Robinson
+    - 14.5:
+        non_striker: JM Tashkoff
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 14.6:
+        non_striker: JM Tashkoff
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 14.7:
+        non_striker: TB Robinson
+        bowler: ATE Hazeldine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Tashkoff
+    - 15.1:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+    - 15.2:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Tashkoff
+    - 15.3:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+        wicket:
+          player_out: JM Tashkoff
+          kind: bowled
+    - 15.4:
+        non_striker: TB Robinson
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 15.5:
+        non_striker: NG Smith
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 15.6:
+        non_striker: NG Smith
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 16.1:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 16.2:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 16.3:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 16.4:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NG Smith
+    - 16.5:
+        non_striker: TB Robinson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 16.6:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 17.1:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NG Smith
+    - 17.2:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 17.3:
+        non_striker: NG Smith
+        bowler: D Foxcroft
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: TB Robinson
+    - 17.4:
+        non_striker: NG Smith
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 17.5:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NG Smith
+    - 17.6:
+        non_striker: TB Robinson
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Smith
+    - 18.1:
+        non_striker: NG Smith
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 18.2:
+        non_striker: NG Smith
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 18.3:
+        non_striker: NG Smith
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TB Robinson
+    - 18.4:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NG Smith
+    - 18.5:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NG Smith
+    - 18.6:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NG Smith
+    - 18.7:
+        non_striker: TB Robinson
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NG Smith
+    - 18.8:
+        non_striker: NG Smith
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 19.1:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 19.2:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 19.3:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 19.4:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 19.5:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Robinson
+    - 19.6:
+        non_striker: NG Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+        wicket:
+          player_out: TB Robinson
+          fielders:
+          - BNJ Lockrose
+          kind: caught
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Rutherford
+    - 0.2:
+        non_striker: HD Rutherford
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Gibson
+    - 0.3:
+        non_striker: HD Rutherford
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 0.4:
+        non_striker: HD Rutherford
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 0.5:
+        non_striker: HD Rutherford
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 0.6:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Rutherford
+    - 1.1:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 1.2:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 1.3:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Gibson
+    - 1.4:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Gibson
+    - 1.5:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Gibson
+    - 1.6:
+        non_striker: HD Rutherford
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 1.7:
+        non_striker: JM Gibson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 2.1:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 2.2:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 2.3:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 2.4:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 2.5:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 2.6:
+        non_striker: HD Rutherford
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 3.1:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 3.2:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Rutherford
+    - 3.3:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Rutherford
+    - 3.4:
+        non_striker: HD Rutherford
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 3.5:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+        wicket:
+          player_out: HD Rutherford
+          fielders:
+          - TB Robinson
+          kind: caught
+    - 3.6:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Phillips
+    - 4.1:
+        non_striker: DN Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 4.2:
+        non_striker: DN Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 4.3:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+        wicket:
+          player_out: DN Phillips
+          fielders:
+          - MW Snedden
+          kind: caught
+    - 4.4:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.5:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.6:
+        non_striker: JM Gibson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.1:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.2:
+        non_striker: D Foxcroft
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 5.3:
+        non_striker: D Foxcroft
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 5.4:
+        non_striker: D Foxcroft
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 5.5:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 5.6:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 6.1:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Gibson
+    - 6.2:
+        non_striker: JM Gibson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.3:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JM Gibson
+    - 6.4:
+        non_striker: JM Gibson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.5:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 6.6:
+        non_striker: JM Gibson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 6.7:
+        non_striker: JM Gibson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.1:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.2:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 7.3:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.4:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 7.5:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Gibson
+    - 7.6:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Gibson
+    - 8.1:
+        non_striker: D Foxcroft
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 8.2:
+        non_striker: D Foxcroft
+        bowler: MW Snedden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Gibson
+    - 8.3:
+        non_striker: D Foxcroft
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 8.4:
+        non_striker: JM Gibson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 8.5:
+        non_striker: JM Gibson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 8.6:
+        non_striker: JM Gibson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+        wicket:
+          player_out: D Foxcroft
+          fielders:
+          - CR McLachlan
+          kind: caught
+    - 8.7:
+        non_striker: JM Gibson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Chu
+    - 9.1:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Chu
+    - 9.2:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Chu
+    - 9.3:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 9.4:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Chu
+    - 9.5:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Chu
+        wicket:
+          player_out: MW Chu
+          kind: bowled
+    - 9.6:
+        non_striker: JM Gibson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 10.1:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 10.2:
+        non_striker: JM Gibson
+        bowler: IG McPeake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LC Johnson
+    - 10.3:
+        non_striker: LC Johnson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+        wicket:
+          player_out: JM Gibson
+          fielders:
+          - NG Smith
+          kind: caught
+    - 10.4:
+        non_striker: LC Johnson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ White
+    - 10.5:
+        non_striker: LC Johnson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ White
+    - 10.6:
+        non_striker: LC Johnson
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ White
+    - 11.1:
+        non_striker: LC Johnson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ White
+    - 11.2:
+        non_striker: LC Johnson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ White
+    - 11.3:
+        non_striker: LC Johnson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ White
+        wicket:
+          player_out: OJ White
+          fielders:
+          - TM Johnson (sub)
+          kind: caught
+    - 11.4:
+        non_striker: LC Johnson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 11.5:
+        non_striker: BNJ Lockrose
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 11.6:
+        non_striker: BNJ Lockrose
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 12.1:
+        non_striker: BNJ Lockrose
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 12.2:
+        non_striker: LC Johnson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BNJ Lockrose
+    - 12.3:
+        non_striker: LC Johnson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 12.4:
+        non_striker: BNJ Lockrose
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 12.5:
+        non_striker: BNJ Lockrose
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 12.6:
+        non_striker: LC Johnson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 13.1:
+        non_striker: LC Johnson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 13.2:
+        non_striker: BNJ Lockrose
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 13.3:
+        non_striker: LC Johnson
+        bowler: MW Snedden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BNJ Lockrose
+    - 13.4:
+        non_striker: LC Johnson
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BNJ Lockrose
+    - 13.5:
+        non_striker: BNJ Lockrose
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Johnson
+    - 13.6:
+        non_striker: BNJ Lockrose
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+        wicket:
+          player_out: LC Johnson
+          fielders:
+          - CR McLachlan
+          kind: caught
+    - 13.7:
+        non_striker: BNJ Lockrose
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ATE Hazeldine
+    - 14.1:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BNJ Lockrose
+        wicket:
+          player_out: BNJ Lockrose
+          fielders:
+          - TM Johnson (sub)
+          kind: caught
+    - 14.2:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MB Bacon
+    - 14.3:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MB Bacon
+    - 14.4:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Bacon
+    - 14.5:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Bacon
+    - 14.6:
+        non_striker: MB Bacon
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ATE Hazeldine
+    - 14.7:
+        non_striker: ATE Hazeldine
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Bacon
+    - 15.1:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ATE Hazeldine
+    - 15.2:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ATE Hazeldine
+    - 15.3:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ATE Hazeldine
+    - 15.4:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ATE Hazeldine
+        wicket:
+          player_out: ATE Hazeldine
+          fielders:
+          - NA Greenwood
+          kind: caught
+    - 15.5:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Muller
+    - 15.6:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Muller
+    - 15.7:
+        non_striker: T Muller
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Bacon
+    - 15.8:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Muller
+    - 15.9:
+        non_striker: MB Bacon
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Muller
+    - 16.1:
+        non_striker: MB Bacon
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Muller
+    - 16.2:
+        non_striker: MB Bacon
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Muller
+    - 16.3:
+        non_striker: T Muller
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MB Bacon
+    - 16.4:
+        non_striker: T Muller
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Bacon
+    - 16.5:
+        non_striker: MB Bacon
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Muller
+        wicket:
+          player_out: T Muller
+          kind: bowled

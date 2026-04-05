@@ -1,0 +1,2158 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-05-29'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Worcester
+  competition: Charlotte Edwards Cup
+  dates:
+  - '2023-05-29'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Thunder
+    by:
+      runs: 36
+  overs: 20
+  players:
+    Thunder:
+    - EL Lamb
+    - L Heap
+    - FMK Morris
+    - DJS Dottin
+    - E Threlkeld
+    - S Smale
+    - ND Dattani
+    - DL Collins
+    - S Butler
+    - TG Norris
+    - M Gaur
+    Central Sparks:
+    - E Jones
+    - B Ellis
+    - D Perrin
+    - EA Burns
+    - A Campbell
+    - AJ Freeborn
+    - C Brewer
+    - KL George
+    - GK Davis
+    - E Anderson
+    - HL Baker
+  registry:
+    people:
+      A Campbell: 4b788e61
+      AJ Freeborn: c6da6ebf
+      B Ellis: 370a88ac
+      C Brewer: baf11c9a
+      D Perrin: bfa0fa33
+      DE Malcolm: 29c7ca03
+      DJS Dottin: 53bee17f
+      DL Collins: 246ba42c
+      E Anderson: 5f86ce69
+      E Jones: 971cb321
+      E Threlkeld: c66c73f9
+      EA Burns: 2e0b6638
+      EL Lamb: '02181d9a'
+      FMK Morris: 3a9b3866
+      GK Davis: '54719239'
+      HL Baker: cefad9fd
+      JD Shantry: 70fdd428
+      KL George: e69dbbef
+      L Heap: 8d26dfab
+      M Gaur: df9cdebf
+      ND Dattani: 13c19f32
+      S Butler: 7156272d
+      S Smale: 3247d54e
+      TG Norris: 8ae7bb3e
+      WRP Fernando: 7d98d385
+  teams:
+  - Thunder
+  - Central Sparks
+  toss:
+    winner: Central Sparks
+    decision: field
+  umpires:
+  - JD Shantry
+  - WRP Fernando
+  venue: County Ground, New Road, Worcester
+innings:
+- 1st innings:
+    team: Thunder
+    deliveries:
+    - 0.1:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 0.2:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Heap
+    - 0.3:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 0.4:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 0.5:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 0.6:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+        wicket:
+          player_out: L Heap
+          fielders:
+          - B Ellis
+          kind: caught
+    - 0.7:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 1.1:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.2:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.3:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.4:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 1.5:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 1.6:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 2.1:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 2.2:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 2.3:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 2.4:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: FMK Morris
+    - 2.5:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 2.6:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: FMK Morris
+    - 2.7:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 2.8:
+        non_striker: EL Lamb
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 3.1:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 3.2:
+        non_striker: EL Lamb
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 3.3:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 3.4:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 3.5:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.6:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 4.1:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 4.2:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 4.3:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 4.4:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 4.5:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 4.6:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 5.1:
+        non_striker: EL Lamb
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 5.2:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 5.3:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: EL Lamb
+    - 5.4:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 5.5:
+        non_striker: EL Lamb
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 5.6:
+        non_striker: FMK Morris
+        bowler: E Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 6.1:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 6.2:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.3:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 6.4:
+        non_striker: EL Lamb
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 6.5:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EL Lamb
+    - 6.6:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 7.1:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 7.2:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 7.3:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 7.4:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 7.5:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 7.6:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 8.1:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 8.2:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 8.3:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 8.4:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 8.5:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 8.6:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 9.1:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 9.2:
+        non_striker: FMK Morris
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 9.3:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 9.4:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 9.5:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 9.6:
+        non_striker: FMK Morris
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 10.1:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 10.2:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 10.3:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 10.4:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 10.5:
+        non_striker: FMK Morris
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 10.6:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 11.1:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 11.2:
+        non_striker: FMK Morris
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 11.3:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 11.4:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+        wicket:
+          player_out: FMK Morris
+          fielders:
+          - D Perrin
+          kind: caught
+    - 11.5:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 12.1:
+        non_striker: DJS Dottin
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 12.2:
+        non_striker: DJS Dottin
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 12.3:
+        non_striker: DJS Dottin
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 12.4:
+        non_striker: DJS Dottin
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 12.5:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 12.6:
+        non_striker: EL Lamb
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.1:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 13.2:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 13.3:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 13.4:
+        non_striker: EL Lamb
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.5:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 13.6:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 14.1:
+        non_striker: E Threlkeld
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: E Threlkeld
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 14.3:
+        non_striker: E Threlkeld
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 14.4:
+        non_striker: E Threlkeld
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 14.5:
+        non_striker: E Threlkeld
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 14.6:
+        non_striker: DJS Dottin
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 15.1:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 15.2:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 15.3:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 15.4:
+        non_striker: E Threlkeld
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 15.5:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 15.6:
+        non_striker: DJS Dottin
+        bowler: B Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 16.1:
+        non_striker: E Threlkeld
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - KL George
+          kind: caught
+    - 16.2:
+        non_striker: E Threlkeld
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 16.3:
+        non_striker: E Threlkeld
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 16.4:
+        non_striker: S Smale
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 16.5:
+        non_striker: S Smale
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+        wicket:
+          player_out: E Threlkeld
+          kind: bowled
+    - 16.6:
+        non_striker: S Smale
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Dattani
+    - 17.1:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 17.2:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 17.3:
+        non_striker: S Smale
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Dattani
+    - 17.4:
+        non_striker: S Smale
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Dattani
+    - 17.5:
+        non_striker: S Smale
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Dattani
+    - 17.6:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 18.1:
+        non_striker: ND Dattani
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Smale
+    - 18.2:
+        non_striker: ND Dattani
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 18.3:
+        non_striker: S Smale
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Dattani
+    - 18.4:
+        non_striker: ND Dattani
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 18.5:
+        non_striker: ND Dattani
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Smale
+    - 18.6:
+        non_striker: ND Dattani
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 19.1:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 19.2:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Smale
+    - 19.3:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Smale
+    - 19.4:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Smale
+    - 19.5:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+        wicket:
+          player_out: S Smale
+          fielders:
+          - AJ Freeborn
+          kind: stumped
+    - 19.6:
+        non_striker: ND Dattani
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Collins
+- 2nd innings:
+    team: Central Sparks
+    deliveries:
+    - 0.1:
+        non_striker: B Ellis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          fielders:
+          - E Threlkeld
+          kind: caught
+    - 0.2:
+        non_striker: B Ellis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 0.3:
+        non_striker: B Ellis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 0.4:
+        non_striker: D Perrin
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ellis
+    - 0.5:
+        non_striker: D Perrin
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ellis
+    - 0.6:
+        non_striker: B Ellis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 1.1:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ellis
+    - 1.2:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ellis
+    - 1.3:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ellis
+        wicket:
+          player_out: B Ellis
+          fielders:
+          - FMK Morris
+          kind: run out
+    - 1.4:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 1.5:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 1.6:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 2.1:
+        non_striker: D Perrin
+        bowler: M Gaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Burns
+    - 2.2:
+        non_striker: D Perrin
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 2.3:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 2.4:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 2.5:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 2.6:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 2.7:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.1:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 3.2:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 3.3:
+        non_striker: D Perrin
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 3.4:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 3.5:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.6:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 4.1:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 4.2:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 4.3:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 4.4:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 4.5:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 4.6:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 5.1:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 5.2:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 5.3:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 5.4:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 5.5:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 5.6:
+        non_striker: D Perrin
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 6.1:
+        non_striker: EA Burns
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 6.2:
+        non_striker: D Perrin
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 6.3:
+        non_striker: EA Burns
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 6.4:
+        non_striker: D Perrin
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 6.5:
+        non_striker: D Perrin
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 6.6:
+        non_striker: EA Burns
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 7.1:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 7.2:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 7.3:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 7.4:
+        non_striker: D Perrin
+        bowler: FMK Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Burns
+    - 7.5:
+        non_striker: D Perrin
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 7.6:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 7.7:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 8.1:
+        non_striker: D Perrin
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 8.2:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 8.3:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          kind: lbw
+    - 8.4:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 8.5:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 8.6:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 9.1:
+        non_striker: EA Burns
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 9.2:
+        non_striker: A Campbell
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Burns
+    - 9.3:
+        non_striker: A Campbell
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 9.4:
+        non_striker: EA Burns
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 9.5:
+        non_striker: EA Burns
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Campbell
+    - 9.6:
+        non_striker: EA Burns
+        bowler: S Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 10.1:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 10.2:
+        non_striker: EA Burns
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 10.3:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 10.4:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 10.5:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 10.6:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Burns
+    - 11.1:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 11.2:
+        non_striker: A Campbell
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 11.3:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 11.4:
+        non_striker: EA Burns
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 11.5:
+        non_striker: A Campbell
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Burns
+    - 11.6:
+        non_striker: A Campbell
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Burns
+    - 12.1:
+        non_striker: EA Burns
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 12.2:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+        wicket:
+          player_out: EA Burns
+          kind: caught and bowled
+    - 12.3:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.4:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          kind: lbw
+    - 12.5:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 12.6:
+        non_striker: C Brewer
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 13.1:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Brewer
+    - 13.2:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 13.3:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 13.4:
+        non_striker: C Brewer
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 13.5:
+        non_striker: C Brewer
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 13.6:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 13.7:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 14.1:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 14.2:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Brewer
+    - 14.3:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 14.4:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 14.5:
+        non_striker: A Campbell
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 14.6:
+        non_striker: C Brewer
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 14.7:
+        non_striker: C Brewer
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 15.1:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Brewer
+    - 15.2:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 15.3:
+        non_striker: C Brewer
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 15.4:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 15.5:
+        non_striker: C Brewer
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 15.6:
+        non_striker: A Campbell
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 15.7:
+        non_striker: C Brewer
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 16.1:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Brewer
+    - 16.2:
+        non_striker: C Brewer
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 16.3:
+        non_striker: C Brewer
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 16.4:
+        non_striker: C Brewer
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 16.5:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brewer
+    - 16.6:
+        non_striker: A Campbell
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 17.1:
+        non_striker: C Brewer
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Campbell
+    - 17.2:
+        non_striker: C Brewer
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 17.3:
+        non_striker: A Campbell
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+        wicket:
+          player_out: C Brewer
+          fielders:
+          - ND Dattani
+          kind: caught
+    - 17.4:
+        non_striker: A Campbell
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+        wicket:
+          player_out: A Campbell
+          fielders:
+          - EL Lamb
+          kind: run out
+    - 17.5:
+        non_striker: GK Davis
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+        wicket:
+          player_out: KL George
+          fielders:
+          - S Smale
+          kind: caught
+    - 17.6:
+        non_striker: GK Davis
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 18.1:
+        non_striker: GK Davis
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 18.2:
+        non_striker: GK Davis
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 18.3:
+        non_striker: GK Davis
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 18.4:
+        non_striker: E Anderson
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 18.5:
+        non_striker: GK Davis
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Anderson
+    - 18.6:
+        non_striker: GK Davis
+        bowler: ND Dattani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+    - 19.1:
+        non_striker: GK Davis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 19.2:
+        non_striker: GK Davis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anderson
+    - 19.3:
+        non_striker: GK Davis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anderson
+        wicket:
+          player_out: E Anderson
+          fielders:
+          - FMK Morris
+          kind: run out
+    - 19.4:
+        non_striker: GK Davis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 19.5:
+        non_striker: HL Baker
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 19.6:
+        non_striker: GK Davis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker

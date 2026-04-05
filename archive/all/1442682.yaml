@@ -1,0 +1,1792 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Women's Big Bash League
+  dates:
+  - '2024-11-23'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Melbourne Renegades
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - S Molineux
+  players:
+    Sydney Thunder:
+    - G Voll
+    - AC Jayangani
+    - P Litchfield
+    - T Wilson
+    - GL Adams
+    - A Learoyd
+    - SJ Johnson
+    - HJ Darlington
+    - T Peschel
+    - S Ismail
+    - SL Bates
+    Melbourne Renegades:
+    - C Webb
+    - HK Matthews
+    - S Molineux
+    - DJS Dottin
+    - G Wareham
+    - NE Stalenberg
+    - N Faltum
+    - G Scrivens
+    - G Prestwidge
+    - SJ Coyte
+    - MH Illingworth
+  registry:
+    people:
+      A Learoyd: 1757bedf
+      AC Jayangani: ac56b5a7
+      C Grant: 876ed858
+      C Haysom: e8eb3b33
+      C Webb: 1f4a8a2a
+      D Brigham: 464daf41
+      DJS Dottin: 53bee17f
+      G Prestwidge: c218e4e7
+      G Scrivens: 7306c48d
+      G Voll: 5c30d455
+      G Wareham: f0b4e47d
+      GL Adams: 7b1f2542
+      HJ Darlington: 50b558d2
+      HK Matthews: d32cf49a
+      L McCabe: 1dbc4a64
+      MH Illingworth: 99dc3877
+      N Faltum: 9a56c670
+      NE Stalenberg: 609c519e
+      P Litchfield: 4e6ef14f
+      RL Parry: 86d151dc
+      S Ismail: 108c4c09
+      S Molineux: 99e23670
+      SJ Coyte: a5f488bc
+      SJ Johnson: d7b754d4
+      SL Bates: '0816fb1e'
+      T Peschel: 923402d8
+      T Wilson: 32100b2d
+  teams:
+  - Sydney Thunder
+  - Melbourne Renegades
+  toss:
+    winner: Sydney Thunder
+    decision: bat
+  umpires:
+  - C Haysom
+  - D Brigham
+  venue: Junction Oval, Melbourne
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 0.2:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.3:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: G Voll
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: G Voll
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: G Voll
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: G Voll
+        bowler: MH Illingworth
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: G Voll
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: bowled
+    - 1.5:
+        non_striker: G Voll
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.6:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 2.1:
+        non_striker: G Voll
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.2:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 2.3:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 2.4:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          fielders:
+          - SJ Coyte
+          kind: caught
+    - 2.5:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 2.6:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 3.1:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Wilson
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 3.5:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 3.6:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.7:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 4.1:
+        non_striker: T Wilson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.2:
+        non_striker: T Wilson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.3:
+        non_striker: T Wilson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.4:
+        non_striker: T Wilson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.5:
+        non_striker: T Wilson
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Litchfield
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 5.1:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 5.2:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: T Wilson
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.6:
+        non_striker: P Litchfield
+        bowler: MH Illingworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 6.1:
+        non_striker: T Wilson
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.2:
+        non_striker: T Wilson
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 6.4:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 6.6:
+        non_striker: P Litchfield
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 7.1:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.2:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          kind: caught and bowled
+    - 7.3:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 7.4:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 7.5:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 7.6:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Wilson
+    - 8.1:
+        non_striker: T Wilson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 8.2:
+        non_striker: GL Adams
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Wilson
+    - 8.3:
+        non_striker: GL Adams
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 8.4:
+        non_striker: GL Adams
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 8.5:
+        non_striker: GL Adams
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 8.6:
+        non_striker: T Wilson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Adams
+    - 8.7:
+        non_striker: T Wilson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 9.1:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 9.2:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 9.3:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 9.4:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 9.5:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 9.6:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 10.1:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 10.2:
+        non_striker: T Wilson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 10.3:
+        non_striker: T Wilson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 10.4:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 10.5:
+        non_striker: T Wilson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 10.6:
+        non_striker: GL Adams
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 11.1:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 11.2:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 11.3:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 11.4:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 11.5:
+        non_striker: T Wilson
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Adams
+    - 11.6:
+        non_striker: GL Adams
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+        wicket:
+          player_out: T Wilson
+          fielders:
+          - G Scrivens
+          kind: caught
+    - 12.1:
+        non_striker: A Learoyd
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+        wicket:
+          player_out: GL Adams
+          kind: bowled
+    - 12.2:
+        non_striker: A Learoyd
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 12.3:
+        non_striker: SJ Johnson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 12.4:
+        non_striker: A Learoyd
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 12.5:
+        non_striker: SJ Johnson
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 12.6:
+        non_striker: A Learoyd
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 13.1:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 13.2:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 13.3:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 13.4:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Johnson
+    - 13.5:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 13.6:
+        non_striker: A Learoyd
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 14.1:
+        non_striker: A Learoyd
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 14.2:
+        non_striker: SJ Johnson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 14.3:
+        non_striker: A Learoyd
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 14.4:
+        non_striker: SJ Johnson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 14.5:
+        non_striker: A Learoyd
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 14.6:
+        non_striker: A Learoyd
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Johnson
+    - 15.1:
+        non_striker: SJ Johnson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 15.2:
+        non_striker: A Learoyd
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Johnson
+    - 15.3:
+        non_striker: A Learoyd
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 15.4:
+        non_striker: A Learoyd
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 15.5:
+        non_striker: SJ Johnson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 15.6:
+        non_striker: SJ Johnson
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+    - 16.1:
+        non_striker: A Learoyd
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Johnson
+    - 16.2:
+        non_striker: A Learoyd
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 16.3:
+        non_striker: A Learoyd
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+        wicket:
+          player_out: SJ Johnson
+          fielders:
+          - G Wareham
+          kind: caught
+    - 16.4:
+        non_striker: A Learoyd
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 16.5:
+        non_striker: HJ Darlington
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+        wicket:
+          player_out: A Learoyd
+          kind: lbw
+    - 16.6:
+        non_striker: HJ Darlington
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Peschel
+    - 17.1:
+        non_striker: T Peschel
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 17.2:
+        non_striker: HJ Darlington
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Peschel
+    - 17.3:
+        non_striker: HJ Darlington
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Peschel
+        wicket:
+          player_out: T Peschel
+          fielders:
+          - N Faltum
+          kind: caught
+    - 17.4:
+        non_striker: HJ Darlington
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 17.5:
+        non_striker: S Ismail
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Darlington
+    - 17.6:
+        non_striker: S Ismail
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 18.1:
+        non_striker: S Ismail
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 18.2:
+        non_striker: HJ Darlington
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 18.3:
+        non_striker: S Ismail
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Darlington
+        wicket:
+          player_out: HJ Darlington
+          kind: bowled
+    - 18.4:
+        non_striker: S Ismail
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Bates
+    - 18.5:
+        non_striker: SL Bates
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 18.6:
+        non_striker: S Ismail
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Bates
+    - 19.1:
+        non_striker: SL Bates
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+        wicket:
+          player_out: S Ismail
+          kind: bowled
+- 2nd innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 0.4:
+        non_striker: C Webb
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 1.1:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 1.4:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: C Webb
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 3.1:
+        non_striker: C Webb
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: C Webb
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 3.6:
+        non_striker: C Webb
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: C Webb
+    - 4.2:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 4.3:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Webb
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 4.5:
+        non_striker: C Webb
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.6:
+        non_striker: C Webb
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 4.7:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 5.1:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: C Webb
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 5.4:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+        wicket:
+          player_out: C Webb
+          fielders:
+          - T Wilson
+          kind: stumped
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 6.1:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Molineux
+    - 6.3:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.4:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 7.1:
+        non_striker: HK Matthews
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 7.2:
+        non_striker: S Molineux
+        bowler: GL Adams
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: HK Matthews
+    - 7.3:
+        non_striker: S Molineux
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 7.4:
+        non_striker: S Molineux
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.5:
+        non_striker: HK Matthews
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 7.6:
+        non_striker: HK Matthews
+        bowler: GL Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 8.1:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 8.2:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.3:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 8.4:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 8.5:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 8.6:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 9.1:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 9.3:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.4:
+        non_striker: HK Matthews
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 9.5:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.6:
+        non_striker: S Molineux
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 10.1:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 10.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Molineux
+    - 10.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 10.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 10.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 10.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 10.7:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 11.1:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 11.2:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.3:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 11.4:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Molineux
+    - 11.5:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 11.6:
+        non_striker: HK Matthews
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 12.1:
+        non_striker: S Molineux
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 12.2:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 12.3:
+        non_striker: S Molineux
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 12.4:
+        non_striker: S Molineux
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 12.5:
+        non_striker: S Molineux
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 12.6:
+        non_striker: HK Matthews
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 13.1:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 13.2:
+        non_striker: S Molineux
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 13.3:
+        non_striker: S Molineux
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.4:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Molineux
+    - 13.5:
+        non_striker: HK Matthews
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 13.6:
+        non_striker: S Molineux
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 14.1:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 14.2:
+        non_striker: S Molineux
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews

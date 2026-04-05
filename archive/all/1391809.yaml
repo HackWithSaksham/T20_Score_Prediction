@@ -1,0 +1,2423 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  competition: The Marsh Cup
+  dates:
+  - '2023-10-09'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Western Australia
+    by:
+      wickets: 6
+  overs: 50
+  player_of_match:
+  - JP Behrendorff
+  players:
+    Victoria:
+    - TF Rogers
+    - SB Harper
+    - C Kellaway
+    - PSP Handscomb
+    - J Merlo
+    - J Seymour
+    - W Sutherland
+    - SM Elliott
+    - F O'Neill
+    - T Murphy
+    - PM Siddle
+    Western Australia:
+    - JR Philippe
+    - DJM Short
+    - CT Bancroft
+    - SM Whiteman
+    - AM Hardie
+    - AJ Turner
+    - NR Hobson
+    - JA Richardson
+    - AJ Tye
+    - JP Behrendorff
+    - LR Morris
+  registry:
+    people:
+      AJ Turner: ff1e12a0
+      AJ Tye: 7c7d63a2
+      AM Hardie: d405c0d5
+      C Kellaway: 60c28835
+      CT Bancroft: 399b0b94
+      DJM Short: 1a156c88
+      F O'Neill: 39d608d4
+      GA Abood: a4af5528
+      J Merlo: 02ba80a0
+      J Seymour: cb54a1d6
+      JA Richardson: 1ee08e9a
+      JP Behrendorff: 4933f499
+      JR Philippe: '39086549'
+      LR Morris: b08e58e2
+      NR Hobson: 4312e0fd
+      PM Siddle: bd93fea4
+      PSP Handscomb: ada15e88
+      RL Parry: 86d151dc
+      SAJ Craig: 689f2eed
+      SB Harper: a756e61a
+      SM Elliott: 00cda8e4
+      SM Whiteman: f4427cc6
+      T Murphy: ac2e7ec0
+      TF Rogers: 7f232d46
+      W Sutherland: bc2d4f2e
+  teams:
+  - Victoria
+  - Western Australia
+  toss:
+    winner: Western Australia
+    decision: field
+  umpires:
+  - GA Abood
+  - SAJ Craig
+  venue: Western Australia Cricket Association Ground, Perth
+innings:
+- 1st innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SB Harper
+        batsman: TF Rogers
+    - 0.2:
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SB Harper
+        batsman: TF Rogers
+    - 0.3:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.4:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.5:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Harper
+    - 0.6:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.7:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SB Harper
+    - 0.8:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.1:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.2:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.4:
+        non_striker: SB Harper
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.5:
+        non_striker: SB Harper
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.6:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 2.1:
+        non_striker: SB Harper
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.2:
+        non_striker: SB Harper
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TF Rogers
+    - 2.3:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 2.4:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - AJ Tye
+          kind: caught
+    - 2.5:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.6:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Kellaway
+    - 2.7:
+        non_striker: TF Rogers
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 3.1:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.2:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 3.3:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.5:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          kind: lbw
+    - 4.1:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 4.2:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 4.3:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Merlo
+    - 4.4:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Merlo
+    - 4.5:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Merlo
+    - 4.6:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Merlo
+    - 4.7:
+        non_striker: PSP Handscomb
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Merlo
+    - 5.1:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 5.2:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 5.3:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 5.4:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Merlo
+    - 5.5:
+        non_striker: J Merlo
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 5.6:
+        non_striker: J Merlo
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 6.1:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 6.2:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 6.3:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 6.4:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 6.5:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 6.6:
+        non_striker: J Merlo
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 7.1:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 7.2:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 7.3:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 7.4:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+        wicket:
+          player_out: J Merlo
+          fielders:
+          - DJM Short
+          kind: caught
+    - 7.5:
+        non_striker: PSP Handscomb
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Seymour
+    - 7.6:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.1:
+        non_striker: PSP Handscomb
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Seymour
+    - 8.2:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.3:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.4:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 8.5:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.6:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PSP Handscomb
+    - 9.1:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          kind: bowled
+    - 9.2:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 9.3:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 9.4:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 9.5:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Sutherland
+    - 9.6:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 9.7:
+        non_striker: J Seymour
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.1:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 10.2:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 10.3:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 10.4:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 10.5:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 10.6:
+        non_striker: W Sutherland
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 11.1:
+        non_striker: J Seymour
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Sutherland
+    - 11.2:
+        non_striker: J Seymour
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 11.3:
+        non_striker: J Seymour
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: W Sutherland
+    - 11.4:
+        non_striker: W Sutherland
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 11.5:
+        non_striker: W Sutherland
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 11.6:
+        non_striker: W Sutherland
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 11.7:
+        non_striker: W Sutherland
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 12.1:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 12.2:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 12.3:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 12.4:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 12.5:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - CT Bancroft
+          kind: caught
+    - 12.6:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 13.1:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 13.2:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Seymour
+    - 13.3:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Seymour
+    - 13.4:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 13.5:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Seymour
+    - 13.6:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 13.7:
+        non_striker: SM Elliott
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 14.1:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 14.2:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 14.3:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 14.4:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 14.5:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+        wicket:
+          player_out: SM Elliott
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 14.6:
+        non_striker: J Seymour
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F O'Neill
+    - 15.1:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 15.2:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 15.3:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 15.4:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Seymour
+    - 15.5:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+    - 15.6:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Seymour
+        wicket:
+          player_out: J Seymour
+          fielders:
+          - NR Hobson
+          kind: caught
+    - 15.7:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 16.1:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F O'Neill
+    - 16.2:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F O'Neill
+    - 16.3:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F O'Neill
+    - 16.4:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 16.5:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 16.6:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Murphy
+    - 17.1:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 17.2:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Murphy
+    - 17.3:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 17.4:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Murphy
+    - 17.5:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Murphy
+    - 17.6:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 18.1:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F O'Neill
+    - 18.2:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F O'Neill
+    - 18.3:
+        non_striker: T Murphy
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F O'Neill
+    - 18.4:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Murphy
+    - 18.5:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Murphy
+    - 18.6:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 19.1:
+        non_striker: T Murphy
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F O'Neill
+    - 19.2:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 19.3:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 19.4:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 19.5:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+        wicket:
+          player_out: T Murphy
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 19.6:
+        non_striker: F O'Neill
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 20.1:
+        non_striker: PM Siddle
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F O'Neill
+    - 20.2:
+        non_striker: PM Siddle
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F O'Neill
+    - 20.3:
+        non_striker: PM Siddle
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F O'Neill
+    - 20.4:
+        non_striker: PM Siddle
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F O'Neill
+    - 20.5:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Siddle
+    - 20.6:
+        non_striker: F O'Neill
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Siddle
+    - 21.1:
+        non_striker: PM Siddle
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F O'Neill
+        wicket:
+          player_out: F O'Neill
+          fielders:
+          - JR Philippe
+          kind: caught
+- 2nd innings:
+    team: Western Australia
+    deliveries:
+    - 0.1:
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.2:
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DJM Short
+        batsman: JR Philippe
+    - 0.3:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 0.4:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.5:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.6:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 1.1:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 1.2:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 1.3:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 1.4:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 1.5:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 1.6:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.1:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 2.2:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 2.3:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 2.4:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 2.5:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 2.6:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 3.1:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.2:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.3:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 3.4:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 3.5:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 3.6:
+        non_striker: JR Philippe
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 4.1:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 4.2:
+        non_striker: DJM Short
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 4.3:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 4.4:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 4.5:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 4.6:
+        non_striker: JR Philippe
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 5.1:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JR Philippe
+    - 5.2:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 5.3:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          kind: bowled
+    - 5.4:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 5.5:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 5.6:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.1:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 6.2:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 6.3:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 6.4:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 6.5:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 6.6:
+        non_striker: CT Bancroft
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJM Short
+    - 7.1:
+        non_striker: DJM Short
+        bowler: F O'Neill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CT Bancroft
+    - 7.2:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJM Short
+    - 7.3:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJM Short
+    - 7.4:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 7.6:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 7.7:
+        non_striker: CT Bancroft
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 8.1:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.2:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.3:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          fielders:
+          - J Merlo
+          kind: caught
+    - 8.4:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 8.5:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 8.6:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 9.1:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 9.2:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 9.3:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 9.4:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 9.5:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 9.6:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 10.1:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.2:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.3:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.4:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.5:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 10.6:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 11.1:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 11.2:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 11.3:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 11.4:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 11.5:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 11.6:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 12.1:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 12.2:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 12.3:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Whiteman
+    - 12.4:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 12.5:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 12.6:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 12.7:
+        non_striker: DJM Short
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 13.1:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.2:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.3:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.4:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 13.5:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 13.6:
+        non_striker: DJM Short
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 14.1:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 14.2:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+        wicket:
+          player_out: DJM Short
+          kind: lbw
+    - 14.3:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 14.4:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 14.5:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 14.6:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 15.1:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 15.2:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 15.3:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 15.4:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 15.5:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 15.6:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 16.1:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 16.2:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 16.3:
+        non_striker: AM Hardie
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 16.4:
+        non_striker: AM Hardie
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 16.5:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Hardie
+    - 16.6:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 16.7:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 17.1:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 17.2:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 17.3:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 17.4:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 17.5:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 17.6:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.1:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 18.2:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 18.3:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 18.4:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 18.5:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 18.6:
+        non_striker: SM Whiteman
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 19.1:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 19.2:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 19.3:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 19.4:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 19.5:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 19.6:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 20.1:
+        non_striker: AM Hardie
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 20.2:
+        non_striker: AM Hardie
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 20.3:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 20.4:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 20.5:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 20.6:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 21.1:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 21.2:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 21.3:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 21.4:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 21.5:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 21.6:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 22.1:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 22.2:
+        non_striker: AM Hardie
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 22.3:
+        non_striker: AM Hardie
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 22.4:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 22.5:
+        non_striker: SM Whiteman
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 22.6:
+        non_striker: AM Hardie
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 23.1:
+        non_striker: AM Hardie
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 23.2:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+        wicket:
+          player_out: AM Hardie
+          fielders:
+          - SB Harper
+          kind: caught
+    - 23.3:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 23.4:
+        non_striker: SM Whiteman
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner

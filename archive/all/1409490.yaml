@@ -1,0 +1,2148 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Napier
+  competition: Super Smash
+  dates:
+  - '2024-01-08'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - MA Abbas
+  players:
+    Central Districts:
+    - WA Young
+    - BL Wiggins
+    - D Cleaver
+    - TC Bruce
+    - JA Clarkson
+    - DAJ Bracewell
+    - W Clark
+    - BJ Small
+    - AY Patel
+    - BM Tickner
+    - JR Lennox
+    Wellington:
+    - TB Robinson
+    - DP Conway
+    - NF Kelly
+    - MA Abbas
+    - MG Bracewell
+    - CR McLachlan
+    - NG Smith
+    - LV van Beek
+    - PF Younghusband
+    - IG McPeake
+    - MW Snedden
+  registry:
+    people:
+      AY Patel: fbd4f01f
+      BJ Small: b1b7b7de
+      BL Wiggins: d4320277
+      BM Tickner: 48ad3373
+      CR McLachlan: 10da9f8b
+      D Cleaver: e3a949be
+      DAJ Bracewell: 2e9fdf9b
+      DP Conway: df5a6881
+      IG McPeake: f8e48647
+      J Leahy: 5ec68f1b
+      JA Clarkson: bed90114
+      JR Lennox: '07793daf'
+      LV van Beek: 782fb776
+      MA Abbas: c3576908
+      MG Bracewell: e38bce7a
+      MW Snedden: 236c8ffb
+      N Louw: 465c4770
+      NF Kelly: 97f437ed
+      NG Smith: 05b1aef8
+      PF Younghusband: 149d0c18
+      RE Hayward: 57689d0b
+      TB Robinson: 5d664346
+      TC Bruce: f92c9151
+      TJ Parlane: 3cfc24b0
+      W Clark: 4f78497c
+      WA Young: 8afe73e2
+      WR Knights: 63cbf8d8
+  teams:
+  - Central Districts
+  - Wellington
+  toss:
+    winner: Central Districts
+    decision: bat
+  umpires:
+  - TJ Parlane
+  - WR Knights
+  venue: McLean Park, Napier
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        non_striker: BL Wiggins
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 0.2:
+        non_striker: BL Wiggins
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 0.3:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+    - 0.4:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+    - 0.5:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+    - 0.6:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+        wicket:
+          player_out: BL Wiggins
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 0.7:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.1:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 1.2:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.3:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 1.4:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 1.5:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 1.6:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 1.7:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 1.8:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 2.2:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 2.3:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 2.4:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 2.5:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.6:
+        non_striker: WA Young
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.1:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.2:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 3.3:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 3.4:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 3.5:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 3.6:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.7:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 4.1:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.2:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.3:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.4:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.5:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.6:
+        non_striker: WA Young
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.1:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.2:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Cleaver
+    - 5.3:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 5.4:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Cleaver
+    - 5.5:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 5.6:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.7:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 5.8:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 6.1:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 6.2:
+        non_striker: WA Young
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 6.3:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 6.4:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 6.5:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 6.6:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.1:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 7.2:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 7.3:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 7.4:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 7.5:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.6:
+        non_striker: WA Young
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.1:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.2:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 8.3:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.4:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 8.5:
+        non_striker: WA Young
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.6:
+        non_striker: D Cleaver
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 9.1:
+        non_striker: WA Young
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.2:
+        non_striker: D Cleaver
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.3:
+        non_striker: WA Young
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.4:
+        non_striker: D Cleaver
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WA Young
+    - 9.5:
+        non_striker: WA Young
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 9.6:
+        non_striker: WA Young
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - MW Snedden
+          kind: caught
+    - 10.1:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 10.2:
+        non_striker: WA Young
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 10.3:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 10.4:
+        non_striker: WA Young
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 10.5:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 10.6:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - MA Abbas
+          kind: caught
+    - 11.1:
+        non_striker: JA Clarkson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.2:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.3:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.4:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.5:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.6:
+        non_striker: JA Clarkson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.1:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.2:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 12.3:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 12.4:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.5:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 12.6:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.1:
+        non_striker: JA Clarkson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.2:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.3:
+        non_striker: JA Clarkson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 13.4:
+        non_striker: JA Clarkson
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.5:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 13.6:
+        non_striker: TC Bruce
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 14.1:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          kind: bowled
+    - 14.2:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 14.3:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 14.4:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 14.5:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+    - 14.6:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 15.1:
+        non_striker: DAJ Bracewell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 15.2:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 15.3:
+        non_striker: DAJ Bracewell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Clark
+    - 15.4:
+        non_striker: DAJ Bracewell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 15.5:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 15.6:
+        non_striker: W Clark
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 16.1:
+        non_striker: DAJ Bracewell
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+    - 16.2:
+        non_striker: DAJ Bracewell
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 16.3:
+        non_striker: W Clark
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 16.4:
+        non_striker: W Clark
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 16.5:
+        non_striker: DAJ Bracewell
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: W Clark
+    - 16.6:
+        non_striker: W Clark
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 17.1:
+        non_striker: W Clark
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 17.2:
+        non_striker: W Clark
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 17.3:
+        non_striker: W Clark
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 17.4:
+        non_striker: DAJ Bracewell
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 17.5:
+        non_striker: W Clark
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 17.6:
+        non_striker: DAJ Bracewell
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 17.7:
+        non_striker: W Clark
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 18.1:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DAJ Bracewell
+    - 18.2:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+        wicket:
+          player_out: DAJ Bracewell
+          fielders:
+          - NG Smith
+          kind: caught
+    - 18.3:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Small
+    - 18.4:
+        non_striker: BJ Small
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 18.5:
+        non_striker: W Clark
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Small
+    - 18.6:
+        non_striker: BJ Small
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 19.1:
+        non_striker: BJ Small
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Clark
+    - 19.2:
+        non_striker: W Clark
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Small
+    - 19.3:
+        non_striker: BJ Small
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Clark
+    - 19.4:
+        non_striker: BJ Small
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Clark
+        wicket:
+          player_out: W Clark
+          fielders:
+          - NF Kelly
+          kind: caught
+    - 19.5:
+        non_striker: BJ Small
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AY Patel
+    - 19.6:
+        non_striker: AY Patel
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Small
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        non_striker: DP Conway
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 0.2:
+        non_striker: TB Robinson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.3:
+        non_striker: DP Conway
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 0.4:
+        non_striker: DP Conway
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 0.5:
+        non_striker: DP Conway
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 0.6:
+        non_striker: DP Conway
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 1.1:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 1.2:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 1.3:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+        wicket:
+          player_out: TB Robinson
+          fielders:
+          - AY Patel
+          kind: caught
+    - 1.4:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.5:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.6:
+        non_striker: DP Conway
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.1:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.2:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.3:
+        non_striker: DP Conway
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.4:
+        non_striker: DP Conway
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 2.5:
+        non_striker: DP Conway
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.6:
+        non_striker: DP Conway
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 3.1:
+        non_striker: NF Kelly
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.2:
+        non_striker: NF Kelly
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 3.3:
+        non_striker: NF Kelly
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 3.4:
+        non_striker: MA Abbas
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.5:
+        non_striker: MA Abbas
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 3.6:
+        non_striker: NF Kelly
+        bowler: BJ Small
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Abbas
+    - 3.7:
+        non_striker: NF Kelly
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 4.1:
+        non_striker: MA Abbas
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.2:
+        non_striker: MA Abbas
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 4.3:
+        non_striker: MA Abbas
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 4.4:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 4.5:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 4.6:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 5.1:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 5.2:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 5.3:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 5.4:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 5.5:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 5.6:
+        non_striker: NF Kelly
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 6.1:
+        non_striker: NF Kelly
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 6.2:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.3:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.4:
+        non_striker: NF Kelly
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 6.5:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.6:
+        non_striker: NF Kelly
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 7.1:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 7.2:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 7.3:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          fielders:
+          - AY Patel
+          kind: caught
+    - 7.4:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 7.5:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Bracewell
+    - 7.6:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 8.1:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 8.2:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 8.3:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.4:
+        non_striker: MG Bracewell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 8.5:
+        non_striker: MG Bracewell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 8.6:
+        non_striker: MA Abbas
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.1:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 9.2:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 9.3:
+        non_striker: MA Abbas
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.4:
+        non_striker: MA Abbas
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 9.5:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 9.6:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 10.1:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 10.2:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 10.3:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 10.4:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 10.5:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 10.6:
+        non_striker: MA Abbas
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 11.1:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 11.2:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 11.3:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 11.4:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 11.5:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 11.6:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 12.1:
+        non_striker: MG Bracewell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 12.2:
+        non_striker: MG Bracewell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 12.3:
+        non_striker: MA Abbas
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Bracewell
+    - 12.4:
+        non_striker: MA Abbas
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 12.5:
+        non_striker: MG Bracewell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 12.6:
+        non_striker: MG Bracewell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 13.1:
+        non_striker: MA Abbas
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 13.2:
+        non_striker: MG Bracewell
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Abbas
+    - 13.3:
+        non_striker: MG Bracewell
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 13.4:
+        non_striker: MA Abbas
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 13.5:
+        non_striker: MG Bracewell
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 13.6:
+        non_striker: MG Bracewell
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 14.1:
+        non_striker: MA Abbas
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 14.2:
+        non_striker: MG Bracewell
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 14.3:
+        non_striker: MG Bracewell
+        bowler: TC Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Abbas
+    - 14.4:
+        non_striker: MG Bracewell
+        bowler: TC Bruce
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MA Abbas
+    - 14.5:
+        non_striker: MA Abbas
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 14.6:
+        non_striker: MA Abbas
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 14.7:
+        non_striker: MA Abbas
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 14.8:
+        non_striker: MA Abbas
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 15.1:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 15.2:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 15.3:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 15.4:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 15.5:
+        non_striker: MA Abbas
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 15.6:
+        non_striker: MG Bracewell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 16.1:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 16.2:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Abbas
+    - 16.3:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 16.4:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+        wicket:
+          player_out: MA Abbas
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 16.5:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR McLachlan
+    - 16.6:
+        non_striker: MG Bracewell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR McLachlan
+    - 17.1:
+        non_striker: CR McLachlan
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 17.2:
+        non_striker: CR McLachlan
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          fielders:
+          - AY Patel
+          kind: caught
+    - 17.3:
+        non_striker: CR McLachlan
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 17.4:
+        non_striker: NG Smith
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR McLachlan
+        wicket:
+          player_out: CR McLachlan
+          fielders:
+          - WA Young
+          kind: caught
+    - 17.5:
+        non_striker: NG Smith
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 17.6:
+        non_striker: NG Smith
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.1:
+        non_striker: NG Smith
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 18.2:
+        non_striker: NG Smith
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 18.3:
+        non_striker: NG Smith
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.4:
+        non_striker: LV van Beek
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NG Smith
+    - 18.5:
+        non_striker: LV van Beek
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 18.6:
+        non_striker: NG Smith
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 19.1:
+        non_striker: LV van Beek
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Smith

@@ -1,0 +1,2056 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: SA20
+  dates:
+  - '2024-01-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Joburg Super Kings
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - D Ferreira
+  players:
+    Pretoria Capitals:
+    - PD Salt
+    - WG Jacks
+    - K Verreynne
+    - RR Rossouw
+    - CA Ingram
+    - JDS Neesham
+    - C Bosch
+    - WD Parnell
+    - E Bosch
+    - AU Rashid
+    - GC Viljoen
+    Joburg Super Kings:
+    - RR Hendricks
+    - F du Plessis
+    - JL du Plooy
+    - BS Makhanya
+    - MM Ali
+    - D Ferreira
+    - D Wiese
+    - R Shepherd
+    - LB Williams
+    - N Burger
+    - Imran Tahir
+  registry:
+    people:
+      AU Rashid: 249d60c9
+      BM White: 66c21d35
+      BS Makhanya: 1b42a100
+      C Bosch: 172dff15
+      CA Ingram: c995d726
+      D Ferreira: f0af99a7
+      D Wiese: aa8d28ae
+      E Bosch: 28d6c44d
+      F du Plessis: 3355b542
+      GC Viljoen: a316d663
+      Imran Tahir: acee4cc4
+      JDS Neesham: 9219eff0
+      JL du Plooy: 6e6fb538
+      K Verreynne: bf814547
+      LB Williams: a1d95bd8
+      LH Matroos: 6fa18157
+      Lauren Agenbag: 40849abd
+      MM Ali: bb351c23
+      MN Gampu: '41597619'
+      N Burger: 465aa633
+      PD Salt: 3d284ca3
+      R Shepherd: c5aef772
+      RR Hendricks: b8cc58c9
+      RR Rossouw: cad00a4d
+      Stephen Harris: fdcfd4aa
+      WD Parnell: 3a60e0b5
+      WG Jacks: 9caf69a1
+  teams:
+  - Pretoria Capitals
+  - Joburg Super Kings
+  toss:
+    winner: Pretoria Capitals
+    decision: bat
+  umpires:
+  - BM White
+  - Stephen Harris
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Pretoria Capitals
+    deliveries:
+    - 0.1:
+        non_striker: WG Jacks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.3:
+        non_striker: PD Salt
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 0.4:
+        non_striker: WG Jacks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 0.5:
+        non_striker: WG Jacks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.6:
+        non_striker: WG Jacks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.1:
+        non_striker: PD Salt
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.2:
+        non_striker: PD Salt
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 1.3:
+        non_striker: PD Salt
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 1.4:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.5:
+        non_striker: PD Salt
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 1.6:
+        non_striker: PD Salt
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 2.1:
+        non_striker: PD Salt
+        bowler: LB Williams
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: K Verreynne
+    - 2.2:
+        non_striker: PD Salt
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 2.3:
+        non_striker: PD Salt
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 2.4:
+        non_striker: PD Salt
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 2.5:
+        non_striker: PD Salt
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 2.6:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          kind: caught and bowled
+    - 3.1:
+        non_striker: RR Rossouw
+        bowler: N Burger
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: K Verreynne
+    - 3.2:
+        non_striker: RR Rossouw
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 3.3:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 3.4:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.5:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.6:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.1:
+        non_striker: CA Ingram
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 4.2:
+        non_striker: CA Ingram
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 4.3:
+        non_striker: CA Ingram
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 4.4:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.5:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.6:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - Imran Tahir
+          kind: caught
+    - 5.1:
+        non_striker: JDS Neesham
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 5.2:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 5.3:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 5.4:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 5.5:
+        non_striker: JDS Neesham
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 5.6:
+        non_striker: JDS Neesham
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 6.1:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 6.2:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 6.3:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 6.4:
+        non_striker: JDS Neesham
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 6.5:
+        non_striker: JDS Neesham
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 6.6:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.1:
+        non_striker: JDS Neesham
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 7.2:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - D Ferreira
+          kind: stumped
+    - 7.3:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 7.4:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 7.5:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 7.6:
+        non_striker: C Bosch
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 7.7:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 8.1:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 8.2:
+        non_striker: C Bosch
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 8.3:
+        non_striker: C Bosch
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 8.4:
+        non_striker: C Bosch
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 8.5:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+        wicket:
+          player_out: C Bosch
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 8.6:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 9.1:
+        non_striker: WD Parnell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 9.2:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 9.3:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 9.4:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 9.5:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 9.6:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 10.1:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 10.2:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 10.3:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 10.4:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 10.5:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 10.6:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 11.1:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WD Parnell
+    - 11.2:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 11.3:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 11.4:
+        non_striker: WD Parnell
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 11.5:
+        non_striker: WD Parnell
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 11.6:
+        non_striker: K Verreynne
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WD Parnell
+    - 12.1:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 12.2:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 12.3:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 12.4:
+        non_striker: WD Parnell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 12.5:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 12.6:
+        non_striker: K Verreynne
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 13.1:
+        non_striker: WD Parnell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 13.2:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 13.3:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WD Parnell
+    - 13.4:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WD Parnell
+    - 13.5:
+        non_striker: K Verreynne
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 13.6:
+        non_striker: WD Parnell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 14.1:
+        non_striker: WD Parnell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.2:
+        non_striker: WD Parnell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 14.3:
+        non_striker: WD Parnell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 14.4:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 14.5:
+        non_striker: WD Parnell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 14.6:
+        non_striker: WD Parnell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 15.1:
+        non_striker: WD Parnell
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 15.2:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 15.3:
+        non_striker: WD Parnell
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 15.4:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+        wicket:
+          player_out: WD Parnell
+          fielders:
+          - N Burger
+          kind: caught
+    - 15.5:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 15.6:
+        non_striker: E Bosch
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 16.1:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.2:
+        non_striker: E Bosch
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 16.3:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Bosch
+    - 16.4:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 16.5:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Bosch
+    - 16.6:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Bosch
+    - 16.7:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+        wicket:
+          player_out: E Bosch
+          kind: bowled
+    - 17.1:
+        non_striker: AU Rashid
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 17.2:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 17.3:
+        non_striker: AU Rashid
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 17.4:
+        non_striker: AU Rashid
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Verreynne
+    - 17.5:
+        non_striker: AU Rashid
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 17.6:
+        non_striker: K Verreynne
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 17.7:
+        non_striker: AU Rashid
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 18.1:
+        non_striker: AU Rashid
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 18.2:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AU Rashid
+    - 18.3:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 18.4:
+        non_striker: AU Rashid
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 18.5:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AU Rashid
+    - 18.6:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AU Rashid
+    - 18.7:
+        non_striker: K Verreynne
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AU Rashid
+    - 19.1:
+        non_striker: AU Rashid
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 19.2:
+        non_striker: AU Rashid
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Verreynne
+    - 19.3:
+        non_striker: AU Rashid
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 19.4:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+        wicket:
+          player_out: AU Rashid
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 19.5:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Viljoen
+    - 19.6:
+        non_striker: K Verreynne
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Viljoen
+- 2nd innings:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 0.7:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          kind: bowled
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 1.5:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.6:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.2:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 3.1:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: RR Hendricks
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 3.3:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: bowled
+    - 3.4:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 3.5:
+        non_striker: BS Makhanya
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 3.6:
+        non_striker: BS Makhanya
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 4.1:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 4.2:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Makhanya
+    - 4.3:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 4.4:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 4.5:
+        non_striker: BS Makhanya
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 4.6:
+        non_striker: BS Makhanya
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 5.1:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 5.2:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 5.3:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 5.4:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 5.5:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 5.6:
+        non_striker: JL du Plooy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 6.1:
+        non_striker: JL du Plooy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 6.2:
+        non_striker: JL du Plooy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 6.3:
+        non_striker: JL du Plooy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 6.4:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 6.5:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 6.6:
+        non_striker: JL du Plooy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Makhanya
+    - 7.1:
+        non_striker: BS Makhanya
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 7.2:
+        non_striker: JL du Plooy
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 7.3:
+        non_striker: JL du Plooy
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 7.4:
+        non_striker: BS Makhanya
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 7.5:
+        non_striker: BS Makhanya
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 7.6:
+        non_striker: JL du Plooy
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.1:
+        non_striker: JL du Plooy
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.2:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.3:
+        non_striker: JL du Plooy
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.4:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.5:
+        non_striker: JL du Plooy
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.6:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 8.7:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 9.1:
+        non_striker: JL du Plooy
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Makhanya
+    - 9.2:
+        non_striker: JL du Plooy
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 9.3:
+        non_striker: BS Makhanya
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.4:
+        non_striker: JL du Plooy
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 9.5:
+        non_striker: JL du Plooy
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 9.6:
+        non_striker: BS Makhanya
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 9.7:
+        non_striker: BS Makhanya
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.1:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          fielders:
+          - E Bosch
+          kind: caught
+    - 10.2:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.3:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 10.4:
+        non_striker: MM Ali
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Makhanya
+    - 10.5:
+        non_striker: MM Ali
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 10.6:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.7:
+        non_striker: BS Makhanya
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.1:
+        non_striker: BS Makhanya
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 11.2:
+        non_striker: BS Makhanya
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.3:
+        non_striker: MM Ali
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 11.4:
+        non_striker: BS Makhanya
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.5:
+        non_striker: MM Ali
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 11.6:
+        non_striker: MM Ali
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 12.1:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 12.2:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+        wicket:
+          player_out: BS Makhanya
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 12.3:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 12.4:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 12.5:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.6:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 13.1:
+        non_striker: D Ferreira
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 13.2:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.3:
+        non_striker: D Ferreira
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 13.4:
+        non_striker: D Ferreira
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MM Ali
+    - 13.5:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 13.6:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 14.1:
+        non_striker: D Ferreira
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 14.2:
+        non_striker: MM Ali
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.3:
+        non_striker: D Ferreira
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 14.4:
+        non_striker: MM Ali
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.5:
+        non_striker: D Ferreira
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 14.6:
+        non_striker: MM Ali
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 15.1:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 15.2:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 15.3:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 15.4:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 15.5:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 15.6:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.1:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.2:
+        non_striker: D Ferreira
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 16.3:
+        non_striker: D Ferreira
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 16.4:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 16.5:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 16.6:
+        non_striker: MM Ali
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 17.1:
+        non_striker: D Ferreira
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 17.2:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.3:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 17.4:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.5:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.6:
+        non_striker: MM Ali
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira

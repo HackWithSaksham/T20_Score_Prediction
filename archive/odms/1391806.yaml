@@ -1,0 +1,4910 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: The Marsh Cup
+  dates:
+  - '2023-09-29'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Victoria
+    by:
+      runs: 59
+  overs: 50
+  player_of_match:
+  - SB Harper
+  players:
+    Victoria:
+    - TF Rogers
+    - SB Harper
+    - MS Harris
+    - PSP Handscomb
+    - J Merlo
+    - W Sutherland
+    - C Kellaway
+    - SM Elliott
+    - F O'Neill
+    - T Murphy
+    - SM Boland
+    New South Wales:
+    - J Edwards
+    - DP Hughes
+    - JJS Sangha
+    - MC Henriques
+    - O Davies
+    - KR Patterson
+    - M Gilkes
+    - H Kerr
+    - CJ Green
+    - BJ Dwarshuis
+    - JM Bird
+  registry:
+    people:
+      BJ Dwarshuis: e1b9f3a9
+      C Kellaway: 60c28835
+      CJ Green: 19b9f399
+      D Taylor: b940a2b2
+      DP Hughes: f3982af9
+      F O'Neill: 39d608d4
+      H Kerr: f422728b
+      J Edwards: f787e0eb
+      J Merlo: 02ba80a0
+      JJS Sangha: 8e3cb0e9
+      JM Bird: bc773eeb
+      KR Patterson: e3bf8356
+      M Gilkes: d85b0f8b
+      MC Henriques: 32198ae0
+      MS Harris: 9e85455c
+      MW Graham-Smith: 18aca3ce
+      O Davies: 0ea54eca
+      PSP Handscomb: ada15e88
+      RL Parry: 86d151dc
+      SB Harper: a756e61a
+      SM Boland: d167edd3
+      SM Elliott: 00cda8e4
+      T Murphy: ac2e7ec0
+      TF Rogers: 7f232d46
+      W Sutherland: bc2d4f2e
+  teams:
+  - Victoria
+  - New South Wales
+  toss:
+    winner: Victoria
+    decision: bat
+  umpires:
+  - D Taylor
+  - MW Graham-Smith
+  venue: Junction Oval, Melbourne
+innings:
+- 1st innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: JM Bird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SB Harper
+        batsman: TF Rogers
+    - 0.2:
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SB Harper
+        batsman: TF Rogers
+    - 0.3:
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SB Harper
+        batsman: TF Rogers
+    - 0.4:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.5:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.6:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.7:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.1:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 1.4:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 1.5:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TF Rogers
+    - 1.6:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.1:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 2.2:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 2.3:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 2.4:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 2.5:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 2.6:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.1:
+        non_striker: TF Rogers
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 3.2:
+        non_striker: TF Rogers
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 3.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: TF Rogers
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.5:
+        non_striker: TF Rogers
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.6:
+        non_striker: TF Rogers
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SB Harper
+    - 4.1:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.2:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.3:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.4:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.5:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.6:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.1:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 5.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 5.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TF Rogers
+    - 5.4:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 5.5:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TF Rogers
+    - 5.6:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TF Rogers
+    - 5.7:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 6.1:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.2:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.3:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.4:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 6.5:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.6:
+        non_striker: TF Rogers
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 7.1:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 7.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 7.3:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 7.4:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 7.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 8.1:
+        non_striker: TF Rogers
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.2:
+        non_striker: TF Rogers
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 8.3:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 8.4:
+        non_striker: TF Rogers
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.5:
+        non_striker: TF Rogers
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.6:
+        non_striker: TF Rogers
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 9.1:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 9.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 9.3:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 9.4:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 9.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 9.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 10.1:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 10.2:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 10.3:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 10.4:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 10.5:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 10.6:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 11.1:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 11.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.3:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.4:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 11.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 12.1:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 12.2:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 12.3:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 12.4:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 12.5:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 12.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Harris
+    - 13.1:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 13.2:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 13.3:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 13.4:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 13.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 13.6:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 14.1:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 14.2:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 14.3:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 14.4:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 14.5:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 14.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 15.1:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 15.2:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SB Harper
+    - 15.3:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 15.4:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 15.5:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 15.6:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 16.1:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 16.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 16.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 16.4:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 16.5:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 16.6:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 17.1:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 17.2:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.3:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.4:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.5:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Harper
+    - 17.6:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.7:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 18.1:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 18.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 18.3:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 18.4:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 18.5:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 18.6:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 19.1:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 19.2:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 19.3:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 19.4:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.5:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 19.6:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 20.1:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 20.2:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 20.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 20.4:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 20.5:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 20.6:
+        non_striker: MS Harris
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 21.1:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 21.2:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 21.3:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 21.4:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 21.5:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 21.6:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Harris
+    - 21.7:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 22.1:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 22.2:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 22.3:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 22.4:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 22.5:
+        non_striker: SB Harper
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 22.6:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 23.1:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 23.2:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 23.3:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 23.4:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 23.5:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 23.6:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 24.1:
+        non_striker: SB Harper
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 24.2:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 24.3:
+        non_striker: MS Harris
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 24.4:
+        non_striker: SB Harper
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 24.5:
+        non_striker: SB Harper
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 24.6:
+        non_striker: SB Harper
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 25.1:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 25.2:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 25.3:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MS Harris
+    - 25.4:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 25.5:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 25.6:
+        non_striker: SB Harper
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 25.7:
+        non_striker: MS Harris
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 26.1:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 26.2:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 26.3:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Harris
+    - 26.4:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 26.5:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 26.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Harris
+    - 27.1:
+        non_striker: MS Harris
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 27.2:
+        non_striker: MS Harris
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 27.3:
+        non_striker: MS Harris
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 27.4:
+        non_striker: MS Harris
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 27.5:
+        non_striker: MS Harris
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 27.6:
+        non_striker: SB Harper
+        bowler: O Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 28.1:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 28.2:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 28.3:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 28.4:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Harris
+    - 28.5:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 28.6:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 29.1:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 29.2:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 29.3:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 29.4:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 29.5:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 29.6:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 30.1:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 30.2:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 30.3:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 30.4:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 30.5:
+        non_striker: MS Harris
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 30.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 31.1:
+        non_striker: MS Harris
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 31.2:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 31.3:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 31.4:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Harris
+    - 31.5:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 31.6:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 32.1:
+        non_striker: MS Harris
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 32.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 32.3:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Harris
+    - 32.4:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Harris
+    - 32.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+        wicket:
+          player_out: MS Harris
+          kind: bowled
+    - 32.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.1:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 33.2:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.3:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.4:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 33.5:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 33.6:
+        non_striker: SB Harper
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 34.1:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 34.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 34.3:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 34.4:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 34.5:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 34.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 35.1:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          kind: lbw
+    - 35.2:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 35.3:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 35.4:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 35.5:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 35.6:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSP Handscomb
+    - 35.7:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 36.1:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 36.2:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 36.3:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 36.4:
+        non_striker: J Merlo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 36.5:
+        non_striker: J Merlo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 36.6:
+        non_striker: J Merlo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 37.1:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 37.2:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 37.3:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 37.4:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 37.5:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 37.6:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 38.1:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 38.2:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 38.3:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 38.4:
+        non_striker: J Merlo
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 38.5:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 38.6:
+        non_striker: PSP Handscomb
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 39.1:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 39.2:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+    - 39.3:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Merlo
+    - 39.4:
+        non_striker: J Merlo
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 39.5:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Merlo
+        wicket:
+          player_out: J Merlo
+          fielders:
+          - O Davies
+          kind: caught
+    - 39.6:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 40.1:
+        non_striker: W Sutherland
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 40.2:
+        non_striker: W Sutherland
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 40.3:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 40.4:
+        non_striker: W Sutherland
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 40.5:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 40.6:
+        non_striker: W Sutherland
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 41.1:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 41.2:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 41.3:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 41.4:
+        non_striker: PSP Handscomb
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 41.5:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 41.6:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 42.1:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.2:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 42.3:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.4:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 42.5:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 42.6:
+        non_striker: PSP Handscomb
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 43.1:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 43.2:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 43.3:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 43.4:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 43.5:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 43.6:
+        non_striker: PSP Handscomb
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 44.1:
+        non_striker: C Kellaway
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 44.2:
+        non_striker: PSP Handscomb
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 44.3:
+        non_striker: PSP Handscomb
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 44.4:
+        non_striker: C Kellaway
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PSP Handscomb
+    - 44.5:
+        non_striker: C Kellaway
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 44.6:
+        non_striker: PSP Handscomb
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 45.1:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 45.2:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSP Handscomb
+    - 45.3:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 45.4:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 45.5:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 45.6:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Elliott
+    - 46.1:
+        non_striker: SM Elliott
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 46.2:
+        non_striker: C Kellaway
+        bowler: JM Bird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Elliott
+    - 46.3:
+        non_striker: C Kellaway
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 46.4:
+        non_striker: SM Elliott
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 46.5:
+        non_striker: C Kellaway
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 46.6:
+        non_striker: C Kellaway
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 46.7:
+        non_striker: SM Elliott
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 47.1:
+        non_striker: C Kellaway
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Elliott
+    - 47.2:
+        non_striker: C Kellaway
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 47.3:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 47.4:
+        non_striker: C Kellaway
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 47.5:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 47.6:
+        non_striker: C Kellaway
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Elliott
+    - 48.1:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 48.2:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 48.3:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 48.4:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 48.5:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Kellaway
+    - 48.6:
+        non_striker: SM Elliott
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 48.7:
+        non_striker: C Kellaway
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Elliott
+    - 49.1:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 49.2:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 49.3:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 49.4:
+        non_striker: C Kellaway
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Elliott
+    - 49.5:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 49.6:
+        non_striker: SM Elliott
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          kind: bowled
+- 2nd innings:
+    team: New South Wales
+    deliveries:
+    - 0.1:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hughes
+        batsman: J Edwards
+    - 0.2:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Hughes
+        batsman: J Edwards
+    - 0.3:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DP Hughes
+        batsman: J Edwards
+    - 0.4:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 0.5:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.6:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Edwards
+    - 1.2:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Edwards
+    - 1.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 1.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 2.1:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.2:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 2.3:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.4:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.5:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.6:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Edwards
+    - 3.2:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 3.3:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 3.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 3.5:
+        non_striker: J Edwards
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.6:
+        non_striker: J Edwards
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 4.1:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 4.2:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 4.3:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.4:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 4.5:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 4.6:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 5.2:
+        non_striker: J Edwards
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.3:
+        non_striker: J Edwards
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.6:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 6.1:
+        non_striker: J Edwards
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 6.2:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+        wicket:
+          player_out: J Edwards
+          fielders:
+          - SB Harper
+          kind: caught
+    - 6.3:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 6.4:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJS Sangha
+    - 6.5:
+        non_striker: JJS Sangha
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 6.6:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJS Sangha
+    - 7.1:
+        non_striker: JJS Sangha
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 7.2:
+        non_striker: JJS Sangha
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 7.3:
+        non_striker: JJS Sangha
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 7.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+    - 7.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJS Sangha
+        wicket:
+          player_out: JJS Sangha
+          fielders:
+          - J Merlo
+          kind: caught
+    - 7.6:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.2:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.4:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 8.6:
+        non_striker: MC Henriques
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 9.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.2:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 9.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.6:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 10.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.6:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 11.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.2:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 11.3:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.4:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.6:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.1:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.2:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 12.3:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 12.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 12.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.6:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 13.1:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 13.2:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 13.3:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 13.4:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 13.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 13.6:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 14.1:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 14.2:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 14.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 14.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 14.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 14.6:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 15.1:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 15.2:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 15.3:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 15.4:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 15.5:
+        non_striker: DP Hughes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 15.6:
+        non_striker: MC Henriques
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 16.1:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 16.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - SM Boland
+          kind: caught
+    - 16.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 16.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 16.5:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 16.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 17.1:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 17.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 17.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 17.4:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 17.5:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 17.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 18.1:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Hughes
+    - 18.2:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 18.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 18.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 18.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 18.6:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 18.7:
+        non_striker: O Davies
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 19.1:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 19.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 19.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 19.4:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 19.5:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 19.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 20.1:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 20.2:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 20.3:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 20.4:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 20.5:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 20.6:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 21.1:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 21.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 21.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 21.4:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 21.5:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 21.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 22.1:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 22.2:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 22.3:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 22.4:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 22.5:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 22.6:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 23.1:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 23.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 23.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 23.4:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 23.5:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 23.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 24.1:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 24.2:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 24.3:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 24.4:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 24.5:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 24.6:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Davies
+    - 25.1:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 25.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Davies
+    - 25.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 25.4:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 25.5:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 25.6:
+        non_striker: O Davies
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 26.1:
+        non_striker: O Davies
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 26.2:
+        non_striker: O Davies
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 26.3:
+        non_striker: O Davies
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 26.4:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 26.5:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 26.6:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 27.1:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 27.2:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 27.3:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 27.4:
+        non_striker: O Davies
+        bowler: SM Elliott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Hughes
+    - 27.5:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Davies
+    - 27.6:
+        non_striker: DP Hughes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Davies
+    - 28.1:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+    - 28.2:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davies
+        wicket:
+          player_out: O Davies
+          kind: bowled
+    - 28.3:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Patterson
+    - 28.4:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 28.5:
+        non_striker: KR Patterson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 28.6:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 29.1:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 29.2:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 29.3:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 29.4:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 29.5:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 29.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 30.1:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 30.2:
+        non_striker: KR Patterson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 30.3:
+        non_striker: KR Patterson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 30.4:
+        non_striker: KR Patterson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 30.5:
+        non_striker: DP Hughes
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 30.6:
+        non_striker: KR Patterson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 31.1:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 31.2:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 31.3:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 31.4:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 31.5:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 31.6:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 32.1:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 32.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 32.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 32.4:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KR Patterson
+    - 32.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 32.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 33.1:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 33.2:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 33.3:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 33.4:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 33.5:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Patterson
+    - 33.6:
+        non_striker: DP Hughes
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 33.7:
+        non_striker: KR Patterson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 34.1:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 34.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 34.3:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 34.4:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 34.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KR Patterson
+    - 34.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Patterson
+    - 34.7:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 35.1:
+        non_striker: KR Patterson
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 35.2:
+        non_striker: DP Hughes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 35.3:
+        non_striker: DP Hughes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 35.4:
+        non_striker: KR Patterson
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 35.5:
+        non_striker: KR Patterson
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 35.6:
+        non_striker: DP Hughes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KR Patterson
+    - 36.1:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 36.2:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 36.3:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - T Murphy
+          kind: caught
+    - 36.4:
+        non_striker: KR Patterson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 36.5:
+        non_striker: M Gilkes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+    - 36.6:
+        non_striker: M Gilkes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 37.1:
+        non_striker: M Gilkes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Patterson
+    - 37.2:
+        non_striker: KR Patterson
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 37.3:
+        non_striker: M Gilkes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Patterson
+    - 37.4:
+        non_striker: M Gilkes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Patterson
+        wicket:
+          player_out: KR Patterson
+          fielders:
+          - SM Elliott
+          kind: caught
+    - 37.5:
+        non_striker: M Gilkes
+        bowler: J Merlo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 37.6:
+        non_striker: H Kerr
+        bowler: J Merlo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Gilkes
+    - 38.1:
+        non_striker: M Gilkes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 38.2:
+        non_striker: M Gilkes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 38.3:
+        non_striker: H Kerr
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 38.4:
+        non_striker: H Kerr
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 38.5:
+        non_striker: M Gilkes
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 38.6:
+        non_striker: H Kerr
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 39.1:
+        non_striker: M Gilkes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kerr
+    - 39.2:
+        non_striker: M Gilkes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kerr
+    - 39.3:
+        non_striker: M Gilkes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 39.4:
+        non_striker: H Kerr
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 39.5:
+        non_striker: M Gilkes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+        wicket:
+          player_out: H Kerr
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 39.6:
+        non_striker: M Gilkes
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 40.1:
+        non_striker: CJ Green
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 40.2:
+        non_striker: CJ Green
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 40.3:
+        non_striker: CJ Green
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 40.4:
+        non_striker: CJ Green
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 40.5:
+        non_striker: CJ Green
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 40.6:
+        non_striker: BJ Dwarshuis
+        bowler: F O'Neill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 41.1:
+        non_striker: BJ Dwarshuis
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 41.2:
+        non_striker: BJ Dwarshuis
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 41.3:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 41.4:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 41.5:
+        non_striker: BJ Dwarshuis
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 41.6:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 42.1:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Green
+    - 42.2:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 42.3:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 42.4:
+        non_striker: CJ Green
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 42.5:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 42.6:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Green
+    - 43.1:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 43.2:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 43.3:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 43.4:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 43.5:
+        non_striker: CJ Green
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 43.6:
+        non_striker: BJ Dwarshuis
+        bowler: SM Elliott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 44.1:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 44.2:
+        non_striker: CJ Green
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Dwarshuis
+    - 44.3:
+        non_striker: CJ Green
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 44.4:
+        non_striker: BJ Dwarshuis
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 44.5:
+        non_striker: CJ Green
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 44.6:
+        non_striker: CJ Green
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 45.1:
+        non_striker: CJ Green
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 45.2:
+        non_striker: BJ Dwarshuis
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+        wicket:
+          player_out: CJ Green
+          fielders:
+          - W Sutherland
+          kind: caught
+    - 45.3:
+        non_striker: BJ Dwarshuis
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bird
+    - 45.4:
+        non_striker: BJ Dwarshuis
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bird
+    - 45.5:
+        non_striker: JM Bird
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 45.6:
+        non_striker: BJ Dwarshuis
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bird
+    - 46.1:
+        non_striker: JM Bird
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 46.2:
+        non_striker: BJ Dwarshuis
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bird
+        wicket:
+          player_out: JM Bird
+          kind: bowled

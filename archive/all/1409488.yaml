@@ -1,0 +1,1865 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  competition: Super Smash
+  dates:
+  - '2024-01-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Otago
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - GD Phillips
+  players:
+    Northern Districts:
+    - KD Clarke
+    - TL Seifert
+    - JA Raval
+    - JF Carter
+    - MJ Santner
+    - HR Cooper
+    - BR Hampton
+    - SC Kuggeleijn
+    - TG Southee
+    - TJG Pringle
+    - N Wagner
+    Otago:
+    - HD Rutherford
+    - JM Gibson
+    - D Foxcroft
+    - GD Phillips
+    - MW Chu
+    - DN Phillips
+    - LC Johnson
+    - BNJ Lockrose
+    - ATE Hazeldine
+    - T Muller
+    - JA Duffy
+  registry:
+    people:
+      ATE Hazeldine: 33ad0ad9
+      BNJ Lockrose: aa8914ad
+      BR Hampton: 93f25f4f
+      C Black: 75b42f71
+      CM Brown: 448f4f1c
+      D Foxcroft: ed6894af
+      DJ Walker: d4aea8ac
+      DN Phillips: be0c9f5b
+      GB Troup: 94f0e744
+      GD Phillips: 9a46c4e5
+      HD Rutherford: 0605de92
+      HR Cooper: 99528b4b
+      JA Duffy: dadbdb68
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      JM Gibson: e3aa97a2
+      KD Clarke: 7a12be0a
+      LC Johnson: a573ad7a
+      MJ Santner: e4a0deae
+      MW Chu: ef9f75f8
+      N Wagner: 78adc879
+      SC Kuggeleijn: fef92afc
+      T Muller: ebb1f8e8
+      T Semmens: 3b471aa4
+      TG Southee: 13c35c9e
+      TJG Pringle: 8ce2080b
+      TL Seifert: 4663bd23
+  teams:
+  - Northern Districts
+  - Otago
+  toss:
+    winner: Northern Districts
+    decision: bat
+  umpires:
+  - CM Brown
+  - DJ Walker
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: ATE Hazeldine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KD Clarke
+    - 0.2:
+        non_striker: KD Clarke
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Clarke
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: ATE Hazeldine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.1:
+        non_striker: KD Clarke
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: KD Clarke
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          kind: bowled
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: BNJ Lockrose
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JA Raval
+    - 1.5:
+        non_striker: JA Raval
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: JA Raval
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: JA Raval
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.2:
+        non_striker: JA Raval
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: TL Seifert
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+        wicket:
+          player_out: JA Raval
+          fielders:
+          - MW Chu
+          kind: caught
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 3.1:
+        non_striker: JF Carter
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: JF Carter
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: TL Seifert
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 3.4:
+        non_striker: JF Carter
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: JF Carter
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 3.6:
+        non_striker: JF Carter
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: JF Carter
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: JF Carter
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 4.3:
+        non_striker: JF Carter
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 4.4:
+        non_striker: JF Carter
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.5:
+        non_striker: JF Carter
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.2:
+        non_striker: JF Carter
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.3:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.4:
+        non_striker: JF Carter
+        bowler: T Muller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: JF Carter
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 5.7:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+        wicket:
+          player_out: JF Carter
+          fielders:
+          - BNJ Lockrose
+          kind: caught
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 6.3:
+        non_striker: TL Seifert
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 6.4:
+        non_striker: MJ Santner
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.5:
+        non_striker: TL Seifert
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 6.6:
+        non_striker: TL Seifert
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 7.1:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 7.3:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: TL Seifert
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 7.5:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.6:
+        non_striker: TL Seifert
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 8.1:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 8.3:
+        non_striker: MJ Santner
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - JA Duffy
+          kind: caught
+    - 8.4:
+        non_striker: MJ Santner
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 8.5:
+        non_striker: MJ Santner
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 8.6:
+        non_striker: HR Cooper
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.1:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 9.2:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.3:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 9.4:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 9.5:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.6:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.1:
+        non_striker: HR Cooper
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 10.2:
+        non_striker: HR Cooper
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 10.3:
+        non_striker: HR Cooper
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.4:
+        non_striker: MJ Santner
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 10.5:
+        non_striker: MJ Santner
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 10.6:
+        non_striker: HR Cooper
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 11.1:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 11.2:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.3:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 11.4:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 11.5:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 11.6:
+        non_striker: HR Cooper
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: HR Cooper
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.2:
+        non_striker: MJ Santner
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 12.3:
+        non_striker: MJ Santner
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 12.4:
+        non_striker: HR Cooper
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.5:
+        non_striker: MJ Santner
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+        wicket:
+          player_out: HR Cooper
+          fielders:
+          - JA Duffy
+          kind: caught
+    - 12.6:
+        non_striker: MJ Santner
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 13.1:
+        non_striker: BR Hampton
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: MJ Santner
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 13.3:
+        non_striker: BR Hampton
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.4:
+        non_striker: MJ Santner
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 13.5:
+        non_striker: BR Hampton
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 13.6:
+        non_striker: BR Hampton
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.1:
+        non_striker: MJ Santner
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 14.2:
+        non_striker: BR Hampton
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.3:
+        non_striker: BR Hampton
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 14.4:
+        non_striker: MJ Santner
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BR Hampton
+    - 14.5:
+        non_striker: BR Hampton
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.6:
+        non_striker: BR Hampton
+        bowler: T Muller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.1:
+        non_striker: BR Hampton
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.2:
+        non_striker: BR Hampton
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.3:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 15.4:
+        non_striker: BR Hampton
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.5:
+        non_striker: MJ Santner
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 15.6:
+        non_striker: BR Hampton
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - LC Johnson
+          kind: caught
+    - 16.1:
+        non_striker: SC Kuggeleijn
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 16.2:
+        non_striker: SC Kuggeleijn
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+        wicket:
+          player_out: BR Hampton
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 16.3:
+        non_striker: SC Kuggeleijn
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 16.4:
+        non_striker: TG Southee
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 16.5:
+        non_striker: SC Kuggeleijn
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.6:
+        non_striker: SC Kuggeleijn
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - JM Gibson
+          kind: caught
+    - 17.1:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+        wicket:
+          player_out: SC Kuggeleijn
+          fielders:
+          - JA Duffy
+          kind: caught
+    - 17.2:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wagner
+    - 17.3:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Wagner
+    - 17.4:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wagner
+    - 17.5:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wagner
+    - 17.6:
+        non_striker: TJG Pringle
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wagner
+    - 18.1:
+        non_striker: N Wagner
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.2:
+        non_striker: TJG Pringle
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wagner
+    - 18.3:
+        non_striker: N Wagner
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+        wicket:
+          player_out: TJG Pringle
+          kind: bowled
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 0.2:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 0.3:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 0.4:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Rutherford
+    - 0.5:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Rutherford
+    - 0.6:
+        non_striker: HD Rutherford
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Gibson
+    - 1.1:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 1.2:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 1.3:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+        wicket:
+          player_out: HD Rutherford
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 1.4:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 1.5:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 1.6:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 2.1:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 2.2:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 2.3:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 2.4:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 2.5:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 2.6:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 3.1:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 3.2:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 3.3:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 3.4:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 3.5:
+        non_striker: JM Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 3.6:
+        non_striker: D Foxcroft
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Gibson
+    - 4.1:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 4.2:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Gibson
+    - 4.3:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 4.4:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Gibson
+    - 4.5:
+        non_striker: D Foxcroft
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 4.6:
+        non_striker: JM Gibson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.1:
+        non_striker: JM Gibson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 5.2:
+        non_striker: JM Gibson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 5.3:
+        non_striker: JM Gibson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.4:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 5.5:
+        non_striker: JM Gibson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.6:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 6.1:
+        non_striker: JM Gibson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.2:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 6.3:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 6.4:
+        non_striker: JM Gibson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 6.5:
+        non_striker: JM Gibson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.6:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+    - 7.1:
+        non_striker: JM Gibson
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.2:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Gibson
+    - 7.3:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 7.4:
+        non_striker: JM Gibson
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.5:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+        wicket:
+          player_out: JM Gibson
+          fielders:
+          - TG Southee
+          kind: caught
+    - 7.6:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 8.2:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.3:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 8.4:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 8.5:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 8.6:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.2:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.4:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.5:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 10.2:
+        non_striker: D Foxcroft
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.3:
+        non_striker: D Foxcroft
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 10.4:
+        non_striker: D Foxcroft
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 11.1:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.2:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.3:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 11.5:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 12.2:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 12.3:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 12.4:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 12.5:
+        non_striker: D Foxcroft
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 13.1:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.2:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 13.3:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.4:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 13.5:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.6:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.1:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 14.2:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.3:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 14.4:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 14.5:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 14.6:
+        non_striker: D Foxcroft
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 15.1:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.2:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.3:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.4:
+        non_striker: D Foxcroft
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.5:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 15.6:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 16.1:
+        non_striker: D Foxcroft
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 16.2:
+        non_striker: GD Phillips
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 16.3:
+        non_striker: GD Phillips
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 16.4:
+        non_striker: GD Phillips
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 16.5:
+        non_striker: GD Phillips
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 16.6:
+        non_striker: GD Phillips
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft

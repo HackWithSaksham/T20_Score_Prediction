@@ -1,0 +1,2119 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Women's Big Bash League
+  dates:
+  - '2025-11-30'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - EA Perry
+  players:
+    Sydney Thunder:
+    - G Voll
+    - T Wilson
+    - P Litchfield
+    - HC Knight
+    - AC Jayangani
+    - A Learoyd
+    - L Harris
+    - L Finn
+    - T Peschel
+    - S Ismail
+    - SL Bates
+    Sydney Sixers:
+    - SIR Dunkley
+    - EA Perry
+    - AJ Healy
+    - A Gardner
+    - M Brown
+    - AC Kerr
+    - MK Villiers
+    - EA Burns
+    - C Bray
+    - L Kua
+    - L Cheatle
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Learoyd: 1757bedf
+      AC Jayangani: ac56b5a7
+      AC Kerr: 7673c908
+      AJ Healy: 321644de
+      C Bray: b54cc792
+      EA Burns: 2e0b6638
+      EA Perry: be150fc8
+      G Voll: 5c30d455
+      HC Knight: 4ba0289e
+      J Egan: 30ce2a76
+      J Stainer: fcd293d7
+      L Cheatle: 275dff85
+      L Finn: 579e3965
+      L Harris: 36e2dc83
+      L Kua: c6dfc16b
+      M Brown: 78bec461
+      ME Claydon: 15101f12
+      MK Villiers: cd62f670
+      P Litchfield: 4e6ef14f
+      Roberto Howard: eec90c4b
+      S Ismail: 108c4c09
+      SIR Dunkley: 3a9e9cb2
+      SL Bates: '0816fb1e'
+      Sharad Patel: 8e6dd3ba
+      T Peschel: 923402d8
+      T Wilson: 32100b2d
+  teams:
+  - Sydney Thunder
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - Roberto Howard
+  - Sharad Patel
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.2:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.3:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.4:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 0.5:
+        non_striker: G Voll
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 0.6:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          fielders:
+          - MK Villiers
+          kind: caught
+    - 1.1:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Wilson
+    - 1.3:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 1.4:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 1.5:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wilson
+    - 1.6:
+        non_striker: T Wilson
+        bowler: M Brown
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Litchfield
+    - 1.7:
+        non_striker: P Litchfield
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+    - 2.1:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.2:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: T Wilson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wilson
+        wicket:
+          player_out: T Wilson
+          fielders:
+          - EA Perry
+          kind: caught
+    - 3.1:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 3.3:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.4:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.5:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 3.6:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Jayangani
+    - 3.7:
+        non_striker: AC Jayangani
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 4.1:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 5.5:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.1:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - EA Burns
+          kind: caught
+    - 6.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 6.4:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.5:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 6.6:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+    - 7.1:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 7.2:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.3:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 7.4:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.5:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 7.6:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.1:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 8.2:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 8.4:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.5:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 8.6:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.1:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.2:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.3:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.4:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.5:
+        non_striker: HC Knight
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 9.6:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 10.1:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 10.2:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 10.4:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.5:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 10.6:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.1:
+        non_striker: A Learoyd
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.2:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Learoyd
+    - 11.3:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 11.4:
+        non_striker: A Learoyd
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 11.5:
+        non_striker: A Learoyd
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.6:
+        non_striker: HC Knight
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+    - 12.1:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.2:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.3:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 12.4:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Knight
+    - 12.5:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: HC Knight
+    - 12.6:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 12.7:
+        non_striker: A Learoyd
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 13.1:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 13.2:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Learoyd
+    - 13.3:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 13.4:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.5:
+        non_striker: HC Knight
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 13.6:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 13.7:
+        non_striker: A Learoyd
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 14.2:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: A Learoyd
+    - 14.3:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 14.4:
+        non_striker: A Learoyd
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.5:
+        non_striker: A Learoyd
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.6:
+        non_striker: A Learoyd
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.7:
+        non_striker: HC Knight
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 15.1:
+        non_striker: A Learoyd
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 15.2:
+        non_striker: A Learoyd
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 15.3:
+        non_striker: A Learoyd
+        bowler: L Cheatle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HC Knight
+    - 15.4:
+        non_striker: HC Knight
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+    - 15.5:
+        non_striker: HC Knight
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Learoyd
+    - 15.6:
+        non_striker: A Learoyd
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.1:
+        non_striker: A Learoyd
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.2:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Learoyd
+    - 16.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Learoyd
+    - 16.4:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Learoyd
+        wicket:
+          player_out: A Learoyd
+          fielders:
+          - M Brown
+          kind: caught
+    - 16.5:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 16.6:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 17.1:
+        non_striker: L Harris
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - EA Perry
+          kind: caught
+    - 17.2:
+        non_striker: L Harris
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Finn
+    - 17.3:
+        non_striker: L Harris
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Finn
+    - 17.4:
+        non_striker: L Harris
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Finn
+    - 17.5:
+        non_striker: L Harris
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Finn
+    - 17.6:
+        non_striker: L Finn
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 18.1:
+        non_striker: L Harris
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Finn
+    - 18.2:
+        non_striker: L Harris
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Finn
+    - 18.3:
+        non_striker: L Finn
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 18.4:
+        non_striker: L Finn
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 18.5:
+        non_striker: L Finn
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 18.6:
+        non_striker: L Finn
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.1:
+        non_striker: L Harris
+        bowler: C Bray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Finn
+    - 19.2:
+        non_striker: L Finn
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.3:
+        non_striker: L Finn
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 19.4:
+        non_striker: L Harris
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Finn
+    - 19.5:
+        non_striker: L Finn
+        bowler: C Bray
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Harris
+    - 19.6:
+        non_striker: L Finn
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.3:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.4:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 1.2:
+        non_striker: SIR Dunkley
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 1.3:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 1.5:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 2.1:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 2.2:
+        non_striker: SIR Dunkley
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.3:
+        non_striker: SIR Dunkley
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.4:
+        non_striker: SIR Dunkley
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.5:
+        non_striker: SIR Dunkley
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 2.6:
+        non_striker: SIR Dunkley
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.1:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 3.2:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 3.4:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 3.5:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 3.6:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.7:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 4.1:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 4.2:
+        non_striker: SIR Dunkley
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.3:
+        non_striker: SIR Dunkley
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 4.4:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 4.5:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 4.6:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 5.1:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.2:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.3:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.4:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 5.5:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 5.6:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.1:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 6.2:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 6.3:
+        non_striker: SIR Dunkley
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 6.4:
+        non_striker: SIR Dunkley
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.5:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 6.6:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 7.1:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 7.2:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 7.3:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 7.4:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: bowled
+    - 7.5:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.6:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.1:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 8.2:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.3:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.4:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.5:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.6:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 9.1:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 9.2:
+        non_striker: AJ Healy
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 9.3:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Healy
+    - 9.4:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 9.5:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AJ Healy
+    - 9.6:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 9.7:
+        non_striker: AJ Healy
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 10.1:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 10.2:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 10.3:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 10.4:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 10.5:
+        non_striker: AJ Healy
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 10.6:
+        non_striker: AJ Healy
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.1:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 11.2:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 11.3:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 11.4:
+        non_striker: AJ Healy
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.5:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 11.6:
+        non_striker: EA Perry
+        bowler: G Voll
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 12.1:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 12.2:
+        non_striker: AJ Healy
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.3:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Healy
+    - 12.4:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 12.5:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - S Ismail
+          kind: caught
+    - 12.6:
+        non_striker: EA Perry
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 13.1:
+        non_striker: A Gardner
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 13.2:
+        non_striker: A Gardner
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.3:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 13.4:
+        non_striker: A Gardner
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.5:
+        non_striker: A Gardner
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 13.6:
+        non_striker: A Gardner
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 14.1:
+        non_striker: A Gardner
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.2:
+        non_striker: A Gardner
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 14.3:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 14.4:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 14.5:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 14.6:
+        non_striker: A Gardner
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 15.1:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 15.2:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 15.3:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 15.4:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 15.5:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 15.6:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 16.1:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Gardner
+    - 16.2:
+        non_striker: A Gardner
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 16.3:
+        non_striker: A Gardner
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 16.4:
+        non_striker: A Gardner
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 16.5:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Gardner
+    - 16.6:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          kind: bowled
+    - 16.7:
+        non_striker: EA Perry
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 17.1:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Brown
+    - 17.2:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 17.3:
+        non_striker: M Brown
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 17.4:
+        non_striker: M Brown
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 17.5:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+        wicket:
+          player_out: M Brown
+          fielders:
+          - HC Knight
+          kind: caught
+    - 17.6:
+        non_striker: EA Perry
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 18.1:
+        non_striker: AC Kerr
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 18.2:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.3:
+        non_striker: AC Kerr
+        bowler: L Finn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EA Perry
+    - 18.4:
+        non_striker: AC Kerr
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 18.5:
+        non_striker: EA Perry
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.6:
+        non_striker: AC Kerr
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 18.7:
+        non_striker: AC Kerr
+        bowler: L Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry

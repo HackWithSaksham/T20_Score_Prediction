@@ -1,0 +1,810 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 5
+  city: London
+  competition: The Hundred Men's Competition
+  dates:
+  - '2025-08-30'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Northern Superchargers:
+    - Z Crawley
+    - DJ Malan
+    - DW Lawrence
+    - HC Brook
+    - G Clark
+    - DA Miller
+    - SR Patel
+    - TE Lawes
+    - MJ Potts
+    - AU Rashid
+    - JA Duffy
+    Trent Rockets:
+    - T Banton
+    - JE Root
+    - RA Whiteley
+    - DJ Willey
+    - MP Stoinis
+    - GF Linde
+    - SR Hain
+    - Rehan Ahmed
+    - OB Cox
+    - SJ Cook
+    - LH Ferguson
+  registry:
+    people:
+      AU Rashid: 249d60c9
+      DA Miller: d67d5f00
+      DJ Malan: ad9c32a2
+      DJ Willey: 7f048519
+      DW Lawrence: 4b685e2d
+      G Clark: 4fd09cfc
+      GF Linde: e5437608
+      HC Brook: 4ae1755b
+      JA Duffy: dadbdb68
+      JE Root: a343262c
+      James Middlebrook: ddcd1520
+      LH Ferguson: 2f9d0389
+      MJ Potts: 894b2d25
+      MJ Saggers: 402d5937
+      MP Stoinis: d9273ee7
+      NL Bainton: cd219cb3
+      OB Cox: 324a6ee1
+      RA Whiteley: d346d939
+      Rehan Ahmed: 0ecb4de6
+      S Redfern: 5b038989
+      SJ Cook: 679cd31e
+      SJ Davis: bc71b0b2
+      SR Hain: 67b9536c
+      SR Patel: 18fac429
+      T Banton: 25f7b7d6
+      TE Lawes: fe2ac1a8
+      Z Crawley: 922e1b19
+  teams:
+  - Northern Superchargers
+  - Trent Rockets
+  toss:
+    winner: Trent Rockets
+    decision: field
+  umpires:
+  - James Middlebrook
+  - MJ Saggers
+  venue: Kennington Oval, London
+innings:
+- 1st innings:
+    team: Northern Superchargers
+    deliveries:
+    - 0.1:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.2:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.3:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+        wicket:
+          player_out: Z Crawley
+          fielders:
+          - JE Root
+          kind: caught
+    - 0.4:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 0.5:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.1:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 1.2:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 1.3:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.4:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.5:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 2.1:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DW Lawrence
+    - 2.2:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 2.3:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DW Lawrence
+    - 2.4:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 2.5:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DW Lawrence
+    - 2.6:
+        non_striker: DJ Malan
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 3.1:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DW Lawrence
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 3.3:
+        non_striker: DW Lawrence
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.4:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DW Lawrence
+    - 3.5:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DW Lawrence
+    - 3.6:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 3.7:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DW Lawrence
+    - 3.8:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 4.1:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Malan
+    - 4.4:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 4.5:
+        non_striker: DJ Malan
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 5.1:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 5.2:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 5.3:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 5.4:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.5:
+        non_striker: DJ Malan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 6.1:
+        non_striker: DW Lawrence
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 6.3:
+        non_striker: DW Lawrence
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 6.4:
+        non_striker: DW Lawrence
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.5:
+        non_striker: DW Lawrence
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 7.2:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 7.3:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 7.4:
+        non_striker: DW Lawrence
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.5:
+        non_striker: HC Brook
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 8.1:
+        non_striker: DW Lawrence
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.2:
+        non_striker: HC Brook
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 8.3:
+        non_striker: HC Brook
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 8.4:
+        non_striker: HC Brook
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DW Lawrence
+    - 8.5:
+        non_striker: HC Brook
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 9.1:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 9.2:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.3:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          kind: bowled
+    - 9.4:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Clark
+    - 9.5:
+        non_striker: G Clark
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 10.1:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+        wicket:
+          player_out: G Clark
+          fielders:
+          - DJ Willey
+          kind: caught
+    - 10.2:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.3:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.4:
+        non_striker: DA Miller
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 10.5:
+        non_striker: DA Miller
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 11.1:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 11.2:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.3:
+        non_striker: DA Miller
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 11.4:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 11.5:
+        non_striker: DW Lawrence
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 12.1:
+        non_striker: DA Miller
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 12.2:
+        non_striker: DA Miller
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 12.3:
+        non_striker: DW Lawrence
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.4:
+        non_striker: DA Miller
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 12.5:
+        non_striker: DW Lawrence
+        bowler: SJ Cook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.1:
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 13.2:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 13.3:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 13.4:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          kind: bowled
+    - 13.5:
+        non_striker: DW Lawrence
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 13.6:
+        non_striker: SR Patel
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 14.1:
+        non_striker: SR Patel
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 14.2:
+        non_striker: DW Lawrence
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 14.3:
+        non_striker: DW Lawrence
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 14.4:
+        non_striker: SR Patel
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 14.5:
+        non_striker: DW Lawrence
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+- 2nd innings:
+    team: Trent Rockets
+    deliveries:
+    - 0.1:
+        non_striker: JE Root
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 0.2:
+        non_striker: JE Root
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 0.3:
+        non_striker: JE Root
+        bowler: JA Duffy
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: T Banton
+    - 0.4:
+        non_striker: JE Root
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 0.5:
+        non_striker: T Banton
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 0.6:
+        non_striker: JE Root
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton

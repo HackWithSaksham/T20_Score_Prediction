@@ -1,0 +1,976 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2024-06-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Nondescripts Cricket Club
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - L Embuldeniya
+  players:
+    Bloomfield Cricket and Athletic Club:
+    - H Amarasinghe
+    - H Boyagoda
+    - RK Chandraguptha
+    - KPNM Karunanayake
+    - ALKL Abeyrathne
+    - TN Guruge
+    - LD Madushanka
+    - RS Fernando
+    - JDF Vandersay
+    - I Wijesundera
+    - S Nanayakkare
+    Nondescripts Cricket Club:
+    - P Nissanka
+    - N Dickwella
+    - LU Igalagamage
+    - K Mishara
+    - SSD Arachchige
+    - C Karunaratne
+    - Kaveen Bandara
+    - C Gunasekara
+    - PVD Chameera
+    - L Embuldeniya
+    - M Pathirana
+  registry:
+    people:
+      ALKL Abeyrathne: ee3a3a7f
+      C Gunasekara: dff2050b
+      C Karunaratne: fb3e0d39
+      H Amarasinghe: 4dac55a7
+      H Boyagoda: 648e673c
+      I Wijesundera: be620896
+      IC Soysa: 717a7971
+      JDF Vandersay: aceb7654
+      K Mishara: 65cebd5d
+      KADA Nanayakkara: 9ee551f5
+      KPNM Karunanayake: 532cc5b8
+      Kaveen Bandara: fccb94c3
+      L Embuldeniya: b54b66b3
+      LD Madushanka: de063a39
+      LU Igalagamage: 07b6c3c1
+      M Pathirana: 64839cb3
+      N Dickwella: 45963d9e
+      P Nissanka: 8ee36b18
+      PVD Chameera: 327b58d3
+      RK Chandraguptha: f51ed6ad
+      RMPJ Rambukwella: 13fa6ffc
+      RS Fernando: 24d72446
+      S Nanayakkare: 1b2016bc
+      SSD Arachchige: c05f9d20
+      TN Guruge: 6adee1a9
+      WC Labrooy: 29d4e29b
+  teams:
+  - Bloomfield Cricket and Athletic Club
+  - Nondescripts Cricket Club
+  toss:
+    winner: Nondescripts Cricket Club
+    decision: field
+  umpires:
+  - IC Soysa
+  - RMPJ Rambukwella
+  venue: P Sara Oval, Colombo
+innings:
+- 1st innings:
+    team: Bloomfield Cricket and Athletic Club
+    deliveries:
+    - 0.1:
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Boyagoda
+        batsman: H Amarasinghe
+    - 0.2:
+        non_striker: H Amarasinghe
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Boyagoda
+    - 0.3:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Amarasinghe
+        wicket:
+          player_out: H Amarasinghe
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 0.4:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Chandraguptha
+    - 0.5:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Chandraguptha
+    - 0.6:
+        non_striker: RK Chandraguptha
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 1.1:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Chandraguptha
+        wicket:
+          player_out: RK Chandraguptha
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 1.2:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KPNM Karunanayake
+    - 1.3:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KPNM Karunanayake
+    - 1.4:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KPNM Karunanayake
+    - 1.5:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KPNM Karunanayake
+    - 1.6:
+        non_striker: KPNM Karunanayake
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 2.1:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KPNM Karunanayake
+    - 2.2:
+        non_striker: KPNM Karunanayake
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Boyagoda
+    - 2.3:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KPNM Karunanayake
+        wicket:
+          player_out: KPNM Karunanayake
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 2.4:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ALKL Abeyrathne
+    - 2.5:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 2.6:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 3.1:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 3.2:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 3.3:
+        non_striker: H Boyagoda
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 3.4:
+        non_striker: ALKL Abeyrathne
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 3.5:
+        non_striker: ALKL Abeyrathne
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 3.6:
+        non_striker: ALKL Abeyrathne
+        bowler: C Gunasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Boyagoda
+    - 4.1:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ALKL Abeyrathne
+    - 4.2:
+        non_striker: ALKL Abeyrathne
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Boyagoda
+    - 4.3:
+        non_striker: H Boyagoda
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 4.4:
+        non_striker: ALKL Abeyrathne
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 4.5:
+        non_striker: ALKL Abeyrathne
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Boyagoda
+    - 4.6:
+        non_striker: ALKL Abeyrathne
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Boyagoda
+    - 5.1:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Boyagoda
+    - 5.2:
+        non_striker: H Boyagoda
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 5.3:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+        wicket:
+          player_out: H Boyagoda
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 5.4:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Guruge
+    - 5.5:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Guruge
+    - 5.6:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TN Guruge
+    - 5.7:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Guruge
+    - 6.1:
+        non_striker: TN Guruge
+        bowler: L Embuldeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ALKL Abeyrathne
+    - 6.2:
+        non_striker: TN Guruge
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 6.3:
+        non_striker: TN Guruge
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 6.4:
+        non_striker: ALKL Abeyrathne
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Guruge
+    - 6.5:
+        non_striker: ALKL Abeyrathne
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Guruge
+        wicket:
+          player_out: TN Guruge
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 6.6:
+        non_striker: ALKL Abeyrathne
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Madushanka
+        wicket:
+          player_out: LD Madushanka
+          kind: bowled
+    - 6.7:
+        non_striker: ALKL Abeyrathne
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 7.1:
+        non_striker: RS Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 7.2:
+        non_striker: RS Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 7.3:
+        non_striker: RS Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ALKL Abeyrathne
+    - 7.4:
+        non_striker: RS Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 7.5:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Fernando
+    - 7.6:
+        non_striker: ALKL Abeyrathne
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 8.1:
+        non_striker: RS Fernando
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 8.2:
+        non_striker: RS Fernando
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 8.3:
+        non_striker: RS Fernando
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 8.4:
+        non_striker: ALKL Abeyrathne
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Fernando
+    - 8.5:
+        non_striker: RS Fernando
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+        wicket:
+          player_out: ALKL Abeyrathne
+          kind: lbw
+    - 8.6:
+        non_striker: RS Fernando
+        bowler: L Embuldeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 9.1:
+        non_striker: RS Fernando
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDF Vandersay
+    - 9.2:
+        non_striker: RS Fernando
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDF Vandersay
+        wicket:
+          player_out: JDF Vandersay
+          kind: bowled
+    - 9.3:
+        non_striker: RS Fernando
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Wijesundera
+    - 9.4:
+        non_striker: I Wijesundera
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 9.5:
+        non_striker: I Wijesundera
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Fernando
+    - 9.6:
+        non_striker: I Wijesundera
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+        wicket:
+          player_out: RS Fernando
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 10.1:
+        non_striker: S Nanayakkare
+        bowler: SSD Arachchige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Wijesundera
+        wicket:
+          player_out: I Wijesundera
+          fielders:
+          - C Karunaratne
+          kind: caught
+- 2nd innings:
+    team: Nondescripts Cricket Club
+    deliveries:
+    - 0.1:
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Dickwella
+        batsman: P Nissanka
+    - 0.2:
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Dickwella
+        batsman: P Nissanka
+    - 0.3:
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Dickwella
+        batsman: P Nissanka
+    - 0.4:
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Dickwella
+        batsman: P Nissanka
+    - 0.5:
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Dickwella
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: N Dickwella
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: RS Fernando
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: N Dickwella
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 1.4:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 1.5:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.7:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.8:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - TN Guruge
+          kind: caught
+    - 2.1:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.2:
+        bowler: LD Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.3:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.4:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.5:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.6:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LU Igalagamage
+        batsman: N Dickwella
+    - 2.7:
+        non_striker: LU Igalagamage
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.1:
+        non_striker: N Dickwella
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 3.2:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Dickwella
+    - 3.3:
+        non_striker: N Dickwella
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 3.4:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.5:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.6:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 4.1:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 4.2:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+        wicket:
+          player_out: LU Igalagamage
+          fielders:
+          - H Amarasinghe
+          kind: caught
+    - 4.3:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 4.4:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.5:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Mishara
+    - 4.6:
+        non_striker: N Dickwella
+        bowler: RS Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 5.1:
+        non_striker: K Mishara
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 5.2:
+        non_striker: K Mishara
+        bowler: JDF Vandersay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dickwella
+    - 5.3:
+        non_striker: K Mishara
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 5.4:
+        non_striker: N Dickwella
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 5.5:
+        non_striker: N Dickwella
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 5.6:
+        non_striker: K Mishara
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella

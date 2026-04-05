@@ -1,0 +1,2041 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sylhet
+  competition: Bangladesh Premier League
+  dates:
+  - '2024-02-03'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rangpur Riders
+    by:
+      runs: 77
+  overs: 20
+  player_of_match:
+  - Nurul Hasan
+  players:
+    Rangpur Riders:
+    - BA King
+    - Babar Azam
+    - Fazle Mahmud
+    - Shakib Al Hasan
+    - Nurul Hasan
+    - Azmatullah Omarzai
+    - Mohammad Nabi
+    - Shamim Hossain
+    - Mahedi Hasan
+    - Hasan Mahmud
+    - Abu Hider
+    Sylhet Strikers:
+    - Nazmul Hossain Shanto
+    - HT Tector
+    - SR Patel
+    - Zakir Hasan
+    - Mohammad Mithun
+    - Shamsur Rahman
+    - RP Burl
+    - Ariful Haque
+    - Nayeem Hasan
+    - Rejaur Rahman
+    - R Ngarava
+  registry:
+    people:
+      Abu Hider: 31803fac
+      Ali Arman: 1342d8d8
+      Ariful Haque: ad1730bc
+      Asif Yaqoob: 6b35790c
+      Azmatullah Omarzai: 8f6dd463
+      BA King: 7fca84b7
+      Babar Azam: 8a75e999
+      Fazle Mahmud: b4bef2ed
+      HT Tector: 59ea70a4
+      Hasan Mahmud: 80ad39ac
+      Hasan Murad: da9f58aa
+      Mahedi Hasan: 9dad0f2e
+      Mohammad Kamruzzaman: 74eb8175
+      Mohammad Mithun: '77191792'
+      Mohammad Nabi: 62af8546
+      Moniruzzaman: 075e9f9c
+      Nayeem Hasan: 1670dcfd
+      Nazmul Hossain Shanto: 1274d7ab
+      Nurul Hasan: d365d463
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      Rejaur Rahman: 267be846
+      SR Patel: 18fac429
+      Shakib Al Hasan: 7dc35884
+      Shamim Hossain: 711249d1
+      Shamsur Rahman: '02789d88'
+      Showkatur Rahman: 5340a1c1
+      Zakir Hasan: e3e09091
+  teams:
+  - Rangpur Riders
+  - Sylhet Strikers
+  toss:
+    winner: Sylhet Strikers
+    decision: field
+  umpires:
+  - Asif Yaqoob
+  - Moniruzzaman
+  venue: Sylhet International Cricket Stadium
+innings:
+- 1st innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.2:
+        non_striker: BA King
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 0.3:
+        non_striker: BA King
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 0.4:
+        non_striker: BA King
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 0.5:
+        non_striker: BA King
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 0.6:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.1:
+        non_striker: BA King
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.2:
+        non_striker: BA King
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 1.3:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 1.4:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 1.5:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 1.6:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 2.1:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.3:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 2.4:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 2.5:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.6:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 2.7:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fazle Mahmud
+    - 2.8:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 3.1:
+        non_striker: Fazle Mahmud
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.2:
+        non_striker: Fazle Mahmud
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.3:
+        non_striker: Fazle Mahmud
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.4:
+        non_striker: Fazle Mahmud
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Babar Azam
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 3.6:
+        non_striker: Fazle Mahmud
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 4.2:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 4.3:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 4.5:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.6:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 5.1:
+        non_striker: Fazle Mahmud
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 5.2:
+        non_striker: Fazle Mahmud
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 5.3:
+        non_striker: Fazle Mahmud
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.4:
+        non_striker: Fazle Mahmud
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 5.5:
+        non_striker: Fazle Mahmud
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 6.2:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 6.5:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Fazle Mahmud
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Fazle Mahmud
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fazle Mahmud
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 7.4:
+        non_striker: Fazle Mahmud
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.5:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 7.6:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 8.1:
+        non_striker: Babar Azam
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 8.2:
+        non_striker: Fazle Mahmud
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.3:
+        non_striker: Babar Azam
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+        wicket:
+          player_out: Fazle Mahmud
+          fielders:
+          - RP Burl
+          kind: caught
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          kind: lbw
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 9.1:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.2:
+        non_striker: Babar Azam
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 9.3:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.4:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.5:
+        non_striker: Babar Azam
+        bowler: Ariful Haque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nurul Hasan
+    - 9.6:
+        non_striker: Babar Azam
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 9.7:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.1:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.3:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 10.5:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nurul Hasan
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 11.4:
+        non_striker: Nurul Hasan
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 11.6:
+        non_striker: Babar Azam
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 12.1:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          kind: lbw
+    - 12.2:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.3:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.4:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 12.5:
+        non_striker: Azmatullah Omarzai
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 12.6:
+        non_striker: Nurul Hasan
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.1:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.3:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.5:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Azmatullah Omarzai
+    - 13.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 14.1:
+        non_striker: Nurul Hasan
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 14.2:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nurul Hasan
+    - 14.3:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 14.4:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nurul Hasan
+    - 14.5:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 14.6:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 14.7:
+        non_striker: Nurul Hasan
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 14.8:
+        non_striker: Azmatullah Omarzai
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 15.1:
+        non_striker: Azmatullah Omarzai
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 15.2:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 15.3:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 15.4:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 15.5:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.6:
+        non_striker: Nurul Hasan
+        bowler: Ariful Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+        wicket:
+          player_out: Azmatullah Omarzai
+          fielders:
+          - HT Tector
+          kind: caught
+    - 16.1:
+        non_striker: Mohammad Nabi
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 16.2:
+        non_striker: Nurul Hasan
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 16.3:
+        non_striker: Mohammad Nabi
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 16.4:
+        non_striker: Nurul Hasan
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 16.5:
+        non_striker: Mohammad Nabi
+        bowler: HT Tector
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Nurul Hasan
+    - 16.6:
+        non_striker: Mohammad Nabi
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 16.7:
+        non_striker: Mohammad Nabi
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 17.1:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 17.2:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 17.3:
+        non_striker: Nurul Hasan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.4:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 17.5:
+        non_striker: Nurul Hasan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.6:
+        non_striker: Nurul Hasan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.1:
+        non_striker: Nurul Hasan
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.2:
+        non_striker: Mohammad Nabi
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 18.3:
+        non_striker: Mohammad Nabi
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - HT Tector
+          kind: caught
+    - 18.4:
+        non_striker: Mohammad Nabi
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 18.5:
+        non_striker: Shamim Hossain
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.6:
+        non_striker: Mohammad Nabi
+        bowler: Rejaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 19.1:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Shamim Hossain
+    - 19.2:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 19.3:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamim Hossain
+    - 19.4:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 19.5:
+        non_striker: Shamim Hossain
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 19.6:
+        non_striker: Shamim Hossain
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 19.7:
+        non_striker: Mohammad Nabi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 19.8:
+        non_striker: Shamim Hossain
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - Nayeem Hasan
+          kind: caught
+- 2nd innings:
+    team: Sylhet Strikers
+    deliveries:
+    - 0.1:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.2:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 0.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 0.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 0.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: bowled
+    - 1.1:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - Hasan Mahmud
+          kind: caught
+    - 1.2:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 1.3:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 1.4:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 1.5:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zakir Hasan
+    - 1.6:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 2.1:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 2.2:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Patel
+    - 2.3:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 2.4:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 2.5:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 2.6:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 2.7:
+        non_striker: Zakir Hasan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 3.1:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 3.2:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Zakir Hasan
+          fielders:
+          - Nurul Hasan
+          kind: stumped
+    - 3.3:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 3.4:
+        non_striker: SR Patel
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 3.5:
+        non_striker: Mohammad Mithun
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 3.6:
+        non_striker: Mohammad Mithun
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 4.1:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 4.2:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Patel
+    - 4.3:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 4.4:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 4.5:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 4.6:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 4.7:
+        non_striker: Mohammad Mithun
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 5.1:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.2:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.3:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.4:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.5:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.6:
+        non_striker: SR Patel
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          fielders:
+          - BA King
+          kind: caught
+    - 6.1:
+        non_striker: Shamsur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 6.2:
+        non_striker: SR Patel
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 6.3:
+        non_striker: Shamsur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 6.4:
+        non_striker: SR Patel
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 6.5:
+        non_striker: SR Patel
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 6.6:
+        non_striker: SR Patel
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 7.1:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 7.2:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 7.3:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 7.4:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+        wicket:
+          player_out: SR Patel
+          fielders:
+          - Fazle Mahmud
+          kind: caught
+    - 7.5:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 7.6:
+        non_striker: Shamsur Rahman
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 8.1:
+        non_striker: Shamsur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 8.2:
+        non_striker: Shamsur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 8.3:
+        non_striker: Shamsur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 8.4:
+        non_striker: RP Burl
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 8.5:
+        non_striker: RP Burl
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+        wicket:
+          player_out: Shamsur Rahman
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+    - 8.6:
+        non_striker: RP Burl
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 9.1:
+        non_striker: Ariful Haque
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 9.2:
+        non_striker: Ariful Haque
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 9.3:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 9.4:
+        non_striker: Ariful Haque
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 9.5:
+        non_striker: Ariful Haque
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 9.6:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 10.1:
+        non_striker: Ariful Haque
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.2:
+        non_striker: Ariful Haque
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.3:
+        non_striker: Ariful Haque
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 10.4:
+        non_striker: RP Burl
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 10.5:
+        non_striker: Ariful Haque
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.6:
+        non_striker: Ariful Haque
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 11.1:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 11.2:
+        non_striker: Ariful Haque
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 11.3:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 11.4:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+        wicket:
+          player_out: Ariful Haque
+          fielders:
+          - BA King
+          kind: caught
+    - 11.5:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 11.6:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 12.1:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 12.2:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RP Burl
+    - 12.3:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 12.4:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 12.5:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 12.6:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 13.1:
+        non_striker: Nayeem Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 13.2:
+        non_striker: Nayeem Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.3:
+        non_striker: RP Burl
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 13.4:
+        non_striker: RP Burl
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 13.5:
+        non_striker: Nayeem Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 13.6:
+        non_striker: Nayeem Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RP Burl
+    - 14.1:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 14.2:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.3:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 14.4:
+        non_striker: RP Burl
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 14.5:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 14.6:
+        non_striker: Nayeem Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.1:
+        non_striker: Nayeem Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.2:
+        non_striker: Nayeem Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.3:
+        non_striker: Nayeem Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 15.4:
+        non_striker: Nayeem Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.5:
+        non_striker: RP Burl
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 15.6:
+        non_striker: RP Burl
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+        wicket:
+          player_out: Nayeem Hasan
+          fielders:
+          - Hasan Murad (sub)
+          kind: caught
+    - 16.1:
+        non_striker: Rejaur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 16.2:
+        non_striker: Rejaur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 16.3:
+        non_striker: RP Burl
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rejaur Rahman
+    - 16.4:
+        non_striker: Rejaur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 16.5:
+        non_striker: Rejaur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ngarava
+        wicket:
+          player_out: R Ngarava
+          kind: bowled

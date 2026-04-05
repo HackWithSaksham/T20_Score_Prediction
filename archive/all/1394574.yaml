@@ -1,0 +1,2225 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  competition: CSA T20 Challenge
+  dates:
+  - '2024-03-08'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      runs: 13
+  overs: 20
+  player_of_match:
+  - T Shamsi
+  players:
+    Titans:
+    - BS Makhanya
+    - D Brevis
+    - R Moonsamy
+    - AK Markram
+    - D Ferreira
+    - J Lees
+    - C Bosch
+    - A Gqamane
+    - CJ Dala
+    - LB Williams
+    - T Shamsi
+    North West:
+    - M Prince
+    - WJ Lubbe
+    - R van Tonder
+    - RA Herman
+    - LC Ngoepe
+    - S Muthusamy
+    - M Pretorius
+    - D Jansen
+    - B Xenxe
+    - C Seleka
+    - IHM Modimokoane
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      AK Markram: 6a26221c
+      B Xenxe: 94cdf850
+      BM White: 66c21d35
+      BS Makhanya: 1b42a100
+      C Bosch: 172dff15
+      C Seleka: be8b147b
+      CJ Dala: 1cb14aa4
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      D Jansen: 8dc152d1
+      IHM Modimokoane: 569338b8
+      J Lees: 51d1d312
+      LB Gcuma: 02ba88e3
+      LB Williams: a1d95bd8
+      LC Ngoepe: 51355a30
+      Lauren Agenbag: 40849abd
+      M Pretorius: 54c2b697
+      M Prince: aa80a6c3
+      PJ Vosloo: 93a6d2d0
+      R Moonsamy: 29e676b0
+      R van Tonder: 0ba03cec
+      RA Herman: 9c821d2e
+      S Muthusamy: 7dfb8890
+      S Wadvalla: c1a1acf3
+      T Shamsi: a03bba42
+      WJ Lubbe: 10f42013
+  teams:
+  - Titans
+  - North West
+  toss:
+    winner: North West
+    decision: field
+  umpires:
+  - BM White
+  - LB Gcuma
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Brevis
+        batsman: BS Makhanya
+    - 0.2:
+        non_striker: BS Makhanya
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.3:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 0.4:
+        non_striker: BS Makhanya
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.5:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 0.6:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 1.1:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.2:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 1.3:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 1.4:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.5:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.6:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 1.7:
+        non_striker: BS Makhanya
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Brevis
+    - 1.8:
+        non_striker: D Brevis
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 2.1:
+        non_striker: BS Makhanya
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.2:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+        wicket:
+          player_out: BS Makhanya
+          kind: bowled
+    - 2.3:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+    - 2.4:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+    - 2.5:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+    - 2.6:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+    - 3.1:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.2:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 3.3:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 3.4:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 3.5:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.6:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.1:
+        non_striker: R Moonsamy
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.2:
+        non_striker: R Moonsamy
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.3:
+        non_striker: R Moonsamy
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.4:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Moonsamy
+    - 4.5:
+        non_striker: D Brevis
+        bowler: M Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Moonsamy
+    - 4.6:
+        non_striker: R Moonsamy
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 5.1:
+        non_striker: D Brevis
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Moonsamy
+    - 5.2:
+        non_striker: D Brevis
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Moonsamy
+    - 5.3:
+        non_striker: D Brevis
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Moonsamy
+    - 5.4:
+        non_striker: D Brevis
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Moonsamy
+    - 5.5:
+        non_striker: R Moonsamy
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - S Muthusamy
+          kind: caught
+    - 5.6:
+        non_striker: R Moonsamy
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AK Markram
+    - 5.7:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 6.1:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Moonsamy
+    - 6.2:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 6.3:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.4:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.5:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Moonsamy
+    - 6.6:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 7.1:
+        non_striker: AK Markram
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 7.2:
+        non_striker: R Moonsamy
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.3:
+        non_striker: AK Markram
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 7.4:
+        non_striker: R Moonsamy
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.5:
+        non_striker: AK Markram
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Moonsamy
+    - 7.6:
+        non_striker: AK Markram
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 8.1:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 8.2:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.3:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.4:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 8.5:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.6:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 9.1:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: R Moonsamy
+    - 9.2:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 9.3:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 9.4:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 9.5:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 9.6:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 10.1:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.2:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 10.3:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.4:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Moonsamy
+    - 10.5:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 10.6:
+        non_striker: R Moonsamy
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.1:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 11.2:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: R Moonsamy
+    - 11.3:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: R Moonsamy
+    - 11.4:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 11.5:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 11.6:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: R Moonsamy
+    - 12.1:
+        non_striker: AK Markram
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Moonsamy
+    - 12.2:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.3:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.4:
+        non_striker: AK Markram
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Moonsamy
+    - 12.5:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.6:
+        non_striker: R Moonsamy
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.1:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 13.2:
+        non_striker: R Moonsamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 13.3:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: R Moonsamy
+        wicket:
+          player_out: R Moonsamy
+          fielders:
+          - RA Herman
+          kind: caught
+    - 13.4:
+        non_striker: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: D Ferreira
+    - 13.5:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 13.6:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: AK Markram
+    - 14.1:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.2:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 14.3:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.4:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.5:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 14.6:
+        non_striker: AK Markram
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 15.1:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Ferreira
+    - 15.2:
+        non_striker: D Ferreira
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - S Muthusamy
+          kind: caught
+    - 15.3:
+        non_striker: D Ferreira
+        bowler: D Jansen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: J Lees
+    - 15.4:
+        non_striker: D Ferreira
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Lees
+    - 15.5:
+        non_striker: D Ferreira
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Lees
+    - 15.6:
+        non_striker: J Lees
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 15.7:
+        non_striker: J Lees
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 15.8:
+        non_striker: D Ferreira
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Lees
+    - 16.1:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: IHM Modimokoane
+        batsman: J Lees
+    - 16.2:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: J Lees
+        wicket:
+          player_out: J Lees
+          fielders:
+          - D Jansen
+          kind: caught
+    - 16.3:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: IHM Modimokoane
+        batsman: C Bosch
+    - 16.4:
+        non_striker: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: C Bosch
+    - 16.5:
+        non_striker: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: IHM Modimokoane
+        batsman: D Ferreira
+    - 16.6:
+        non_striker: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: IHM Modimokoane
+        batsman: D Ferreira
+    - 17.1:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.2:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - D Jansen
+          kind: caught
+    - 17.3:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 17.4:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 17.5:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 17.6:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 18.1:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 18.2:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 18.3:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bosch
+    - 18.4:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.5:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 18.6:
+        non_striker: A Gqamane
+        bowler: R van Tonder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 18.7:
+        non_striker: C Bosch
+        bowler: R van Tonder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Gqamane
+    - 19.1:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 19.2:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 19.3:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.4:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 19.5:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+        wicket:
+          player_out: A Gqamane
+          fielders:
+          - D Jansen
+          kind: caught
+    - 19.6:
+        non_striker: C Bosch
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Dala
+- 2nd innings:
+    team: North West
+    deliveries:
+    - 0.1:
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WJ Lubbe
+        batsman: M Prince
+    - 0.2:
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WJ Lubbe
+        batsman: M Prince
+    - 0.3:
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WJ Lubbe
+        batsman: M Prince
+    - 0.4:
+        non_striker: M Prince
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 0.5:
+        non_striker: WJ Lubbe
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Prince
+    - 0.6:
+        non_striker: WJ Lubbe
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Prince
+    - 1.1:
+        non_striker: M Prince
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 1.2:
+        non_striker: M Prince
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Lubbe
+    - 1.3:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Prince
+    - 1.4:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Prince
+    - 1.5:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Prince
+    - 1.6:
+        non_striker: M Prince
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 2.1:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 2.2:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 2.3:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 2.4:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 2.5:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 2.6:
+        non_striker: M Prince
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 3.1:
+        non_striker: WJ Lubbe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Prince
+    - 3.2:
+        non_striker: WJ Lubbe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Prince
+    - 3.3:
+        non_striker: WJ Lubbe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Prince
+    - 3.4:
+        non_striker: M Prince
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 3.5:
+        non_striker: M Prince
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 3.6:
+        non_striker: M Prince
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.1:
+        non_striker: WJ Lubbe
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Prince
+    - 4.2:
+        non_striker: WJ Lubbe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Prince
+        wicket:
+          player_out: M Prince
+          kind: bowled
+    - 4.3:
+        non_striker: WJ Lubbe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 4.4:
+        non_striker: WJ Lubbe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 4.5:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.6:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 4.7:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 5.1:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 5.2:
+        non_striker: R van Tonder
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 5.3:
+        non_striker: R van Tonder
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 5.4:
+        non_striker: R van Tonder
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WJ Lubbe
+    - 5.5:
+        non_striker: R van Tonder
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 5.6:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 5.7:
+        non_striker: WJ Lubbe
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 6.1:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Lubbe
+    - 6.2:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 6.3:
+        non_striker: WJ Lubbe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 6.4:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+        wicket:
+          player_out: WJ Lubbe
+          fielders:
+          - D Brevis
+          kind: caught
+    - 6.5:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Herman
+    - 6.6:
+        non_striker: RA Herman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 6.7:
+        non_striker: RA Herman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 7.1:
+        non_striker: RA Herman
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 7.2:
+        non_striker: R van Tonder
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 7.3:
+        non_striker: RA Herman
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 7.4:
+        non_striker: RA Herman
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 7.5:
+        non_striker: R van Tonder
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Herman
+    - 7.6:
+        non_striker: R van Tonder
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Herman
+        wicket:
+          player_out: RA Herman
+          fielders:
+          - R Moonsamy
+          kind: caught
+    - 8.1:
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LC Ngoepe
+        batsman: R van Tonder
+    - 8.2:
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: LC Ngoepe
+        batsman: R van Tonder
+    - 8.3:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 8.4:
+        non_striker: LC Ngoepe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 8.5:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 8.6:
+        non_striker: LC Ngoepe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 9.1:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 9.2:
+        non_striker: LC Ngoepe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 9.3:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 9.4:
+        non_striker: LC Ngoepe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 9.5:
+        non_striker: LC Ngoepe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 9.6:
+        non_striker: LC Ngoepe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 10.1:
+        non_striker: LC Ngoepe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 10.2:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: LC Ngoepe
+    - 10.3:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 10.4:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 10.5:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 10.6:
+        non_striker: R van Tonder
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 11.1:
+        non_striker: LC Ngoepe
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 11.2:
+        non_striker: R van Tonder
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 11.3:
+        non_striker: LC Ngoepe
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 11.4:
+        non_striker: R van Tonder
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Ngoepe
+    - 11.5:
+        non_striker: R van Tonder
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 11.6:
+        non_striker: LC Ngoepe
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 12.1:
+        non_striker: LC Ngoepe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 12.2:
+        non_striker: LC Ngoepe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R van Tonder
+    - 12.3:
+        non_striker: LC Ngoepe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 12.4:
+        non_striker: LC Ngoepe
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 12.5:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+        wicket:
+          player_out: LC Ngoepe
+          fielders:
+          - A Gqamane
+          kind: caught
+    - 12.6:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.1:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.2:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 13.3:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Muthusamy
+    - 13.4:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 13.5:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 13.6:
+        non_striker: R van Tonder
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.1:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.2:
+        non_striker: S Muthusamy
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 14.3:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.4:
+        non_striker: S Muthusamy
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 14.5:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 14.6:
+        non_striker: R van Tonder
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 15.1:
+        non_striker: S Muthusamy
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+        wicket:
+          player_out: R van Tonder
+          fielders:
+          - A Gqamane
+          kind: caught
+    - 15.2:
+        non_striker: S Muthusamy
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+        wicket:
+          player_out: M Pretorius
+          kind: bowled
+    - 15.3:
+        non_striker: S Muthusamy
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jansen
+    - 15.4:
+        non_striker: D Jansen
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 15.5:
+        non_striker: S Muthusamy
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jansen
+    - 15.6:
+        non_striker: D Jansen
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 16.1:
+        non_striker: D Jansen
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 16.2:
+        non_striker: D Jansen
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 16.3:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Jansen
+    - 16.4:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jansen
+    - 16.5:
+        non_striker: D Jansen
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 16.6:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jansen
+    - 17.1:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Jansen
+    - 17.2:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jansen
+        wicket:
+          player_out: D Jansen
+          fielders:
+          - C Bosch
+          kind: caught
+    - 17.3:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Xenxe
+        wicket:
+          player_out: B Xenxe
+          fielders:
+          - AK Markram
+          kind: caught
+    - 17.4:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Seleka
+    - 17.5:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Seleka
+    - 17.6:
+        non_striker: C Seleka
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 18.1:
+        non_striker: C Seleka
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 18.2:
+        non_striker: C Seleka
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 18.3:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Seleka
+    - 18.4:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Seleka
+    - 18.5:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Seleka
+    - 18.6:
+        non_striker: C Seleka
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Muthusamy
+    - 18.7:
+        non_striker: C Seleka
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Muthusamy
+    - 18.8:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Seleka
+    - 18.9:
+        non_striker: S Muthusamy
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Seleka
+    - 19.1:
+        non_striker: C Seleka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 19.2:
+        non_striker: S Muthusamy
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Seleka
+    - 19.3:
+        non_striker: C Seleka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 19.4:
+        non_striker: C Seleka
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 19.5:
+        non_striker: S Muthusamy
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Seleka
+    - 19.6:
+        non_striker: S Muthusamy
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Seleka

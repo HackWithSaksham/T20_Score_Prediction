@@ -1,0 +1,2240 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2024-07-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: San Francisco Unicorns
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - CJ Anderson
+  players:
+    San Francisco Unicorns:
+    - FH Allen
+    - MW Short
+    - SP Krishnamurthi
+    - JP Inglis
+    - SE Rutherford
+    - Hassan Khan
+    - CJ Anderson
+    - PJ Cummins
+    - Haris Rauf
+    - LE Plunkett
+    - BL Couch
+    MI New York:
+    - D Brevis
+    - R Clinton
+    - N Pooran
+    - KA Pollard
+    - MD Patel
+    - R Shepherd
+    - Rashid Khan
+    - H Richards
+    - Sunny Patel
+    - NP Kenjige
+    - TA Boult
+  registry:
+    people:
+      BL Couch: be69e09d
+      CJ Anderson: 8abdf100
+      D Brevis: 844e79d1
+      FH Allen: bf74b130
+      H Richards: a0095f0e
+      Haris Rauf: 24bb1c2f
+      Hassan Khan: 486065b3
+      JJ Crowe: 2e760301
+      JP Inglis: 989889ff
+      KA Pollard: a757b0d8
+      LE Plunkett: 9a963804
+      M Erasmus: 15d3c895
+      MD Patel: 25d7f1ac
+      MW Short: a90e53ec
+      N Pooran: 3241e3fd
+      NP Kenjige: f7d267f7
+      P Wilson: 68304a36
+      PJ Cummins: ded9240e
+      R Clinton: 367e254b
+      R Samuels: 8a8bc9f6
+      R Shepherd: c5aef772
+      Rashid Khan: 5f547c8b
+      SE Rutherford: d014d5ac
+      SP Krishnamurthi: 3b8e7647
+      Shayan Jahangir: 571e1d2a
+      Sunny Patel: db481029
+      TA Boult: a818c1be
+  teams:
+  - San Francisco Unicorns
+  - MI New York
+  toss:
+    winner: San Francisco Unicorns
+    decision: bat
+  umpires:
+  - M Erasmus
+  - R Samuels
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: San Francisco Unicorns
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 0.2:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: caught and bowled
+    - 0.4:
+        non_striker: MW Short
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 0.5:
+        non_striker: SP Krishnamurthi
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.6:
+        non_striker: SP Krishnamurthi
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.1:
+        non_striker: SP Krishnamurthi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.2:
+        non_striker: SP Krishnamurthi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 1.3:
+        non_striker: SP Krishnamurthi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.4:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 1.5:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          fielders:
+          - N Pooran
+          kind: caught
+    - 1.6:
+        non_striker: MW Short
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.1:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.2:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          kind: bowled
+    - 2.3:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 2.4:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.5:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.6:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.1:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 3.2:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 3.3:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 3.4:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 3.5:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 3.6:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 3.7:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 3.8:
+        non_striker: JP Inglis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.1:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.2:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.3:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.4:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.5:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.6:
+        non_striker: JP Inglis
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 5.1:
+        non_striker: SE Rutherford
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.2:
+        non_striker: SE Rutherford
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - D Brevis
+          kind: caught
+    - 5.3:
+        non_striker: SE Rutherford
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 5.4:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 5.5:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 5.6:
+        non_striker: SE Rutherford
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 6.1:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 6.2:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 6.3:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 6.4:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 6.5:
+        non_striker: SE Rutherford
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 6.6:
+        non_striker: Hassan Khan
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - MD Patel
+          - NP Kenjige
+          kind: run out
+    - 7.1:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 7.2:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 7.3:
+        non_striker: CJ Anderson
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 7.4:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 7.5:
+        non_striker: CJ Anderson
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 7.6:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 8.1:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 8.2:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 8.3:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 8.4:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 8.5:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 8.6:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 9.1:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 9.2:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 9.3:
+        non_striker: CJ Anderson
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 9.4:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 9.5:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 9.6:
+        non_striker: Hassan Khan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 9.7:
+        non_striker: CJ Anderson
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 10.1:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 10.2:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 10.3:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 10.4:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 10.5:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 10.6:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 11.1:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 11.2:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 11.3:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 11.4:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+    - 11.5:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 11.6:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 11.7:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 12.1:
+        non_striker: Hassan Khan
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 12.2:
+        non_striker: Hassan Khan
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 12.3:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 12.4:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 12.5:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 12.6:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 13.1:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 13.2:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 13.3:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 13.4:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Khan
+    - 13.5:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 13.6:
+        non_striker: Hassan Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 13.7:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 13.8:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.1:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 14.2:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 14.3:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.4:
+        non_striker: CJ Anderson
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.5:
+        non_striker: Hassan Khan
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Anderson
+    - 14.6:
+        non_striker: Hassan Khan
+        bowler: Sunny Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 14.7:
+        non_striker: Hassan Khan
+        bowler: Sunny Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+    - 15.1:
+        non_striker: CJ Anderson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.2:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 15.3:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+    - 15.4:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 15.5:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+    - 15.6:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+    - 15.7:
+        non_striker: Hassan Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 16.1:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.2:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 16.3:
+        non_striker: Hassan Khan
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 16.4:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+        wicket:
+          player_out: Hassan Khan
+          kind: bowled
+    - 16.5:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 16.6:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 17.1:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 17.2:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 17.3:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 17.4:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 17.5:
+        non_striker: CJ Anderson
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ Cummins
+    - 17.6:
+        non_striker: PJ Cummins
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 18.1:
+        non_striker: PJ Cummins
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 18.2:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 18.3:
+        non_striker: PJ Cummins
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Anderson
+    - 18.4:
+        non_striker: PJ Cummins
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 18.5:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 18.6:
+        non_striker: CJ Anderson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 19.1:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 19.2:
+        non_striker: CJ Anderson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 19.3:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 19.4:
+        non_striker: CJ Anderson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - Shayan Jahangir (sub)
+          kind: caught
+    - 19.5:
+        non_striker: CJ Anderson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haris Rauf
+    - 19.6:
+        non_striker: Haris Rauf
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Anderson
+- 2nd innings:
+    team: MI New York
+    deliveries:
+    - 0.1:
+        non_striker: R Clinton
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.2:
+        non_striker: R Clinton
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.3:
+        non_striker: R Clinton
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.4:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+    - 0.5:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+    - 0.6:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+    - 1.1:
+        non_striker: R Clinton
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.2:
+        non_striker: R Clinton
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.3:
+        non_striker: D Brevis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+    - 1.4:
+        non_striker: D Brevis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+    - 1.5:
+        non_striker: D Brevis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Clinton
+        wicket:
+          player_out: R Clinton
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 1.6:
+        non_striker: D Brevis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.1:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 2.2:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 2.3:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 2.4:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 2.5:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.6:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.1:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.2:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 3.3:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.4:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 3.5:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 3.6:
+        non_striker: D Brevis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.1:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.2:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.3:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.4:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.5:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.6:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 5.2:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.3:
+        non_striker: D Brevis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.4:
+        non_striker: D Brevis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.5:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.6:
+        non_striker: D Brevis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.1:
+        non_striker: D Brevis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.2:
+        non_striker: N Pooran
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.3:
+        non_striker: D Brevis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.4:
+        non_striker: N Pooran
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 6.5:
+        non_striker: N Pooran
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.6:
+        non_striker: D Brevis
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 7.1:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.2:
+        non_striker: D Brevis
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.3:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 7.4:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 7.5:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 7.6:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.7:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.1:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.2:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.3:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 8.4:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.5:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.6:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 8.7:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 8.8:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.1:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 9.2:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.3:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.5:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 9.6:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.7:
+        non_striker: D Brevis
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Pooran
+    - 9.8:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.9:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 10.1:
+        non_striker: KA Pollard
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.2:
+        non_striker: KA Pollard
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.3:
+        non_striker: KA Pollard
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.4:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.5:
+        non_striker: N Pooran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 10.6:
+        non_striker: KA Pollard
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.1:
+        non_striker: KA Pollard
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.2:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 11.3:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 11.4:
+        non_striker: KA Pollard
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 11.6:
+        non_striker: N Pooran
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.1:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.2:
+        non_striker: KA Pollard
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.3:
+        non_striker: KA Pollard
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.4:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          kind: lbw
+    - 12.5:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 12.6:
+        non_striker: N Pooran
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 13.1:
+        non_striker: N Pooran
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 13.2:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.3:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 13.4:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 13.5:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 13.6:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 14.1:
+        non_striker: R Shepherd
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 14.2:
+        non_striker: R Shepherd
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 14.3:
+        non_striker: MD Patel
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 14.4:
+        non_striker: MD Patel
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 14.5:
+        non_striker: R Shepherd
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 14.6:
+        non_striker: MD Patel
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 15.1:
+        non_striker: R Shepherd
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 15.2:
+        non_striker: R Shepherd
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 15.3:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 15.4:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 15.5:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 15.6:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rashid Khan
+    - 15.7:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rashid Khan
+    - 15.8:
+        non_striker: MD Patel
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 16.1:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - FH Allen
+          kind: caught
+    - 16.2:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Richards
+    - 16.3:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Richards
+    - 16.4:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Richards
+    - 16.5:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Richards
+    - 16.6:
+        non_striker: Rashid Khan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Richards
+    - 17.1:
+        non_striker: H Richards
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 17.2:
+        non_striker: Rashid Khan
+        bowler: LE Plunkett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Richards
+    - 17.3:
+        non_striker: H Richards
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 17.4:
+        non_striker: Rashid Khan
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Richards
+    - 17.5:
+        non_striker: H Richards
+        bowler: LE Plunkett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 17.6:
+        non_striker: H Richards
+        bowler: CJ Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: CJ Anderson
+            out: LE Plunkett
+            reason: injury
+            role: bowler
+        batsman: Rashid Khan
+    - 18.1:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Richards
+    - 18.2:
+        non_striker: H Richards
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 18.3:
+        non_striker: H Richards
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 18.4:
+        non_striker: H Richards
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 18.5:
+        non_striker: H Richards
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 18.6:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Richards
+    - 19.1:
+        non_striker: Rashid Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Richards
+    - 19.2:
+        non_striker: Rashid Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Richards
+    - 19.3:
+        non_striker: H Richards
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 19.4:
+        non_striker: H Richards
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 19.5:
+        non_striker: Rashid Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Richards
+    - 19.6:
+        non_striker: Rashid Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Richards
+        wicket:
+          player_out: H Richards
+          kind: lbw

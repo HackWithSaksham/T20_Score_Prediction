@@ -1,0 +1,1944 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mount Maunganui
+  competition: Super Smash
+  dates:
+  - '2024-01-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - LH Ferguson
+  players:
+    Northern Districts:
+    - KD Clarke
+    - HR Cooper
+    - SC Kuggeleijn
+    - JA Raval
+    - JF Carter
+    - BR Hampton
+    - PD Bocock
+    - FL Walker
+    - TJG Pringle
+    - KDC Clarke
+    - N Wagner
+    Auckland:
+    - GH Worker
+    - SM Solia
+    - CJ Briggs
+    - RR O'Donnell
+    - WT O'Donnell
+    - CD Fletcher
+    - RD Harrison
+    - DK Ferns
+    - LH Ferguson
+    - L Delport
+    - BG Lister
+  registry:
+    people:
+      BF Bowden: efc0a862
+      BG Lister: 79f5bc26
+      BM Davis: 862e4e77
+      BR Hampton: 93f25f4f
+      CD Fletcher: 4af9f5d4
+      CJ Briggs: 6c3dd24e
+      DK Ferns: f28c7456
+      FL Walker: e6e154e3
+      GB Troup: 94f0e744
+      GG Pennell: d9376677
+      GH Worker: 51a36d3e
+      HR Cooper: 99528b4b
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      KD Clarke: 7a12be0a
+      KDC Clarke: 1e1a8922
+      KS Jagannathan: 9bc8dcec
+      L Delport: 2c1438ef
+      LH Ferguson: 2f9d0389
+      N Wagner: 78adc879
+      PD Bocock: 329b08c2
+      RD Harrison: 8f3f2d61
+      RR O'Donnell: 2742086d
+      SC Kuggeleijn: fef92afc
+      SM Solia: fd9f43bb
+      TJG Pringle: 8ce2080b
+      WT O'Donnell: 730b57de
+  teams:
+  - Northern Districts
+  - Auckland
+  toss:
+    winner: Northern Districts
+    decision: bat
+  umpires:
+  - BF Bowden
+  - GG Pennell
+  venue: Bay Oval, Mount Maunganui
+innings:
+- 1st innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        non_striker: HR Cooper
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 0.2:
+        non_striker: HR Cooper
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 0.3:
+        non_striker: HR Cooper
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 0.4:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 0.5:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 0.6:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 1.1:
+        non_striker: HR Cooper
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 1.2:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HR Cooper
+    - 1.3:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 1.4:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Cooper
+    - 1.5:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 1.6:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+        wicket:
+          player_out: HR Cooper
+          fielders:
+          - DK Ferns
+          kind: caught
+    - 1.7:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 2.1:
+        non_striker: SC Kuggeleijn
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 2.2:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 2.3:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+        wicket:
+          player_out: SC Kuggeleijn
+          kind: bowled
+    - 2.4:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 2.5:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 2.6:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.1:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 3.2:
+        non_striker: JA Raval
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.3:
+        non_striker: JA Raval
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Clarke
+    - 3.4:
+        non_striker: JA Raval
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 3.5:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Raval
+    - 3.6:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 4.1:
+        non_striker: JA Raval
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 4.2:
+        non_striker: JA Raval
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 4.3:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+        wicket:
+          player_out: JA Raval
+          kind: bowled
+    - 4.4:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.5:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.6:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 5.1:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 5.2:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 5.3:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 5.4:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 5.5:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 5.6:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 6.1:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          fielders:
+          - RR O'Donnell
+          - CD Fletcher
+          kind: run out
+    - 6.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 6.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Hampton
+    - 6.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 6.5:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 6.6:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 7.1:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 7.2:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 7.3:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 7.4:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 7.5:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 7.6:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 7.7:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 8.1:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 8.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 8.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 8.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR Hampton
+    - 8.5:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 8.6:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 9.1:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 9.2:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 9.3:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 9.4:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 9.5:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 9.6:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.1:
+        non_striker: BR Hampton
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 10.2:
+        non_striker: BR Hampton
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.3:
+        non_striker: JF Carter
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 10.4:
+        non_striker: JF Carter
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 10.5:
+        non_striker: BR Hampton
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 10.6:
+        non_striker: BR Hampton
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 11.1:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR Hampton
+    - 11.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 11.3:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 11.4:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 11.5:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 11.6:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 11.7:
+        non_striker: BR Hampton
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 12.1:
+        non_striker: JF Carter
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 12.2:
+        non_striker: BR Hampton
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 12.3:
+        non_striker: JF Carter
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Hampton
+    - 12.4:
+        non_striker: JF Carter
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 12.5:
+        non_striker: JF Carter
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 12.6:
+        non_striker: BR Hampton
+        bowler: WT O'Donnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 13.1:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 13.2:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 13.3:
+        non_striker: BR Hampton
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 13.4:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 13.5:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Hampton
+    - 13.6:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 13.7:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+        wicket:
+          player_out: BR Hampton
+          fielders:
+          - BG Lister
+          kind: caught
+    - 14.1:
+        non_striker: PD Bocock
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 14.2:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Bocock
+    - 14.3:
+        non_striker: PD Bocock
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 14.4:
+        non_striker: PD Bocock
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JF Carter
+    - 14.5:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Bocock
+    - 14.6:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Bocock
+    - 14.7:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Bocock
+    - 15.1:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Bocock
+    - 15.2:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Bocock
+    - 15.3:
+        non_striker: PD Bocock
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 15.4:
+        non_striker: PD Bocock
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 15.5:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Bocock
+    - 15.6:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Bocock
+    - 15.7:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Bocock
+    - 16.1:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Bocock
+        wicket:
+          player_out: PD Bocock
+          fielders:
+          - CD Fletcher
+          kind: stumped
+    - 16.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Walker
+    - 16.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FL Walker
+    - 16.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Walker
+    - 16.5:
+        non_striker: FL Walker
+        bowler: L Delport
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JF Carter
+    - 16.6:
+        non_striker: FL Walker
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+        wicket:
+          player_out: JF Carter
+          kind: bowled
+    - 16.7:
+        non_striker: FL Walker
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 17.1:
+        non_striker: TJG Pringle
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Walker
+    - 17.2:
+        non_striker: TJG Pringle
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Walker
+    - 17.3:
+        non_striker: FL Walker
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJG Pringle
+    - 17.4:
+        non_striker: FL Walker
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 17.5:
+        non_striker: TJG Pringle
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Walker
+    - 17.6:
+        non_striker: TJG Pringle
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Walker
+        wicket:
+          player_out: FL Walker
+          fielders:
+          - BG Lister
+          kind: caught
+    - 18.1:
+        non_striker: KDC Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.2:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDC Clarke
+    - 18.3:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDC Clarke
+        wicket:
+          player_out: KDC Clarke
+          fielders:
+          - GH Worker
+          kind: caught
+    - 18.4:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wagner
+    - 18.5:
+        non_striker: N Wagner
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.6:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wagner
+        wicket:
+          player_out: N Wagner
+          kind: caught and bowled
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 0.2:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.3:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Worker
+    - 0.4:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.5:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.6:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.1:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.2:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 1.3:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 1.4:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.5:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.6:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 2.1:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.2:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Worker
+    - 2.3:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 2.4:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.5:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.6:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.1:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 3.2:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 3.3:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Solia
+    - 3.4:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.5:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.6:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - HR Cooper
+          kind: caught
+    - 3.7:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 4.1:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 4.2:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 4.3:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 4.4:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 4.5:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          kind: bowled
+    - 4.6:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.1:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 5.2:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 5.3:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 5.4:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.5:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.6:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.1:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.2:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 6.3:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 6.4:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.5:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 6.6:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.1:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 7.2:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 7.3:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 7.4:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 7.5:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 7.6:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.1:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.2:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 8.3:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.4:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 8.5:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 8.6:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 9.1:
+        non_striker: RR O'Donnell
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.2:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 9.3:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.4:
+        non_striker: RR O'Donnell
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.5:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 9.6:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.1:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 10.2:
+        non_striker: SM Solia
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.3:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 10.5:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 10.6:
+        non_striker: RR O'Donnell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 11.1:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.2:
+        non_striker: RR O'Donnell
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.3:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 11.4:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.5:
+        non_striker: RR O'Donnell
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.6:
+        non_striker: SM Solia
+        bowler: HR Cooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 12.1:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Solia
+    - 12.2:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.3:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.4:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 12.5:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.6:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 12.7:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.1:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 13.2:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 13.3:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.4:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.5:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.6:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 14.1:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 14.2:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 14.3:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 14.4:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 14.5:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 14.6:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.1:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.2:
+        non_striker: SM Solia
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 15.3:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 15.4:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 15.5:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 15.6:
+        non_striker: RR O'Donnell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.1:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.2:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR O'Donnell
+    - 16.3:
+        non_striker: RR O'Donnell
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia

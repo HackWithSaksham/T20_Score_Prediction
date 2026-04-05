@@ -1,0 +1,1774 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2024-05-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Leinster Lightning
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - A Balbirnie
+  players:
+    Leinster Lightning:
+    - A Balbirnie
+    - TH Tector
+    - L Tucker
+    - HT Tector
+    - SJ Harbinson
+    - GH Dockrell
+    - S Lynch
+    - BJ McCarthy
+    - F Hand
+    - A Sidhu
+    - O Riley
+    North-West Warriors:
+    - ST Doheny
+    - LC Doherty
+    - J Wilson
+    - K Hilton
+    - SC Getkate
+    - AR McBrine
+    - SJ MacBeth
+    - GI Hume
+    - R MacBeth
+    - CA Young
+    - T McKeegan
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      A Sidhu: 69b1224b
+      AR McBrine: e957b38f
+      Aidan Seaver: 862c0b16
+      BJ McCarthy: 3766056b
+      CA Young: bd0a4a7d
+      F Hand: e3fe4b49
+      G McCrea: 46f4a901
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      HT Tector: 59ea70a4
+      J Wilson: 20f9e6b1
+      K Hilton: 9339830a
+      L Tucker: 3979b5e0
+      LC Doherty: 6d5fceb7
+      M Hawthorne: ea123ee4
+      O Riley: 92e3e61e
+      R MacBeth: b4402d8a
+      S Lynch: 5ffe6225
+      SC Getkate: c8065f31
+      SJ Harbinson: ccc17282
+      SJ MacBeth: 5d4338a2
+      ST Doheny: 4992d6f6
+      T McKeegan: 2052d6f4
+      TH Tector: '0348f9a5'
+      W Mohammed: 0a3e73a5
+  teams:
+  - North-West Warriors
+  - Leinster Lightning
+  toss:
+    winner: North-West Warriors
+    decision: bat
+  umpires:
+  - Aidan Seaver
+  - M Hawthorne
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.2:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.3:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.4:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.5:
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.6:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 1.1:
+        non_striker: ST Doheny
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Doherty
+    - 1.2:
+        non_striker: ST Doheny
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LC Doherty
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 1.4:
+        non_striker: LC Doherty
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.5:
+        non_striker: LC Doherty
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - BJ McCarthy
+          kind: caught
+    - 1.6:
+        non_striker: LC Doherty
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Wilson
+    - 1.7:
+        non_striker: LC Doherty
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wilson
+    - 1.8:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Doherty
+    - 2.1:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 2.2:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 2.3:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 2.4:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wilson
+    - 2.5:
+        non_striker: J Wilson
+        bowler: BJ McCarthy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LC Doherty
+    - 2.6:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Wilson
+    - 2.7:
+        non_striker: LC Doherty
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 3.1:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Doherty
+    - 3.2:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Doherty
+    - 3.3:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 3.4:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 3.5:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 3.6:
+        non_striker: J Wilson
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 4.1:
+        non_striker: J Wilson
+        bowler: O Riley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: LC Doherty
+    - 4.2:
+        non_striker: J Wilson
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 4.3:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Wilson
+    - 4.4:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 4.5:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Wilson
+    - 4.6:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 4.7:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 4.8:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 5.1:
+        non_striker: J Wilson
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 5.2:
+        non_striker: LC Doherty
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Wilson
+    - 5.3:
+        non_striker: LC Doherty
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 5.4:
+        non_striker: LC Doherty
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Wilson
+    - 5.5:
+        non_striker: LC Doherty
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wilson
+    - 5.6:
+        non_striker: J Wilson
+        bowler: SJ Harbinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 6.1:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+        wicket:
+          player_out: J Wilson
+          fielders:
+          - F Hand
+          kind: caught
+    - 6.2:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 6.3:
+        non_striker: K Hilton
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 6.4:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 6.5:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 6.6:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 7.1:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 7.2:
+        non_striker: K Hilton
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 7.3:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 7.4:
+        non_striker: K Hilton
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 7.5:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 7.6:
+        non_striker: LC Doherty
+        bowler: O Riley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 8.1:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 8.2:
+        non_striker: K Hilton
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 8.3:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 8.4:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+        wicket:
+          player_out: K Hilton
+          kind: lbw
+    - 8.5:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 8.6:
+        non_striker: LC Doherty
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 9.1:
+        non_striker: LC Doherty
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 9.2:
+        non_striker: LC Doherty
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 9.3:
+        non_striker: LC Doherty
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 9.4:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 9.5:
+        non_striker: LC Doherty
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 9.6:
+        non_striker: LC Doherty
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 10.1:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 10.2:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+        wicket:
+          player_out: LC Doherty
+          kind: bowled
+    - 10.3:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.4:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.5:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 10.6:
+        non_striker: AR McBrine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 11.1:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.2:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 11.3:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.4:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 11.5:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 11.6:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 12.1:
+        non_striker: SC Getkate
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.2:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 12.3:
+        non_striker: SC Getkate
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.4:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 12.5:
+        non_striker: SC Getkate
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.6:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 13.1:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 13.2:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 13.3:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 13.4:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 13.5:
+        non_striker: SC Getkate
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.6:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 14.1:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 14.2:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 14.3:
+        non_striker: AR McBrine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 14.4:
+        non_striker: AR McBrine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 14.5:
+        non_striker: SC Getkate
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 14.6:
+        non_striker: AR McBrine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 15.1:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 15.2:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - BJ McCarthy
+          kind: caught
+    - 15.3:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 15.4:
+        non_striker: SJ MacBeth
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 15.5:
+        non_striker: SJ MacBeth
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 15.6:
+        non_striker: AR McBrine
+        bowler: A Sidhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.1:
+        non_striker: AR McBrine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.2:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 16.3:
+        non_striker: AR McBrine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 16.4:
+        non_striker: AR McBrine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.5:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 16.6:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - O Riley
+          kind: caught
+    - 17.1:
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GI Hume
+        batsman: SJ MacBeth
+    - 17.2:
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GI Hume
+        batsman: SJ MacBeth
+    - 17.3:
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GI Hume
+        batsman: SJ MacBeth
+    - 17.4:
+        non_striker: SJ MacBeth
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 17.5:
+        non_striker: GI Hume
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 17.6:
+        non_striker: SJ MacBeth
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 18.1:
+        non_striker: GI Hume
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 18.2:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GI Hume
+    - 18.3:
+        non_striker: GI Hume
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 18.4:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GI Hume
+    - 18.5:
+        non_striker: SJ MacBeth
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 18.6:
+        non_striker: GI Hume
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 19.1:
+        non_striker: SJ MacBeth
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 19.2:
+        non_striker: GI Hume
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 19.3:
+        non_striker: SJ MacBeth
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 19.4:
+        non_striker: GI Hume
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ MacBeth
+    - 19.5:
+        non_striker: GI Hume
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ MacBeth
+    - 19.6:
+        non_striker: GI Hume
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ MacBeth
+- 2nd innings:
+    team: Leinster Lightning
+    deliveries:
+    - 0.1:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TH Tector
+        batsman: A Balbirnie
+    - 0.2:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TH Tector
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH Tector
+    - 0.4:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+    - 0.5:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH Tector
+    - 0.6:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Tector
+        wicket:
+          player_out: TH Tector
+          fielders:
+          - AR McBrine
+          kind: caught
+    - 1.1:
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Tucker
+        batsman: A Balbirnie
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 1.6:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.1:
+        non_striker: L Tucker
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.2:
+        non_striker: L Tucker
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.3:
+        non_striker: L Tucker
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.4:
+        non_striker: L Tucker
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 2.5:
+        non_striker: L Tucker
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 2.6:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.1:
+        non_striker: L Tucker
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.2:
+        non_striker: L Tucker
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: L Tucker
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: L Tucker
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: L Tucker
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.1:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.3:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 4.4:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 4.5:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.6:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 4.7:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.1:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.2:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.4:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.5:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 6.6:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 7.1:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.2:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.3:
+        non_striker: L Tucker
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.4:
+        non_striker: L Tucker
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tucker
+    - 7.6:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 7.7:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 8.1:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 8.2:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.3:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.4:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 8.5:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 8.6:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.1:
+        non_striker: L Tucker
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.2:
+        non_striker: L Tucker
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 9.3:
+        non_striker: L Tucker
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.4:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 9.5:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 9.6:
+        non_striker: A Balbirnie
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.1:
+        non_striker: A Balbirnie
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 10.2:
+        non_striker: A Balbirnie
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.3:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 10.4:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.5:
+        non_striker: A Balbirnie
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.6:
+        non_striker: L Tucker
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.1:
+        non_striker: A Balbirnie
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 11.2:
+        non_striker: A Balbirnie
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - SC Getkate
+          kind: caught
+    - 11.3:
+        non_striker: A Balbirnie
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 11.4:
+        non_striker: A Balbirnie
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 11.5:
+        non_striker: A Balbirnie
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.6:
+        non_striker: HT Tector
+        bowler: SJ MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.1:
+        non_striker: HT Tector
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.2:
+        non_striker: A Balbirnie
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.3:
+        non_striker: HT Tector
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 12.4:
+        non_striker: HT Tector
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 12.5:
+        non_striker: HT Tector
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie

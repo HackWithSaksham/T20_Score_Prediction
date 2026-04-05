@@ -1,0 +1,2265 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  competition: Vitality Blast Women
+  dates:
+  - '2025-06-08'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Lancashire
+    by:
+      runs: 5
+  overs: 20
+  players:
+    Lancashire:
+    - EL Lamb
+    - TN Kesteven
+    - S Smale
+    - FMK Morris
+    - E Threlkeld
+    - A Lister
+    - A King
+    - TG Norris
+    - GM Johnson
+    - G Potts
+    - S Morris
+    Warwickshire:
+    - D Perrin
+    - AJ Freeborn
+    - SL Kalis
+    - C Pavely
+    - L Harris
+    - NAJ Wraith
+    - IECM Wong
+    - MSL Taylor
+    - GK Davis
+    - HL Baker
+    - H Hardwick
+  registry:
+    people:
+      A King: '83558266'
+      A Lister: '090c0213'
+      AJ Freeborn: c6da6ebf
+      AM Smith: a0bc360f
+      C Pavely: 907e5f6c
+      D Perrin: bfa0fa33
+      E Threlkeld: c66c73f9
+      EL Lamb: '02181d9a'
+      FMK Morris: 3a9b3866
+      G Brown: 4b781bd0
+      G Potts: e3a93585
+      GK Davis: '54719239'
+      GM Johnson: 011533e5
+      H Hardwick: 1164142d
+      HL Baker: cefad9fd
+      IECM Wong: e5b17517
+      L Harris: 36e2dc83
+      MSL Taylor: 918928a7
+      NAJ Wraith: 1ec1998e
+      S Morris: '76419733'
+      S Smale: 3247d54e
+      S Widdup: 65bf2837
+      SL Kalis: 2b150c6b
+      TG Norris: 8ae7bb3e
+      TN Kesteven: 0a6d368c
+  teams:
+  - Lancashire
+  - Warwickshire
+  toss:
+    winner: Warwickshire
+    decision: field
+  umpires:
+  - G Brown
+  - S Widdup
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Lancashire
+    deliveries:
+    - 0.1:
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TN Kesteven
+        batsman: EL Lamb
+    - 0.2:
+        non_striker: EL Lamb
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 0.3:
+        non_striker: EL Lamb
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TN Kesteven
+    - 0.4:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 0.5:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 0.6:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Lamb
+    - 0.7:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          kind: bowled
+    - 1.1:
+        bowler: H Hardwick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Smale
+        batsman: TN Kesteven
+    - 1.2:
+        bowler: H Hardwick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Smale
+        batsman: TN Kesteven
+    - 1.3:
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Smale
+        batsman: TN Kesteven
+    - 1.4:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Smale
+    - 1.5:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Smale
+    - 1.6:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 1.7:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 1.8:
+        non_striker: S Smale
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 2.1:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 2.2:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 2.3:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 2.4:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 2.5:
+        non_striker: S Smale
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 2.6:
+        non_striker: S Smale
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TN Kesteven
+    - 2.7:
+        non_striker: S Smale
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 3.1:
+        non_striker: S Smale
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 3.2:
+        non_striker: S Smale
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 3.3:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 3.4:
+        non_striker: S Smale
+        bowler: GK Davis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TN Kesteven
+    - 3.5:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 3.6:
+        non_striker: S Smale
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 3.7:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Smale
+        wicket:
+          player_out: S Smale
+          fielders:
+          - NAJ Wraith
+          kind: stumped
+    - 3.8:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 4.1:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 4.2:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 4.3:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 4.4:
+        non_striker: TN Kesteven
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+        wicket:
+          player_out: FMK Morris
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 4.5:
+        non_striker: TN Kesteven
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 4.6:
+        non_striker: TN Kesteven
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 5.1:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+        wicket:
+          player_out: E Threlkeld
+          fielders:
+          - MSL Taylor
+          kind: caught
+    - 5.2:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 5.3:
+        non_striker: TN Kesteven
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 5.4:
+        non_striker: A Lister
+        bowler: H Hardwick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TN Kesteven
+    - 5.5:
+        non_striker: A Lister
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TN Kesteven
+    - 5.6:
+        non_striker: A Lister
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 5.7:
+        non_striker: A Lister
+        bowler: H Hardwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 6.1:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 6.2:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TN Kesteven
+    - 6.3:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 6.4:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 6.5:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 6.6:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lister
+    - 7.1:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 7.2:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 7.3:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 7.4:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TN Kesteven
+    - 7.5:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 7.6:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 7.7:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.1:
+        non_striker: A Lister
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 8.2:
+        non_striker: A Lister
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 8.3:
+        non_striker: TN Kesteven
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.4:
+        non_striker: TN Kesteven
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 8.5:
+        non_striker: A Lister
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 8.6:
+        non_striker: A Lister
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 9.1:
+        non_striker: A Lister
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 9.2:
+        non_striker: A Lister
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 9.3:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.4:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 9.5:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 9.6:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.1:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TN Kesteven
+    - 10.2:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 10.3:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.4:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.5:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.6:
+        non_striker: TN Kesteven
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.1:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.2:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 11.3:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 11.4:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.5:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 11.6:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 11.7:
+        non_striker: TN Kesteven
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.8:
+        non_striker: A Lister
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TN Kesteven
+    - 11.9:
+        non_striker: A Lister
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 12.1:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TN Kesteven
+    - 12.2:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 12.3:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 12.4:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.5:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TN Kesteven
+    - 12.6:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 12.7:
+        non_striker: TN Kesteven
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          kind: lbw
+    - 13.1:
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A King
+        batsman: TN Kesteven
+    - 13.2:
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A King
+        batsman: TN Kesteven
+    - 13.3:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 13.4:
+        non_striker: TN Kesteven
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 13.5:
+        non_striker: A King
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+    - 13.6:
+        non_striker: A King
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TN Kesteven
+        wicket:
+          player_out: TN Kesteven
+          kind: bowled
+    - 14.1:
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TG Norris
+        batsman: A King
+    - 14.2:
+        non_striker: A King
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 14.3:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 14.4:
+        non_striker: A King
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 14.5:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 14.6:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 15.1:
+        non_striker: A King
+        bowler: C Pavely
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: TG Norris
+    - 15.2:
+        non_striker: TG Norris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 15.3:
+        non_striker: TG Norris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 15.4:
+        non_striker: TG Norris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 15.5:
+        non_striker: A King
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Norris
+    - 15.6:
+        non_striker: A King
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 15.7:
+        non_striker: A King
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 16.1:
+        non_striker: TG Norris
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 16.2:
+        non_striker: TG Norris
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 16.3:
+        non_striker: TG Norris
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 16.4:
+        non_striker: A King
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 16.5:
+        non_striker: A King
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 16.6:
+        non_striker: TG Norris
+        bowler: MSL Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+        wicket:
+          player_out: A King
+          fielders:
+          - D Perrin
+          kind: caught
+    - 17.1:
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GM Johnson
+        batsman: TG Norris
+    - 17.2:
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GM Johnson
+        batsman: TG Norris
+    - 17.3:
+        non_striker: TG Norris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Johnson
+    - 17.4:
+        non_striker: GM Johnson
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 17.5:
+        non_striker: TG Norris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Johnson
+    - 17.6:
+        non_striker: GM Johnson
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TG Norris
+    - 18.1:
+        non_striker: GM Johnson
+        bowler: C Pavely
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TG Norris
+    - 18.2:
+        non_striker: TG Norris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Johnson
+    - 18.3:
+        non_striker: GM Johnson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Norris
+    - 18.4:
+        non_striker: GM Johnson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 18.5:
+        non_striker: GM Johnson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 18.6:
+        non_striker: GM Johnson
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 19.1:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 19.2:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 19.3:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 19.4:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Norris
+    - 19.5:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: TG Norris
+    - 19.6:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 19.7:
+        non_striker: GM Johnson
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+- 2nd innings:
+    team: Warwickshire
+    deliveries:
+    - 0.1:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.2:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.3:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.4:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.5:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AJ Freeborn
+        batsman: D Perrin
+    - 0.6:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 1.1:
+        non_striker: D Perrin
+        bowler: GM Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Freeborn
+    - 1.2:
+        non_striker: D Perrin
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 1.3:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 1.4:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 1.5:
+        non_striker: D Perrin
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 1.6:
+        non_striker: D Perrin
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 1.7:
+        non_striker: D Perrin
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 2.1:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 2.2:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 2.3:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 2.4:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 2.5:
+        non_striker: D Perrin
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 2.6:
+        non_striker: D Perrin
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 3.1:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.2:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.3:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 3.4:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Perrin
+    - 3.5:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Perrin
+    - 3.6:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 3.7:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 4.1:
+        non_striker: D Perrin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 4.2:
+        non_striker: AJ Freeborn
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 4.3:
+        non_striker: AJ Freeborn
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 4.4:
+        non_striker: D Perrin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 4.5:
+        non_striker: AJ Freeborn
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 4.6:
+        non_striker: D Perrin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 5.1:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 5.2:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          kind: bowled
+    - 5.3:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.4:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.5:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: AJ Freeborn
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 6.2:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.3:
+        non_striker: SL Kalis
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 6.4:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - G Potts
+          kind: caught
+    - 6.5:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 6.6:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 7.1:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 7.2:
+        non_striker: C Pavely
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 7.3:
+        non_striker: C Pavely
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 7.4:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 7.5:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 7.6:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 8.1:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 8.2:
+        non_striker: AJ Freeborn
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 8.3:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          kind: lbw
+    - 8.4:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 8.5:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+        wicket:
+          player_out: L Harris
+          kind: caught and bowled
+    - 8.6:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 9.1:
+        non_striker: C Pavely
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 9.2:
+        non_striker: NAJ Wraith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 9.3:
+        non_striker: C Pavely
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 9.4:
+        non_striker: NAJ Wraith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 9.5:
+        non_striker: NAJ Wraith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 9.6:
+        non_striker: NAJ Wraith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 10.1:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 10.2:
+        non_striker: C Pavely
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 10.3:
+        non_striker: C Pavely
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 10.4:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 10.5:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 10.6:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 11.1:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 11.2:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 11.3:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 11.4:
+        non_striker: C Pavely
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 11.5:
+        non_striker: C Pavely
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NAJ Wraith
+    - 11.6:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+        wicket:
+          player_out: C Pavely
+          fielders:
+          - TG Norris
+          kind: caught
+    - 12.1:
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IECM Wong
+        batsman: NAJ Wraith
+    - 12.2:
+        non_striker: NAJ Wraith
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 12.3:
+        non_striker: IECM Wong
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 12.4:
+        non_striker: IECM Wong
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 12.5:
+        non_striker: IECM Wong
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 12.6:
+        non_striker: IECM Wong
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 13.1:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 13.2:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 13.3:
+        non_striker: IECM Wong
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 13.4:
+        non_striker: IECM Wong
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 13.5:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          kind: bowled
+    - 13.6:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 14.1:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 14.2:
+        non_striker: MSL Taylor
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NAJ Wraith
+    - 14.3:
+        non_striker: MSL Taylor
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 14.4:
+        non_striker: MSL Taylor
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 14.5:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 14.6:
+        non_striker: MSL Taylor
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 15.1:
+        non_striker: MSL Taylor
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 15.2:
+        non_striker: MSL Taylor
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 15.3:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MSL Taylor
+    - 15.4:
+        non_striker: MSL Taylor
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 15.5:
+        non_striker: NAJ Wraith
+        bowler: GM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 15.6:
+        non_striker: MSL Taylor
+        bowler: GM Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NAJ Wraith
+    - 16.1:
+        non_striker: MSL Taylor
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 16.2:
+        non_striker: MSL Taylor
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NAJ Wraith
+    - 16.3:
+        non_striker: MSL Taylor
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 16.4:
+        non_striker: MSL Taylor
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 16.5:
+        non_striker: NAJ Wraith
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSL Taylor
+    - 16.6:
+        non_striker: MSL Taylor
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 17.1:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSL Taylor
+        wicket:
+          player_out: MSL Taylor
+          fielders:
+          - S Smale
+          kind: caught
+    - 17.2:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 17.3:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Davis
+    - 17.4:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Davis
+    - 17.5:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 17.6:
+        non_striker: GK Davis
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 17.7:
+        non_striker: NAJ Wraith
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 18.1:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 18.2:
+        non_striker: GK Davis
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 18.3:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 18.4:
+        non_striker: GK Davis
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 18.5:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+        wicket:
+          player_out: GK Davis
+          fielders:
+          - FMK Morris
+          kind: caught
+    - 18.6:
+        non_striker: NAJ Wraith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 19.1:
+        non_striker: HL Baker
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NAJ Wraith
+    - 19.2:
+        non_striker: HL Baker
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 19.3:
+        non_striker: HL Baker
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 19.4:
+        non_striker: HL Baker
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 19.5:
+        non_striker: NAJ Wraith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+        wicket:
+          player_out: HL Baker
+          fielders:
+          - A Lister
+          kind: caught
+    - 19.6:
+        non_striker: NAJ Wraith
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hardwick
+    - 19.7:
+        non_striker: NAJ Wraith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hardwick

@@ -1,0 +1,889 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: One-Day Cup (Australia)
+  dates:
+  - '2024-09-25'
+  gender: male
+  match_type: ODM
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Queensland:
+    - BR McDermott
+    - M Bryant
+    - MT Renshaw
+    - LD Hearne
+    - JD Wildermuth
+    - HR Burdon
+    - J Clayton
+    - MG Neser
+    - MT Steketee
+    - T Straker
+    - MJ Swepson
+    Tasmania:
+    - GT Bell
+    - JR Doran
+    - BM Hope
+    - CP Jewell
+    - MP Kuhnemann
+    - MJ Owen
+    - TS Rogers
+    - JC Silk
+    - MS Wade
+    - J Weatherald
+    - BJ Webster
+  registry:
+    people:
+      BJ Webster: 56b93d46
+      BM Hope: 526a3073
+      BR McDermott: c41043e6
+      CP Jewell: 806c4e58
+      GT Bell: 770ae773
+      HR Burdon: 309e9b1c
+      J Clayton: c56fc66d
+      J Weatherald: edc7ddb6
+      JC Silk: 7a6dc294
+      JD Wildermuth: f1c61793
+      JR Doran: 9cebb612
+      LD Hearne: 7f2163a0
+      M Bryant: f32012f4
+      MG Neser: 0164b064
+      MJ Owen: f2c936d7
+      MJ Swepson: 86b4bf88
+      MP Kuhnemann: 7b953689
+      MS Wade: afa7e784
+      MT Renshaw: 218d4d78
+      MT Steketee: 903560ed
+      MW Graham-Smith: 18aca3ce
+      PJ Gillespie: 3e253a50
+      RL Parry: 86d151dc
+      T Straker: 5355168d
+      TS Rogers: 1b04e02b
+  teams:
+  - Queensland
+  - Tasmania
+  toss:
+    winner: Tasmania
+    decision: field
+  umpires:
+  - MW Graham-Smith
+  - PJ Gillespie
+  venue: Junction Oval, Melbourne
+innings:
+- 1st innings:
+    team: Queensland
+    deliveries:
+    - 0.1:
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bryant
+        batsman: BR McDermott
+    - 0.2:
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bryant
+        batsman: BR McDermott
+    - 0.3:
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bryant
+        batsman: BR McDermott
+    - 0.4:
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bryant
+        batsman: BR McDermott
+    - 0.5:
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Bryant
+        batsman: BR McDermott
+    - 0.6:
+        non_striker: BR McDermott
+        bowler: TS Rogers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 0.7:
+        non_striker: BR McDermott
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 1.1:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          fielders:
+          - CP Jewell
+          kind: caught
+    - 1.2:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.3:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.4:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.5:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MT Renshaw
+    - 1.6:
+        non_striker: MT Renshaw
+        bowler: GT Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Bryant
+    - 2.1:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 2.2:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 2.3:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 2.4:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 2.5:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 2.6:
+        non_striker: M Bryant
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 3.1:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.2:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 3.3:
+        non_striker: MT Renshaw
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 3.4:
+        non_striker: MT Renshaw
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 3.5:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 3.6:
+        non_striker: M Bryant
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.1:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - JC Silk
+          kind: caught
+    - 4.2:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 4.3:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.4:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 5.1:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: LD Hearne
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 5.4:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 5.5:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 5.6:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 6.1:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 6.2:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.3:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 6.4:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.5:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 6.6:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 7.1:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 7.2:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 7.3:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 7.4:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.5:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 7.6:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 8.1:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 8.2:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.3:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 8.4:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: MT Renshaw
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 8.6:
+        non_striker: LD Hearne
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 9.1:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 9.2:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 9.3:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.4:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 9.6:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.1:
+        non_striker: LD Hearne
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 10.3:
+        non_striker: LD Hearne
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: LD Hearne
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 10.5:
+        non_striker: LD Hearne
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.6:
+        non_striker: MT Renshaw
+        bowler: TS Rogers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LD Hearne
+    - 11.1:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.2:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.3:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 11.4:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 11.5:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.6:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 12.1:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 12.3:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.4:
+        non_striker: MT Renshaw
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 12.5:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - TS Rogers
+          kind: caught
+    - 12.6:
+        non_striker: LD Hearne
+        bowler: BJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 13.1:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 13.2:
+        non_striker: JD Wildermuth
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 13.3:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 13.4:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          kind: bowled
+    - 13.5:
+        non_striker: LD Hearne
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Burdon
+    - 13.6:
+        non_striker: HR Burdon
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 14.1:
+        non_striker: LD Hearne
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+    - 14.2:
+        non_striker: LD Hearne
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Burdon
+    - 14.3:
+        non_striker: LD Hearne
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Burdon
+    - 14.4:
+        non_striker: HR Burdon
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+        wicket:
+          player_out: LD Hearne
+          fielders:
+          - BJ Webster
+          kind: caught
+    - 14.5:
+        non_striker: HR Burdon
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Clayton
+    - 14.6:
+        non_striker: J Clayton
+        bowler: GT Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Burdon
+    - 15.1:
+        non_striker: HR Burdon
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Clayton
+    - 15.2:
+        non_striker: HR Burdon
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Clayton
+    - 15.3:
+        non_striker: J Clayton
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Burdon
+    - 15.4:
+        non_striker: HR Burdon
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Clayton
+    - 15.5:
+        non_striker: J Clayton
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Burdon
+    - 15.6:
+        non_striker: J Clayton
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Burdon

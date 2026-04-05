@@ -1,0 +1,2131 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2023-07-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Seattle Orcas
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Imad Wasim
+  players:
+    Washington Freedom:
+    - MW Short
+    - AGS Gous
+    - Mukhtar Ahmed
+    - GD Phillips
+    - MC Henriques
+    - AJ Pienaar
+    - M Jansen
+    - AJ Hosein
+    - DL Piedt
+    - A Nortje
+    - SN Netravalkar
+    Seattle Orcas:
+    - Q de Kock
+    - Nauman Anwar
+    - GSNFG Jayasuriya
+    - H Klaasen
+    - Imad Wasim
+    - SO Hetmyer
+    - Shubham Ranjane
+    - CJ Gannon
+    - WD Parnell
+    - Harmeet Singh
+    - AJ Tye
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AGS Gous: d1305df0
+      AJ Hosein: 4d7f517e
+      AJ Pienaar: 647a48da
+      AJ Tye: 7c7d63a2
+      CJ Gannon: 519c30cb
+      DL Piedt: 537f5ab2
+      GD Phillips: 9a46c4e5
+      GSNFG Jayasuriya: b58b7db6
+      H Klaasen: 235c2bb6
+      Harmeet Singh: 0bf15e52
+      Imad Wasim: 9cb8d7a6
+      Jermaine Lindo: 1154bf4f
+      M Jansen: 81c36ee9
+      MC Henriques: 32198ae0
+      MW Short: a90e53ec
+      Mukhtar Ahmed: 456f6d99
+      Nauman Anwar: d0540390
+      P Wilson: 68304a36
+      Q de Kock: 372455c4
+      R Samuels: 8a8bc9f6
+      SJA Taufel: 4b43d5ac
+      SN Netravalkar: c8a3f688
+      SO Hetmyer: 48a1d7b7
+      Shubham Ranjane: 6c7a68d0
+      WD Parnell: 3a60e0b5
+      WR Knights: 63cbf8d8
+  teams:
+  - Washington Freedom
+  - Seattle Orcas
+  toss:
+    winner: Seattle Orcas
+    decision: field
+  umpires:
+  - R Samuels
+  - WR Knights
+  venue: Grand Prairie Stadium
+innings:
+- 1st innings:
+    team: Washington Freedom
+    deliveries:
+    - 0.1:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.2:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 0.3:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.4:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.5:
+        non_striker: MW Short
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          kind: bowled
+    - 1.1:
+        non_striker: Mukhtar Ahmed
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 1.3:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+    - 1.4:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ahmed
+    - 1.5:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mukhtar Ahmed
+    - 1.6:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ahmed
+    - 1.7:
+        non_striker: Mukhtar Ahmed
+        bowler: CJ Gannon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AGS Gous
+    - 1.8:
+        non_striker: Mukhtar Ahmed
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ahmed
+        wicket:
+          player_out: Mukhtar Ahmed
+          kind: lbw
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GD Phillips
+    - 2.4:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.5:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.6:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 2.7:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.8:
+        non_striker: AGS Gous
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 3.1:
+        non_striker: GD Phillips
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.2:
+        non_striker: GD Phillips
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.4:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 3.5:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.6:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 3.7:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.1:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 4.2:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.3:
+        non_striker: GD Phillips
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 4.4:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 4.6:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.1:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.2:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.3:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.4:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AGS Gous
+    - 5.5:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.6:
+        non_striker: MC Henriques
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 6.1:
+        non_striker: AGS Gous
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.2:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 6.3:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 6.4:
+        non_striker: AGS Gous
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.5:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 6.6:
+        non_striker: AGS Gous
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 7.1:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 7.2:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 7.3:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.4:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 7.5:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 7.6:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 8.1:
+        non_striker: MC Henriques
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 8.2:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 8.4:
+        non_striker: AGS Gous
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 8.6:
+        non_striker: MC Henriques
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 9.1:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 9.2:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 9.4:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.5:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 9.6:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 10.2:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.3:
+        non_striker: AGS Gous
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: MC Henriques
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 10.5:
+        non_striker: MC Henriques
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 10.6:
+        non_striker: MC Henriques
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 11.1:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.2:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 11.3:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.4:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AGS Gous
+    - 11.5:
+        non_striker: AGS Gous
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.6:
+        non_striker: MC Henriques
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 12.1:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 12.2:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 12.3:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 12.4:
+        non_striker: M Jansen
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Pienaar
+    - 12.5:
+        non_striker: M Jansen
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 12.6:
+        non_striker: M Jansen
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 13.1:
+        non_striker: AJ Pienaar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.2:
+        non_striker: AJ Pienaar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 13.3:
+        non_striker: AJ Pienaar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jansen
+    - 13.4:
+        non_striker: AJ Pienaar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 13.5:
+        non_striker: M Jansen
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 13.6:
+        non_striker: AJ Pienaar
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          kind: bowled
+    - 14.1:
+        non_striker: AJ Hosein
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 14.2:
+        non_striker: AJ Hosein
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 14.3:
+        non_striker: AJ Pienaar
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 14.4:
+        non_striker: AJ Pienaar
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.5:
+        non_striker: AJ Hosein
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 14.6:
+        non_striker: AJ Pienaar
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 15.1:
+        non_striker: AJ Pienaar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 15.2:
+        non_striker: AJ Hosein
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 15.3:
+        non_striker: AJ Hosein
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+    - 15.4:
+        non_striker: AJ Hosein
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 15.5:
+        non_striker: AJ Pienaar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 15.6:
+        non_striker: AJ Pienaar
+        bowler: CJ Gannon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.1:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.2:
+        non_striker: AJ Hosein
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Pienaar
+    - 16.3:
+        non_striker: AJ Hosein
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Pienaar
+    - 16.4:
+        non_striker: AJ Hosein
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 16.5:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.6:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.7:
+        non_striker: AJ Pienaar
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.1:
+        non_striker: AJ Pienaar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.2:
+        non_striker: AJ Hosein
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 17.3:
+        non_striker: AJ Pienaar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 17.4:
+        non_striker: AJ Pienaar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hosein
+    - 17.5:
+        non_striker: AJ Pienaar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.6:
+        non_striker: AJ Hosein
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Pienaar
+        wicket:
+          player_out: AJ Pienaar
+          fielders:
+          - CJ Gannon
+          kind: caught
+    - 18.1:
+        non_striker: DL Piedt
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.2:
+        non_striker: AJ Hosein
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Piedt
+    - 18.3:
+        non_striker: DL Piedt
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 18.4:
+        non_striker: DL Piedt
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.5:
+        non_striker: AJ Hosein
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Piedt
+    - 18.6:
+        non_striker: DL Piedt
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 19.1:
+        non_striker: DL Piedt
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 19.2:
+        non_striker: DL Piedt
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 19.3:
+        non_striker: AJ Hosein
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Piedt
+    - 19.4:
+        non_striker: AJ Hosein
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Piedt
+    - 19.5:
+        non_striker: DL Piedt
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 19.6:
+        non_striker: DL Piedt
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+- 2nd innings:
+    team: Seattle Orcas
+    deliveries:
+    - 0.1:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.7:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nauman Anwar
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 1.5:
+        non_striker: Nauman Anwar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Nauman Anwar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nauman Anwar
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 2.4:
+        non_striker: Nauman Anwar
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: Nauman Anwar
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: Nauman Anwar
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 2.7:
+        non_striker: Nauman Anwar
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 3.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 3.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 3.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: SN Netravalkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nauman Anwar
+    - 3.4:
+        non_striker: Nauman Anwar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.5:
+        non_striker: Nauman Anwar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 3.6:
+        non_striker: Nauman Anwar
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 4.1:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 4.2:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GSNFG Jayasuriya
+    - 4.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 4.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 4.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nauman Anwar
+    - 4.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 5.1:
+        non_striker: Nauman Anwar
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 5.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nauman Anwar
+    - 5.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 5.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 5.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 5.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 6.1:
+        non_striker: Nauman Anwar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 6.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 6.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 6.4:
+        non_striker: Nauman Anwar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+        wicket:
+          player_out: GSNFG Jayasuriya
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 6.5:
+        non_striker: Nauman Anwar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.6:
+        non_striker: H Klaasen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nauman Anwar
+    - 7.1:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.2:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          kind: bowled
+    - 7.3:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.4:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.5:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.6:
+        non_striker: Imad Wasim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nauman Anwar
+    - 8.1:
+        non_striker: Nauman Anwar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 8.2:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nauman Anwar
+    - 8.3:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 8.4:
+        non_striker: Nauman Anwar
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 8.5:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+    - 8.6:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nauman Anwar
+    - 9.1:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.2:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Imad Wasim
+    - 9.3:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.4:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 9.5:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.6:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.1:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.2:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 10.3:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.4:
+        non_striker: Imad Wasim
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 10.5:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 10.6:
+        non_striker: Nauman Anwar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.1:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 11.2:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.3:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 11.4:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 11.5:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Imad Wasim
+    - 11.6:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 12.1:
+        non_striker: Imad Wasim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 12.2:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Imad Wasim
+    - 12.3:
+        non_striker: Imad Wasim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 12.4:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.5:
+        non_striker: Imad Wasim
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 12.6:
+        non_striker: Nauman Anwar
+        bowler: MC Henriques
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.1:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.2:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nauman Anwar
+    - 13.3:
+        non_striker: Nauman Anwar
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nauman Anwar
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nauman Anwar
+        wicket:
+          player_out: Nauman Anwar
+          kind: bowled
+    - 13.6:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.2:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.5:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Imad Wasim
+    - 16.3:
+        non_striker: SO Hetmyer
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.4:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: Imad Wasim
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.1:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 17.3:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 17.4:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: Imad Wasim
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 18.2:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.3:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.5:
+        non_striker: SO Hetmyer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.6:
+        non_striker: Imad Wasim
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 19.1:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 19.2:
+        non_striker: Imad Wasim
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          kind: bowled
+    - 19.3:
+        non_striker: Imad Wasim
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 19.4:
+        non_striker: Imad Wasim
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane

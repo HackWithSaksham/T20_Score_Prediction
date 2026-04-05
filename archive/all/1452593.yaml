@@ -1,0 +1,2117 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  competition: Super Smash
+  dates:
+  - '2025-01-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Districts
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - JF Carter
+  players:
+    Wellington:
+    - JM Tashkoff
+    - TA Blundell
+    - NF Kelly
+    - TM Johnson
+    - MA Abbas
+    - GR Severin
+    - NA Greenwood
+    - LV van Beek
+    - PF Younghusband
+    - IG McPeake
+    - LR Dudding
+    Northern Districts:
+    - KD Clarke
+    - JF Carter
+    - FF Lellman
+    - RR O'Donnell
+    - JA Raval
+    - BR Hampton
+    - KDC Clarke
+    - BJ Pomare
+    - N Wagner
+    - FL Walker
+    - MJ Fisher
+  registry:
+    people:
+      BJ Pomare: '0398f255'
+      BR Hampton: 93f25f4f
+      C Black: 75b42f71
+      FF Lellman: 69c2944f
+      FL Walker: e6e154e3
+      GB Troup: 94f0e744
+      GG Pennell: d9376677
+      GR Severin: b1549dc0
+      IG McPeake: f8e48647
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      JM Tashkoff: afe7d695
+      KD Clarke: 7a12be0a
+      KDC Clarke: 1e1a8922
+      LR Dudding: 678a8133
+      LV van Beek: 782fb776
+      MA Abbas: c3576908
+      MJ Fisher: 7068c81e
+      N Wagner: 78adc879
+      NA Greenwood: 7ca68967
+      NF Kelly: 97f437ed
+      PF Younghusband: 149d0c18
+      PJ Pasco: fd92a10c
+      RR O'Donnell: 2742086d
+      SB Martin: '08ad6466'
+      TA Blundell: 21e5f325
+      TM Johnson: 917f66da
+  teams:
+  - Wellington
+  - Northern Districts
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - C Black
+  - PJ Pasco
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Blundell
+        batsman: JM Tashkoff
+    - 0.2:
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TA Blundell
+        batsman: JM Tashkoff
+    - 0.3:
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TA Blundell
+        batsman: JM Tashkoff
+    - 0.4:
+        non_striker: TA Blundell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Tashkoff
+        wicket:
+          player_out: JM Tashkoff
+          fielders:
+          - FF Lellman
+          kind: caught
+    - 0.5:
+        non_striker: TA Blundell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 0.6:
+        non_striker: TA Blundell
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.1:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          fielders:
+          - FF Lellman
+          kind: caught
+    - 1.2:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Johnson
+    - 1.3:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 1.4:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 1.5:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 1.6:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 1.7:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 1.8:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 1.9:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.1:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 2.2:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 2.3:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Johnson
+    - 2.4:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 2.5:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 2.6:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 3.1:
+        non_striker: NF Kelly
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 3.2:
+        non_striker: NF Kelly
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 3.3:
+        non_striker: NF Kelly
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 3.4:
+        non_striker: NF Kelly
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 3.5:
+        non_striker: TM Johnson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.6:
+        non_striker: TM Johnson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 4.1:
+        non_striker: TM Johnson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.2:
+        non_striker: TM Johnson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.3:
+        non_striker: TM Johnson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 4.4:
+        non_striker: TM Johnson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 4.5:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 4.6:
+        non_striker: NF Kelly
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 5.1:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 5.2:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 5.3:
+        non_striker: TM Johnson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 5.4:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Johnson
+    - 5.5:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+        wicket:
+          player_out: TM Johnson
+          fielders:
+          - JF Carter
+          kind: caught
+    - 5.6:
+        non_striker: NF Kelly
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 6.1:
+        non_striker: MA Abbas
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.2:
+        non_striker: MA Abbas
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.3:
+        non_striker: MA Abbas
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.4:
+        non_striker: MA Abbas
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.5:
+        non_striker: MA Abbas
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.6:
+        non_striker: NF Kelly
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 7.1:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 7.2:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.3:
+        non_striker: NF Kelly
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 7.4:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          kind: bowled
+    - 7.5:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Severin
+    - 7.6:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 8.1:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 8.2:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Abbas
+    - 8.3:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 8.4:
+        non_striker: MA Abbas
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 8.5:
+        non_striker: MA Abbas
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 8.6:
+        non_striker: MA Abbas
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Severin
+    - 9.1:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+    - 9.2:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Abbas
+    - 9.3:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 9.4:
+        non_striker: MA Abbas
+        bowler: FL Walker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GR Severin
+    - 9.5:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Abbas
+        wicket:
+          player_out: MA Abbas
+          kind: bowled
+    - 9.6:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 9.7:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 10.1:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 10.2:
+        non_striker: NA Greenwood
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 10.3:
+        non_striker: NA Greenwood
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 10.4:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 10.5:
+        non_striker: GR Severin
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 10.6:
+        non_striker: NA Greenwood
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 11.1:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 11.2:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 11.3:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NA Greenwood
+    - 11.4:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 11.5:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 11.6:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 11.7:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 12.1:
+        non_striker: NA Greenwood
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Severin
+    - 12.2:
+        non_striker: NA Greenwood
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 12.3:
+        non_striker: GR Severin
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 12.4:
+        non_striker: NA Greenwood
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Severin
+    - 12.5:
+        non_striker: NA Greenwood
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 12.6:
+        non_striker: GR Severin
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 13.1:
+        non_striker: GR Severin
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 13.2:
+        non_striker: GR Severin
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 13.3:
+        non_striker: GR Severin
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 13.4:
+        non_striker: GR Severin
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 13.5:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 13.6:
+        non_striker: GR Severin
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 14.1:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 14.2:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 14.3:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 14.4:
+        non_striker: GR Severin
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 14.5:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+    - 14.6:
+        non_striker: NA Greenwood
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Severin
+    - 15.1:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Severin
+    - 15.2:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Severin
+        wicket:
+          player_out: GR Severin
+          fielders:
+          - JA Raval
+          kind: caught
+    - 15.3:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+        wicket:
+          player_out: LV van Beek
+          kind: bowled
+    - 15.4:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PF Younghusband
+    - 15.5:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PF Younghusband
+    - 15.6:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 16.1:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 16.2:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Younghusband
+    - 16.3:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Younghusband
+    - 16.4:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Younghusband
+    - 16.5:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PF Younghusband
+    - 16.6:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 17.1:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 17.2:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 17.3:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 17.4:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 17.5:
+        non_striker: PF Younghusband
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 17.6:
+        non_striker: NA Greenwood
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PF Younghusband
+    - 18.1:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 18.2:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 18.3:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 18.4:
+        non_striker: NA Greenwood
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PF Younghusband
+    - 18.5:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - N Wagner
+          kind: caught
+    - 18.6:
+        non_striker: PF Younghusband
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG McPeake
+    - 19.1:
+        non_striker: IG McPeake
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PF Younghusband
+    - 19.2:
+        non_striker: IG McPeake
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PF Younghusband
+    - 19.3:
+        non_striker: IG McPeake
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PF Younghusband
+    - 19.4:
+        non_striker: PF Younghusband
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG McPeake
+    - 19.5:
+        non_striker: PF Younghusband
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG McPeake
+    - 19.6:
+        non_striker: IG McPeake
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PF Younghusband
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.2:
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.3:
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.4:
+        bowler: LR Dudding
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.5:
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.6:
+        bowler: LR Dudding
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: JF Carter
+        batsman: KD Clarke
+    - 0.7:
+        non_striker: JF Carter
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 1.1:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 1.2:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 1.3:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JF Carter
+    - 1.4:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 1.5:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 1.6:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 2.1:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 2.2:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 2.3:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 2.4:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 2.5:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 2.6:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 2.7:
+        non_striker: KD Clarke
+        bowler: IG McPeake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 3.1:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.2:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.3:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: KD Clarke
+    - 3.4:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.5:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 3.6:
+        non_striker: KD Clarke
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.1:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 4.2:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.3:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.4:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 4.5:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 4.6:
+        non_striker: KD Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 4.7:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Clarke
+    - 4.8:
+        non_striker: JF Carter
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          fielders:
+          - TA Blundell
+          kind: caught
+    - 5.1:
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FF Lellman
+        batsman: JF Carter
+    - 5.2:
+        non_striker: JF Carter
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FF Lellman
+    - 5.3:
+        non_striker: FF Lellman
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 5.4:
+        non_striker: FF Lellman
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 5.5:
+        non_striker: FF Lellman
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.6:
+        non_striker: JF Carter
+        bowler: LR Dudding
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FF Lellman
+    - 6.1:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FF Lellman
+    - 6.2:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FF Lellman
+    - 6.3:
+        non_striker: FF Lellman
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 6.4:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FF Lellman
+    - 6.5:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FF Lellman
+    - 6.6:
+        non_striker: FF Lellman
+        bowler: JM Tashkoff
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JF Carter
+    - 7.1:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FF Lellman
+        wicket:
+          player_out: FF Lellman
+          fielders:
+          - NA Greenwood
+          kind: caught
+    - 7.2:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.3:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR O'Donnell
+    - 7.4:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 7.5:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 7.6:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 7.7:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 8.1:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.2:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 8.3:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.4:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 8.5:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 8.6:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 9.1:
+        non_striker: RR O'Donnell
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 9.2:
+        non_striker: RR O'Donnell
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 9.3:
+        non_striker: JF Carter
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.4:
+        non_striker: RR O'Donnell
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 9.5:
+        non_striker: JF Carter
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 9.6:
+        non_striker: JF Carter
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 10.1:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.2:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR O'Donnell
+    - 10.3:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 10.5:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 10.6:
+        non_striker: RR O'Donnell
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 11.1:
+        non_striker: JF Carter
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 11.2:
+        non_striker: JF Carter
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 11.3:
+        non_striker: JF Carter
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 11.4:
+        non_striker: JF Carter
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 11.5:
+        non_striker: JF Carter
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 11.6:
+        non_striker: JA Raval
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 12.1:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 12.2:
+        non_striker: JF Carter
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 12.3:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 12.4:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 12.5:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 12.6:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 12.7:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 13.1:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 13.2:
+        non_striker: JA Raval
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 13.3:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 13.4:
+        non_striker: JA Raval
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 13.5:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 13.6:
+        non_striker: JF Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 14.1:
+        non_striker: JA Raval
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 14.2:
+        non_striker: JA Raval
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 14.3:
+        non_striker: JF Carter
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 14.4:
+        non_striker: JA Raval
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 14.5:
+        non_striker: JA Raval
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+        wicket:
+          player_out: JF Carter
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 14.6:
+        non_striker: JA Raval
+        bowler: JM Tashkoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 15.1:
+        non_striker: JA Raval
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 15.2:
+        non_striker: BR Hampton
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 15.3:
+        non_striker: BR Hampton
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 15.4:
+        non_striker: BR Hampton
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 15.5:
+        non_striker: BR Hampton
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 15.6:
+        non_striker: BR Hampton
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 16.1:
+        non_striker: BR Hampton
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 16.2:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 16.3:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 16.4:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR Hampton
+    - 16.5:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Hampton
+    - 16.6:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Hampton
+    - 16.7:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 17.1:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 17.2:
+        non_striker: BR Hampton
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 17.3:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 17.4:
+        non_striker: BR Hampton
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Raval
+    - 17.5:
+        non_striker: BR Hampton
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 17.6:
+        non_striker: JA Raval
+        bowler: MA Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Hampton
+    - 18.1:
+        non_striker: BR Hampton
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 18.2:
+        non_striker: JA Raval
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Hampton

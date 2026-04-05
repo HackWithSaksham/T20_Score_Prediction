@@ -1,0 +1,1265 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  competition: Charlotte Edwards Cup
+  dates:
+  - '2024-05-27'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Central Sparks
+    by:
+      wickets: 3
+  overs: 20
+  players:
+    Northern Diamonds:
+    - L Winfield-Hill
+    - L Dobson
+    - HJ Armitage
+    - EA Burns
+    - BAM Heath
+    - SL Kalis
+    - EK Marlow
+    - K Fraser
+    - GE Hall
+    - KA Levick
+    - R Slater
+    Central Sparks:
+    - C Brewer
+    - AJ Freeborn
+    - D Perrin
+    - E Jones
+    - C Webb
+    - KL George
+    - C Pavely
+    - EL Arlott
+    - GK Davis
+    - G Potts
+    - HL Baker
+  registry:
+    people:
+      A Clark: 8c73cd16
+      AJ Freeborn: c6da6ebf
+      BAM Heath: 3b5a9438
+      C Brewer: baf11c9a
+      C Pavely: 907e5f6c
+      C Webb: 1f4a8a2a
+      D Perrin: bfa0fa33
+      E Jones: 971cb321
+      EA Burns: 2e0b6638
+      EK Marlow: ac574559
+      EL Arlott: 78fd864b
+      G Potts: e3a93585
+      GE Hall: 026135b1
+      GK Davis: '54719239'
+      HJ Armitage: f05167d2
+      HL Baker: cefad9fd
+      K Fraser: a0a65375
+      KA Levick: 8f30d191
+      KL George: e69dbbef
+      L Dobson: af4f5c77
+      L Winfield-Hill: 5230a33d
+      Phil Whitticase: 99d5f6fa
+      R Slater: 8a452195
+      S Widdup: 65bf2837
+      SL Kalis: 2b150c6b
+  teams:
+  - Northern Diamonds
+  - Central Sparks
+  toss:
+    winner: Central Sparks
+    decision: field
+  umpires:
+  - A Clark
+  - S Widdup
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: Northern Diamonds
+    deliveries:
+    - 0.1:
+        non_striker: L Dobson
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield-Hill
+    - 0.2:
+        non_striker: L Dobson
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield-Hill
+    - 0.3:
+        non_striker: L Dobson
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield-Hill
+    - 0.4:
+        non_striker: L Dobson
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield-Hill
+    - 0.5:
+        non_striker: L Winfield-Hill
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Dobson
+    - 0.6:
+        non_striker: L Winfield-Hill
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Dobson
+        wicket:
+          player_out: L Dobson
+          fielders:
+          - C Pavely
+          kind: caught
+    - 0.7:
+        non_striker: L Winfield-Hill
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 1.1:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield-Hill
+    - 1.2:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield-Hill
+    - 1.3:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield-Hill
+        wicket:
+          player_out: L Winfield-Hill
+          fielders:
+          - D Perrin
+          kind: caught
+    - 1.4:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 1.5:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 1.6:
+        non_striker: HJ Armitage
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 2.1:
+        non_striker: EA Burns
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 2.2:
+        non_striker: EA Burns
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+        wicket:
+          player_out: HJ Armitage
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 2.3:
+        non_striker: EA Burns
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAM Heath
+    - 2.4:
+        non_striker: EA Burns
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 2.5:
+        non_striker: BAM Heath
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 2.6:
+        non_striker: BAM Heath
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 3.1:
+        non_striker: BAM Heath
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 3.2:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 3.3:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+        wicket:
+          player_out: BAM Heath
+          kind: bowled
+    - 3.4:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.5:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.6:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.1:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.2:
+        non_striker: SL Kalis
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 4.3:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 4.4:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.5:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 4.6:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.1:
+        non_striker: SL Kalis
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Burns
+    - 5.2:
+        non_striker: SL Kalis
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 5.3:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 5.4:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 5.5:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: EA Burns
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.2:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - AJ Freeborn
+          kind: stumped
+    - 6.3:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+    - 6.4:
+        non_striker: EK Marlow
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 6.5:
+        non_striker: EK Marlow
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 6.6:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EK Marlow
+    - 6.7:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+    - 7.1:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 7.2:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EK Marlow
+    - 7.3:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 7.4:
+        non_striker: EA Burns
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+    - 7.5:
+        non_striker: EK Marlow
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 7.6:
+        non_striker: EK Marlow
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 8.1:
+        non_striker: EK Marlow
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 8.2:
+        non_striker: EK Marlow
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 8.3:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+        wicket:
+          player_out: EK Marlow
+          kind: bowled
+    - 8.4:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Fraser
+    - 8.5:
+        non_striker: EA Burns
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 8.6:
+        non_striker: K Fraser
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 8.7:
+        non_striker: K Fraser
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 9.1:
+        non_striker: K Fraser
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+        wicket:
+          player_out: EA Burns
+          fielders:
+          - EL Arlott
+          kind: caught
+    - 9.2:
+        non_striker: K Fraser
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Hall
+    - 9.3:
+        non_striker: GE Hall
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 9.4:
+        non_striker: K Fraser
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Hall
+        wicket:
+          player_out: GE Hall
+          kind: bowled
+    - 9.5:
+        non_striker: K Fraser
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+    - 9.6:
+        non_striker: K Fraser
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Levick
+    - 10.1:
+        non_striker: K Fraser
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+        wicket:
+          player_out: KA Levick
+          fielders:
+          - D Perrin
+          kind: caught
+    - 10.2:
+        non_striker: K Fraser
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 10.3:
+        non_striker: K Fraser
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 10.4:
+        non_striker: R Slater
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 10.5:
+        non_striker: R Slater
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 10.6:
+        non_striker: R Slater
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+- 2nd innings:
+    team: Central Sparks
+    deliveries:
+    - 0.1:
+        non_striker: AJ Freeborn
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 0.2:
+        non_striker: C Brewer
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 0.3:
+        non_striker: C Brewer
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 0.4:
+        non_striker: C Brewer
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 0.5:
+        non_striker: AJ Freeborn
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 0.6:
+        non_striker: AJ Freeborn
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 1.1:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brewer
+    - 1.2:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 1.3:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 1.4:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Brewer
+    - 1.5:
+        non_striker: C Brewer
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 1.6:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brewer
+    - 2.1:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 2.2:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brewer
+    - 2.3:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 2.4:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+        wicket:
+          player_out: C Brewer
+          kind: lbw
+    - 2.5:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Perrin
+    - 2.6:
+        non_striker: AJ Freeborn
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 3.1:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          kind: bowled
+    - 3.2:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 3.3:
+        non_striker: AJ Freeborn
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 3.4:
+        non_striker: E Jones
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          fielders:
+          - L Winfield-Hill
+          kind: stumped
+    - 3.5:
+        non_striker: E Jones
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 3.6:
+        non_striker: E Jones
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 4.1:
+        non_striker: C Webb
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 4.2:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 4.3:
+        non_striker: C Webb
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 4.4:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 4.5:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 4.6:
+        non_striker: C Webb
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.1:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+        wicket:
+          player_out: C Webb
+          fielders:
+          - SL Kalis
+          kind: caught
+    - 5.2:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 5.3:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 5.4:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KL George
+    - 5.5:
+        non_striker: KL George
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 5.6:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 6.1:
+        non_striker: KL George
+        bowler: GE Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Jones
+    - 6.2:
+        non_striker: KL George
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 6.3:
+        non_striker: E Jones
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 6.4:
+        non_striker: E Jones
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 6.5:
+        non_striker: KL George
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 6.6:
+        non_striker: E Jones
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 6.7:
+        non_striker: E Jones
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+        wicket:
+          player_out: KL George
+          fielders:
+          - L Dobson
+          kind: caught
+    - 7.1:
+        non_striker: C Pavely
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Jones
+    - 7.2:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 7.3:
+        non_striker: C Pavely
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Jones
+    - 7.4:
+        non_striker: C Pavely
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 7.5:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 7.6:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 7.7:
+        non_striker: E Jones
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 8.1:
+        non_striker: E Jones
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 8.2:
+        non_striker: C Pavely
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 8.3:
+        non_striker: C Pavely
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 8.4:
+        non_striker: C Pavely
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 8.5:
+        non_striker: C Pavely
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 8.6:
+        non_striker: C Pavely
+        bowler: GE Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 9.1:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Pavely
+    - 9.2:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+        wicket:
+          player_out: C Pavely
+          kind: caught and bowled
+    - 9.3:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Arlott
+    - 9.4:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 9.5:
+        non_striker: E Jones
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 9.6:
+        non_striker: EL Arlott
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 10.1:
+        non_striker: EL Arlott
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 10.2:
+        non_striker: EL Arlott
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 10.3:
+        non_striker: E Jones
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+        wicket:
+          player_out: EL Arlott
+          fielders:
+          - SL Kalis
+          kind: caught
+    - 10.4:
+        non_striker: E Jones
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 10.5:
+        non_striker: E Jones
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 10.6:
+        non_striker: E Jones
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Davis

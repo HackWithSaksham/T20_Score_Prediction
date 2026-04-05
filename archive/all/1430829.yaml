@@ -1,0 +1,1801 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2024-05-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Knights
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - PR Stirling
+  players:
+    Northern Knights:
+    - GR Adair
+    - PR Stirling
+    - JA McCollum
+    - C Carmichael
+    - NA Rock
+    - MR Adair
+    - R Pretorius
+    - Jake Egan
+    - MT Foster
+    - T Mayes
+    - MJ Humphreys
+    North-West Warriors:
+    - ST Doheny
+    - LC Doherty
+    - J Wilson
+    - K Hilton
+    - SC Getkate
+    - AR McBrine
+    - SJ MacBeth
+    - GI Hume
+    - R MacBeth
+    - CA Young
+    - T McKeegan
+  registry:
+    people:
+      AA Baig: 5c67c7a6
+      AR McBrine: e957b38f
+      C Carmichael: f3b158d9
+      CA Young: bd0a4a7d
+      G McCrea: 46f4a901
+      GI Hume: 25550d06
+      GR Adair: 4ec96094
+      J Wilson: 20f9e6b1
+      JA McCollum: c7105dab
+      Jake Egan: a863ba68
+      Jonathan Kennedy: f7ad4494
+      K Hilton: 9339830a
+      LC Doherty: 6d5fceb7
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      MT Foster: 14e801aa
+      NA Rock: 43f4087c
+      PR Stirling: cf494ffe
+      R MacBeth: b4402d8a
+      R Pretorius: 8ff85f5c
+      SC Getkate: c8065f31
+      SJ MacBeth: 5d4338a2
+      ST Doheny: 4992d6f6
+      T Mayes: 9aedf23b
+      T McKeegan: 2052d6f4
+      W Mohammed: 0a3e73a5
+  teams:
+  - North-West Warriors
+  - Northern Knights
+  toss:
+    winner: Northern Knights
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - W Mohammed
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LC Doherty
+        batsman: ST Doheny
+    - 0.2:
+        non_striker: ST Doheny
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Doherty
+    - 0.3:
+        non_striker: ST Doheny
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 0.4:
+        non_striker: ST Doheny
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 0.5:
+        non_striker: LC Doherty
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ST Doheny
+    - 0.6:
+        non_striker: ST Doheny
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 1.1:
+        non_striker: LC Doherty
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 1.2:
+        non_striker: LC Doherty
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 1.4:
+        non_striker: LC Doherty
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.5:
+        non_striker: ST Doheny
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 1.6:
+        non_striker: ST Doheny
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 2.1:
+        non_striker: ST Doheny
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Doherty
+    - 2.2:
+        non_striker: LC Doherty
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 2.3:
+        non_striker: LC Doherty
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - MJ Humphreys
+          kind: caught
+    - 2.4:
+        non_striker: LC Doherty
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 2.5:
+        non_striker: LC Doherty
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 2.6:
+        non_striker: LC Doherty
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 3.1:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 3.2:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+    - 3.3:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Doherty
+        wicket:
+          player_out: LC Doherty
+          fielders:
+          - T Mayes
+          kind: caught
+    - 3.4:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 3.5:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 3.6:
+        non_striker: J Wilson
+        bowler: R Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 4.1:
+        non_striker: J Wilson
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 4.2:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 4.3:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 4.4:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 4.5:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 4.6:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 5.1:
+        non_striker: J Wilson
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 5.2:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 5.3:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Wilson
+    - 5.4:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+        wicket:
+          player_out: J Wilson
+          fielders:
+          - R Pretorius
+          kind: caught
+    - 5.5:
+        non_striker: K Hilton
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 5.6:
+        non_striker: SC Getkate
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 6.1:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 6.2:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - NA Rock
+          kind: caught
+    - 6.3:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.4:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.5:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.6:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 7.1:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Hilton
+    - 7.2:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 7.3:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.4:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 7.5:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 7.6:
+        non_striker: K Hilton
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.7:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 8.1:
+        non_striker: K Hilton
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 8.2:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 8.3:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hilton
+    - 8.4:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 8.5:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 8.6:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 9.1:
+        non_striker: K Hilton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 9.2:
+        non_striker: K Hilton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 9.3:
+        non_striker: K Hilton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 9.4:
+        non_striker: K Hilton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 9.5:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Hilton
+    - 9.6:
+        non_striker: AR McBrine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hilton
+    - 10.1:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+    - 10.2:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 10.3:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Hilton
+    - 10.4:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hilton
+        wicket:
+          player_out: K Hilton
+          kind: bowled
+    - 10.5:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 10.6:
+        non_striker: AR McBrine
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ MacBeth
+    - 11.1:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.2:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 11.3:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ MacBeth
+    - 11.4:
+        non_striker: AR McBrine
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 11.5:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 11.6:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.1:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 12.2:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.3:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.4:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.5:
+        non_striker: AR McBrine
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 12.6:
+        non_striker: AR McBrine
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 13.1:
+        non_striker: SJ MacBeth
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 13.2:
+        non_striker: SJ MacBeth
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.3:
+        non_striker: AR McBrine
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ MacBeth
+    - 13.4:
+        non_striker: AR McBrine
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ MacBeth
+    - 13.5:
+        non_striker: AR McBrine
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ MacBeth
+    - 13.6:
+        non_striker: AR McBrine
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 14.1:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - T Mayes
+          kind: caught
+    - 14.2:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 14.3:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 14.4:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 14.5:
+        non_striker: SJ MacBeth
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 14.6:
+        non_striker: GI Hume
+        bowler: GR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 15.1:
+        non_striker: GI Hume
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 15.2:
+        non_striker: SJ MacBeth
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 15.3:
+        non_striker: SJ MacBeth
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 15.4:
+        non_striker: GI Hume
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ MacBeth
+    - 15.5:
+        non_striker: GI Hume
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ MacBeth
+    - 15.6:
+        non_striker: GI Hume
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.1:
+        non_striker: GI Hume
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.2:
+        non_striker: SJ MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 16.3:
+        non_striker: GI Hume
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 16.4:
+        non_striker: GI Hume
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 16.5:
+        non_striker: SJ MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 16.6:
+        non_striker: GI Hume
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 17.1:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GI Hume
+    - 17.2:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 17.3:
+        non_striker: GI Hume
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ MacBeth
+    - 17.4:
+        non_striker: SJ MacBeth
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 17.5:
+        non_striker: GI Hume
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+    - 17.6:
+        non_striker: GI Hume
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ MacBeth
+        wicket:
+          player_out: SJ MacBeth
+          fielders:
+          - Jake Egan
+          kind: caught
+    - 17.7:
+        non_striker: GI Hume
+        bowler: MT Foster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R MacBeth
+    - 18.1:
+        non_striker: GI Hume
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R MacBeth
+    - 18.2:
+        non_striker: R MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+        wicket:
+          player_out: GI Hume
+          kind: lbw
+    - 18.3:
+        non_striker: R MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 18.4:
+        non_striker: CA Young
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R MacBeth
+    - 18.5:
+        non_striker: R MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Young
+    - 18.6:
+        non_striker: R MacBeth
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Young
+    - 19.1:
+        non_striker: R MacBeth
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+        wicket:
+          player_out: CA Young
+          fielders:
+          - Jake Egan
+          kind: caught
+    - 19.2:
+        non_striker: R MacBeth
+        bowler: T Mayes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T McKeegan
+        wicket:
+          player_out: T McKeegan
+          fielders:
+          - MR Adair
+          kind: caught
+- 2nd innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.2:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: PR Stirling
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.5:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.7:
+        non_striker: GR Adair
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.5:
+        non_striker: GR Adair
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 3.1:
+        non_striker: GR Adair
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: GR Adair
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - SC Getkate
+          kind: caught
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 3.6:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.2:
+        non_striker: JA McCollum
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: JA McCollum
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: JA McCollum
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: JA McCollum
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: JA McCollum
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 6.3:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.4:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.1:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.2:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 7.3:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 7.5:
+        non_striker: JA McCollum
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.6:
+        non_striker: JA McCollum
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 8.1:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.2:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 8.3:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 8.4:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 8.5:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.6:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.1:
+        non_striker: JA McCollum
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.2:
+        non_striker: JA McCollum
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.3:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 9.4:
+        non_striker: JA McCollum
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.5:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          kind: lbw
+    - 9.6:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 10.1:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 10.2:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 10.3:
+        non_striker: PR Stirling
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 10.4:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 10.5:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.6:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.1:
+        non_striker: C Carmichael
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 11.2:
+        non_striker: C Carmichael
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.3:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 11.4:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 11.5:
+        non_striker: C Carmichael
+        bowler: T McKeegan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: PR Stirling
+    - 11.6:
+        non_striker: C Carmichael
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.7:
+        non_striker: PR Stirling
+        bowler: T McKeegan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 12.1:
+        non_striker: C Carmichael
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 12.2:
+        non_striker: C Carmichael
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - AR McBrine
+          kind: caught
+    - 12.3:
+        non_striker: C Carmichael
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 12.4:
+        non_striker: NA Rock
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 12.5:
+        non_striker: NA Rock
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Carmichael
+    - 12.6:
+        non_striker: NA Rock
+        bowler: R MacBeth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 13.1:
+        non_striker: NA Rock
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael
+    - 13.2:
+        non_striker: NA Rock
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Carmichael
+    - 13.3:
+        non_striker: NA Rock
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Carmichael
+    - 13.4:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 13.5:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 13.6:
+        non_striker: C Carmichael
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 14.1:
+        non_striker: NA Rock
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Carmichael

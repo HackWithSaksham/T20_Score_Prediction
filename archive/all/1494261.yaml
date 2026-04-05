@@ -1,0 +1,2375 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: SA20
+  dates:
+  - '2026-01-01'
+  gender: male
+  match_type: T20
+  outcome:
+    result: tie
+    eliminator: Joburg Super Kings
+  overs: 20
+  player_of_match:
+  - D Ferreira
+  players:
+    Joburg Super Kings:
+    - M De Villiers
+    - F du Plessis
+    - RR Rossouw
+    - PWA Mulder
+    - Shubham Ranjane
+    - D Ferreira
+    - P Subrayen
+    - D Forrester
+    - D Jansen
+    - AJ Hosein
+    - RJ Gleeson
+    Durban's Super Giants:
+    - DP Conway
+    - KS Williamson
+    - JC Buttler
+    - AK Markram
+    - H Klaasen
+    - E Jones
+    - D Wiese
+    - E Bosch
+    - SR Harmer
+    - KT Maphaka
+    - Noor Ahmad
+  registry:
+    people:
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      D Ferreira: f0af99a7
+      D Forrester: '23393635'
+      D Jansen: 8dc152d1
+      D Wiese: aa8d28ae
+      DP Conway: df5a6881
+      E Bosch: 28d6c44d
+      E Jones: fbfea9c2
+      F du Plessis: 3355b542
+      GH Pienaar: 3516e46b
+      H Klaasen: 235c2bb6
+      JC Buttler: 99b75528
+      KS Williamson: d027ba9f
+      KT Maphaka: 107c26fb
+      Lauren Agenbag: 40849abd
+      M De Villiers: e9aaf862
+      MN Gampu: '41597619'
+      Noor Ahmad: efc04be7
+      P Subrayen: 7ec9711d
+      PWA Mulder: c96f6ac5
+      RJ Gleeson: 402f8494
+      RR Rossouw: cad00a4d
+      SR Harmer: '23638956'
+      Shubham Ranjane: 6c7a68d0
+      Siphelele Gasa: e50baa87
+      Stephen Harris: fdcfd4aa
+  teams:
+  - Joburg Super Kings
+  - Durban's Super Giants
+  toss:
+    winner: Durban's Super Giants
+    decision: field
+  umpires:
+  - Lauren Agenbag
+  - Stephen Harris
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 0.4:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 0.5:
+        non_striker: M De Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: M De Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 2.2:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M De Villiers
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M De Villiers
+    - 2.5:
+        non_striker: M De Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 2.6:
+        non_striker: M De Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 2.7:
+        non_striker: M De Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M De Villiers
+    - 3.3:
+        non_striker: M De Villiers
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 3.5:
+        non_striker: M De Villiers
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M De Villiers
+    - 4.1:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.3:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.4:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.5:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.6:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M De Villiers
+    - 5.2:
+        non_striker: F du Plessis
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M De Villiers
+    - 5.3:
+        non_striker: M De Villiers
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.4:
+        non_striker: M De Villiers
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.5:
+        non_striker: M De Villiers
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.6:
+        non_striker: M De Villiers
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.7:
+        non_striker: F du Plessis
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 6.1:
+        non_striker: M De Villiers
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.2:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 6.3:
+        non_striker: M De Villiers
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: M De Villiers
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 6.6:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 7.1:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.2:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 7.3:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M De Villiers
+    - 7.4:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M De Villiers
+    - 7.5:
+        non_striker: F du Plessis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 7.6:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F du Plessis
+    - 7.7:
+        non_striker: M De Villiers
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 8.1:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+    - 8.2:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M De Villiers
+    - 8.3:
+        non_striker: M De Villiers
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 8.4:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M De Villiers
+        wicket:
+          player_out: M De Villiers
+          kind: lbw
+    - 8.5:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 8.6:
+        non_striker: F du Plessis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 9.1:
+        non_striker: RR Rossouw
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.2:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 9.3:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          kind: caught and bowled
+    - 9.4:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.5:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.6:
+        non_striker: F du Plessis
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 10.1:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.2:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          kind: bowled
+    - 10.3:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 10.4:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 10.5:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 10.6:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.1:
+        non_striker: PWA Mulder
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 11.2:
+        non_striker: PWA Mulder
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.3:
+        non_striker: Shubham Ranjane
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.4:
+        non_striker: PWA Mulder
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.5:
+        non_striker: Shubham Ranjane
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.6:
+        non_striker: PWA Mulder
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.1:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.2:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 12.3:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.4:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.5:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 12.6:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.7:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.1:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.2:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.3:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.4:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.5:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.6:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.1:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 14.2:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.3:
+        non_striker: Shubham Ranjane
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PWA Mulder
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 14.5:
+        non_striker: Shubham Ranjane
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 14.6:
+        non_striker: Shubham Ranjane
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: PWA Mulder
+    - 14.7:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 14.8:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 14.9:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 14.10:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 14.11:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 15.1:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 15.2:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 15.3:
+        non_striker: Shubham Ranjane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 15.4:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 15.5:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 15.6:
+        non_striker: PWA Mulder
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.1:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.2:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 16.3:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 16.4:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PWA Mulder
+    - 16.5:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 16.6:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 16.7:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 16.8:
+        non_striker: PWA Mulder
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.1:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 17.2:
+        non_striker: PWA Mulder
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shubham Ranjane
+    - 17.3:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 17.4:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 17.5:
+        non_striker: Shubham Ranjane
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.6:
+        non_striker: D Ferreira
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.1:
+        non_striker: D Ferreira
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 18.2:
+        non_striker: D Ferreira
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 18.3:
+        non_striker: D Ferreira
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 18.4:
+        non_striker: D Ferreira
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.5:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 18.6:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Ferreira
+    - 18.7:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 18.8:
+        non_striker: Shubham Ranjane
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 19.1:
+        non_striker: D Ferreira
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 19.3:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 19.4:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 19.5:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 19.6:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 19.7:
+        non_striker: Shubham Ranjane
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+- 2nd innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.2:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.3:
+        non_striker: DP Conway
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.4:
+        non_striker: DP Conway
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 0.5:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.6:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.1:
+        non_striker: DP Conway
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.2:
+        non_striker: DP Conway
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 1.3:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.4:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.5:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.6:
+        non_striker: DP Conway
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.1:
+        non_striker: DP Conway
+        bowler: P Subrayen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.5:
+        non_striker: DP Conway
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.7:
+        non_striker: KS Williamson
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.1:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.2:
+        non_striker: DP Conway
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.3:
+        non_striker: DP Conway
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: caught and bowled
+    - 3.5:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: KS Williamson
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: KS Williamson
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.4:
+        non_striker: KS Williamson
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Shubham Ranjane
+          kind: caught
+    - 4.5:
+        non_striker: KS Williamson
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.6:
+        non_striker: AK Markram
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 5.2:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.3:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Williamson
+    - 5.4:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.6:
+        non_striker: AK Markram
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.1:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: KS Williamson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.4:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.5:
+        non_striker: KS Williamson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.6:
+        non_striker: KS Williamson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.1:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.3:
+        non_striker: KS Williamson
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.4:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          kind: lbw
+    - 7.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.6:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.1:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.2:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.3:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.4:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.5:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.6:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 9.1:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.3:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.4:
+        non_striker: H Klaasen
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 9.6:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.1:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 10.3:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.4:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 10.5:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Klaasen
+    - 10.6:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.1:
+        non_striker: H Klaasen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.2:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.3:
+        non_striker: H Klaasen
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AK Markram
+    - 11.4:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 11.6:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: H Klaasen
+    - 11.7:
+        non_striker: H Klaasen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.8:
+        non_striker: H Klaasen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.1:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.2:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.3:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 12.4:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 12.5:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 12.6:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 13.1:
+        non_striker: AK Markram
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 13.2:
+        non_striker: AK Markram
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 13.3:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 13.4:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 13.5:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 13.6:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.1:
+        non_striker: E Jones
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.2:
+        non_striker: AK Markram
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 14.3:
+        non_striker: AK Markram
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 14.4:
+        non_striker: AK Markram
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 14.5:
+        non_striker: AK Markram
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 14.6:
+        non_striker: AK Markram
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 15.1:
+        non_striker: E Jones
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AK Markram
+    - 15.2:
+        non_striker: E Jones
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 15.3:
+        non_striker: E Jones
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.4:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 15.5:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 15.6:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 15.7:
+        non_striker: AK Markram
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Jones
+    - 16.1:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 16.2:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 16.3:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 16.4:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wiese
+    - 16.5:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 16.6:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 16.7:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.1:
+        non_striker: D Wiese
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.2:
+        non_striker: E Jones
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.3:
+        non_striker: E Jones
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.4:
+        non_striker: E Jones
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wiese
+    - 17.5:
+        non_striker: D Wiese
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Jones
+    - 17.6:
+        non_striker: D Wiese
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.7:
+        non_striker: E Jones
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wiese
+    - 18.1:
+        non_striker: D Wiese
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          fielders:
+          - M De Villiers
+          - AJ Hosein
+          - RJ Gleeson
+          kind: run out
+    - 18.2:
+        non_striker: E Bosch
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: bowled
+    - 18.3:
+        non_striker: E Bosch
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+    - 18.4:
+        non_striker: E Bosch
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 18.5:
+        non_striker: SR Harmer
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Bosch
+    - 18.6:
+        non_striker: SR Harmer
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 19.1:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 19.2:
+        non_striker: SR Harmer
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Bosch
+    - 19.3:
+        non_striker: SR Harmer
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 19.4:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+    - 19.5:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Harmer
+    - 19.6:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Harmer
+    - 19.7:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Harmer
+    - 19.8:
+        non_striker: E Bosch
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+        wicket:
+          player_out: E Bosch
+          fielders:
+          - M De Villiers
+          kind: run out
+- Durban's Super Giants Super Over:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 0.2:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.3:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 0.5:
+        non_striker: E Jones
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          fielders:
+          - M De Villiers
+          kind: run out
+- Joburg Super Kings Super Over:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: D Ferreira
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 0.2:
+        non_striker: D Ferreira
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 0.3:
+        non_striker: D Ferreira
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw

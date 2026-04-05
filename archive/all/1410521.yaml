@@ -1,0 +1,2096 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Manchester
+  competition: Charlotte Edwards Cup
+  dates:
+  - '2024-05-30'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Thunder
+    by:
+      wickets: 3
+  overs: 20
+  players:
+    Central Sparks:
+    - C Brewer
+    - AJ Freeborn
+    - D Perrin
+    - E Jones
+    - C Webb
+    - KL George
+    - C Pavely
+    - EL Arlott
+    - G Potts
+    - GK Davis
+    - HL Baker
+    Thunder:
+    - EL Lamb
+    - FMK Morris
+    - S Smale
+    - E Threlkeld
+    - DL Collins
+    - A Lister
+    - L Heap
+    - TG Norris
+    - PC Graham
+    - HE Jones
+    - S Morris
+  registry:
+    people:
+      A Lister: '090c0213'
+      AJ Freeborn: c6da6ebf
+      C Brewer: baf11c9a
+      C Pavely: 907e5f6c
+      C Webb: 1f4a8a2a
+      D Perrin: bfa0fa33
+      DL Collins: 246ba42c
+      E Jones: 971cb321
+      E Threlkeld: c66c73f9
+      EL Arlott: 78fd864b
+      EL Lamb: '02181d9a'
+      FMK Morris: 3a9b3866
+      G Potts: e3a93585
+      GK Davis: '54719239'
+      HE Jones: f7b74efa
+      HL Baker: cefad9fd
+      J Ibbotson: 7318fdbf
+      KL George: e69dbbef
+      L Heap: 8d26dfab
+      PC Graham: b5c83d22
+      S Morris: '76419733'
+      S Smale: 3247d54e
+      S Widdup: 65bf2837
+      SM Bartlett: 7ba18406
+      TG Norris: 8ae7bb3e
+  teams:
+  - Central Sparks
+  - Thunder
+  toss:
+    winner: Thunder
+    decision: field
+  umpires:
+  - J Ibbotson
+  - S Widdup
+  venue: Old Trafford, Manchester
+innings:
+- 1st innings:
+    team: Central Sparks
+    deliveries:
+    - 0.1:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: C Brewer
+    - 0.2:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+        wicket:
+          player_out: C Brewer
+          kind: bowled
+    - 0.3:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          kind: bowled
+    - 0.4:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 0.5:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 0.6:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 1.1:
+        non_striker: E Jones
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 1.2:
+        non_striker: E Jones
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 1.3:
+        non_striker: E Jones
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 1.4:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 1.5:
+        non_striker: E Jones
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 1.6:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 2.1:
+        non_striker: E Jones
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 2.2:
+        non_striker: E Jones
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 2.3:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 2.4:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 2.5:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 2.6:
+        non_striker: AJ Freeborn
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 3.1:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 3.2:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 3.3:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 3.4:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 3.5:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 3.6:
+        non_striker: E Jones
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          fielders:
+          - FMK Morris
+          kind: caught
+    - 4.1:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 4.2:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 4.3:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 4.4:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 4.5:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 4.6:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 5.1:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.2:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.3:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.4:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 5.5:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.6:
+        non_striker: C Webb
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.1:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 6.2:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 6.3:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 6.4:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 6.5:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 6.6:
+        non_striker: C Webb
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.1:
+        non_striker: E Jones
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 7.2:
+        non_striker: E Jones
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 7.3:
+        non_striker: C Webb
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 7.4:
+        non_striker: E Jones
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+        wicket:
+          player_out: C Webb
+          kind: lbw
+    - 7.5:
+        non_striker: E Jones
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 7.6:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 8.1:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 8.2:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 8.3:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 8.4:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 8.5:
+        non_striker: KL George
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 8.6:
+        non_striker: E Jones
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 9.1:
+        non_striker: E Jones
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 9.2:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 9.3:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          fielders:
+          - S Morris
+          kind: caught
+    - 9.4:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 9.5:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 9.6:
+        non_striker: KL George
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 10.1:
+        non_striker: KL George
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 10.2:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 10.3:
+        non_striker: KL George
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 10.4:
+        non_striker: KL George
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 10.5:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 10.6:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL George
+    - 11.1:
+        non_striker: KL George
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 11.2:
+        non_striker: KL George
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 11.3:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 11.4:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 11.5:
+        non_striker: KL George
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 11.6:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 12.1:
+        non_striker: KL George
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 12.2:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL George
+    - 12.3:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 12.4:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL George
+    - 12.5:
+        non_striker: C Pavely
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 12.6:
+        non_striker: KL George
+        bowler: S Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 13.1:
+        non_striker: C Pavely
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+        wicket:
+          player_out: KL George
+          kind: caught and bowled
+    - 13.2:
+        non_striker: C Pavely
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 13.3:
+        non_striker: C Pavely
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 13.4:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pavely
+    - 13.5:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 13.6:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 14.1:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 14.2:
+        non_striker: EL Arlott
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 14.3:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 14.4:
+        non_striker: EL Arlott
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 14.5:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 14.6:
+        non_striker: EL Arlott
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 15.1:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 15.2:
+        non_striker: C Pavely
+        bowler: FMK Morris
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: EL Arlott
+    - 15.3:
+        non_striker: C Pavely
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 15.4:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 15.5:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pavely
+    - 15.6:
+        non_striker: EL Arlott
+        bowler: FMK Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 16.1:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 16.2:
+        non_striker: EL Arlott
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 16.3:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 16.4:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Arlott
+    - 16.5:
+        non_striker: C Pavely
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 16.6:
+        non_striker: EL Arlott
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 17.1:
+        non_striker: EL Arlott
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 17.2:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 17.3:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 17.4:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Arlott
+    - 17.5:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Arlott
+    - 17.6:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 18.1:
+        non_striker: EL Arlott
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pavely
+    - 18.2:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Arlott
+    - 18.3:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Arlott
+    - 18.4:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 18.5:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EL Arlott
+    - 18.6:
+        non_striker: C Pavely
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 19.1:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+        wicket:
+          player_out: EL Arlott
+          fielders:
+          - HE Jones
+          kind: caught
+    - 19.2:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 19.3:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 19.4:
+        non_striker: G Potts
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pavely
+    - 19.5:
+        non_striker: G Potts
+        bowler: PC Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Pavely
+    - 19.6:
+        non_striker: C Pavely
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+        wicket:
+          player_out: G Potts
+          fielders:
+          - DL Collins
+          kind: caught
+- 2nd innings:
+    team: Thunder
+    deliveries:
+    - 0.1:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: EL Lamb
+    - 0.2:
+        non_striker: EL Lamb
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 0.3:
+        non_striker: EL Lamb
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 0.4:
+        non_striker: EL Lamb
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 0.5:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 0.6:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 1.1:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 1.2:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 1.3:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 1.4:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 1.5:
+        non_striker: EL Lamb
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 1.6:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 2.1:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 2.2:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 2.3:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 2.4:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FMK Morris
+    - 2.5:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 2.6:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 2.7:
+        non_striker: EL Lamb
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 3.1:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.2:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.3:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 3.4:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          fielders:
+          - C Brewer
+          kind: caught
+    - 3.5:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 3.6:
+        non_striker: S Smale
+        bowler: C Pavely
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: FMK Morris
+    - 3.7:
+        non_striker: S Smale
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 4.1:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Smale
+    - 4.2:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 4.3:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Smale
+    - 4.4:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+    - 4.5:
+        non_striker: FMK Morris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Smale
+    - 4.6:
+        non_striker: S Smale
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 4.7:
+        non_striker: S Smale
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 5.1:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Smale
+        wicket:
+          player_out: S Smale
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 5.2:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+        wicket:
+          player_out: E Threlkeld
+          kind: lbw
+    - 5.3:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Collins
+    - 5.4:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DL Collins
+    - 5.5:
+        non_striker: DL Collins
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 5.6:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Collins
+    - 6.1:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Collins
+    - 6.2:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Collins
+    - 6.3:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Collins
+    - 6.4:
+        non_striker: FMK Morris
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Collins
+    - 6.5:
+        non_striker: DL Collins
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 6.6:
+        non_striker: DL Collins
+        bowler: C Pavely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 7.1:
+        non_striker: DL Collins
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 7.2:
+        non_striker: DL Collins
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 7.3:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Collins
+        wicket:
+          player_out: DL Collins
+          kind: bowled
+    - 7.4:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 7.5:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 7.6:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 7.7:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 8.1:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 8.2:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 8.3:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lister
+    - 8.4:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 8.5:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 8.6:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.1:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FMK Morris
+    - 9.2:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 9.3:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 9.4:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 9.5:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Lister
+    - 9.6:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 9.7:
+        non_striker: FMK Morris
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 9.8:
+        non_striker: A Lister
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 10.1:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 10.2:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 10.3:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 10.4:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 10.5:
+        non_striker: FMK Morris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 10.6:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 11.1:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.2:
+        non_striker: FMK Morris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.3:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 11.4:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 11.5:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FMK Morris
+    - 11.6:
+        non_striker: A Lister
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 12.1:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 12.2:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 12.3:
+        non_striker: FMK Morris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.4:
+        non_striker: A Lister
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+    - 12.5:
+        non_striker: A Lister
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FMK Morris
+    - 12.6:
+        non_striker: A Lister
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FMK Morris
+    - 13.1:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FMK Morris
+        wicket:
+          player_out: FMK Morris
+          fielders:
+          - KL George
+          kind: caught
+    - 13.2:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 13.3:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 13.4:
+        non_striker: L Heap
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 13.5:
+        non_striker: L Heap
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 13.6:
+        non_striker: A Lister
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 14.1:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.2:
+        non_striker: A Lister
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 14.3:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 14.4:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 14.5:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 14.6:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 15.1:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 15.2:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 15.3:
+        non_striker: TG Norris
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 15.4:
+        non_striker: L Heap
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 15.5:
+        non_striker: L Heap
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 15.6:
+        non_striker: L Heap
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Norris
+    - 16.1:
+        non_striker: TG Norris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 16.2:
+        non_striker: L Heap
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 16.3:
+        non_striker: TG Norris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 16.4:
+        non_striker: TG Norris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 16.5:
+        non_striker: TG Norris
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 16.6:
+        non_striker: L Heap
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 17.1:
+        non_striker: TG Norris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Heap
+    - 17.2:
+        non_striker: TG Norris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 17.3:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Norris
+    - 17.4:
+        non_striker: TG Norris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Heap
+    - 17.5:
+        non_striker: TG Norris
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 17.6:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Norris
+    - 17.7:
+        non_striker: L Heap
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 18.1:
+        non_striker: TG Norris
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Heap
+    - 18.2:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Norris
+    - 18.3:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+        wicket:
+          player_out: TG Norris
+          kind: bowled
+    - 18.4:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PC Graham
+    - 18.5:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC Graham
+    - 18.6:
+        non_striker: L Heap
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PC Graham

@@ -1,0 +1,859 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2025-06-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Colombo Cricket Club
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Moors Sports Club:
+    - BOL Mendis
+    - UVS Fernando
+    - S Samarawickrama
+    - S Fernando
+    - RTM Mendis
+    - M Tharupathi
+    - SA Fernando
+    - S Gimhan
+    - P Jayawickrama
+    - H Kenula
+    - T Navodya
+    Colombo Cricket Club:
+    - KNM Fernando
+    - L Croospulle
+    - PC de Silva
+    - D Sigera
+    - N Thushara
+    - I Karannagoda
+    - I Udana
+    - PWH de Silva
+    - Pawan Sandesh
+    - MVT Fernando
+    - KN Peiris
+  registry:
+    people:
+      BOL Mendis: 9614d123
+      D Sigera: 6c15c035
+      H Kenula: 00a3b5a1
+      I Karannagoda: ddce5289
+      I Udana: ac5ae4af
+      JWHD Boteju: 7934d6fb
+      KN Peiris: d0cc2738
+      KNM Fernando: d2a2bb1a
+      L Croospulle: e30c9b2d
+      LE Hannibal: 3c04e91a
+      M Tharupathi: ec0b9258
+      MVT Fernando: 5eef2118
+      N Thushara: ee1b6c27
+      P Jayawickrama: b7d1eadd
+      PC de Silva: b40ee8a8
+      PWH de Silva: a97c8ec2
+      Pawan Sandesh: 6ed543ed
+      RA Kottahachchi: 808f2939
+      RTM Mendis: 1be67d37
+      S Fernando: 2cbe4f4d
+      S Gimhan: 81acb5f5
+      S Samarawickrama: 9ab2914d
+      SA Fernando: 49fb57d4
+      T Navodya: 46987dc7
+      UVS Fernando: 7625e5df
+      WC Labrooy: 29d4e29b
+  teams:
+  - Moors Sports Club
+  - Colombo Cricket Club
+  toss:
+    winner: Colombo Cricket Club
+    decision: field
+  umpires:
+  - LE Hannibal
+  - RA Kottahachchi
+  venue: Colombo Cricket Club Ground
+innings:
+- 1st innings:
+    team: Moors Sports Club
+    deliveries:
+    - 0.1:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UVS Fernando
+        batsman: BOL Mendis
+    - 0.2:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UVS Fernando
+        batsman: BOL Mendis
+    - 0.3:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UVS Fernando
+        batsman: BOL Mendis
+    - 0.4:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: UVS Fernando
+        batsman: BOL Mendis
+    - 0.5:
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: UVS Fernando
+        batsman: BOL Mendis
+    - 0.6:
+        non_striker: UVS Fernando
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOL Mendis
+    - 1.1:
+        non_striker: UVS Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOL Mendis
+        wicket:
+          player_out: BOL Mendis
+          kind: bowled
+    - 1.2:
+        non_striker: UVS Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 1.3:
+        non_striker: S Samarawickrama
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UVS Fernando
+    - 1.4:
+        non_striker: UVS Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Samarawickrama
+    - 1.5:
+        non_striker: UVS Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 1.6:
+        non_striker: S Samarawickrama
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UVS Fernando
+    - 2.1:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UVS Fernando
+    - 2.2:
+        non_striker: UVS Fernando
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 2.3:
+        non_striker: UVS Fernando
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 2.4:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UVS Fernando
+    - 2.5:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UVS Fernando
+    - 2.6:
+        non_striker: S Samarawickrama
+        bowler: MVT Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UVS Fernando
+    - 3.1:
+        non_striker: UVS Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.2:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UVS Fernando
+    - 3.3:
+        non_striker: UVS Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Samarawickrama
+    - 3.4:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UVS Fernando
+    - 3.5:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UVS Fernando
+    - 3.6:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UVS Fernando
+    - 4.1:
+        non_striker: UVS Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 4.2:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UVS Fernando
+        wicket:
+          player_out: UVS Fernando
+          fielders:
+          - KNM Fernando
+          kind: caught
+    - 4.3:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Fernando
+    - 4.4:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fernando
+    - 4.5:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 4.6:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - KNM Fernando
+          kind: caught
+    - 5.1:
+        bowler: KN Peiris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: RTM Mendis
+        batsman: S Fernando
+    - 5.2:
+        non_striker: S Fernando
+        bowler: KN Peiris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RTM Mendis
+    - 5.3:
+        non_striker: S Fernando
+        bowler: KN Peiris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RTM Mendis
+    - 5.4:
+        non_striker: S Fernando
+        bowler: KN Peiris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RTM Mendis
+    - 5.5:
+        non_striker: S Fernando
+        bowler: KN Peiris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RTM Mendis
+    - 5.6:
+        non_striker: S Fernando
+        bowler: KN Peiris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RTM Mendis
+    - 6.1:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RTM Mendis
+    - 6.2:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RTM Mendis
+    - 6.3:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RTM Mendis
+    - 6.4:
+        non_striker: S Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RTM Mendis
+        wicket:
+          player_out: S Fernando
+          fielders:
+          - Pawan Sandesh
+          kind: run out
+    - 6.5:
+        non_striker: RTM Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Tharupathi
+    - 6.6:
+        non_striker: RTM Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tharupathi
+    - 7.1:
+        non_striker: RTM Mendis
+        bowler: N Thushara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M Tharupathi
+    - 7.2:
+        non_striker: RTM Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tharupathi
+    - 7.3:
+        non_striker: RTM Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Tharupathi
+    - 7.4:
+        non_striker: RTM Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tharupathi
+        wicket:
+          player_out: M Tharupathi
+          fielders:
+          - KNM Fernando
+          kind: run out
+    - 7.5:
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: SA Fernando
+        batsman: RTM Mendis
+    - 7.6:
+        non_striker: SA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RTM Mendis
+- 2nd innings:
+    team: Colombo Cricket Club
+    deliveries:
+    - 0.1:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.2:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.3:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.4:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.5:
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Croospulle
+        batsman: KNM Fernando
+    - 0.6:
+        non_striker: KNM Fernando
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Croospulle
+    - 1.1:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Croospulle
+    - 1.2:
+        non_striker: L Croospulle
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 1.3:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Croospulle
+    - 1.4:
+        non_striker: L Croospulle
+        bowler: P Jayawickrama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KNM Fernando
+    - 1.5:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Croospulle
+    - 1.6:
+        non_striker: L Croospulle
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 2.1:
+        non_striker: L Croospulle
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 2.2:
+        non_striker: KNM Fernando
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+        wicket:
+          player_out: L Croospulle
+          kind: bowled
+    - 2.3:
+        non_striker: KNM Fernando
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PC de Silva
+    - 2.4:
+        non_striker: KNM Fernando
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PC de Silva
+    - 2.5:
+        non_striker: KNM Fernando
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 2.6:
+        non_striker: PC de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 3.1:
+        non_striker: KNM Fernando
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PC de Silva
+    - 3.2:
+        non_striker: KNM Fernando
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PC de Silva
+    - 3.3:
+        non_striker: KNM Fernando
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 3.4:
+        non_striker: PC de Silva
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 3.5:
+        non_striker: PC de Silva
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNM Fernando
+    - 3.6:
+        non_striker: PC de Silva
+        bowler: T Navodya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KNM Fernando
+    - 4.1:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 4.2:
+        non_striker: PC de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNM Fernando
+    - 4.3:
+        non_striker: PC de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 4.4:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 4.5:
+        non_striker: PC de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 4.6:
+        non_striker: PC de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KNM Fernando
+    - 4.7:
+        non_striker: PC de Silva
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 5.1:
+        non_striker: KNM Fernando
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC de Silva
+    - 5.2:
+        non_striker: KNM Fernando
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 5.3:
+        non_striker: PC de Silva
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 5.4:
+        non_striker: KNM Fernando
+        bowler: RTM Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PC de Silva
+    - 5.5:
+        non_striker: KNM Fernando
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 5.6:
+        non_striker: PC de Silva
+        bowler: RTM Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KNM Fernando
+    - 5.7:
+        non_striker: PC de Silva
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 5.8:
+        non_striker: KNM Fernando
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PC de Silva
+    - 6.1:
+        non_striker: PC de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+        wicket:
+          player_out: KNM Fernando
+          kind: bowled
+    - 6.2:
+        non_striker: PC de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sigera
+    - 6.3:
+        non_striker: PC de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sigera
+    - 6.4:
+        non_striker: PC de Silva
+        bowler: M Tharupathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Sigera

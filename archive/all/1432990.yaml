@@ -1,0 +1,936 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Major Clubs T20 Tournament
+  dates:
+  - '2024-06-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Bloomfield Cricket and Athletic Club
+    by:
+      wickets: 4
+  overs: 20
+  players:
+    Moors Sports Club:
+    - S de Livera
+    - S Samarawickrama
+    - J Perera
+    - RTM Mendis
+    - DPS Sooriyabandara
+    - T Prashan
+    - M Tharupathi
+    - MD Dilshan
+    - SA Fernando
+    - RMMP Rathnayake
+    - G Sanketh
+    Bloomfield Cricket and Athletic Club:
+    - H Amarasinghe
+    - H Boyagoda
+    - RK Chandraguptha
+    - ALKL Abeyrathne
+    - RS Fernando
+    - LD Madushanka
+    - S Jayathilake
+    - KPNM Karunanayake
+    - S Nanayakkare
+    - I Wijesundera
+    - JDF Vandersay
+  registry:
+    people:
+      ALKL Abeyrathne: ee3a3a7f
+      BSP Fernando: 8a49883f
+      DPS Sooriyabandara: cc17536f
+      G Sanketh: 40db4769
+      H Amarasinghe: 4dac55a7
+      H Boyagoda: 648e673c
+      I Wijesundera: be620896
+      ID Gunawardene: '63841782'
+      J Perera: 0e0d4577
+      JDF Vandersay: aceb7654
+      KPNM Karunanayake: 532cc5b8
+      LD Madushanka: de063a39
+      M Jayasena: fa87f32f
+      M Tharupathi: ec0b9258
+      MD Dilshan: 8a76604b
+      PSR Fonseka: 8fd2cea5
+      RK Chandraguptha: f51ed6ad
+      RMMP Rathnayake: afe830a2
+      RS Fernando: 24d72446
+      RTM Mendis: 1be67d37
+      S Jayathilake: 6ba6ca1f
+      S Nanayakkare: 1b2016bc
+      S Samarawickrama: 9ab2914d
+      S de Livera: '77708937'
+      SA Fernando: 49fb57d4
+      T Prashan: b6b6221b
+  teams:
+  - Moors Sports Club
+  - Bloomfield Cricket and Athletic Club
+  toss:
+    winner: Bloomfield Cricket and Athletic Club
+    decision: field
+  umpires:
+  - BSP Fernando
+  - PSR Fonseka
+  venue: P Sara Oval, Colombo
+innings:
+- 1st innings:
+    team: Moors Sports Club
+    deliveries:
+    - 0.1:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Samarawickrama
+        batsman: S de Livera
+    - 0.2:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Samarawickrama
+        batsman: S de Livera
+    - 0.3:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: S Samarawickrama
+        batsman: S de Livera
+    - 0.4:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Samarawickrama
+        batsman: S de Livera
+    - 0.5:
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Samarawickrama
+        batsman: S de Livera
+    - 0.6:
+        non_striker: S Samarawickrama
+        bowler: LD Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 1.1:
+        non_striker: S de Livera
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 1.2:
+        non_striker: S Samarawickrama
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S de Livera
+    - 1.3:
+        non_striker: S de Livera
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - ALKL Abeyrathne
+          kind: caught
+    - 1.4:
+        non_striker: S de Livera
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 1.5:
+        non_striker: J Perera
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S de Livera
+    - 1.6:
+        non_striker: J Perera
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+    - 2.1:
+        non_striker: S de Livera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Perera
+    - 2.2:
+        non_striker: S de Livera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 2.3:
+        non_striker: J Perera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S de Livera
+        wicket:
+          player_out: S de Livera
+          kind: caught and bowled
+    - 2.4:
+        non_striker: J Perera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RTM Mendis
+    - 2.5:
+        non_striker: J Perera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RTM Mendis
+    - 2.6:
+        non_striker: J Perera
+        bowler: S Jayathilake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RTM Mendis
+    - 3.1:
+        non_striker: RTM Mendis
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 3.2:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RTM Mendis
+        wicket:
+          player_out: RTM Mendis
+          kind: lbw
+    - 3.3:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DPS Sooriyabandara
+    - 3.4:
+        non_striker: DPS Sooriyabandara
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 3.5:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPS Sooriyabandara
+    - 3.6:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Sooriyabandara
+        wicket:
+          player_out: DPS Sooriyabandara
+          fielders:
+          - H Amarasinghe
+          kind: caught
+    - 3.7:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Prashan
+    - 4.1:
+        non_striker: T Prashan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 4.2:
+        non_striker: J Perera
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Prashan
+    - 4.3:
+        non_striker: T Prashan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perera
+    - 4.4:
+        non_striker: J Perera
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Prashan
+    - 4.5:
+        non_striker: J Perera
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Prashan
+    - 4.6:
+        non_striker: J Perera
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Prashan
+    - 5.1:
+        non_striker: J Perera
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Prashan
+    - 5.2:
+        non_striker: T Prashan
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Perera
+    - 5.3:
+        non_striker: T Prashan
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perera
+        wicket:
+          player_out: J Perera
+          kind: lbw
+    - 5.4:
+        non_striker: T Prashan
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tharupathi
+        wicket:
+          player_out: M Tharupathi
+          fielders:
+          - H Boyagoda
+          kind: caught
+    - 5.5:
+        non_striker: T Prashan
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Dilshan
+    - 5.6:
+        non_striker: T Prashan
+        bowler: S Nanayakkare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Dilshan
+    - 6.1:
+        non_striker: MD Dilshan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Prashan
+        wicket:
+          player_out: T Prashan
+          fielders:
+          - RS Fernando
+          kind: caught
+    - 6.2:
+        non_striker: MD Dilshan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Fernando
+    - 6.3:
+        non_striker: SA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Dilshan
+    - 6.4:
+        non_striker: SA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MD Dilshan
+    - 6.5:
+        non_striker: MD Dilshan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Fernando
+    - 6.6:
+        non_striker: MD Dilshan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Fernando
+        wicket:
+          player_out: SA Fernando
+          fielders:
+          - RS Fernando
+          kind: caught
+    - 6.7:
+        non_striker: MD Dilshan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMMP Rathnayake
+    - 6.8:
+        non_striker: RMMP Rathnayake
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Dilshan
+    - 7.1:
+        non_striker: RMMP Rathnayake
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Dilshan
+    - 7.2:
+        non_striker: RMMP Rathnayake
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Dilshan
+    - 7.3:
+        non_striker: RMMP Rathnayake
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Dilshan
+    - 7.4:
+        non_striker: MD Dilshan
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMMP Rathnayake
+    - 7.5:
+        non_striker: MD Dilshan
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMMP Rathnayake
+    - 7.6:
+        non_striker: RMMP Rathnayake
+        bowler: I Wijesundera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Dilshan
+        wicket:
+          player_out: MD Dilshan
+          fielders:
+          - ALKL Abeyrathne
+          - RS Fernando
+          kind: run out
+- 2nd innings:
+    team: Bloomfield Cricket and Athletic Club
+    deliveries:
+    - 0.1:
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: H Boyagoda
+        batsman: H Amarasinghe
+    - 0.2:
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Boyagoda
+        batsman: H Amarasinghe
+    - 0.3:
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: H Boyagoda
+        batsman: H Amarasinghe
+    - 0.4:
+        non_striker: H Boyagoda
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Amarasinghe
+        wicket:
+          player_out: H Amarasinghe
+          fielders:
+          - M Tharupathi
+          kind: caught
+    - 0.5:
+        non_striker: H Boyagoda
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Chandraguptha
+    - 0.6:
+        non_striker: H Boyagoda
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Chandraguptha
+    - 1.1:
+        non_striker: RK Chandraguptha
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Boyagoda
+    - 1.2:
+        non_striker: RK Chandraguptha
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+    - 1.3:
+        non_striker: RK Chandraguptha
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Boyagoda
+        wicket:
+          player_out: H Boyagoda
+          kind: bowled
+    - 1.4:
+        non_striker: RK Chandraguptha
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+    - 1.5:
+        non_striker: RK Chandraguptha
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ALKL Abeyrathne
+    - 1.6:
+        non_striker: ALKL Abeyrathne
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Chandraguptha
+    - 2.1:
+        non_striker: RK Chandraguptha
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ALKL Abeyrathne
+        wicket:
+          player_out: ALKL Abeyrathne
+          fielders:
+          - RTM Mendis
+          kind: caught
+    - 2.2:
+        non_striker: RK Chandraguptha
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 2.3:
+        non_striker: RK Chandraguptha
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Fernando
+    - 2.4:
+        non_striker: RS Fernando
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Chandraguptha
+    - 2.5:
+        non_striker: RS Fernando
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Chandraguptha
+        wicket:
+          player_out: RK Chandraguptha
+          kind: bowled
+    - 2.6:
+        non_striker: RS Fernando
+        bowler: MD Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 3.1:
+        non_striker: RS Fernando
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Madushanka
+    - 3.2:
+        non_striker: RS Fernando
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 3.3:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 3.4:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 3.5:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 3.6:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Fernando
+    - 4.1:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Fernando
+    - 4.2:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+    - 4.3:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Fernando
+        wicket:
+          player_out: RS Fernando
+          fielders:
+          - RTM Mendis
+          kind: caught
+    - 4.4:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jayathilake
+        wicket:
+          player_out: S Jayathilake
+          kind: bowled
+    - 4.5:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KPNM Karunanayake
+    - 4.6:
+        non_striker: LD Madushanka
+        bowler: SA Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KPNM Karunanayake
+    - 5.1:
+        non_striker: KPNM Karunanayake
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LD Madushanka
+    - 5.2:
+        non_striker: KPNM Karunanayake
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LD Madushanka
+    - 5.3:
+        non_striker: KPNM Karunanayake
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 5.4:
+        non_striker: LD Madushanka
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KPNM Karunanayake
+    - 5.5:
+        non_striker: KPNM Karunanayake
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 5.6:
+        non_striker: LD Madushanka
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KPNM Karunanayake
+    - 5.7:
+        non_striker: LD Madushanka
+        bowler: RMMP Rathnayake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KPNM Karunanayake
+    - 6.1:
+        non_striker: KPNM Karunanayake
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 6.2:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KPNM Karunanayake
+    - 6.3:
+        non_striker: KPNM Karunanayake
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 6.4:
+        non_striker: LD Madushanka
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KPNM Karunanayake
+    - 6.5:
+        non_striker: KPNM Karunanayake
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LD Madushanka
+    - 6.6:
+        non_striker: KPNM Karunanayake
+        bowler: G Sanketh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 7.1:
+        non_striker: KPNM Karunanayake
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Madushanka
+    - 7.2:
+        non_striker: KPNM Karunanayake
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Madushanka
+    - 7.3:
+        non_striker: LD Madushanka
+        bowler: RTM Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KPNM Karunanayake

@@ -1,0 +1,5086 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  competition: One-Day Cup (Australia)
+  dates:
+  - '2025-09-21'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Queensland
+    by:
+      wickets: 2
+  overs: 50
+  player_of_match:
+  - HD Weibgen
+  players:
+    Western Australia:
+    - S Fanning
+    - JL Curtis
+    - CT Bancroft
+    - SM Whiteman
+    - AJ Turner
+    - HWR Cartwright
+    - AC Agar
+    - JS Paris
+    - M Kelly
+    - L Haskett
+    - BA Jackson
+    Queensland:
+    - J Clayton
+    - JJ Peirson
+    - M Labuschagne
+    - MT Renshaw
+    - LD Hearne
+    - HD Weibgen
+    - JD Wildermuth
+    - MG Neser
+    - GS Sandhu
+    - MJ Swepson
+    - T Straker
+  registry:
+    people:
+      AC Agar: a2421394
+      AJ Turner: ff1e12a0
+      Andrew Crozier: 00d07580
+      BA Jackson: 3141b833
+      CT Bancroft: 399b0b94
+      GS Sandhu: 1558d83b
+      HD Weibgen: 2535b30f
+      HWR Cartwright: ab965cad
+      J Clayton: c56fc66d
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      JL Curtis: a4349861
+      JS Paris: 7c8f533d
+      Kepler Wessels: 3bedaff0
+      L Haskett: '037429dc'
+      LD Hearne: 7f2163a0
+      M Kelly: 68e26ec9
+      M Labuschagne: fa433be6
+      MG Neser: 0164b064
+      MJ Swepson: 86b4bf88
+      MT Renshaw: 218d4d78
+      S Fanning: a9d2dab9
+      SE Dionysius: ac886e6f
+      SM Whiteman: f4427cc6
+      T Straker: 5355168d
+  teams:
+  - Western Australia
+  - Queensland
+  toss:
+    winner: Western Australia
+    decision: bat
+  umpires:
+  - Andrew Crozier
+  - SE Dionysius
+  venue: Allan Border Field, Brisbane
+innings:
+- 1st innings:
+    team: Western Australia
+    deliveries:
+    - 0.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JL Curtis
+        batsman: S Fanning
+    - 0.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JL Curtis
+        batsman: S Fanning
+    - 0.3:
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JL Curtis
+        batsman: S Fanning
+    - 0.4:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fanning
+        wicket:
+          player_out: S Fanning
+          kind: lbw
+    - 0.5:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 0.6:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 0.7:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.1:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 1.2:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 1.3:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 1.4:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 1.5:
+        non_striker: JL Curtis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 1.6:
+        non_striker: JL Curtis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 2.1:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 2.2:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Curtis
+    - 2.3:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 2.4:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Curtis
+    - 2.5:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Curtis
+    - 2.6:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 2.7:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 2.8:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 3.1:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 3.2:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 3.3:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 3.4:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Curtis
+    - 3.5:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 3.6:
+        non_striker: CT Bancroft
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 4.1:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.2:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.3:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 4.4:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 4.5:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 4.6:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 5.1:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 5.2:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 5.3:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 5.4:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 5.5:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 5.6:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 6.1:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 6.2:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 6.3:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 6.4:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 6.5:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 6.6:
+        non_striker: CT Bancroft
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 7.1:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 7.2:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 7.3:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.4:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 7.6:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.1:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 8.2:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 8.3:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.4:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.5:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.6:
+        non_striker: CT Bancroft
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 9.1:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Curtis
+    - 9.2:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 9.3:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 9.4:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 9.5:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 9.6:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 10.1:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.2:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.3:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.4:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 10.5:
+        non_striker: CT Bancroft
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 10.6:
+        non_striker: CT Bancroft
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 11.1:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 11.2:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 11.3:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 11.4:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Curtis
+    - 11.5:
+        non_striker: CT Bancroft
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Curtis
+    - 11.6:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 12.1:
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Whiteman
+        batsman: JL Curtis
+    - 12.2:
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Whiteman
+        batsman: JL Curtis
+    - 12.3:
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Whiteman
+        batsman: JL Curtis
+    - 12.4:
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Whiteman
+        batsman: JL Curtis
+    - 12.5:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 12.6:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 13.1:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 13.2:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 13.3:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 13.4:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 13.5:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 13.6:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 14.1:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.2:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.3:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 14.4:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 14.5:
+        non_striker: SM Whiteman
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 14.6:
+        non_striker: SM Whiteman
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 15.1:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 15.2:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 15.3:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Curtis
+    - 15.4:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 15.5:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 15.6:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 16.1:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 16.2:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 16.3:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 16.4:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 16.5:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 16.6:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 17.1:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Curtis
+    - 17.2:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 17.3:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 17.4:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 17.5:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 17.6:
+        non_striker: JL Curtis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 18.1:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 18.2:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 18.3:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 18.4:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 18.5:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 18.6:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 19.1:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 19.2:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 19.3:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 19.4:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 19.5:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 19.6:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 20.1:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 20.2:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 20.3:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 20.4:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 20.5:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 20.6:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 21.1:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 21.2:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 21.3:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Curtis
+    - 21.4:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 21.5:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 21.6:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 22.1:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 22.2:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 22.3:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Curtis
+    - 22.4:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 22.5:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 22.6:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 22.7:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 23.1:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 23.2:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 23.3:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 23.4:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 23.5:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 23.6:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 24.1:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 24.2:
+        non_striker: JL Curtis
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 24.3:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Curtis
+    - 24.4:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 24.5:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 24.6:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Curtis
+    - 25.1:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 25.2:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 25.3:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 25.4:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 25.5:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 25.6:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 26.1:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 26.2:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Whiteman
+    - 26.3:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 26.4:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 26.5:
+        non_striker: JL Curtis
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 26.6:
+        non_striker: SM Whiteman
+        bowler: HD Weibgen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 27.1:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 27.2:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 27.3:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Whiteman
+    - 27.4:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 27.5:
+        non_striker: JL Curtis
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 27.6:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 28.1:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 28.2:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 28.3:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 28.4:
+        non_striker: SM Whiteman
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 28.5:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 28.6:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 29.1:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 29.2:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 29.3:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 29.4:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 29.5:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 29.6:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Whiteman
+    - 30.1:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 30.2:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 30.3:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 30.4:
+        non_striker: SM Whiteman
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Curtis
+    - 30.5:
+        non_striker: SM Whiteman
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Curtis
+    - 30.6:
+        non_striker: JL Curtis
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Whiteman
+    - 31.1:
+        non_striker: JL Curtis
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 31.2:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+    - 31.3:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Curtis
+        wicket:
+          player_out: JL Curtis
+          fielders:
+          - MJ Swepson
+          kind: caught
+    - 31.4:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 31.5:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 31.6:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 32.1:
+        non_striker: AJ Turner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 32.2:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 32.3:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 32.4:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 32.5:
+        non_striker: AJ Turner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 32.6:
+        non_striker: AJ Turner
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 33.1:
+        non_striker: AJ Turner
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 33.2:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 33.3:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 33.4:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 33.5:
+        non_striker: AJ Turner
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 33.6:
+        non_striker: SM Whiteman
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 34.1:
+        non_striker: AJ Turner
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 34.2:
+        non_striker: AJ Turner
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 34.3:
+        non_striker: SM Whiteman
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 34.4:
+        non_striker: AJ Turner
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 34.5:
+        non_striker: AJ Turner
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 34.6:
+        non_striker: SM Whiteman
+        bowler: M Labuschagne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 35.1:
+        non_striker: AJ Turner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 35.2:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 35.3:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 35.4:
+        non_striker: AJ Turner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 35.5:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 35.6:
+        non_striker: AJ Turner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 36.1:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 36.2:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 36.3:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 36.4:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 36.5:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 36.6:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 37.1:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+        wicket:
+          player_out: AJ Turner
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 37.2:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 37.3:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 37.4:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Whiteman
+    - 37.5:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 37.6:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 38.1:
+        non_striker: HWR Cartwright
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 38.2:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 38.3:
+        non_striker: SM Whiteman
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 38.4:
+        non_striker: HWR Cartwright
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Whiteman
+    - 38.5:
+        non_striker: HWR Cartwright
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 38.6:
+        non_striker: HWR Cartwright
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 39.1:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 39.2:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 39.3:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 39.4:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 39.5:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 39.6:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 40.1:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 40.2:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Whiteman
+    - 40.3:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 40.4:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 40.5:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 40.6:
+        non_striker: SM Whiteman
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 41.1:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Whiteman
+    - 41.2:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 41.3:
+        non_striker: SM Whiteman
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 41.4:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+    - 41.5:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Whiteman
+        wicket:
+          player_out: SM Whiteman
+          fielders:
+          - MT Renshaw
+          kind: caught
+    - 41.6:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 42.1:
+        non_striker: HWR Cartwright
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 42.2:
+        non_striker: AC Agar
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+    - 42.3:
+        non_striker: AC Agar
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 42.4:
+        non_striker: HWR Cartwright
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 42.5:
+        non_striker: AC Agar
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 42.6:
+        non_striker: HWR Cartwright
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 43.1:
+        non_striker: AC Agar
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 43.2:
+        non_striker: HWR Cartwright
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 43.3:
+        non_striker: AC Agar
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 43.4:
+        non_striker: AC Agar
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 43.5:
+        non_striker: AC Agar
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 43.6:
+        non_striker: AC Agar
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 44.1:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 44.2:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 44.3:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 44.4:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 44.5:
+        non_striker: HWR Cartwright
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 44.6:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 45.1:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+    - 45.2:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 45.3:
+        non_striker: HWR Cartwright
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 45.4:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+        wicket:
+          player_out: HWR Cartwright
+          kind: bowled
+    - 45.5:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Paris
+    - 45.6:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Paris
+    - 46.1:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Paris
+    - 46.2:
+        non_striker: AC Agar
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Paris
+    - 46.3:
+        non_striker: JS Paris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 46.4:
+        non_striker: JS Paris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Agar
+    - 46.5:
+        non_striker: JS Paris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 46.6:
+        non_striker: JS Paris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 47.1:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Paris
+    - 47.2:
+        non_striker: JS Paris
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 47.3:
+        non_striker: JS Paris
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 47.4:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JS Paris
+    - 47.5:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JS Paris
+    - 47.6:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JS Paris
+    - 47.7:
+        non_striker: AC Agar
+        bowler: T Straker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JS Paris
+    - 48.1:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 48.2:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+        wicket:
+          player_out: AC Agar
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 48.3:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kelly
+    - 48.4:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kelly
+    - 48.5:
+        non_striker: M Kelly
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Paris
+    - 48.6:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 48.7:
+        non_striker: JS Paris
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kelly
+    - 49.1:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 49.2:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kelly
+    - 49.3:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+    - 49.4:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kelly
+        wicket:
+          player_out: M Kelly
+          kind: bowled
+    - 49.5:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Haskett
+        wicket:
+          player_out: L Haskett
+          fielders:
+          - MT Renshaw
+          kind: caught
+    - 49.6:
+        non_striker: JS Paris
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Jackson
+- 2nd innings:
+    team: Queensland
+    deliveries:
+    - 0.1:
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Peirson
+        batsman: J Clayton
+    - 0.2:
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Peirson
+        batsman: J Clayton
+    - 0.3:
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Peirson
+        batsman: J Clayton
+    - 0.4:
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Peirson
+        batsman: J Clayton
+    - 0.5:
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Peirson
+        batsman: J Clayton
+    - 0.6:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 1.1:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 1.2:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 1.3:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 1.4:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 1.5:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 1.6:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 2.1:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 2.2:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 2.3:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Clayton
+    - 2.4:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 2.5:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Clayton
+    - 2.6:
+        non_striker: J Clayton
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 3.1:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 3.2:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 3.3:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 3.4:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 3.5:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 3.6:
+        non_striker: J Clayton
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 4.1:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 4.2:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+        wicket:
+          player_out: J Clayton
+          fielders:
+          - L Haskett
+          kind: caught
+    - 4.3:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.4:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 4.5:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 4.6:
+        non_striker: JJ Peirson
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.1:
+        non_striker: M Labuschagne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 5.2:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.3:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.4:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.5:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 5.6:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 6.1:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 6.2:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 6.3:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 6.4:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 6.5:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 6.6:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 7.1:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.2:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.3:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.4:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.5:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 7.6:
+        non_striker: JJ Peirson
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 8.1:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 8.2:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 8.3:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          fielders:
+          - AJ Turner
+          kind: caught
+    - 8.4:
+        non_striker: M Labuschagne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: MT Renshaw
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.1:
+        non_striker: M Labuschagne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.2:
+        non_striker: M Labuschagne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.3:
+        non_striker: M Labuschagne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.4:
+        non_striker: MT Renshaw
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          fielders:
+          - AC Agar
+          kind: caught
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 10.1:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.3:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.5:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.6:
+        non_striker: LD Hearne
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.1:
+        non_striker: MT Renshaw
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 11.2:
+        non_striker: MT Renshaw
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 11.3:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.4:
+        non_striker: MT Renshaw
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 11.5:
+        non_striker: MT Renshaw
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 11.6:
+        non_striker: MT Renshaw
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 12.1:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: MT Renshaw
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 12.3:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Renshaw
+    - 12.4:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 12.5:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          kind: lbw
+    - 12.6:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 12.7:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 13.1:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.2:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.3:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 13.4:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.5:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.6:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 13.7:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 14.1:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 14.2:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 14.3:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.4:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LD Hearne
+    - 14.5:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 14.6:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 14.7:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 14.8:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 14.9:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 15.1:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 15.2:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 15.3:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 15.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 15.5:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 15.6:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 16.1:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 16.2:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 16.3:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.4:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.5:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.6:
+        non_striker: LD Hearne
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 17.1:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 17.2:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 17.3:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 17.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 17.5:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 17.6:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 18.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 18.2:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 18.3:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 18.4:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 18.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 18.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 19.1:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 19.2:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 19.3:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 19.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 19.5:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 19.6:
+        non_striker: LD Hearne
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 20.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 20.2:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 20.3:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 20.4:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 20.5:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 20.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 21.1:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 21.2:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 21.3:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 21.4:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 21.5:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 21.6:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 22.1:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 22.2:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 22.3:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 22.4:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 22.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 22.6:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 23.1:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 23.2:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Hearne
+    - 23.3:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 23.4:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 23.5:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 23.6:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 24.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 24.2:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 24.3:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 24.4:
+        non_striker: LD Hearne
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 24.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 24.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 25.1:
+        non_striker: LD Hearne
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 25.2:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LD Hearne
+    - 25.3:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+        wicket:
+          player_out: LD Hearne
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 25.4:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 25.5:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 25.6:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 26.1:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 26.2:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 26.3:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 26.4:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 26.5:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 26.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 27.1:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 27.2:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 27.3:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 27.4:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 27.5:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 27.6:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 28.1:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 28.2:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 28.3:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 28.4:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 28.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 28.6:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 29.1:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 29.2:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 29.3:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 29.4:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 29.5:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 29.6:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 30.1:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 30.2:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 30.3:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 30.4:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 30.5:
+        non_striker: JD Wildermuth
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 30.6:
+        non_striker: JD Wildermuth
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 31.1:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JD Wildermuth
+    - 31.2:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 31.3:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 31.4:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 31.5:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 31.6:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 32.1:
+        non_striker: JD Wildermuth
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 32.2:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 32.3:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 32.4:
+        non_striker: JD Wildermuth
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 32.5:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 32.6:
+        non_striker: JD Wildermuth
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 33.1:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 33.2:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 33.3:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 33.4:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 33.5:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 33.6:
+        non_striker: JD Wildermuth
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 34.1:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 34.2:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 34.3:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 34.4:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 34.5:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 34.6:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 35.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 35.2:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 35.3:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 35.4:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JD Wildermuth
+    - 35.5:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 35.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 36.1:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 36.2:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 36.3:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 36.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 36.5:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 36.6:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JD Wildermuth
+    - 37.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 37.2:
+        non_striker: JD Wildermuth
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 37.3:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 37.4:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 37.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 37.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 38.1:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HD Weibgen
+    - 38.2:
+        non_striker: JD Wildermuth
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 38.3:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          fielders:
+          - CT Bancroft
+          kind: caught
+    - 38.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 38.5:
+        non_striker: MG Neser
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 38.6:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 38.7:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 39.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 39.2:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.3:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.4:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.5:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.6:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 40.1:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 40.2:
+        non_striker: HD Weibgen
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 40.3:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 40.4:
+        non_striker: HD Weibgen
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 40.5:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 40.6:
+        non_striker: HD Weibgen
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 41.1:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 41.2:
+        non_striker: HD Weibgen
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 41.3:
+        non_striker: MG Neser
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 41.4:
+        non_striker: MG Neser
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 41.5:
+        non_striker: MG Neser
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 41.6:
+        non_striker: MG Neser
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 41.7:
+        non_striker: MG Neser
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 42.1:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 42.2:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 42.3:
+        non_striker: HD Weibgen
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 42.4:
+        non_striker: HD Weibgen
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 42.5:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 42.6:
+        non_striker: MG Neser
+        bowler: AJ Turner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 43.1:
+        non_striker: MG Neser
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 43.2:
+        non_striker: MG Neser
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 43.3:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 43.4:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Neser
+    - 43.5:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 43.6:
+        non_striker: MG Neser
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 44.1:
+        non_striker: MG Neser
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 44.2:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 44.3:
+        non_striker: MG Neser
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 44.4:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Neser
+    - 44.5:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Neser
+    - 44.6:
+        non_striker: HD Weibgen
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+        wicket:
+          player_out: MG Neser
+          fielders:
+          - CT Bancroft
+          kind: caught
+    - 45.1:
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GS Sandhu
+        batsman: HD Weibgen
+    - 45.2:
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: GS Sandhu
+        batsman: HD Weibgen
+    - 45.3:
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GS Sandhu
+        batsman: HD Weibgen
+    - 45.4:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 45.5:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GS Sandhu
+    - 45.6:
+        non_striker: HD Weibgen
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 45.7:
+        non_striker: GS Sandhu
+        bowler: BA Jackson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 46.1:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 46.2:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 46.3:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 46.4:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 46.5:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 46.6:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 46.7:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 47.1:
+        non_striker: GS Sandhu
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 47.2:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 47.3:
+        non_striker: GS Sandhu
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 47.4:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 47.5:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 47.6:
+        non_striker: HD Weibgen
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 48.1:
+        non_striker: GS Sandhu
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 48.2:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+        wicket:
+          player_out: GS Sandhu
+          fielders:
+          - M Kelly
+          kind: caught
+    - 48.3:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 48.4:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Swepson
+    - 48.5:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Swepson
+    - 48.6:
+        non_striker: HD Weibgen
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 49.1:
+        non_striker: MJ Swepson
+        bowler: M Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen

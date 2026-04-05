@@ -1,0 +1,1931 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  competition: Major League Cricket
+  dates:
+  - '2024-07-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Washington Freedom
+    by:
+      runs: 94
+  overs: 20
+  player_of_match:
+  - Jasdeep Singh
+  players:
+    Washington Freedom:
+    - TM Head
+    - SPD Smith
+    - AGS Gous
+    - GJ Maxwell
+    - R Ravindra
+    - AJ Pienaar
+    - Mukhtar Ahmed
+    - M Jansen
+    - IG Holland
+    - LH Ferguson
+    - Jasdeep Singh
+    MI New York:
+    - SR Taylor
+    - Shayan Jahangir
+    - MD Patel
+    - D Brevis
+    - N Pooran
+    - KA Pollard
+    - R Shepherd
+    - Rashid Khan
+    - TA Boult
+    - NP Kenjige
+    - Ehsan Adil
+  registry:
+    people:
+      AGS Gous: d1305df0
+      AJ Pienaar: 647a48da
+      BKEL Milantha: dcabd6bc
+      D Brevis: 844e79d1
+      Ehsan Adil: 210b05cb
+      GJ Maxwell: b681e71e
+      IG Holland: 4167f30b
+      JJ Crowe: 2e760301
+      Jasdeep Singh: 5ec41cd7
+      KA Pollard: a757b0d8
+      LH Ferguson: 2f9d0389
+      M Erasmus: 15d3c895
+      M Jansen: 81c36ee9
+      MD Patel: 25d7f1ac
+      Mukhtar Ahmed: 456f6d99
+      N Pooran: 3241e3fd
+      NP Kenjige: f7d267f7
+      O Brown: 22fe51d7
+      P Wilson: 68304a36
+      R Ravindra: ba5e1069
+      R Samuels: 8a8bc9f6
+      R Shepherd: c5aef772
+      Rashid Khan: 5f547c8b
+      SPD Smith: 30a45b23
+      SR Taylor: a9231c3f
+      Shayan Jahangir: 571e1d2a
+      TA Boult: a818c1be
+      TM Head: 12b610c2
+  teams:
+  - Washington Freedom
+  - MI New York
+  toss:
+    winner: MI New York
+    decision: field
+  umpires:
+  - M Erasmus
+  - R Samuels
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: Washington Freedom
+    deliveries:
+    - 0.1:
+        non_striker: SPD Smith
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.2:
+        non_striker: SPD Smith
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.3:
+        non_striker: SPD Smith
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 0.4:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 0.5:
+        non_striker: SPD Smith
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 0.6:
+        non_striker: SPD Smith
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 1.2:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.3:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.4:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.5:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.6:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.1:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.2:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.3:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.4:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 2.5:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SPD Smith
+    - 2.6:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 2.7:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 3.1:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.2:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 3.5:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.6:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.2:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 4.3:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.4:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.5:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AGS Gous
+    - 4.6:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 5.1:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.2:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.3:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 5.4:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AGS Gous
+    - 5.5:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 5.6:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 5.7:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 6.1:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 6.2:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AGS Gous
+    - 6.3:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 6.4:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 6.5:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 6.6:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 7.1:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 7.2:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 7.3:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 7.4:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 7.5:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 7.6:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 8.1:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 8.2:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 8.3:
+        non_striker: TM Head
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 8.4:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 8.5:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 8.6:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 9.1:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 9.2:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 9.3:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 9.4:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 9.5:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 9.6:
+        non_striker: AGS Gous
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.7:
+        non_striker: TM Head
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 10.1:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AGS Gous
+    - 10.2:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 10.3:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 10.4:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AGS Gous
+    - 10.5:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 10.6:
+        non_striker: TM Head
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 11.1:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 11.2:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 11.3:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 11.4:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AGS Gous
+    - 11.5:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 11.6:
+        non_striker: TM Head
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 11.7:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 11.8:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 11.9:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 11.10:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.1:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.2:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 12.3:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.5:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.6:
+        non_striker: AGS Gous
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.1:
+        non_striker: AGS Gous
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 13.2:
+        non_striker: AGS Gous
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.3:
+        non_striker: GJ Maxwell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 13.4:
+        non_striker: AGS Gous
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.5:
+        non_striker: GJ Maxwell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 13.6:
+        non_striker: GJ Maxwell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 14.1:
+        non_striker: GJ Maxwell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 14.2:
+        non_striker: GJ Maxwell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 14.3:
+        non_striker: GJ Maxwell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 14.4:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 14.5:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 14.6:
+        non_striker: GJ Maxwell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AGS Gous
+    - 15.1:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 15.2:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          kind: bowled
+    - 15.3:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 15.4:
+        non_striker: R Ravindra
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 15.5:
+        non_striker: R Ravindra
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 15.6:
+        non_striker: AGS Gous
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 16.1:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 16.2:
+        non_striker: R Ravindra
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 16.3:
+        non_striker: R Ravindra
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 16.4:
+        non_striker: R Ravindra
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 16.5:
+        non_striker: R Ravindra
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 16.6:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 17.1:
+        non_striker: R Ravindra
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 17.2:
+        non_striker: R Ravindra
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 17.3:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 17.4:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 17.5:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 17.6:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ravindra
+    - 17.7:
+        non_striker: AGS Gous
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 18.1:
+        non_striker: R Ravindra
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 18.2:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 18.3:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ravindra
+    - 18.4:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ravindra
+    - 18.5:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ravindra
+    - 18.6:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ravindra
+    - 18.7:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 18.8:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 19.1:
+        non_striker: R Ravindra
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AGS Gous
+    - 19.2:
+        non_striker: R Ravindra
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 19.3:
+        non_striker: AGS Gous
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - N Pooran
+          kind: caught
+    - 19.4:
+        non_striker: AGS Gous
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Pienaar
+    - 19.5:
+        non_striker: AJ Pienaar
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AGS Gous
+    - 19.6:
+        non_striker: AJ Pienaar
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - TA Boult
+          kind: caught
+- 2nd innings:
+    team: MI New York
+    deliveries:
+    - 0.1:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 0.2:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 0.3:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 0.4:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.5:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.6:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.7:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.8:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.9:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.10:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.1:
+        non_striker: MD Patel
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.2:
+        non_striker: MD Patel
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 1.3:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.4:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 1.5:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 1.6:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.1:
+        non_striker: Shayan Jahangir
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.2:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.3:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.4:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.6:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.1:
+        non_striker: D Brevis
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.2:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.3:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.4:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 3.5:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.6:
+        non_striker: Shayan Jahangir
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.1:
+        non_striker: N Pooran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 4.2:
+        non_striker: N Pooran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 4.3:
+        non_striker: N Pooran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 4.4:
+        non_striker: KA Pollard
+        bowler: M Jansen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: N Pooran
+    - 4.5:
+        non_striker: KA Pollard
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 4.6:
+        non_striker: KA Pollard
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 5.2:
+        non_striker: N Pooran
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 5.3:
+        non_striker: N Pooran
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 5.4:
+        non_striker: KA Pollard
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - AJ Pienaar
+          kind: caught
+    - 5.5:
+        non_striker: KA Pollard
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 5.6:
+        non_striker: KA Pollard
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 6.1:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 6.2:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 6.3:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 6.4:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          kind: bowled
+    - 6.5:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rashid Khan
+    - 6.6:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 6.7:
+        non_striker: R Shepherd
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 7.1:
+        non_striker: Rashid Khan
+        bowler: GJ Maxwell
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Shepherd
+    - 7.2:
+        non_striker: Rashid Khan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 7.3:
+        non_striker: Rashid Khan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 7.4:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 7.5:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 7.6:
+        non_striker: Rashid Khan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 7.7:
+        non_striker: Rashid Khan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 8.1:
+        non_striker: R Shepherd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          fielders:
+          - BKEL Milantha (sub)
+          kind: caught
+    - 8.2:
+        non_striker: R Shepherd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Boult
+    - 8.3:
+        non_striker: R Shepherd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 8.4:
+        non_striker: TA Boult
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 8.5:
+        non_striker: TA Boult
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 8.6:
+        non_striker: TA Boult
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 9.1:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Boult
+    - 9.2:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 9.3:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Boult
+    - 9.4:
+        non_striker: R Shepherd
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 9.5:
+        non_striker: TA Boult
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 9.6:
+        non_striker: TA Boult
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 10.1:
+        non_striker: R Shepherd
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 10.2:
+        non_striker: R Shepherd
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 10.3:
+        non_striker: TA Boult
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 10.4:
+        non_striker: TA Boult
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 10.5:
+        non_striker: TA Boult
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - Jasdeep Singh
+          kind: caught
+    - 10.6:
+        non_striker: TA Boult
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 11.1:
+        non_striker: NP Kenjige
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 11.2:
+        non_striker: NP Kenjige
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 11.3:
+        non_striker: TA Boult
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 11.4:
+        non_striker: TA Boult
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 11.5:
+        non_striker: TA Boult
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 11.6:
+        non_striker: TA Boult
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 12.1:
+        non_striker: NP Kenjige
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 12.2:
+        non_striker: TA Boult
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 12.3:
+        non_striker: TA Boult
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 12.4:
+        non_striker: TA Boult
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 12.5:
+        non_striker: TA Boult
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 12.6:
+        non_striker: NP Kenjige
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 13.1:
+        non_striker: NP Kenjige
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+        wicket:
+          player_out: TA Boult
+          fielders:
+          - IG Holland
+          kind: caught
+    - 13.2:
+        non_striker: NP Kenjige
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Adil
+    - 13.3:
+        non_striker: NP Kenjige
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Adil
+        wicket:
+          player_out: Ehsan Adil
+          kind: bowled

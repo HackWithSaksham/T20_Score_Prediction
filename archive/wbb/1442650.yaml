@@ -1,0 +1,2143 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Women's Big Bash League
+  dates:
+  - '2024-10-29'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - A Wellington
+  players:
+    Adelaide Strikers:
+    - KM Mack
+    - L Wolvaardt
+    - M Penna
+    - TM McGrath
+    - BE Patterson
+    - O Prendergast
+    - A Wellington
+    - JL Barsby
+    - ML Schutt
+    - D Brown
+    - AC Mushangwe
+    Sydney Sixers:
+    - EA Perry
+    - HJ Armitage
+    - SJ Bryce
+    - A Gardner
+    - Siow Tzin Yee
+    - S Ecclestone
+    - M Brown
+    - C Bray
+    - CG Sippel
+    - F Nicklin
+    - L Cheatle
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Wellington: 9b3bcca4
+      AC Mushangwe: db873292
+      BE Patterson: 7dfbcfff
+      C Bray: b54cc792
+      CG Sippel: c2ac0db5
+      D Brown: 2e81be88
+      Dave Gilbert: aa782370
+      E Johnston: 3785e30d
+      EA Perry: be150fc8
+      F Nicklin: 30058fe5
+      HJ Armitage: f05167d2
+      JL Barsby: 47bcaf7a
+      KM Mack: ef13bd20
+      L Cheatle: 275dff85
+      L Wolvaardt: e60f81c9
+      M Brown: 78bec461
+      M Penna: 36453b99
+      ME Claydon: 15101f12
+      ML Schutt: 17608a6f
+      O Prendergast: d8f20ba5
+      Roberto Howard: eec90c4b
+      S Ecclestone: cdb82f1c
+      SJ Bryce: 2ca65aee
+      Sharad Patel: 8e6dd3ba
+      Siow Tzin Yee: 686b7194
+      TM McGrath: ca5acfa4
+      Troy Penman: 0aa42c26
+  teams:
+  - Adelaide Strikers
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - Roberto Howard
+  - Sharad Patel
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.2:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 0.3:
+        non_striker: KM Mack
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: KM Mack
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: KM Mack
+        bowler: L Cheatle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Wolvaardt
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          kind: bowled
+    - 1.1:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Wolvaardt
+    - 1.7:
+        non_striker: M Penna
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+        wicket:
+          player_out: M Penna
+          kind: caught and bowled
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 2.5:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: bowled
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 3.6:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 4.1:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.2:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 4.4:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.5:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 5.1:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: L Wolvaardt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 5.4:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.5:
+        non_striker: L Wolvaardt
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BE Patterson
+    - 5.6:
+        non_striker: L Wolvaardt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 5.7:
+        non_striker: L Wolvaardt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 6.1:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 6.2:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BE Patterson
+    - 6.3:
+        non_striker: L Wolvaardt
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 6.4:
+        non_striker: BE Patterson
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: caught and bowled
+    - 6.5:
+        non_striker: BE Patterson
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.6:
+        non_striker: O Prendergast
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 7.1:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 7.2:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 7.3:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 7.4:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 7.5:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 7.6:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 8.1:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 8.2:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 8.3:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 8.4:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.5:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 8.6:
+        non_striker: BE Patterson
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 9.1:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 9.2:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 9.3:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 9.4:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 9.5:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 9.6:
+        non_striker: BE Patterson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 10.1:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 10.2:
+        non_striker: BE Patterson
+        bowler: CG Sippel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Prendergast
+    - 10.3:
+        non_striker: BE Patterson
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 10.4:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 10.5:
+        non_striker: BE Patterson
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 10.6:
+        non_striker: BE Patterson
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 10.7:
+        non_striker: BE Patterson
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 11.1:
+        non_striker: O Prendergast
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 11.2:
+        non_striker: BE Patterson
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 11.3:
+        non_striker: BE Patterson
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 11.4:
+        non_striker: O Prendergast
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 11.5:
+        non_striker: O Prendergast
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 11.6:
+        non_striker: O Prendergast
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 12.1:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 12.2:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 12.3:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 12.4:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 12.5:
+        non_striker: BE Patterson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 12.6:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 13.1:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 13.2:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 13.3:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BE Patterson
+    - 13.4:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+        wicket:
+          player_out: BE Patterson
+          fielders:
+          - S Ecclestone
+          kind: caught
+    - 13.5:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 13.6:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 13.7:
+        non_striker: O Prendergast
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 14.1:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 14.2:
+        non_striker: A Wellington
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 14.3:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 14.4:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 14.5:
+        non_striker: A Wellington
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 14.6:
+        non_striker: O Prendergast
+        bowler: C Bray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 15.1:
+        non_striker: A Wellington
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 15.2:
+        non_striker: A Wellington
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 15.3:
+        non_striker: O Prendergast
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 15.4:
+        non_striker: O Prendergast
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 15.5:
+        non_striker: A Wellington
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 15.6:
+        non_striker: A Wellington
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 16.1:
+        non_striker: A Wellington
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 16.2:
+        non_striker: O Prendergast
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Wellington
+    - 16.3:
+        non_striker: O Prendergast
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 16.4:
+        non_striker: O Prendergast
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Wellington
+    - 16.5:
+        non_striker: A Wellington
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - M Brown
+          kind: caught
+    - 16.6:
+        non_striker: A Wellington
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Barsby
+    - 17.1:
+        non_striker: JL Barsby
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 17.2:
+        non_striker: JL Barsby
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Wellington
+    - 17.3:
+        non_striker: JL Barsby
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 17.4:
+        non_striker: JL Barsby
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          kind: bowled
+    - 17.5:
+        non_striker: JL Barsby
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 17.6:
+        non_striker: ML Schutt
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Barsby
+    - 18.1:
+        non_striker: ML Schutt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Barsby
+    - 18.2:
+        non_striker: JL Barsby
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 18.3:
+        non_striker: ML Schutt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+    - 18.4:
+        non_striker: ML Schutt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Barsby
+    - 18.5:
+        non_striker: ML Schutt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+    - 18.6:
+        non_striker: ML Schutt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Barsby
+    - 19.1:
+        non_striker: JL Barsby
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 19.2:
+        non_striker: ML Schutt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Barsby
+    - 19.3:
+        non_striker: JL Barsby
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+        wicket:
+          player_out: ML Schutt
+          fielders:
+          - C Bray
+          kind: caught
+    - 19.4:
+        non_striker: JL Barsby
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brown
+        wicket:
+          player_out: D Brown
+          kind: bowled
+    - 19.5:
+        non_striker: JL Barsby
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Mushangwe
+    - 19.6:
+        non_striker: JL Barsby
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Mushangwe
+        wicket:
+          player_out: AC Mushangwe
+          kind: bowled
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: HJ Armitage
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 0.2:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 0.3:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 0.4:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 0.5:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Armitage
+    - 0.6:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Armitage
+    - 1.1:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+        wicket:
+          player_out: HJ Armitage
+          kind: bowled
+    - 1.2:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.3:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.4:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.5:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.6:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.1:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.2:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 2.3:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.4:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 2.6:
+        non_striker: EA Perry
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.1:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.2:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 3.4:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 3.5:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.6:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 4.1:
+        non_striker: EA Perry
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 4.4:
+        non_striker: EA Perry
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 4.6:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 4.7:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 5.1:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.2:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.4:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 5.5:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 5.6:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.1:
+        non_striker: EA Perry
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.2:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 6.3:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 6.4:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.5:
+        non_striker: EA Perry
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.6:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 7.1:
+        non_striker: EA Perry
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 7.2:
+        non_striker: EA Perry
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.3:
+        non_striker: SJ Bryce
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 7.5:
+        non_striker: SJ Bryce
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.6:
+        non_striker: EA Perry
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Bryce
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.3:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.4:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.5:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.6:
+        non_striker: EA Perry
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.1:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.2:
+        non_striker: EA Perry
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 9.3:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - KM Mack
+          kind: caught
+    - 9.4:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.5:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.6:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 10.1:
+        non_striker: A Gardner
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 10.3:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          kind: bowled
+    - 10.4:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 10.5:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 11.1:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 11.2:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Siow Tzin Yee
+    - 11.4:
+        non_striker: SJ Bryce
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 11.5:
+        non_striker: Siow Tzin Yee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 11.6:
+        non_striker: Siow Tzin Yee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 12.1:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 12.2:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.3:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 12.5:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 12.6:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 13.1:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 13.2:
+        non_striker: Siow Tzin Yee
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 13.5:
+        non_striker: Siow Tzin Yee
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: Siow Tzin Yee
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.1:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 14.2:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 14.3:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 14.4:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.5:
+        non_striker: SJ Bryce
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 14.6:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 15.1:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 15.2:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Bryce
+    - 15.3:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 15.4:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 15.5:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 15.6:
+        non_striker: Siow Tzin Yee
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 16.1:
+        non_striker: SJ Bryce
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 16.2:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          kind: bowled
+    - 16.3:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 16.4:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 16.5:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 16.6:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 17.1:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 17.2:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+        wicket:
+          player_out: S Ecclestone
+          fielders:
+          - O Prendergast
+          kind: caught
+    - 17.3:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 17.4:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 17.5:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 17.6:
+        non_striker: Siow Tzin Yee
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+        wicket:
+          player_out: M Brown
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 18.1:
+        non_striker: C Bray
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 18.2:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bray
+    - 18.3:
+        non_striker: C Bray
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Siow Tzin Yee
+    - 18.4:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bray
+    - 18.5:
+        non_striker: C Bray
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 18.6:
+        non_striker: Siow Tzin Yee
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bray
+        wicket:
+          player_out: C Bray
+          fielders:
+          - A Wellington
+          kind: caught
+    - 19.1:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 19.2:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+        wicket:
+          player_out: Siow Tzin Yee
+          fielders:
+          - M Penna
+          kind: caught
+    - 19.3:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nicklin
+    - 19.4:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nicklin
+        wicket:
+          player_out: F Nicklin
+          fielders:
+          - E Johnston (sub)
+          kind: stumped
+    - 19.5:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cheatle
+    - 19.6:
+        non_striker: CG Sippel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cheatle

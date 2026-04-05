@@ -1,0 +1,1914 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  competition: Big Bash League
+  dates:
+  - '2026-01-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Perth Scorchers
+    by:
+      runs: 48
+  overs: 20
+  player_of_match:
+  - FH Allen
+  players:
+    Perth Scorchers:
+    - MR Marsh
+    - FH Allen
+    - AM Hardie
+    - JP Inglis
+    - C Connolly
+    - AJ Turner
+    - LJ Evans
+    - JA Richardson
+    - BL Couch
+    - DA Payne
+    - M Beardman
+    Sydney Sixers:
+    - Babar Azam
+    - SPD Smith
+    - JR Philippe
+    - MC Henriques
+    - L Shaw
+    - J Edwards
+    - JA Davies
+    - BAD Manenti
+    - BJ Dwarshuis
+    - SA Abbott
+    - MA Starc
+  registry:
+    people:
+      AJ Turner: ff1e12a0
+      AM Hardie: d405c0d5
+      BAD Manenti: ab21795b
+      BC Treloar: f7e8ee52
+      BJ Dwarshuis: e1b9f3a9
+      BL Couch: be69e09d
+      Babar Azam: 8a75e999
+      C Connolly: fe366f34
+      DA Payne: 6c79c098
+      FH Allen: bf74b130
+      GA Abood: a4af5528
+      J Edwards: f787e0eb
+      JA Davies: 5cdf8304
+      JA Richardson: 1ee08e9a
+      JP Inglis: 989889ff
+      JR Philippe: '39086549'
+      L Shaw: b34e4b15
+      LJ Evans: 1c513d54
+      M Beardman: b5a12740
+      MA Starc: 3fb19989
+      MC Henriques: 32198ae0
+      MR Marsh: 3d8feaf8
+      SA Abbott: 1a2676c5
+      SD Fry: 6b725ed1
+      SJ Nogajski: 9b3f9323
+      SPD Smith: 30a45b23
+      Troy Penman: 0aa42c26
+  teams:
+  - Perth Scorchers
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - GA Abood
+  - SJ Nogajski
+  venue: Perth Stadium
+innings:
+- 1st innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: MR Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: MR Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.4:
+        non_striker: FH Allen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: FH Allen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.6:
+        non_striker: FH Allen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.1:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.2:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.4:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.5:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - L Shaw
+          kind: caught
+    - 1.6:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 2.1:
+        non_striker: AM Hardie
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.2:
+        non_striker: AM Hardie
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.3:
+        non_striker: AM Hardie
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        non_striker: AM Hardie
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.5:
+        non_striker: AM Hardie
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 2.6:
+        non_striker: FH Allen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 3.1:
+        non_striker: AM Hardie
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.2:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 3.3:
+        non_striker: FH Allen
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 3.4:
+        non_striker: AM Hardie
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.5:
+        non_striker: AM Hardie
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.6:
+        non_striker: AM Hardie
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.1:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.2:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 4.3:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.4:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.5:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 4.6:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.1:
+        non_striker: FH Allen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 5.2:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.3:
+        non_striker: FH Allen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 5.4:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 5.5:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.6:
+        non_striker: FH Allen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 6.1:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.2:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 6.3:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.4:
+        non_striker: FH Allen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 6.5:
+        non_striker: FH Allen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 6.6:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 6.7:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.1:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 7.2:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 7.3:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.4:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: bowled
+    - 7.5:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.6:
+        non_striker: JP Inglis
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.1:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.2:
+        non_striker: AM Hardie
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.3:
+        non_striker: JP Inglis
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.4:
+        non_striker: JP Inglis
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.5:
+        non_striker: JP Inglis
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 8.6:
+        non_striker: JP Inglis
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 9.1:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 9.2:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 9.3:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 9.4:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 9.5:
+        non_striker: AM Hardie
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 9.6:
+        non_striker: C Connolly
+        bowler: JA Davies
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Hardie
+    - 9.7:
+        non_striker: C Connolly
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 10.1:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 10.2:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 10.3:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 10.4:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 10.5:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 10.6:
+        non_striker: AM Hardie
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 11.1:
+        non_striker: AM Hardie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 11.2:
+        non_striker: AM Hardie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 11.3:
+        non_striker: AM Hardie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 11.4:
+        non_striker: AJ Turner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 11.5:
+        non_striker: AM Hardie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 11.6:
+        non_striker: AM Hardie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 12.1:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 12.2:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Hardie
+    - 12.3:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 12.4:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+        wicket:
+          player_out: AM Hardie
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 12.5:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 12.6:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 12.7:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 13.1:
+        non_striker: LJ Evans
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 13.2:
+        non_striker: LJ Evans
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 13.3:
+        non_striker: LJ Evans
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 13.4:
+        non_striker: AJ Turner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 13.5:
+        non_striker: AJ Turner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 13.6:
+        non_striker: AJ Turner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 14.1:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+        wicket:
+          player_out: LJ Evans
+          fielders:
+          - J Edwards
+          kind: caught
+    - 14.2:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 14.3:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 14.4:
+        non_striker: AJ Turner
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 14.5:
+        non_striker: JA Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 14.6:
+        non_striker: JA Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 15.1:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Richardson
+    - 15.2:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 15.3:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 15.4:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JA Richardson
+    - 15.5:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 15.6:
+        non_striker: JA Richardson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 16.1:
+        non_striker: JA Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 16.2:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 16.3:
+        non_striker: JA Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 16.4:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 16.5:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Richardson
+    - 16.6:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+    - 17.1:
+        non_striker: JA Richardson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 17.2:
+        non_striker: JA Richardson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 17.3:
+        non_striker: JA Richardson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 17.4:
+        non_striker: JA Richardson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 17.5:
+        non_striker: JA Richardson
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 17.6:
+        non_striker: AJ Turner
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Richardson
+    - 18.1:
+        non_striker: JA Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.2:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Richardson
+    - 18.3:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 18.4:
+        non_striker: JA Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 18.5:
+        non_striker: JA Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.6:
+        non_striker: AJ Turner
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 19.1:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Richardson
+    - 19.2:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Richardson
+    - 19.3:
+        non_striker: JA Richardson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 19.4:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Richardson
+        wicket:
+          player_out: JA Richardson
+          kind: bowled
+    - 19.5:
+        non_striker: AJ Turner
+        bowler: J Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Couch
+    - 19.6:
+        non_striker: BL Couch
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+        wicket:
+          player_out: AJ Turner
+          kind: caught and bowled
+    - 19.7:
+        non_striker: BL Couch
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Payne
+        wicket:
+          player_out: DA Payne
+          fielders:
+          - JR Philippe
+          - L Shaw
+          kind: run out
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 0.2:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - JP Inglis
+          kind: stumped
+    - 0.3:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.4:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.5:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 0.6:
+        non_striker: JR Philippe
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 1.1:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 1.2:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.3:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 1.4:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 1.5:
+        non_striker: JR Philippe
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 1.6:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 2.1:
+        non_striker: JR Philippe
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 2.2:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 2.3:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.4:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.5:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 2.6:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 3.1:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 3.2:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.3:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 3.4:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.5:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.6:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - AM Hardie
+          kind: caught
+    - 4.1:
+        non_striker: L Shaw
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.2:
+        non_striker: L Shaw
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 4.3:
+        non_striker: L Shaw
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 4.4:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shaw
+    - 4.5:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shaw
+    - 4.6:
+        non_striker: SPD Smith
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 5.1:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Shaw
+    - 5.2:
+        non_striker: L Shaw
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 5.3:
+        non_striker: L Shaw
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 5.4:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 5.5:
+        non_striker: L Shaw
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 5.6:
+        non_striker: L Shaw
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 6.1:
+        non_striker: SPD Smith
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shaw
+    - 6.2:
+        non_striker: SPD Smith
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 6.3:
+        non_striker: L Shaw
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 6.4:
+        non_striker: L Shaw
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 6.5:
+        non_striker: L Shaw
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 6.6:
+        non_striker: L Shaw
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 6.7:
+        non_striker: SPD Smith
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 7.1:
+        non_striker: SPD Smith
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 7.2:
+        non_striker: L Shaw
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 7.3:
+        non_striker: L Shaw
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 7.4:
+        non_striker: L Shaw
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 7.5:
+        non_striker: SPD Smith
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shaw
+    - 7.6:
+        non_striker: L Shaw
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.1:
+        non_striker: L Shaw
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 8.2:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shaw
+    - 8.3:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Shaw
+    - 8.4:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shaw
+        wicket:
+          player_out: L Shaw
+          fielders:
+          - AJ Turner
+          kind: caught
+    - 8.5:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 8.6:
+        non_striker: SPD Smith
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 9.1:
+        non_striker: J Edwards
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 9.2:
+        non_striker: J Edwards
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 9.3:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+        wicket:
+          player_out: J Edwards
+          kind: bowled
+    - 9.4:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 9.5:
+        non_striker: JA Davies
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 9.6:
+        non_striker: SPD Smith
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 10.1:
+        non_striker: JA Davies
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 10.2:
+        non_striker: JA Davies
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 10.3:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 10.4:
+        non_striker: SPD Smith
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 10.5:
+        non_striker: JA Davies
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - DA Payne
+          kind: caught
+    - 10.6:
+        non_striker: JA Davies
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 11.1:
+        non_striker: JA Davies
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 11.2:
+        non_striker: JA Davies
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 11.3:
+        non_striker: JA Davies
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 11.4:
+        non_striker: JA Davies
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 11.5:
+        non_striker: BAD Manenti
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 11.6:
+        non_striker: JA Davies
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 12.1:
+        non_striker: JA Davies
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 12.2:
+        non_striker: JA Davies
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          kind: bowled
+    - 12.3:
+        non_striker: JA Davies
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 12.4:
+        non_striker: BJ Dwarshuis
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 12.5:
+        non_striker: JA Davies
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 12.6:
+        non_striker: JA Davies
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 13.1:
+        non_striker: JA Davies
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 13.2:
+        non_striker: JA Davies
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 13.3:
+        non_striker: JA Davies
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 13.4:
+        non_striker: BJ Dwarshuis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+        wicket:
+          player_out: JA Davies
+          kind: bowled
+    - 13.5:
+        non_striker: BJ Dwarshuis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+        wicket:
+          player_out: SA Abbott
+          fielders:
+          - JP Inglis
+          - LJ Evans
+          kind: run out
+    - 13.6:
+        non_striker: BJ Dwarshuis
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Starc
+    - 14.1:
+        non_striker: MA Starc
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 14.2:
+        non_striker: MA Starc
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Dwarshuis
+    - 14.3:
+        non_striker: MA Starc
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 14.4:
+        non_striker: MA Starc
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 14.5:
+        non_striker: BJ Dwarshuis
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 14.6:
+        non_striker: MA Starc
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+        wicket:
+          player_out: BJ Dwarshuis
+          fielders:
+          - JP Inglis
+          kind: caught
